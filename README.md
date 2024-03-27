@@ -10,37 +10,31 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
     <td align="center">
-      <a href="https://github.com/Augcamp">
         <img style="border-radius: 50%;" src="https://github.com/Augcamp.png" width="150px;"/>
         <h5 class="text-center">Augusto Campos</h5>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/freitasc">
         <img style="border-radius: 50%;" src="https://github.com/freitasc.png" width="150px;"/>
         <h5 class="text-center">Cainã Valença</h5>
       </a>
     </td>
     <td align="center">
-      <a href="hhttps://github.com/joycejdm">
         <img style="border-radius: 50%;" src="https://github.com/joycejdm.png" width="150px;"/>
         <h5 class="text-center">Joyce Dionizio</h5>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Akaeboshi">
         <img style="border-radius: 50%;" src="https://github.com/Akaeboshi.png" width="150px;"/>
         <h5 class="text-center">Lucas Heler</h5>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Katuner">
         <img style="border-radius: 50%;" src="https://github.com/Katuner.png" width="150px;"/>
         <h5 class="text-center">Lucas Meireles</h5>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/lucasdray">
         <img style="border-radius: 50%;" src="https://github.com/lucasdray.png" width="150px;"/>
         <h5 class="text-center">Pedro Lucas Dourado</h5>
       </a>
