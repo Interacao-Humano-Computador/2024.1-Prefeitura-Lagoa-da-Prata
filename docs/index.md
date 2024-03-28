@@ -1,5 +1,5 @@
 # Introdução
-Este repositorio é dedicado à documentação de todos os artefatos gerados pelo Grupo 01 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB) 2024.1. O propósito do projeto é realizar uma avaliação de IHC do site (Site ainda será escolhido) e, aplicando os o aprendizado adquirido em sala de aula, propor melhorias em sua interface. 
+Este repositorio é dedicado à documentação de todos os artefatos gerados pelo Grupo 05 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB) 2024.1. O propósito do projeto é realizar uma avaliação de IHC do site (Site ainda será escolhido) e, aplicando os o aprendizado adquirido em sala de aula, propor melhorias em sua interface. 
 
 # Integrantes da equipe
 Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
