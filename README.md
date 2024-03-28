@@ -16,7 +16,7 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
       </a>
     </td>
     <td align="center">
-        <a href="https://github.com/lfreitasc">
+        <a href="https://github.com/freitasc">
         <img style="border-radius: 50%;" src="https://github.com/freitasc.png" width="150px;"/>
         <h5 class="text-center">Cainã Valença</h5>
       </a>
