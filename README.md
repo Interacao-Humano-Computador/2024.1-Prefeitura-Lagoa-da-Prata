@@ -56,4 +56,4 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 ## Histórico de Versões
 |   Data     | Versão | Descrição                   |    Autor(es)     |  Data de revisão | Revisor(es) |
 | :--------: | :----: | :-------------------------: | :--------------: | :--------------: | :---------: |
-| 27/03/2024 | `1.0`  | Versão inicial de documento | [Pedro Lucas Dourado](https://github.com/lucasdray) | 13/04/2023 | [Augusto Campos](https://github.com/Augcamp) |
+| 27/03/2024 | `1.0`  | Versão inicial de documento | [Pedro Lucas Dourado](https://github.com/lucasdray) | 27/03/2024 | [Augusto Campos](https://github.com/Augcamp) |
