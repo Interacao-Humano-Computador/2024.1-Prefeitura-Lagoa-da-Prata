@@ -2,11 +2,11 @@
 
 <center>Imagem 1: Logo</center>
 <div style="text-align:center;">
-    <img src="docs/assets/images/favicon.png" alt="Logo Prefeitura" style="border-radius: 50%; width: 300px; height: auto ;">
+  <img src="docs/assets/images/favicon.png" alt="Logo Prefeitura" style="display:block; margin:auto; border-radius: 50%; width: 300px; height: auto;">
+  <p style="text-align:center;">Fonte: Prefeitura Lagoa da Prata. <br>
+  Disponível em: https://www.lagoadaprata.mg.gov.br/ . Acesso em 04 abr. 2024.</p>
 </div>
 
-<center>Fonte: Prefeitura Lagoa da Prata. </center>
-<center>Disponível em: https://www.lagoadaprata.mg.gov.br/ . Acesso em 04 abr. 2024.</center>
 
 ## Introdução
 Este repositorio é dedicado à documentação de todos os artefatos gerados pelo Grupo 05 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB) 2024.1. O propósito do projeto é realizar uma avaliação de IHC do site da [Prefeitura Lagoa da Prata](https://www.lagoadaprata.mg.gov.br/) e, aplicando os o aprendizado adquirido em sala de aula, propor melhorias em sua interface. 
