@@ -1,7 +1,7 @@
 repo_url: https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata
 repo_name: Prefeitura Lagoa da Prata
 site_name: Prefeitura de Lagoa da Prata
-favicon: assets/img/favicon.png
+
 
 markdown_extensions:
   - md_in_html
