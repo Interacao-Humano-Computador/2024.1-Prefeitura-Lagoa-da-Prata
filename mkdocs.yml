@@ -1,4 +1,16 @@
-site_name: Grupo 5
+repo_url: https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata
+repo_name: Prefeitura Lagoa da Prata
+site_name: Prefeitura de Lagoa da Prata
+
+markdown_extensions:
+  - md_in_html
+
+nav:
+  - Início: index.md
+  - Planejamento:
+    - Cronograma Planejado: planejamento/cronograma_planejado.md
+    - Cronograma Executado: planejamento/cronograma_executado.md
+
 theme:
   name: material
   features:
