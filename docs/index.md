@@ -14,7 +14,7 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
       </a>
     </td>
     <td align="center">
-        <a href="https://github.com/lfreitasc">
+        <a href="https://github.com/freitasc">
         <img style="border-radius: 50%;" src="https://github.com/freitasc.png" width="150px;"/>
         <h5 class="text-center">Cainã Valença</h5>
       </a>
@@ -48,10 +48,11 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 </center>
 
 <div style="text-align: left">
-<p> Tabela 1: Equipe de trabalho (Fonte: autor, 2024).</p>
+<p> Tabela 1: Equipe de trabalho (Fonte: DOURADO, Pedro Lucas. 2024).</p>
 </div>
 
 ## Histórico de Versões
-|   Data     | Versão | Descrição                   |    Autor(es)     |  Data de revisão | Revisor(es) |
-| :--------: | :----: | :-------------------------: | :--------------: | :--------------: | :---------: |
-| 27/03/2024 | `1.0`  | Versão inicial de documento | [Pedro Lucas Dourado](https://github.com/lucasdray) | 27/03/2024 | [Augusto Campos](https://github.com/Augcamp) |
+|    Data    | Versão |            Descrição             |                      Autor(es)                      | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :------------------------------: | :-------------------------------------------------: | :-------------: | :------------------------------------------: |
+| 27/03/2024 | `1.0`  |   Versão inicial de documento    | [Pedro Lucas Dourado](https://github.com/lucasdray) |   27/03/2024    | [Augusto Campos](https://github.com/Augcamp) |
+| 04/04/2024 | `1.1`  | Correção Fonte e link Integrante | [Pedro Lucas Dourado](https://github.com/lucasdray) |                 |                                              |
