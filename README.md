@@ -1,9 +1,17 @@
-# Grupo 5
+# <center>  Prefeitura Lagoa da Prata - Grupo 5 </center>
 
-# Introdução
-Este repositorio é dedicado à documentação de todos os artefatos gerados pelo Grupo 01 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB) 2024.1. O propósito do projeto é realizar uma avaliação de IHC do site (Site ainda será escolhido) e, aplicando os o aprendizado adquirido em sala de aula, propor melhorias em sua interface. 
+<center>Imagem 1: Logo</center>
+<div style="text-align:center;">
+    <img src="docs/assets/images/favicon.png" alt="Logo Prefeitura" style="border-radius: 50%; width: 300px; height: auto ;">
+</div>
 
-# Integrantes da equipe
+<center>Fonte: Prefeitura Lagoa da Prata. </center>
+<center>Disponível em: https://www.lagoadaprata.mg.gov.br/ . Acesso em 04 abr. 2024.</center>
+
+## Introdução
+Este repositorio é dedicado à documentação de todos os artefatos gerados pelo Grupo 05 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB) 2024.1. O propósito do projeto é realizar uma avaliação de IHC do site da [Prefeitura Lagoa da Prata](https://www.lagoadaprata.mg.gov.br/) e, aplicando os o aprendizado adquirido em sala de aula, propor melhorias em sua interface. 
+
+## Integrantes da equipe
 Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
 
 <center>
@@ -47,13 +55,14 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
     </td>
 </table>
 
-</center>
+
 
 <div style="text-align: left">
-<p> Tabela 1: Equipe de trabalho (Fonte: autor, 2024).</p>
+<p> Tabela 1: Equipe de trabalho (Fonte: DOURADO, Pedro Lucas. 2024).</p>
 </div>
 
 ## Histórico de Versões
-|   Data     | Versão | Descrição                   |    Autor(es)     |  Data de revisão | Revisor(es) |
-| :--------: | :----: | :-------------------------: | :--------------: | :--------------: | :---------: |
-| 27/03/2024 | `1.0`  | Versão inicial de documento | [Pedro Lucas Dourado](https://github.com/lucasdray) | 27/03/2024 | [Augusto Campos](https://github.com/Augcamp) |
+|    Data    | Versão |          Descrição          |                      Autor(es)                      | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :-------------------------: | :-------------------------------------------------: | :-------------: | :------------------------------------------: |
+| 27/03/2024 | `1.0`  | Versão inicial de documento | [Pedro Lucas Dourado](https://github.com/lucasdray) |   27/03/2024    | [Augusto Campos](https://github.com/Augcamp) |
+| 04/04/2024 | `1.1`  |      Adição icone site      | [Pedro Lucas Dourado](https://github.com/lucasdray) |                 |                                              |
