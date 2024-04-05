@@ -65,19 +65,16 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 
 ## Cronograma Ponto de Controle 5
 
-| <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
-| ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
-| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
-| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
-| Sites Avaliados                            |                                             |                              |                           |                            |
-| Criação do Git Pages                       |                                             |                              |                           |                            |
-| Seleção do site                            |                                             |                              |                           |                            |
-| Ferramentas do projeto                     |                                             |                              |                           |                            |
-| Processos de Design                        |                                             |                              |                           |                            |
-| Atualização Git Pages                      |                                             |                              |                           |                            |
-| Gravação da apresentação                   |                                             |                              |                           |                            |
-| Edição da Gravação                         |                                             |                              |                           |                            |
-| Cronograma Executado                       |                                             |                              |            
+| <center>Atividade </center>                                              | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
+| ------------------------------------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
+| Correção dos artefatos Ponto de Controle 4                               |                09/05 - 10/05                |         Pedro Lucas          |           10/05           |       Lucas Meireles       |
+| Relato dos resultados do Story Board e da Análise de tarefas,            |                11/05 - 14/05                |      Pedro Lucas, Joyce      |           14/05           |        Lucas Heler         |
+| Planejamento da Avaliação do Protótipo de Papel                          |                11/05 - 14/05                | Lucas Heler, Lucas Meireles  |           14/05           |           Cainã            |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel |                14/05 - 15/05                |        Augusto, Cainã        |           15/05           |           Joyce            |
+| Atualização Gitpages                                                     |                15/05 - 18/05                |         Pedro Lucas          |           18/05           |       Lucas Meireles       |
+| Gravação da apresentação                                                 |                18/05 - 19/05                |         Lucas Heler          |           19/05           |        Pedro Lucas         |
+| Edição da gravação                                                       |                18/05 - 19/05                |            Joyce             |           19/05           |        Lucas Heler         |
+| Cronograma Executado                                                     |                    18/05                    |         Pedro Lucas          |           06/04           |           Cainã            |
 
 ## Cronograma Ponto de Controle 6.1
 
