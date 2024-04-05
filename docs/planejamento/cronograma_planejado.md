@@ -122,19 +122,13 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 
 ## Cronograma Ponto de Controle 8
 
-| <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
-| ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
-| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
-| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
-| Sites Avaliados                            |                                             |                              |                           |                            |
-| Criação do Git Pages                       |                                             |                              |                           |                            |
-| Seleção do site                            |                                             |                              |                           |                            |
-| Ferramentas do projeto                     |                                             |                              |                           |                            |
-| Processos de Design                        |                                             |                              |                           |                            |
-| Atualização Git Pages                      |                                             |                              |                           |                            |
-| Gravação da apresentação                   |                                             |                              |                           |                            |
-| Edição da Gravação                         |                                             |                              |                           |                            |
-| Cronograma Executado                       |                                             |                              |            
+| <center>Atividade </center>                  | <center>Período de desenvolvimento</center> |                  <center>Responsável</center>                   | <center>Revisão </center> | <center>Revisores</center>  |
+| -------------------------------------------- | :-----------------------------------------: | :-------------------------------------------------------------: | :-----------------------: | :-------------------------: |
+| Correção dos artefatos Ponto de Controle 6.2 |                13/06 - 14/06                | Augusto, Cainã, Lucas Heler, Lucas Meireles, Joyce, Pedro Lucas |           14/06           |       Augusto, Cainã        |
+| Relato do Protótipo de alta fidelidade       |                13/06 - 14/06                | Augusto, Cainã, Lucas Heler, Lucas Meireles, Joyce, Pedro Lucas |           14/06           | Lucas Heler, Lucas Meireles |
+| Atualização Git Pages                        |                14/06 - 15/06                |                           Pedro Lucas                           |           15/06           |     Pedro Lucas, Cainã      |
+| Gravação da Apresentação                     |                15/05 - 16/06                |                           Lucas Heler                           |           16/06           |            Joyce            |
+| Edição da Apresentação                       |                15/05 - 16/06                |                              Joyce                              |           16/06           |           Augusto           |
 
 ## Historico de revisão
 
