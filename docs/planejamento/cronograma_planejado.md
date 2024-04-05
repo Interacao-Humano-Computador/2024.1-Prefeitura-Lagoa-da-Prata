@@ -22,6 +22,117 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Edição da Gravação                         |                06/04 - 07/04                |                        [Joyce](https://github.com/joycejdm)                         |       06/04 - 07/04       | [Lucas Meireles](https://github.com/Katuner) |
 | Cronograma Executado                       |                    06/04                    |                     [Pedro Lucas](https://github.com/lucasdray)                     |           06/04           | [Lucas Meireles](https://github.com/Katuner) |
 
+## Cronograma Ponto de Controle 2
+
+| <center>Atividade </center>                     | <center>Período de desenvolvimento</center> |                                <center>Responsável</center>                                | <center>Revisão </center> |          <center>Revisores</center>          |
+| ----------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
+| Correção dos artefatos Ponto de Controle 1      |                09/04 - 10/04                |                        [Pedro Lucas](https://github.com/lucasdray)                         |           10/04           | [Lucas Meireles](https://github.com/Katuner) |
+| Criação do perfil do Usuário                    |                11/04 - 17/04                |     [Joyce](https://github.com/joycejdm) e [Pedro Lucas](https://github.com/lucasdray)     |           17/04           | [Lucas Heler](https://github.com/Akaeboshi)  |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas |                11/04 - 17/04                | [Lucas Meireles](https://github.com/Katuner) e [Lucas Heler](https://github.com/Akaeboshi) |           17/04           |     [Cainã](https://github.com/freitasc)     |
+| Análise de Tarefas                              |                11/04 - 17/04                |        [Augusto](https://github.com/Augcamp) e [Cainã](https://github.com/freitasc)        |           17/04           |     [Joyce](https://github.com/joycejdm)     |
+| Atualização Gitpages                            |                18/04 - 20/04                |                        [Pedro Lucas](https://github.com/lucasdray)                         |           20/04           |    [Augusto](https://github.com/Augcamp)     |
+| Gravação da apresentação                        |                20/04 - 21/04                |                        [Lucas Heler](https://github.com/Akaeboshi)                         |           21/04           | [Pedro Lucas](https://github.com/lucasdray)  |
+| Edição da gravação                              |                20/04 - 21/04                |                            [Joyce](https://github.com/joycejdm)                            |           21/04           |    [Augusto](https://github.com/Augcamp)     |
+| Cronograma Executado                            |                    20/04                    |                        [Pedro Lucas](https://github.com/lucasdray)                         |           20/04           | [Lucas Heler](https://github.com/Akaeboshi)  |
+
+
+
+## Cronograma Ponto de Controle 4
+
+| <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
+| ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
+| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
+| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
+| Sites Avaliados                            |                                             |                              |                           |                            |
+| Criação do Git Pages                       |                                             |                              |                           |                            |
+| Seleção do site                            |                                             |                              |                           |                            |
+| Ferramentas do projeto                     |                                             |                              |                           |                            |
+| Processos de Design                        |                                             |                              |                           |                            |
+| Atualização Git Pages                      |                                             |                              |                           |                            |
+| Gravação da apresentação                   |                                             |                              |                           |                            |
+| Edição da Gravação                         |                                             |                              |                           |                            |
+| Cronograma Executado                       |                                             |                              |            
+
+## Cronograma Ponto de Controle 5
+
+| <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
+| ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
+| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
+| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
+| Sites Avaliados                            |                                             |                              |                           |                            |
+| Criação do Git Pages                       |                                             |                              |                           |                            |
+| Seleção do site                            |                                             |                              |                           |                            |
+| Ferramentas do projeto                     |                                             |                              |                           |                            |
+| Processos de Design                        |                                             |                              |                           |                            |
+| Atualização Git Pages                      |                                             |                              |                           |                            |
+| Gravação da apresentação                   |                                             |                              |                           |                            |
+| Edição da Gravação                         |                                             |                              |                           |                            |
+| Cronograma Executado                       |                                             |                              |            
+
+## Cronograma Ponto de Controle 6.1
+
+| <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
+| ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
+| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
+| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
+| Sites Avaliados                            |                                             |                              |                           |                            |
+| Criação do Git Pages                       |                                             |                              |                           |                            |
+| Seleção do site                            |                                             |                              |                           |                            |
+| Ferramentas do projeto                     |                                             |                              |                           |                            |
+| Processos de Design                        |                                             |                              |                           |                            |
+| Atualização Git Pages                      |                                             |                              |                           |                            |
+| Gravação da apresentação                   |                                             |                              |                           |                            |
+| Edição da Gravação                         |                                             |                              |                           |                            |
+| Cronograma Executado                       |                                             |                              |            
+
+## Cronograma Ponto de Controle 7
+
+| <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
+| ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
+| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
+| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
+| Sites Avaliados                            |                                             |                              |                           |                            |
+| Criação do Git Pages                       |                                             |                              |                           |                            |
+| Seleção do site                            |                                             |                              |                           |                            |
+| Ferramentas do projeto                     |                                             |                              |                           |                            |
+| Processos de Design                        |                                             |                              |                           |                            |
+| Atualização Git Pages                      |                                             |                              |                           |                            |
+| Gravação da apresentação                   |                                             |                              |                           |                            |
+| Edição da Gravação                         |                                             |                              |                           |                            |
+| Cronograma Executado                       |                                             |                              |            
+
+## Cronograma Ponto de Controle 6.2
+
+| <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
+| ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
+| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
+| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
+| Sites Avaliados                            |                                             |                              |                           |                            |
+| Criação do Git Pages                       |                                             |                              |                           |                            |
+| Seleção do site                            |                                             |                              |                           |                            |
+| Ferramentas do projeto                     |                                             |                              |                           |                            |
+| Processos de Design                        |                                             |                              |                           |                            |
+| Atualização Git Pages                      |                                             |                              |                           |                            |
+| Gravação da apresentação                   |                                             |                              |                           |                            |
+| Edição da Gravação                         |                                             |                              |                           |                            |
+| Cronograma Executado                       |                                             |                              |            
+
+## Cronograma Ponto de Controle 8
+
+| <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
+| ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
+| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
+| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
+| Sites Avaliados                            |                                             |                              |                           |                            |
+| Criação do Git Pages                       |                                             |                              |                           |                            |
+| Seleção do site                            |                                             |                              |                           |                            |
+| Ferramentas do projeto                     |                                             |                              |                           |                            |
+| Processos de Design                        |                                             |                              |                           |                            |
+| Atualização Git Pages                      |                                             |                              |                           |                            |
+| Gravação da apresentação                   |                                             |                              |                           |                            |
+| Edição da Gravação                         |                                             |                              |                           |                            |
+| Cronograma Executado                       |                                             |                              |            
+
 ## Historico de revisão
 
 |    Data    | Versão |      Descrição       |                      Autor(es)                      | Data de revisão | Revisor(es) |
