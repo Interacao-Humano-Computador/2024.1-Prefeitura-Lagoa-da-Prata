@@ -40,7 +40,8 @@ Um processo de design se caracteriza, de forma simplificada, em um guia para o i
 
 ## Historico de revisão
 
-|    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
-| :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
-| 05/04/2024 | `1.0`  | Criação do documento | [Lucas Meireles](https://github.com/Katuner) |      05/04      | [Pedro Lucas](https://github.com/lucasdray) |
+|    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão | Revisor(es) |
+| :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :---------: |
+| 05/04/2024 | `1.0`  | Criação do documento | [Lucas Meireles](https://github.com/Katuner) |                 |             |
+|            |        |                      |                                              |                 |             |
 
