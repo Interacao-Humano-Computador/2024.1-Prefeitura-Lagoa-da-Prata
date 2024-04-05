@@ -36,22 +36,20 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Cronograma Executado                            |                    20/04                    |                        [Pedro Lucas](https://github.com/lucasdray)                         |           20/04           | [Lucas Heler](https://github.com/Akaeboshi)  |
 
 
+## Cronograma Ponto de Controle 3
 
-## Cronograma Ponto de Controle 4
+| <center>Atividade </center>                  | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
+| -------------------------------------------- | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
+| Correção dos artefatos Ponto de Controle 2   |                23/04 - 24/04                |         Pedro Lucas          |           24/04           |          Augusto           |
+| Princípios Gerais de Projeto                 |                24/04 - 26/04                |     Joyce e Pedro Lucas      |           24/04           |       Lucas Meireles       |
+| Metas de usabilidade                         |                23/04 - 24/04                | Lucas Meireles e Lucas Heler |           24/04           |           Cainã            |
+| Guia de Estilo                               |                23/04 - 24/04                |       Augusto e Cainã        |           24/04           |           Joyce            |
+| Características da plataforma para o projeto |                23/04 - 24/04                |       Augusto e Cainã        |           24/04           |        Pedro Lucas         |
+| Atualização Gitpages                         |                23/04 - 27/04                |         Pedro Lucas          |           27/04           |        Lucas Heler         |
+| Gravação da apresentação                     |                27/04 - 28/04                |         Lucas Heler          |           28/04           |          Augusto           |
+| Edição da gravação                           |                27/04 - 28/04                |            Joyce             |           28/04           |       Lucas Meireles       |
+| Cronograma Executado                         |                    27/04                    |         Pedro Lucas          |           06/04           |           Joyce            |
 
-| <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
-| ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
-| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
-| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
-| Sites Avaliados                            |                                             |                              |                           |                            |
-| Criação do Git Pages                       |                                             |                              |                           |                            |
-| Seleção do site                            |                                             |                              |                           |                            |
-| Ferramentas do projeto                     |                                             |                              |                           |                            |
-| Processos de Design                        |                                             |                              |                           |                            |
-| Atualização Git Pages                      |                                             |                              |                           |                            |
-| Gravação da apresentação                   |                                             |                              |                           |                            |
-| Edição da Gravação                         |                                             |                              |                           |                            |
-| Cronograma Executado                       |                                             |                              |            
 
 ## Cronograma Ponto de Controle 5
 
