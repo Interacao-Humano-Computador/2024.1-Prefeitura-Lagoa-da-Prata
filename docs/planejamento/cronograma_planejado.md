@@ -104,19 +104,21 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 
 ## Cronograma Ponto de Controle 6.2
 
-| <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
-| ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
-| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
-| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
-| Sites Avaliados                            |                                             |                              |                           |                            |
-| Criação do Git Pages                       |                                             |                              |                           |                            |
-| Seleção do site                            |                                             |                              |                           |                            |
-| Ferramentas do projeto                     |                                             |                              |                           |                            |
-| Processos de Design                        |                                             |                              |                           |                            |
-| Atualização Git Pages                      |                                             |                              |                           |                            |
-| Gravação da apresentação                   |                                             |                              |                           |                            |
-| Edição da Gravação                         |                                             |                              |                           |                            |
-| Cronograma Executado                       |                                             |                              |            
+| <center>Atividade </center>                    | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
+| ---------------------------------------------- | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
+| Correção dos artefatos Ponto de Controle 7     |                06/06 - 07/06                |         Pedro Lucas          |           07/06           |       Lucas Meireles       |
+| Relatar a verificação dos artefatos da Etapa 1 |                07/06 - 08/06                |         Pedro Lucas          |           08/06           |           Cainã            |
+| Relatar a verificação dos artefatos da Etapa 2 |                07/06 - 08/06                |           Augusto            |           08/06           |           Cainã            |
+| Relatar a verificação dos artefatos da Etapa 3 |                07/06 - 08/06                |           Augusto            |           08/06           |        Pedro Lucas         |
+| Relatar a verificação dos artefatos da Etapa 4 |                07/06 - 08/06                |            Caina             |           08/06           |           Joyce            |
+| Relatar a verificação dos artefatos da Etapa 5 |                07/06 - 08/06                |        Lucas Meireles        |           08/06           |        Lucas Heler         |
+| Relatar a verificação dos artefatos da Etapa 6 |                07/06 - 08/06                |         Lucas Heler          |           08/06           |       Lucas Meireles       |
+| Relatar a verificação dos artefatos da Etapa 7 |                07/06 - 08/06                |            Joyce             |           08/06           |          Augusto           |
+| Atualizar Git Pages                            |                07/06 - 08/06                |         Pedro Lucas          |           08/06           |           Cainã            |
+| Gravação Apresentação                          |                08/06 - 09/06                |         Lucas Heler          |           09/06           |          Augusto           |
+| Edição Apresentação                            |                08/06 - 09/06                |            Joyce             |           09/06           |       Lucas Meireles       |
+| Cronograma Executado                           |                08/06 - 09/06                |         Pedro Lucas          |           09/06           |           Joyce            |
+
 
 ## Cronograma Ponto de Controle 8
 
