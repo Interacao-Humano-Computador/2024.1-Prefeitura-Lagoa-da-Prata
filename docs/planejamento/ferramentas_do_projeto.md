@@ -20,21 +20,21 @@ Aqui estarão listadas as ferramentas a serem utilizadas pelo grupo, não necess
 
 ## Referências
 
-> [1] GITHUB. Disponivel em: [https://github.com/](https://github.com/) Acesso em: 05 de Abril de 2024. 
+> [1] GITHUB. Disponivel em: https://github.com/ Acesso em: 05 de Abril de 2024. 
 
-> [2] WHATSAPP. Disponivel em: [https://whatsapp.com/](https://whatsapp.com/) Acesso em: 05 de Abril de 2024. 
+> [2] WHATSAPP. Disponivel em: https://whatsapp.com/ Acesso em: 05 de Abril de 2024. 
 
-> [3] YOUTUBE. Disponivel em: [https://youtube.com/](https://youtube.com/) Acesso em: 05 de Abril de 2024.
+> [3] YOUTUBE. Disponivel em: https://youtube.com/ Acesso em: 05 de Abril de 2024.
 
-> [4] VISUAL STUDIO CODE. Disponivel em: [https://code.visualstudio.com](https://code.visualstudio.com) Acesso em: 05 de Abril de 2024.
+> [4] VISUAL STUDIO CODE. Disponivel em: https://code.visualstudio.com Acesso em: 05 de Abril de 2024.
 
-> [5] FIGMA. Disponivel em: [https://www.figma.com](https://www.figma.com) Acesso em: 05 de Abril de 2024.
+> [5] FIGMA. Disponivel em: https://www.figma.com Acesso em: 05 de Abril de 2024.
 
-> [6] MICROSOFT TEAMS. Disponivel em: [https://www.microsoft.com/pt-br/microsoft-teams/](https://www.microsoft.com/pt-br/microsoft-teams/) Acesso em: 05 de Abril de 2024.
+> [6] MICROSOFT TEAMS. Disponivel em: https://www.microsoft.com/pt-br/microsoft-teams/ Acesso em: 05 de Abril de 2024.
 
-> [7] CANVA. Disponivel em: [https://www.canva.com/](https://www.canva.com/) Acesso em: 05 de Abril de 2024.
+> [7] CANVA. Disponivel em: https://www.canva.com/ Acesso em: 05 de Abril de 2024.
 
-> [8] Google Sheets. Disponivel em: [https://www.google.com/sheets/about/](https://www.google.com/sheets/about/) Acesso em: 05 de Abril de 2024.
+> [8] Google Sheets. Disponivel em: https://www.google.com/sheets/about/ Acesso em: 05 de Abril de 2024.
 
 
 ## Histórico de Revisão

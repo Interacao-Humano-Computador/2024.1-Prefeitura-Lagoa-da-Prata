@@ -149,6 +149,10 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 
 <center><b>Tabela 09:</b> Ponto de Controle 8 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
 
+ ## Bibliografia
+> [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf. Acesso em: 04 de Abril de 2024;
+
+
 ## Historico de revisão
 
 |    Data    | Versão |      Descrição       |                      Autor(es)                      | Data de revisão | Revisor(es) |

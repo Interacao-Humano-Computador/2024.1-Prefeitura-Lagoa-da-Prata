@@ -7,6 +7,7 @@ markdown_extensions:
   - md_in_html
   - pymdownx.extra
   - attr_list
+  - pymdownx.magiclink
 
 plugins:
   - search
@@ -20,6 +21,7 @@ nav:
     - Processos de Design: planejamento/processos_de_design.md
     - Ferramentas do Projeto: planejamento/ferramentas_do_projeto.md
     - Sites Avaliados: planejamento/sites_avaliados.md
+  - Reuniões: reunioes/
 theme:
   name: material
   features:
