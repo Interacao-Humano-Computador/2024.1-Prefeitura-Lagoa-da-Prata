@@ -50,6 +50,18 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Edição da gravação                           |                27/04 - 28/04                |            Joyce             |           28/04           |       Lucas Meireles       |
 | Cronograma Executado                         |                    27/04                    |         Pedro Lucas          |           06/04           |           Joyce            |
 
+## Cronograma Ponto de Controle 4
+
+| <center>Atividade </center>                                             | <center>Período de desenvolvimento</center> |         <center>Responsável</center>         | <center>Revisão </center> | <center>Revisores</center> |
+| ----------------------------------------------------------------------- | :-----------------------------------------: | :------------------------------------------: | :-----------------------: | :------------------------: |
+| Correção dos artefatos Ponto de Controle 3                              |                30/04 - 01/05                |                 Pedro Lucas                  |           01/05           |           Cainã            |
+| Planejamento da Avaliação do Storyboard e Análise de tarefas            |                30/04 - 02/05                | Augusto, Cainã, Lucas Meireles, Lucas Heler, |           02/05           |           Joyce            |
+| Planejamento do relato dos resultados da avaliação do Storyboard        |                02/05 - 03/05                |                    Joyce                     |           03/05           |        Pedro Lucas         |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefa |                02/05 - 03/05                |                 Pedro Lucas                  |           03/05           |        Lucas Heler         |
+| Atualização Gitpages                                                    |                03/05 - 04/05                |                 Pedro Lucas                  |           04/05           |           Cainã            |
+| Gravação da apresentação                                                |                04/05 - 05/05                |                 Lucas Heler                  |           05/05           |          Augusto           |
+| Edição da gravação                                                      |                04/05 - 05/05                |                    Joyce                     |           05/05           |       Lucas Meireles       |
+| Cronograma Executado                                                    |                    04/04                    |                 Pedro Lucas                  |           06/04           |          Augusto           |
 
 ## Cronograma Ponto de Controle 5
 
