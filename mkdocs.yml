@@ -39,12 +39,13 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Trocar pro modo escuro
       primary: teal
-      accent: purple
+      accent: teal
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Trocar pro modo claro
       primary: teal
-      accent: lime
+      accent: teal
+
     
 
