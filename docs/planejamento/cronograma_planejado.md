@@ -22,6 +22,9 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Edição da Gravação                         |                06/04 - 07/04                |                        [Joyce](https://github.com/joycejdm)                        |       06/04 - 07/04       | [Lucas Meireles](https://github.com/Katuner) |
 | Cronograma Executado                       |                    06/04                    |                    [Pedro Lucas](https://github.com/lucasdray)                     |           06/04           | [Lucas Meireles](https://github.com/Katuner) |
 
+<center><b>Tabela 01:</b> Ponto de Controle 1 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
+
+
 ## Cronograma Ponto de Controle 2
 
 | <center>Atividade </center>                     | <center>Período de desenvolvimento</center> |                                <center>Responsável</center>                                | <center>Revisão </center> |          <center>Revisores</center>          |
@@ -35,6 +38,7 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Edição da gravação                              |                20/04 - 21/04                |                            [Joyce](https://github.com/joycejdm)                            |           21/04           |    [Augusto](https://github.com/Augcamp)     |
 | Cronograma Executado                            |                    20/04                    |                        [Pedro Lucas](https://github.com/lucasdray)                         |           20/04           | [Lucas Heler](https://github.com/Akaeboshi)  |
 
+<center><b>Tabela 02:</b> Ponto de Controle 2 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
 
 ## Cronograma Ponto de Controle 3
 
@@ -50,6 +54,8 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Edição da gravação                           |                27/04 - 28/04                |                            [Joyce](https://github.com/joycejdm)                            |           28/04           | [Lucas Meireles](https://github.com/Katuner) |
 | Cronograma Executado                         |                    27/04                    |                        [Pedro Lucas](https://github.com/lucasdray)                         |           06/04           |     [Joyce](https://github.com/joycejdm)     |
 
+<center><b>Tabela 03:</b> Ponto de Controle 3 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
+
 ## Cronograma Ponto de Controle 4
 
 | <center>Atividade </center>                                             | <center>Período de desenvolvimento</center> |                                                                      <center>Responsável</center>                                                                       | <center>Revisão </center> |          <center>Revisores</center>          |
@@ -62,6 +68,8 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Gravação da apresentação                                                |                04/05 - 05/05                |                                                               [Lucas Heler](https://github.com/Akaeboshi)                                                               |           05/05           |    [Augusto](https://github.com/Augcamp)     |
 | Edição da gravação                                                      |                04/05 - 05/05                |                                                                  [Joyce](https://github.com/joycejdm)                                                                   |           05/05           | [Lucas Meireles](https://github.com/Katuner) |
 | Cronograma Executado                                                    |                    04/04                    |                                                               [Pedro Lucas](https://github.com/lucasdray)                                                               |           06/04           |    [Augusto](https://github.com/Augcamp)     |
+
+<center><b>Tabela 04:</b> Ponto de Controle 4 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
 
 ## Cronograma Ponto de Controle 5
 
@@ -76,6 +84,8 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Edição da gravação                                                       |                18/05 - 19/05                |                           [Joyce](https://github.com/joycejdm)                            |           19/05           | [Lucas Heler](https://github.com/Akaeboshi)  |
 | Cronograma Executado                                                     |                    18/05                    |                        [Pedro Lucas](https://github.com/lucasdray)                        |           06/04           |     [Cainã](https://github.com/freitasc)     |
 
+<center><b>Tabela 05:</b> Ponto de Controle 5 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
+
 ## Cronograma Ponto de Controle 6.1
 
 | <center>Atividade </center>                | <center>Período de desenvolvimento</center> |                                <center>Responsável</center>                                | <center>Revisão </center> |          <center>Revisores</center>          |
@@ -89,6 +99,8 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Atualizar GitPages                         |                24/05 - 25/05                |                        [Pedro Lucas](https://github.com/lucasdray)                         |           25/05           |     [Joyce](https://github.com/joycejdm)     |
 | Gravação da apresentação                   |                    25/05                    |                        [Lucas Heler](https://github.com/Akaeboshi)                         |           25/05           |     [Cainã](https://github.com/freitasc)     |
 
+<center><b>Tabela 06:</b> Ponto de Controle 6.1 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
+
 ## Cronograma Ponto de Controle 7
 
 | <center>Atividade </center>                                                        | <center>Período de desenvolvimento</center> |                               <center>Responsável</center>                                | <center>Revisão </center> |          <center>Revisores</center>          |
@@ -101,6 +113,8 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Período de gravação da apresentação                                                |                01/06 - 02/06                |                        [Lucas Heler](https://github.com/Akaeboshi)                        |           02/06           | [Pedro Lucas](https://github.com/lucasdray)  |
 | Edição da apresentação                                                             |                01/06 - 02/06                |                           [Joyce](https://github.com/joycejdm)                            |           02/06           |    [Augusto](https://github.com/Augcamp)     |
 | Cronograma Executado                                                               |                01/06 - 02/06                |                        [Pedro Lucas](https://github.com/lucasdray)                        |           02/06           | [Lucas Meireles](https://github.com/Katuner) |
+
+<center><b>Tabela 07:</b> Ponto de Controle 7 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
 
 ## Cronograma Ponto de Controle 6.2
 
@@ -119,6 +133,8 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Edição Apresentação                            |                08/06 - 09/06                |     [Joyce](https://github.com/joycejdm)     |           09/06           | [Lucas Meireles](https://github.com/Katuner) |
 | Cronograma Executado                           |                08/06 - 09/06                | [Pedro Lucas](https://github.com/lucasdray)  |           09/06           |     [Joyce](https://github.com/joycejdm)     |
 
+<center><b>Tabela 08:</b> Ponto de Controle 6.2 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
+
 
 ## Cronograma Ponto de Controle 8
 
@@ -130,6 +146,8 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 | Gravação da Apresentação                     |                15/05 - 16/06                |                                                                                                        [Lucas Heler](https://github.com/Akaeboshi)                                                                                                        |           16/06           |                           [Joyce](https://github.com/joycejdm)                            |
 | Edição da Apresentação                       |                15/05 - 16/06                |                                                                                                           [Joyce](https://github.com/joycejdm)                                                                                                            |           16/06           |                           [Augusto](https://github.com/Augcamp)                           |
 |                                              |                                             |                                                                                                                                                                                                                                                           |                           |                                                                                           |
+
+<center><b>Tabela 09:</b> Ponto de Controle 8 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
 
 ## Historico de revisão
 
