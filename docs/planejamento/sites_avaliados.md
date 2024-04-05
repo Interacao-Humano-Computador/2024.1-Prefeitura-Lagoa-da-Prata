@@ -78,12 +78,18 @@ Com base nas heurísticas de Nielsen, os integrantes do grupo realizaram individ
 ## Bibliografia
 
 > [1] Barbosa, Simone Diniz Junqueira Interação humano computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. – Rio de Janeiro: Elsevier, 2010. 
+
 > [2] Prefeitura de Gurupi. Disponível em: https://gurupi.to.gov.br/. Acesso em: 31/03/2024. 
-> [3] Manjaro. Disponível em: https://manjaro.org/. Acesso em: 29/03/2024
+
+> [3] Manjaro. Disponível em: https://manjaro.org/. Acesso em: 29/03/2024 
+
 > [4] Detran-DF. Disponível em: https://www.detran.df.gov.br/. Acesso em: 29/03/2024
-> [5] Portal da Industria. Disponível em: https://www.portaldaindustria.com.br/. Acesso em: 30/03/2024.
-> [6] GOV.BR. Disponível em: https://www.gov.br/pt-br. Acesso em: 28/03/2024.
-> [7] Brasil Participativo. Disponível em: https://brasilparticipativo.presidencia.gov.br/. Acesso em 29/03/2024.
+
+> [5] Portal da Industria. Disponível em: https://www.portaldaindustria.com.br/. Acesso em: 30/03/2024. 
+
+> [6] GOV.BR. Disponível em: https://www.gov.br/pt-br. Acesso em: 28/03/2024. 
+
+> [7] Brasil Participativo. Disponível em: https://brasilparticipativo.presidencia.gov.br/. Acesso em 29/03/2024. 
 
 
 ## Histórico de revisão
