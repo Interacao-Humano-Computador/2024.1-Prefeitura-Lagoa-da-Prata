@@ -12,7 +12,7 @@ nav:
     - Cronograma Planejado: planejamento/cronograma_planejado.md
     - Cronograma Executado: planejamento/cronograma_executado.md
     - Processos de Design: planejamento/processos_de_design.md
-  - Ferramentas do Projeto: ferramentas/ferramentas_do_projeto.md
+    - Ferramentas do Projeto: planejamento/ferramentas_do_projeto.md
 
 theme:
   name: material
