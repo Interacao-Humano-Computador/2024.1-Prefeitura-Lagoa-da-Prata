@@ -80,17 +80,14 @@ Este documento foi estabelecido de acordo com a disponibilidade dos integrantes 
 
 | <center>Atividade </center>                | <center>Período de desenvolvimento</center> | <center>Responsável</center> | <center>Revisão </center> | <center>Revisores</center> |
 | ------------------------------------------ | :-----------------------------------------: | :--------------------------: | :-----------------------: | :------------------------: |
-| Planejamento do Projeto - Cronograma       |                                             |                              |                           |                            |
-| Heatmap de disponibilidade dos integrantes |                                             |                              |                           |                            |
-| Sites Avaliados                            |                                             |                              |                           |                            |
-| Criação do Git Pages                       |                                             |                              |                           |                            |
-| Seleção do site                            |                                             |                              |                           |                            |
-| Ferramentas do projeto                     |                                             |                              |                           |                            |
-| Processos de Design                        |                                             |                              |                           |                            |
-| Atualização Git Pages                      |                                             |                              |                           |                            |
-| Gravação da apresentação                   |                                             |                              |                           |                            |
-| Edição da Gravação                         |                                             |                              |                           |                            |
-| Cronograma Executado                       |                                             |                              |            
+| Correção dos artefatos Ponto de Controle 5 |                21/05 - 22/05                |         Pedro Lucas          |           22/05           |           Joyce            |
+| Verificação dos Artefatos Etapa 1          |                21/05 - 24/05                |         Pedro Lucas          |           24/05           |          Augusto           |
+| Verificação dos Artefatos Etapa 2          |                21/05 - 24/05                |            Joyce             |           24/05           |        Lucas Heler         |
+| Verificação dos Artefatos Etapa 3          |                21/05 - 24/05                | Lucas Heler e Lucas Meireles |           24/05           |           Cainã            |
+| Verificação dos Artefatos Etapa 4          |                21/05 - 24/05                |            Cainã             |           24/05           |           Joyce            |
+| Verificação dos Artefatos Etapa 5          |                21/05 - 24/05                |           Augusto            |           24/05           |       Lucas Meireles       |
+| Atualizar GitPages                         |                24/05 - 25/05                |         Pedro lucas          |           25/05           |           Joyce            |
+| Gravação da apresentação                   |                    25/05                    |         Lucas Heler          |           25/05           |           Cainã            |
 
 ## Cronograma Ponto de Controle 7
 
