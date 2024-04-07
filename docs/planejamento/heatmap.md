@@ -1,5 +1,8 @@
 # Heatmap
 
+## Introdução
+A equipe decidiu fazer uso de uma tabela de heatmap para poder facilitar a organização durante todo o projeto, possbilitando a criação do cronograma planejado seguindo a lógica das datas e hórarios disponíveis pelos membros da equipe.
+
 ## Quadro de disponibilidade
 
 A seguir está apresentado o quadro de disponibilidade dos intengrates do grupo. Cada membro preencheu uma tabela individual indicando os dias e horários disponíveis, permitindo que fosse idealizado o planejamento do cronograma. 
