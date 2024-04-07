@@ -1,6 +1,8 @@
 # Processos de Design
 
-Para melhor realizar uma avaliação e, portanto, ser capaz de oferecer uma solução adequada para um problema, é altamente recomendado a utilização de um processo de design, porém precisamos também entender inicialmente o que siginifica tal termo.
+## Introdução
+
+Para melhor realizar uma avaliação e, portanto, ser capaz de oferecer uma solução adequada para um problema, é altamente recomendado a utilização de um processo de design, porém precisamos também entender inicialmente o que significa tal termo.
 
 ## Design
 
@@ -42,6 +44,6 @@ Um processo de design se caracteriza, de forma simplificada, em um guia para o i
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :---------: |
-| 05/04/2024 | `1.0`  | Criação do documento | [Lucas Meireles](https://github.com/Katuner) |                 |             |
+| 05/04/2024 | `1.0`  | Criação do documento | [Lucas Meireles](https://github.com/Katuner) |        07/04/2024         |      [Lucas Heler](https://github.com/Akaeboshi)       |
 |            |        |                      |                                              |                 |             |
 
