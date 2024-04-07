@@ -1,5 +1,13 @@
+
+<font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
+
+<p align="center"><img style="border: 2px solid white; border-radius: 110px" img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/favicon.png" width = 40%></p>
+
+<font size="2"><p style="text-align: center">Fonte: [Prefeitura Municipal de Lagoa da Prata](https://www.lagoadaprata.mg.gov.br/).</p></font>
+
+
 # Introdução
-Este repositorio é dedicado à documentação de todos os artefatos gerados pelo Grupo 05 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB) 2024.1. O propósito do projeto é realizar uma avaliação de IHC do site (Site ainda será escolhido) e, aplicando os o aprendizado adquirido em sala de aula, propor melhorias em sua interface. 
+Este repositorio é dedicado à documentação de todos os artefatos gerados pelo Grupo 05 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB) durante o primeiro semestre de 2024. O propósito do projeto é realizar uma avaliação de IHC do site da Prefeitura Municipal de Lagoa da Prata e, aplicando os o aprendizado adquirido em sala de aula, propor melhorias em sua interface. 
 
 # Integrantes da equipe
 Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
