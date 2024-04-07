@@ -1,0 +1,34 @@
+# Heatmap
+
+## Quadro de disponibilidade
+
+A seguir está apresentado o quadro de disponibilidade dos intengrates do grupo. Cada membro preencheu uma tabela individual indicando os dias e horários disponíveis, permitindo que fosse idealizado o planejamento do cronograma. 
+
+A figura 1 abaixo ilustra o quadro de disponibilidade da equipe.
+
+<center>
+
+<img src='https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/heatmapTotal.png'></img>
+
+*Figura 1 - Mapa de calor (Figura do autor, 2024)*
+<br><br>
+
+A figura 2 abaixo ilustra a legenda de disponibilidade da equipe facilitando o entedimento da Figura 1. 
+
+<img src='https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/heatmapDisponibilidade.png'></img>
+
+*Figura 2 - Legenda mapa de calor (Figura do autor, 2024)*
+<br><br>
+
+</center>
+
+## Bibliografia
+
+> [1] HEATMAP. Disponível em: https://neilpatel.com/br/blog/heatmap-o-que-e Acesso em: 07 de abril de 2024.
+
+## Histórico de Versão
+
+|    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
+| :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
+| 07/04/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+
