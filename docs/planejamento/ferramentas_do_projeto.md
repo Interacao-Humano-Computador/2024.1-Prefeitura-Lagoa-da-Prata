@@ -40,7 +40,7 @@ Aqui estarão listadas as ferramentas a serem utilizadas pelo grupo, não necess
 
 ## Histórico de Revisão
 
-|    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :------------------------------------------: |
+|    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 05/04/2024 | `1.0`  | Criação do documento | [Lucas Meireles](https://github.com/Katuner) |   05/04/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 07/04/2024 | `1.1`  | Adição de ferramenta | [Joyce Dionizio](https://github.com/jdm) |       |  |
+| 07/04/2024 | `1.1`  | Adição de ferramenta |   [Joyce Dionizio](https://github.com/jdm)   |   07/04/2024    | [Pedro Lucas](https://github.com/lucasdray) |
