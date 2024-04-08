@@ -1,6 +1,6 @@
 repo_url: https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata
-repo_name: Prefeitura Lagoa da Prata
-site_name: Prefeitura de Lagoa da Prata
+repo_name: Prefeitura de Lagoa da Prata
+site_name: Prefeitura Municipal de Lagoa da Prata
 
 
 markdown_extensions:
@@ -23,7 +23,8 @@ nav:
     - Ferramentas do Projeto: planejamento/ferramentas_do_projeto.md
     - Sites Avaliados: planejamento/sites_avaliados.md    
     - Site Escolhido: planejamento/site_escolhido.md
-  - Reuniões: reunioes/
+  - Reuniões:
+    - Reunião 1: reunioes/reuniao_1.md
 theme:
   name: material
   features:
