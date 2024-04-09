@@ -28,6 +28,6 @@ Para completar os objetivos pré-definidos, o grupo seguiu para a elaboração i
 ## 4. Histórico de Versões
 |    Data    | Versão |          Descrição          |                      Autor(es)                      | Data de revisão | Revisor(es) |
 | :--------: | :----: | :-------------------------: | :-------------------------------------------------: | :-------------: | :---------: |
-| 08/04/2024 | `1.0`  | Versão inicial de documento | [Pedro Lucas Dourado](https://github.com/lucasdray) |                 |             |
+| 08/04/2024 | `1.0`  | Versão inicial de documento | [Pedro Lucas Dourado](https://github.com/lucasdray) | 08/04/2024      |  [Cainã Valença](https://github.com/freitasc)        |
 |            |        |                             |                                                     |                 |             |
 
