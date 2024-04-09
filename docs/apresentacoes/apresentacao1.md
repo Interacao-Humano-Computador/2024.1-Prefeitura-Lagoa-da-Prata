@@ -1,0 +1,40 @@
+# Apresentação 01
+
+## Introdução
+Este documento contém o vídeo de apresentação do ponto de control 1 da matéria de Interação Humano Computador e a tabela que valida a entrega.
+
+## Vídeo da apresentação
+Como especificado o link da apresentação se encontra no youtube e na categoria não listado, podendo ser acessado por meio deste [link]()
+
+## Avaliação da entrega
+A seguir se encontra a Tabela 1, que foi feita com base nos critérios de avaliação encontrados no plano de ensino da matéria.
+
+#### <center> Tabela 1 - Avaliação Ponto de Controle 1</center>
+| O github pages possui:                                                                                                                                                                                      | SIM/NÃO/INCOMPLETO |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| 1 - O histórico de versão padronizado?                                                                                                                                                                      | SIM                |
+| 2 - O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                                                                                                   | SIM                |
+| 3 - A motivação e os critérios para a escolha do site?                                                                                                                                                      | SIM                |
+| 4 - O planejamento e avaliação dos sites selecionados?                                                                                                                                                      | SIM                |
+| 5 - Vídeo de apresentação na categoria “não listado” no youtube?                                                                                                                                            | SIM                |
+| 6 - Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                                                                                                     | SIM                |
+| 7 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                                                                                                                          | SIM                |
+| 8 - Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”?                                                                                                                           | SIM                |
+| 9 - Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                                                                                                                   | SIM                |
+| 10 - o cronograma do planejamento do projeto apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | SIM                |
+| 11 - o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.                                                                                                           | SIM                |
+| 12 - o cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim daconstrução/realização do artefato/atividade.                                                           | SIM                |
+| 13 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)                                                                                      | SIM                |
+| 14 - Gravação da reunião do grupo.                                                                                                                                                                          | ---                |
+| 15 - Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades?         | SIM                |
+| 16 - A justificativa da escolha do Processo de Design?                                                                                                                                                      | SIM                |
+| 17 - Possui opção de contraste de cores?                                                                                                                                                                    | SIM                |
+| 18 - O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                                                                      | SIM                |
+
+Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.
+
+## Histórico de revisão
+
+|    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
+| :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
+| 09/04/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |                 |             |

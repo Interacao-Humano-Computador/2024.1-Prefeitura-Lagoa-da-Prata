@@ -14,7 +14,8 @@ Este repositorio é dedicado à documentação de todos os artefatos gerados pel
 ## Integrantes da equipe
 Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
 
-<center>
+#### <center>Tabela 1 - Equipe de trabalho</center>
+
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
     <td align="center">
@@ -57,9 +58,8 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 
 
-<div style="text-align: left">
-<p> Tabela 1: Equipe de trabalho (Fonte: DOURADO, Pedro Lucas. 2024).</p>
-</div>
+<center>Fonte: DOURADO, Pedro Lucas. 2024.</center>
+
 
 ## Histórico de Versões
 |    Data    | Versão |          Descrição          |                      Autor(es)                      | Data de revisão |                 Revisor(es)                  |
