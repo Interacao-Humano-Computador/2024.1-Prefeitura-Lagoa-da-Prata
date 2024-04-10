@@ -9,7 +9,8 @@ Como especificado o link da apresentação se encontra no youtube e na categoria
 ## Avaliação da entrega
 A seguir se encontra a Tabela 1, que foi feita com base nos critérios de avaliação encontrados no plano de ensino da matéria.
 
-#### <center> Tabela 1 - Avaliação Ponto de Controle 1</center>
+<center> Tabela 1 - Avaliação Ponto de Controle 1</center>
+
 | O github pages possui:                                                                                                                                                                                      | SIM/NÃO/INCOMPLETO     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 | 1 - O histórico de versão padronizado?                                                                                                                                                                      | <center>SIM </center>  |
@@ -31,7 +32,7 @@ A seguir se encontra a Tabela 1, que foi feita com base nos critérios de avalia
 | 17 - Possui opção de contraste de cores?                                                                                                                                                                    | <center>SIM </center>  |
 | 18 - O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                                                                      | <center>SIM </center>  |
 
-Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.
+<center>Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.</center>
 
 ## Histórico de revisão
 
