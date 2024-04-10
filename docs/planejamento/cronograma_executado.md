@@ -5,6 +5,10 @@
  - Entrega: 08/04/2024
  - Apresentação: 09/04/2024
  
+A seguir se encontra a Tabela 01 que dispõe o cronograma executado pela equipe durante o ponto de controle 1.
+
+<center>Tabela 01 - Cronograma Executado Ponto de Controle 1</center>
+
 | <center>Atividade </center>                | <center>Período de desenvolvimento</center> |                                                                                                  <center>Responsável</center>                                                                                                  | <center>Revisão </center> |                                                        <center>Revisores</center>                                                        |
 | ------------------------------------------ | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
 | Planejamento do Projeto - Cronograma       |           02/04/2024 - 04/04/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        07/04/2024         |                                               [Lucas Meireles](https://github.com/Katuner)                                               |
@@ -19,7 +23,7 @@
 | Edição da Gravação                         |                 07/04/2024                  |                                                                                            [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner)                                                                                           |        08/04/2024         |                                               [Lucas Meireles](https://github.com/Katuner)                                               |
 | Cronograma Executado                       |           04/04/2024 - 07/04/2024           |                                                                   [Pedro Lucas](https://github.com/lucasdray), [Cainã Valença](https://github.com/freitasc)                                                                    |        07/04/2024         | [Augusto Duarte](https://github.com/Augcamp), [Joyce Dionizio](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |
 
-<center><b>Tabela 01:</b> Ponto de Controle 1 (Fonte: DOURADO, Pedro Lucas. 2024).</center>
+<center>Fonte: DOURADO, Pedro Lucas. 2024.</center>
 
 ## Bibliografia
 

@@ -26,7 +26,7 @@ nav:
   - Reuniões:
     - Reunião 1: reunioes/reuniao_1.md
   - Apresentações:
-    - Apresentação 1: apresentacoes/apresentacao_1.md
+    - Apresentação 1: apresentacoes/apresentacao1.md
 theme:
   name: material
   features:

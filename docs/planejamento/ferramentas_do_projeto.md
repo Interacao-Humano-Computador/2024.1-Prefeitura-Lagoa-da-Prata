@@ -6,7 +6,7 @@ Aqui estarão listadas as ferramentas a serem utilizadas pelo grupo, não necess
 ## Ferramentas Utilizadas
 A seguir na Tabela 1 pode-se encontrar todas as ferramentas que estão planejadas de serem usadas no projeto ao longo da disciplina.
 
-#### <center>Tabela 1 - Ferramentas utilizadas no projeto </center>
+<center>Tabela 1 - Ferramentas utilizadas no projeto </center>
 
 |                                                                                                                                                                                                    Logotipo                                                                                                                                                                                                     |  Nome da Ferramenta   |                                                  Funcionalidade                                                  |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------: | :--------------------------------------------------------------------------------------------------------------: |
