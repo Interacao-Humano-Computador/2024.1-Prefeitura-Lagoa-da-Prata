@@ -4,7 +4,9 @@
 Este documento contém o vídeo de apresentação do ponto de control 1 da matéria de Interação Humano Computador e a tabela que valida a entrega.
 
 ## Vídeo da apresentação
-Como especificado o link da apresentação se encontra no youtube e na categoria não listado, podendo ser acessado por meio deste [link]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Koyh0fGpyys?si=7sbi9JkolYy1zKlj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Como especificado o link da apresentação se encontra no youtube e na categoria não listado, podendo ser acessado por meio deste [link](https://www.youtube.com/watch?v=Koyh0fGpyys)
 
 ## Avaliação da entrega
 A seguir se encontra a Tabela 1, que foi feita com base nos critérios de avaliação encontrados no plano de ensino da matéria.
@@ -36,6 +38,7 @@ A seguir se encontra a Tabela 1, que foi feita com base nos critérios de avalia
 
 ## Histórico de revisão
 
-|    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 09/04/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+|    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
+| :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
+| 09/04/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 15/04/2024 | `2.0`  | Adição video e correção link vazio | [Pedro Lucas](https://github.com/lucasdray) |                 |             |

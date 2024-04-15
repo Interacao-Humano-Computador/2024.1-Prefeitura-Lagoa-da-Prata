@@ -14,6 +14,7 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 <center>
 <table style="margin-left: auto; margin-right: auto;">
+Tabela 1: Equipe de trabalho 
 <tr>
     <td align="center">
         <a href="https://github.com/Augcamp">
@@ -55,12 +56,13 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 </center>
 
-<div style="text-align: left">
-<p> Tabela 1: Equipe de trabalho (Fonte: DOURADO, Pedro Lucas. 2024).</p>
+<div style="text-align: center">
+<p> Fonte: DOURADO, Pedro Lucas. 2024.</p>
 </div>
 
 ## Histórico de Versões
-|    Data    | Versão |            Descrição             |                      Autor(es)                      | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :------------------------------: | :-------------------------------------------------: | :-------------: | :------------------------------------------: |
-| 27/03/2024 | `1.0`  |   Versão inicial de documento    | [Pedro Lucas Dourado](https://github.com/lucasdray) |   27/03/2024    | [Augusto Campos](https://github.com/Augcamp) |
-| 04/04/2024 | `1.1`  | Correção Fonte e link Integrante | [Pedro Lucas Dourado](https://github.com/lucasdray) |   07/04/2024    | [Cainã Freitas](https://github.com/freitasc) |
+|    Data    | Versão |             Descrição             |                  Autor(es)                  | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :-------------------------------: | :-----------------------------------------: | :-------------: | :------------------------------------------: |
+| 27/03/2024 | `1.0`  |    Versão inicial de documento    | [Pedro Lucas](https://github.com/lucasdray) |   27/03/2024    | [Augusto Campos](https://github.com/Augcamp) |
+| 04/04/2024 | `1.1`  | Correção Fonte e link Integrante  | [Pedro Lucas](https://github.com/lucasdray) |   07/04/2024    | [Cainã Freitas](https://github.com/freitasc) |
+| 15/04/2024 | `2.0`  | Padronização fonte e titulo tabel | [Pedro Lucas](https://github.com/lucasdray) |                 |                                              |
