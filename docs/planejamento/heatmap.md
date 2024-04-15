@@ -11,16 +11,21 @@ A figura 1 abaixo ilustra o quadro de disponibilidade da equipe.
 
 <center>
 
+*Figura 1 - Mapa de calor*
 <img src='https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/heatmapTotal.png'></img>
 
-*Figura 1 - Mapa de calor (Figura do autor, 2024)*
+*Fonte: DOURADO, Pedro Lucas. 2024.*
 <br><br>
+</center>
 
 A figura 2 abaixo ilustra a legenda de disponibilidade da equipe facilitando o entedimento da Figura 1. 
 
+<center>
+
+*Figura 2 - Legenda mapa de calor*
 <img src='https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/heatmapDisponibilidade.png'></img>
 
-*Figura 2 - Legenda mapa de calor (Figura do autor, 2024)*
+*Fonte: DOURADO, Pedro Lucas. 2024.*
 <br><br>
 
 </center>
@@ -31,7 +36,8 @@ A figura 2 abaixo ilustra a legenda de disponibilidade da equipe facilitando o e
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 07/04/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |      07/04/2024 |   [Cainã Freitas](https://github.com/freitasc)  |
+|    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :------------------------------------------: |
+| 07/04/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |   07/04/2024    | [Cainã Freitas](https://github.com/freitasc) |
+| 15/04/2024 | `2.0`  | Padronização titulo e fonte imagem | [Pedro Lucas](https://github.com/lucasdray) |                 |                                              |
 
