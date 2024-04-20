@@ -15,6 +15,7 @@ Com base nas heurísticas de Nielsen, os integrantes do grupo realizaram individ
   - Tamanho e legibilidade do texto inadequados.
   - Falta de instruções claras.
   - Ausência de uma seção dedicada a usuários novatos ou com dificuldades.
+- [Avaliação Completa.](<../assets/images/sitesPlanejamento/JOYCEPlojetoParteIndividualMetodoeAvalição (1).pdf>)
 
 
 ## [Prefeitura de Gurupi](https://gurupi.to.gov.br/)
@@ -26,6 +27,7 @@ Com base nas heurísticas de Nielsen, os integrantes do grupo realizaram individ
   - Incapacidade de usar conteúdo em libras.
   - Falta de funcionalidade de busca por data, limitando a descoberta de notícias apenas a palavras-chave conhecidas.
   - Falta de opções para ajustar contraste e tamanho da fonte.
+- [Avaliação Completa.](../assets/images/sitesPlanejamento/DOURADOPlojetoParteIndividualMetodoeAvalição.pdf)
 
 ## [Portal da Industria](https://www.portaldaindustria.com.br/)
 
@@ -38,6 +40,7 @@ Com base nas heurísticas de Nielsen, os integrantes do grupo realizaram individ
   - Ausência de recursos de personalização.
   - Velocidade de carregamento do site lenta.
   - Disfunção do botão de busca na tela principal do site.
+- [Avaliação Completa.](<../assets/images/sitesPlanejamento/HELERPlojetoParteIndividualMetodoeAvalição (1).pdf>)
 
 ## [Manjaro.org](https://manjaro.org/)
 
@@ -50,6 +53,7 @@ Com base nas heurísticas de Nielsen, os integrantes do grupo realizaram individ
   - Plataforma de download complexa e pouco intuitiva.
   - Falta detalhes sobre a plataforma e escolha de distribuição.
   - Excesso de informação em algumas telas.
+- [Avaliação Completa. ](../assets/images/sitesPlanejamento/CAINAPlojetoParteIndividualMetodoeAvalição.pdf)
 
 ## [GOV.BR](https://www.gov.br/pt-br)
 
@@ -60,6 +64,7 @@ Com base nas heurísticas de Nielsen, os integrantes do grupo realizaram individ
   - Duplicidade de tópicos na barra de pesquisa.
   - Confusão na parte de registro de dados.
   - Botão de fechar em local incomum e padrões de cores que dificultam sua visibilidade.
+- [Avaliação Completa.](../assets/images/sitesPlanejamento/MEIRELESPlojetoParteIndividualMetodoeAvalição.docx.pdf)
 
 
 ## [Detran-DF](https://www.detran.df.gov.br/)
@@ -73,6 +78,7 @@ Com base nas heurísticas de Nielsen, os integrantes do grupo realizaram individ
   - O site é confuso e lento.
   - Desafio especialmente para pessoas mais idosas ou menos familiarizadas com a navegação na internet.
   - Dificuldade de localização das informações desejadas pelos usuários.
+- [Avaliação Completa. ](../assets/images/sitesPlanejamento/AUGUSTOPlojetoParteIndividualMetodoeAvalição.pdf)
 
 
 ## Bibliografia
@@ -97,4 +103,5 @@ Com base nas heurísticas de Nielsen, os integrantes do grupo realizaram individ
 |    Data    | Versão |      Descrição       |               Autor(es)               | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------: | :-----------------------------------: | :-------------: | :-----------------------------------------: |
 | 05/04/2024 | `1.0`  | Criação do documento | [Augusto](https://github.com/Augcamp) |   05/04/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 20/04/2024 | `1.1`  | Correção do documento| [Augusto](https://github.com/Augcamp) |                 |                                             |
 |            |        |                      |                                       |                 |                                             |
