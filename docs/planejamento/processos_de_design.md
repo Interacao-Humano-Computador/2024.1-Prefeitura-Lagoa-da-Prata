@@ -16,7 +16,13 @@ Levando em consideração o cenário de uma atividade de design, o avaliador é 
 
 ## Processo de Design
 
-Um processo de design se caracteriza, de forma simplificada, em um guia para o indivíduo interessado realizar a atividade de design. Na literatura de Barbosa et. al. (2021), são trabalhados 4 processos de design principais, sendo eles uma adaptação simplificada de Sharp et al. (2019), aqui sendo denominado "Modelo Simples", o Ciclo de Vida em Estrela (Hix e Hartson,1993), a Engenharia de Usabilidade de Nielsen (1994) e, por fim, a Engenharia de Usabilidade de Mayhew (1999). Cada processo possui suas vantagens e desvantages, porém, em visão da inexperiência do grupo que aqui realizará o papel de avaliador de IHC, além da clara divisão de etapas e processos para atender ao design esperado, será utilizado o processo previsto por Mayhew (1999) conforme demonstra a Figura 1 a seguir.
+Um processo de design se caracteriza, de forma simplificada, em um guia para o indivíduo interessado realizar a atividade de design. Na literatura de Barbosa et. al. (2021), são trabalhados 4 processos de design principais, sendo eles uma adaptação simplificada de Sharp et al. (2019), aqui sendo denominado "Modelo Simples", o Ciclo de Vida em Estrela (Hix e Hartson,1993), a Engenharia de Usabilidade de Nielsen (1994) e, por fim, a Engenharia de Usabilidade de Mayhew (1999). Cada processo possui suas vantagens e desvantagens, além de diferentes níveis de complexidade.
+
+## Escolha do processo
+
+O processo de design do "Modelo Simples" consiste em um procedimento que possui uma clara definição de início e fim, porém com apenas breves tópicos e atividades a serem desenvolvidas e de modo generalizado para que seja completo. Já o Ciclo de Vida em Estrela, apesar de também conter 5 atividades principais apenas, requer que uma avaliação seja feita a todo momento em que se finalize uma das partes propostas, isso permite o avaliador a conferir os resultados de suas ações e interpretações, além de que o processo permite uma maior liberdade de ponto inicial para o procedimento. A Engenharia de Nielsen já se diferencia um pouco por trabalhar mais sobre Heurísticas e objetivos principais para certificar da qualidade e viabilidade do projeto. Por fim, a Engenharia de Usabilidade de Mayhew contém um aglomerado de interpretações e estudos de diversos processos e os unifica em um sistema único e bastante descritivo.
+
+Dado a inexperiência da equipe com avaliações de IHC, foi reforçado o ponto de termos um guia claro de processos e atividades a serem desenvolivdas de modo a buscar uma avaliação válida e aceitável pela comunidade. Logo, a escolha do grupo foi pela Engenharia de Usabilidade de Mayhew, conforme demonstrada na Figura 1. O processo apresenta alto nível de detalhamento e ordenação a ser seguida para com o projeto, além de separações em diferentes partes do procedimento para maior compreensão dos tópicos sendo tratados em determinado momento e dos objetivos do mesmo.
 
 <div style="text-align:center;">
   <p style="text-align:center;">Figura 1 - Ciclo de vida para a engenharia de usabilidade de Mayhew. <br>
@@ -46,4 +52,4 @@ Um processo de design se caracteriza, de forma simplificada, em um guia para o i
 | :--------: | :----: | :---------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 05/04/2024 | `1.0`  |  Criação do documento   | [Lucas Meireles](https://github.com/Katuner) |   07/04/2024    | [Lucas Heler](https://github.com/Akaeboshi) |
 | 09/04/2024 | `1.1`  | Atualização pós entrega | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
-
+| 19/04/2024 | `1.2`  | Atualização pós entrega | [Lucas Meireles](https://github.com/lucasdray)  |                 |                                             |
