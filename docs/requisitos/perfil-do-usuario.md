@@ -35,4 +35,4 @@ Abaixo temos um vídeo que apresenta a entrevista completa com as respostas do u
 
 |    Data    | Versão |              Descrição              |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
 | :--------: | :----: | :---------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
-| 20/04/2024 | `1.0`  |        Criação do documento         |  [Joyce Dionizio](https://github.com/joycejdm) |      | 
+| 20/04/2024 | `1.0`  |        Criação do documento         |  [Joyce Dionizio](https://github.com/joycejdm) |   06/05/2024   | Cainã Valença de Freitas |
