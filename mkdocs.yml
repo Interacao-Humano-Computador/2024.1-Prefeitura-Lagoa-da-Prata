@@ -32,6 +32,8 @@ nav:
     - Perfil do Usuário: requisitos/perfil-do-usuario.md
     - Cenários: requisitos/cenarios.md
     - Personas: requisitos/personas.md
+    - Análise Hierárquica de Tarefas: requisitos/tarefas.md
+    - GOMS: requisitos/goms.md
     
 theme:
   name: material
