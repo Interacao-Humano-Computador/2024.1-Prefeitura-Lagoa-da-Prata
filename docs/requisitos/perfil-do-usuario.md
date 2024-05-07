@@ -7,27 +7,39 @@ projetarem sistemas que atendam às necessidades e expectativas dos usuários.
 Para traçar o perfil dos usuários do site da Prefeitura de Lagoa da Prata, utilizamos uma abordagem mista, combinando [questionário](questionario.md) e entrevista individual. 
 A entrevista permitiu aprofundar conhecimentos obtidos através dos questionários, explorando a frequência de uso do site, os objetivos de acesso, experiências de uso, percepções sobre a organização das informações, funcionalidades importantes, dificuldades enfrentadas, e a acessibilidade do site.
 
+## Questionário
+[Acesse aqui](questionario.md)
+### Vantagens
+- Método econômico e ágil para implementação.
+- Eficaz na obtenção de dados de uma grande audiência.
+- Requer menos tempo e energia dos participantes em comparação com entrevistas.
+- Efetivo em contextos onde o público está disperso geograficamente.
+- Ao utilizar uma amostra representativa, pode-se generalizar as opiniões da população.
+- Perguntas com opções de resposta limitadas são altamente eficazes na obtenção de dados quantitativos para análise estatística.
 
+### Desvantagens
+- Se a taxa de participação for baixa, a significância estatística do resultado pode ser comprometida.
+- Deficiências na formulação do questionário podem resultar em respostas em branco, incorretas ou interpretações divergentes da mesma pergunta, levando a erros na identificação de requisitos.
+- Empregar perguntas com respostas abertas requer um esforço adicional na análise das respostas, especialmente em grandes públicos.
 
-## Resultados das Entrevistas
+## Entrevista
+[Acesse aqui](entrevista.md)
+### Vantagens
+- Permitem explorar em detalhes as necessidades, preferências e comportamentos dos usuários.
+- Permitem capturar nuances e entender o contexto por trás das respostas.
+- Os entrevistadores podem adaptar as perguntas com base nas respostas e reações dos entrevistados.
+- Permitem esclarecer dúvidas ou ambiguidades imediatamente durante a entrevista.
 
-As seguintes perguntas foram utilizadas na entrevista com o usuário:
+### Desvantagens
+- Entrevistas individuais podem ser demoradas e exigir recursos consideráveis.
+- As opiniões e preconceitos do entrevistador podem influenciar as perguntas e a interpretação das respostas.
+- Geralmente são aplicáveis a um número menor de pessoas em comparação com questionários.
+- Alguns usuários podem se sentir desconfortáveis ou relutantes em compartilhar certas informações pessoais durante uma entrevista.
 
-- Com que frequência você utiliza o site?
-- Quais os objetivos que te levam a acessar o site?
-- Qual sua experiência ao utilizar o site? Sentiu dificuldades?
-- Você já encontrou alguma funcionalidade no site que tem um papel muito importante no site?
-- Qual sua opinião sobre como as informações estão organizadas?
-- Já teve problemas técnicos ao acessar o site?
--  O site atende aos critérios de acessibilidade?
-- Qual a ferramenta que você mais utiliza ao utilizar o site?
-- Qual sua idade e profissão?
-
-Abaixo temos um vídeo que apresenta a entrevista completa com as respostas do usuário.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8nhkA2m-Um0?si=Gt1cWd3pgZWlabQW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Conclusão
+## Resultados Coletados
+[ÍNSERIR]
+## Análise dos resultados
+[ÍNSERIR]
 
 ## Referências Bibliográficas
 
@@ -35,6 +47,7 @@ Abaixo temos um vídeo que apresenta a entrevista completa com as respostas do u
 
 ## Historico de revisão
 
-|    Data    | Versão |              Descrição              |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
-| :--------: | :----: | :---------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
-| 20/04/2024 | `1.0`  |        Criação do documento         |  [Joyce Dionizio](https://github.com/joycejdm) |   06/05/2024   | [Cainã Valença de Freitas](https://github.com/freitasc) |
+|    Data    | Versão |      Descrição       |                   Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :------------------: | :-------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 20/04/2024 | `1.0`  | Criação do documento | [Joyce Dionizio](https://github.com/joycejdm) |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 06/05/2024 | `1.1`  |    Reestruturação    |  [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
