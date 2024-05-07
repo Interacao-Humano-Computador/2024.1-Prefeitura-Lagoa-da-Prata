@@ -61,9 +61,8 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 
 ### João Marcos
 
-|                      |                      |
-| :------------------  | :------------------  |
 | **Nome**             |  João Marcos         |
+| :------------------  | :------------------  |
 | **Foto**             | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/personas/joao-marcos.jpg"><p>Imagem 2 João Marcos persona</p> |
 | **Descrição**        | João Marcos, 19 anos, morador de Lagoa da Prata. Homem. Solteiro. |
 | **Status**           | Anti Persona.     |
@@ -78,9 +77,8 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 <p> <b>Tabela 2</b>: Persona 2 (DUARTE, Augusto. 2024)</p>
 </div>
 
-|                      |                      |
-| :------------------  | :------------------  |
 | **Nome**             |  Maria Oliveira      |
+| :------------------  | :------------------  |
 | **Foto**             | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/personas/maria-oliveira.jpeg"><p>Imagem 3. Maria Oliveira. Persona</p> |
 | **Descrição**        | Maria Oliveira, 45 anos, moradora de Lagoa da Prata. Mulher. Casada. |
 | **Status**           | Persona Primária.     |
@@ -96,10 +94,9 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 </div>
 
 
-|                     |                                                                                                                                                                                                                                                                    |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**            | Diego Lima                                                                                                                                                                                                                                                         |
-| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/personas/diego-lima.jpg"><p>Imagem 4. Diego Lima. Persona</p>                                                                                                                                                               |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/personas/diego-lima.jpg"><p>Imagem 4. Diego Lima. Persona</p>                                                         |
 | **Descrição**       | Diego Lima, 18 anos, morador de Lagoa da Prata. Homem. Solteiro. Recém completou o Ensino Médio.                                                                                                                                                                   |
 | **Status**          | Persona Primária.                                                                                                                                                                                                                                                  |
 | **Objetivos**       | Diego busca auxiliar sua família e trazer uma renda para casa. Ele quer crescer como pessoa e ser capaz de providenciar ajuda sempre que possível a amigos.                                                                                                        |
@@ -113,10 +110,9 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 <p> <b>Tabela 4</b>: Persona 4 (MEIRELES, Lucas. 2024)</p>
 </div>
 
-|                     |                                                                                                                                                                                                                                                                         |
-| :------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**            | Maria Arlete                                                                                                                                                                                                                                                            |
-| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/personas/maria-arlete.jpeg"><p>Imagem 5. Maria Arlete. Persona</p>                                                           |
+| :------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/personas/maria-arlete.jpeg"><p>Imagem 5. Maria Arlete. Persona</p>                                                         |
 | **Descrição**       | Maria Arlete, 33 anos, moradora de Lagoa da Prata. Mulher. Solteira. Mãe de 2 crianças.                                                                                                                                                                                 |
 | **Status**          | Persona Primária.                                                                                                                                                                                                                                                       |
 | **Objetivos**       | Maria Arlete trabalha como diarista para sustentar seus 2 filhos. Ela trabalha bastante para poder da um futuro e educação para seus filhos que são tudo que mais importa na sua vida.                                                                                  |
@@ -124,7 +120,7 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 | **Tarefas**         | Maria Arlete acessa o site da prefeitura para poder ver o quadro de vagas na creche, fazer o cadastro de seus filhos na creche, assim como para acompanhar as incrições para saber se seus filhos foram selecionados.                                                   |
 | **Relacionamentos** | Maria Arlete tem um círculo social limitado, focado principalmente em suas responsabilidades como mãe e provedora. Sua vida é centrada em torno de seus filhos e de sua carreira como diarista, deixando pouco tempo para cultivar relacionamentos sociais mais amplos. |
 | **Requisitos**      | Cadastrar um de seus filhos na creche e fazer a consulta pública de outro.                                                                                                                                                                                              |
-| **Expectativas**    | Cadastro concluido com sucesso, informação data resultado do cadastro, Site de facil leitura para pessoas com pouca habilidade de navegação, consultar se seu filho foi selecionado para a creche cadastrada.                                                                                                                                                                                                                                                                         |
+| **Expectativas**    | Cadastro concluido com sucesso, informação data resultado do cadastro, Site de facil leitura para pessoas com pouca habilidade de navegação, consultar se seu filho foi selecionado para a creche cadastrada.                                                           |
 
 <div style="text-align: center">
 <p> <b>Tabela 5</b>: Persona 5 (DOURADO, Pedro Lucas. 2024)</p>
