@@ -84,7 +84,7 @@ Goal 0: Consultar lista de medicamentos disponíveis
         OP: Clicar com o botão esquerdo do mouse
         OP: Levar cursor até "LISTA DE MEDICAMENTOS DISPONIVEIS"
   Goal 2: Pesquisar medicamento
-    OP: Apertar botões "CTRL" + "L"
+    OP: Apertar botões "CTRL" + "F"
     OP: Digitar "DIPIRONA"
     OP: Consultar valor no lado direito da lista
 ```
