@@ -77,6 +77,8 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 <p> <b>Tabela 2</b>: Persona 2 (DUARTE, Augusto. 2024)</p>
 </div>
 
+### Maria Oliveira
+
 | **Nome**             |  Maria Oliveira      |
 | :------------------  | :------------------  |
 | **Foto**             | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/personas/maria-oliveira.jpeg"><p>Imagem 3. Maria Oliveira. Persona</p> |
@@ -93,6 +95,7 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 <p> <b>Tabela 3</b>: Persona 3 (DIONIZIO, Joyce. 2024)</p>
 </div>
 
+### Diego Lima
 
 | **Nome**            | Diego Lima                                                                                                                                                                                                                                                         |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -109,6 +112,8 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 <div style="text-align: center">
 <p> <b>Tabela 4</b>: Persona 4 (MEIRELES, Lucas. 2024)</p>
 </div>
+
+### Maria Arlete
 
 | **Nome**            | Maria Arlete                                                                                                                                                                                                                                                            |
 | :------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
