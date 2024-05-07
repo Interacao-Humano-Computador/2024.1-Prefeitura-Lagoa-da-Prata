@@ -89,6 +89,26 @@ Goal 0: Consultar lista de medicamentos disponíveis
     OP: Consultar valor no lado direito da lista
 ```
 
+### Análise da Tarefa CNM-GOMS 2: Consultar Quadro de Vagas das Creches Municipais
+Goal 0: Consultar quadro de vagas das creches municipais
+  Goal 1: Encontrar serviços de pessoa física
+    METHOD 1.A: Encontrar através do menu "Serviços para o Cidadão"
+    (SEL.RULE: preferência do usuário)
+        OP: Levar cursor até menu "SERVIÇOS PARA O CIDADÃO"
+        OP: Levar cursor até menu "FILA DE ESPERA PARA CRECHES MUNICIPAIS"
+        OP: Levar cursor até botão "ACESSAR"
+        OP: Clicar com o botão esquerdo do mouse
+    METHOD 1.B: Encontrar através da aba de pesquisa
+    (SEL.RULE: preferência do usuário)
+        OP: Levar cursor até barra de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Digitar "creches"
+        OP: Levar cursor até botão de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Levar cursor até "FILA DE ESPERA PARA CRECHES MUNICIPAIS"
+  Goal 2: Acessar quadro de vagas
+    OP: Na nova página, visualizar um botão ou link para acessar o quadro de vagas em formato PDF
+    OP: Clicar no botão/link para abrir o PDF
 
 
 
@@ -99,3 +119,4 @@ Goal 0: Consultar lista de medicamentos disponíveis
 |    Data    | Versão |              Descrição              |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
 | :--------: | :----: | :---------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
 | 06/05/2024 | `1.0`  |        Criação do documento         |  [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 06/05/2024 | `1.1`  |        Adição de Análise de Tarefas         |  [Joyce Dionizio](https://github.com/joycejdm) |      |  |
