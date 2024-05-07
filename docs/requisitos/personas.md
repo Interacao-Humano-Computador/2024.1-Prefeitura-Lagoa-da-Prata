@@ -54,10 +54,10 @@ No geral, a utilização de personas na construção de storyboards é uma abord
 | **Status**           | Persona Primária.     |
 | **Objetivos**        | Eduardo procura busca criar um mundo mais justo. Escolheu a carreira de médico, apesar de seu quadro de diabetes, com objetivo de ajudar a criar um mundo mais acessivel e justo. |
 | **Habilidades**      | Eduardo tem habilidades básicas de navegação na internet e busca informações específicas com determinação quando necessário. Eduardo também é médico imunologista |
-| **Tarefas**          | Eduardo acessa o site da prefeitura para encontrar o número da UPA, onde ele pode verificar o status de seu medicamento para diabetes. Ele realiza essa tarefa regularmente para gerenciar sua saúde. Por ser médico, também constantemente precisa procurar o número e horários de atendimento da Secretaria Municipal de Saúde e outros números relacionados a saúde para informar seus pacientes |
+| **Tarefas**          | Eduardo acessa o site da prefeitura para encontrar a lista de medicamentos na rede pública do municipio, onde ele pode verificar o status de seu medicamento para diabetes. Ele realiza essa tarefa regularmente para gerenciar sua saúde. Por ser médico, também constantemente precisa procurar o número e horários de atendimento da Secretaria Municipal de Saúde e outros números relacionados a saúde para informar seus pacientes |
 | **Relacionamentos**  | Eduardo mantém um círculo social pequeno e confia em seus amigos próximos para compartilhar seus problemas e segredos. Ele também interage com colegas de trabalho. |
-| **Requisitos**       | Consultar o número e informações da UPA e outros orgãos relacionados a saúde municipal. |
-| **Expectativas**     | Números atualizados dos orgãos de saúde do municipio, como também endereços e horários de atendimento. |
+| **Requisitos**       | Consultar a lista de medicamentos e outros orgãos relacionados a saúde municipal. |
+| **Expectativas**     | Lista de medicamentos atualizada. Números atualizados dos orgãos de saúde do municipio, como também endereços e horários de atendimento. |
 
 <div style="text-align: center">
 <p> <b>Tabela 1</b>: Persona 1 (FREITAS, Cainã. 2024)</p>
