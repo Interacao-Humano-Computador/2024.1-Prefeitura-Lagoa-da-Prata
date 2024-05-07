@@ -6,3 +6,8 @@ A criação inicial de um ambiente de análise requer a elaboração de uma narr
 
 Para cada cenário elaborado, é importante detalhar os elementos característicos, que incluem contexto, atores, objetivos, planejamento, ações, eventos e avaliação. Os atores desses cenários são as personas criadas para o projeto.
 
+## Historico de revisão
+
+|    Data    | Versão |              Descrição              |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
+| :--------: | :----: | :---------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
+| 06/05/2024 | `1.0`  |        Criação do documento         |  [Joyce Dionizio](https://github.com/joycejdm) |      |  |
