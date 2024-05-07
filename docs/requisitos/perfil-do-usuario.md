@@ -37,9 +37,21 @@ A entrevista permitiu aprofundar conhecimentos obtidos através dos questionári
 - Alguns usuários podem se sentir desconfortáveis ou relutantes em compartilhar certas informações pessoais durante uma entrevista.
 
 ## Resultados Coletados
-[ÍNSERIR]
+Sobre os resultados coletados do questionário podem ser encontrados em [respostas](questionario.md). Da qual o formulário contem 15 perguntas e foram obtidos ao final 27 respostas ao todo, da qual algumas perguntas obtiveram um número menor de respostas, no entanto significativas para a pesquisa.
+
+Os respondentes antes de realizar o questionário aceitaram um [termo de consentimento](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/termo-consentimento.png) redigido pela equipe, onde as respostas foram coletadas entre as datas 20/04/2023 e 06/05/2023.
+
+Os resultados coletados advindos da entrevista foram bastante satisfatórios quanto às informações oferecidas sobre quem usa o sistema, dessa forma corroborando para o desenvolvimento mais detalhado do perfil de usuário.
+
 ## Análise dos resultados
-[ÍNSERIR]
+
+Analisando os dados levantados pelo questionário, podemos concluir com base neles que o perfil de usuário é dado por um público mais adulto, com baixo a médio conhecimento de tecnologia, que possuem baixa afinidade com o site e sempre utilizam as mesmas funcionalidades do site.
+
+Ainda considerando o perfil demográfico colhido pelo questionário, ele é predominantemente composto por usuários com idade entre 31 e 40 anos, uma maioria masculina com formação educacional variando entre ensino médio incompleto e ensino médio completo, a Prefeitura Municipal de Lagoa da Prata pode direcionar esforços para tornar seu site mais acessível e atrativo para esse público-alvo específico. Isso inclui não apenas garantir a disponibilidade de informações relevantes e serviços públicos online, mas também melhorar a experiência do usuário, considerando a média afinidade tecnológica demonstrada pelos participantes. Investir em uma interface intuitiva, navegação simplificada e otimização para dispositivos móveis pode ser fundamental para aumentar a afinidade e a frequência de uso do site, atendendo assim às expectativas e necessidades dos usuários.
+
+A entrevista com um usuário corrobora esse perfil por completo, sendo Marlucio Meireles um homem adulto com idade entre 31 e 40 anos, que não utiliza o site com frequencia nem possui afinidade com ele, sempre utilizando as mesmas funcionalidades.
+
+Apesar de a maioria dos que responderam terem respondido não ter problemas com a utilização do site, ambos o usuário entrevistado Marlucio Meireles e alguns usuários anônimos responderam ter dificuldades para encontrar todas as informações necessárias e relataram lentidão e ocasionalmente erros inesperados.
 
 ## Referências Bibliográficas
 
