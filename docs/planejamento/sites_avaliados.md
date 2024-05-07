@@ -103,5 +103,5 @@ Com base nas heurísticas de Nielsen, os integrantes do grupo realizaram individ
 |    Data    | Versão |      Descrição       |               Autor(es)               | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------: | :-----------------------------------: | :-------------: | :-----------------------------------------: |
 | 05/04/2024 | `1.0`  | Criação do documento | [Augusto](https://github.com/Augcamp) |   05/04/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 20/04/2024 | `1.1`  | Correção do documento| [Augusto](https://github.com/Augcamp) |                 |                                             |
+| 20/04/2024 | `1.1`  | Correção do documento| [Augusto](https://github.com/Augcamp) |   07/05/2024    | [Lucas Meireles](https://github.com/Katuner)|
 |            |        |                      |                                       |                 |                                             |

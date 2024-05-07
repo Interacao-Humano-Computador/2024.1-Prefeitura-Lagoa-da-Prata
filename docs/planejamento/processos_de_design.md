@@ -51,5 +51,5 @@ Dado a inexperiência da equipe com avaliações de IHC, foi reforçado o ponto 
 |    Data    | Versão |        Descrição        |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :---------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 05/04/2024 | `1.0`  |  Criação do documento   | [Lucas Meireles](https://github.com/Katuner) |   07/04/2024    | [Lucas Heler](https://github.com/Akaeboshi) |
-| 09/04/2024 | `1.1`  | Atualização pós entrega | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
-| 19/04/2024 | `1.2`  | Atualização pós entrega | [Lucas Meireles](https://github.com/lucasdray)  |                 |                                             |
+| 09/04/2024 | `1.1`  | Atualização pós entrega | [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Lucas Meireles](https://github.com/Katuner)|
+| 19/04/2024 | `1.2`  | Atualização pós entrega | [Lucas Meireles](https://github.com/Katuner) |                 |                                             |

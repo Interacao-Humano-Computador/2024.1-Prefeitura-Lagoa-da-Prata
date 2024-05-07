@@ -146,7 +146,7 @@ Goal 0: Buscar quais vagas estão disponíveis para emprego no município
 
 |    Data    | Versão |              Descrição               |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
 | :--------: | :----: | :---------------------------------:  | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
-| 06/05/2024 | `1.0`  |        Criação do documento          |  [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 06/05/2024 | `1.0`  |        Criação do documento          |  [Cainã Freitas](https://github.com/freitasc) |  07/05/2024     | [Lucas Meireles](https://github.com/Katuner)  |
 | 06/05/2024 | `1.1`  |        Adição de Análise de Tarefas  |  [Joyce Dionizio](https://github.com/joycejdm)|      |  |
 | 06/05/2024 | `1.2`  |        Adição de Análise de Tarefas 3|  [Augusto Duarte](https://github.com/Augcamp) |      |  |
 | 06/05/2024 | `1.3`  |        Adição de Análise de Tarefas 4|  [Lucas Meireles](https://github.com/Katuner) |      |  |

@@ -57,5 +57,5 @@ Oportunidade de Melhoria: Reduzir a carga cognitiva dos usuários, apresentando 
 
 |    Data    | Versão |      Descrição       |               Autor(es)               | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------: | :-----------------------------------: | :-------------: | :-----------------------------------------: |
-| 05/04/2024 | `1.0`  | Criação do documento | [Lucas](https://github.com/Akaeboshi) |   05/04/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 16/04/2024 | `2.0`  | Adicionado as heurísticas | [Lucas](https://github.com/Akaeboshi) |            |                                             |
+| 05/04/2024 | `1.0`  | Criação do documento | [Lucas Heler](https://github.com/Akaeboshi) |   05/04/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 16/04/2024 | `2.0`  | Adicionado as heurísticas | [Lucas Heler](https://github.com/Akaeboshi) | 07/05/2024 | [Lucas Meireles](https://github.com/Katuner)|
