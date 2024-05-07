@@ -21,13 +21,14 @@ O TCLE é um documento vital que deve ser compreendido e assinado pelo participa
 - Detalhes sobre riscos e benefícios.
 - Afirmativa de voluntariedade e possibilidade de retirada sem penalidades.
 - Medidas adotadas para proteger a privacidade e os dados dos participantes​.
+
+A assinatura do Termo de Consentimento Livre e Esclarecido (TCLE) é fundamental porque permite que os participantes decidam de forma consciente e voluntária se desejam fazer parte da pesquisa. Além disso, em situações que envolvam gravações, o pesquisador obtém autorização específica para utilizar tais registros, incluindo voz e/ou imagem das pessoas envolvidas. Neste contexto de pesquisas com participantes, adotamos o seguinte termo de consentimento, conforme mostrado na Figura 1.
  
 ### TCLE da equipe
 <p align="center"><img style="border: 2px solid white; border-radius: 110px" img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/termo-consentimento.png" width = 40%></p>
 
 ## Conclusão
-As diretrizes éticas são essenciais para a condução de pesquisas em IHC, assegurando não apenas a proteção dos participantes, mas também a 
-validade científica e a integridade dos dados coletados. Respeitar essas normas é fundamental para manter a confiança pública e o respeito dentro da comunidade científica.
+As diretrizes éticas são essenciais para a condução de pesquisas em IHC. Ao seguir os princípios éticos fundamentais, como a autonomia dos participantes para consentir livremente e retirar-se da pesquisa a qualquer momento, a busca pelo benefício com mínimo risco possível, a garantia de justiça na distribuição de ônus e benefícios, e o respeito absoluto à privacidade e confidencialidade das informações dos participantes, estamos fortalecendo a credibilidade da pesquisa em IHC.
 
 ## Referências Bibliográficas
 
@@ -44,3 +45,4 @@ validade científica e a integridade dos dados coletados. Respeitar essas normas
 |    Data    | Versão |              Descrição              |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
 | :--------: | :----: | :---------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
 | 20/04/2024 | `1.0`  |        Criação do documento         |  [Joyce Dionizio](https://github.com/joycejdm) |   06/05/2024   | [Cainã Freitas](https://github.com/freitasc) |
+| 06/05/2024 | `1.1`  |        Melhoria na parte do TCLE e Conclusão         |  [Lucas Heler](https://github.com/Akaeboshi) |  |  |
