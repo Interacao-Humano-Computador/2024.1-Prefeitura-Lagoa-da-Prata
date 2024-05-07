@@ -51,9 +51,27 @@ Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 Tabela 2: Consultar Panorama Econômico (Fonte: FREITAS, Cainã. 2024).
 </center>
 
+### C01: Acesso à Lista de Medicamentos Disponíveis
+
+<center>
+
+| Elemento   | Descrição                                                                                                                                                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Objetivo   | Consultar a lista de medicamentos disponíveis na rede pública de saúde.                                                                                                                                                   |
+| Contexto   | Local: Em casa <br> Tempo: Durante a tarde <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                                        |
+| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                 |
+| Ator       | Maria, moradora da cidade                                                                                                                                                                                                                      |
+| Episódios  | - Maria acessa o site da prefeitura em seu navegador <br> - Ela navega até a seção "Serviços para o Cidadão" <br> - Maria procura e encontra a opção "Lista de Medicamentos Disponíveis" <br> - Ela clica na opção e é redirecionada para uma nova página <br> - Na nova página, Maria visualiza um botão ou link para acessar a lista em formato PDF <br> - Maria clica no botão/link para abrir o PDF <br> |
+| Restrições | O site da prefeitura deve possuir uma seção específica para serviços públicos e uma opção clara para acessar a lista de medicamentos disponíveis.                                                                                                                                                                                                  |
+| Exceção    | Falta de internet ou problema de conexão com o site da prefeitura.                                                                                                                                                                                               |
+
+Tabela 3: Consultar Panorama Econômico (Fonte: DIONIZIO, Joyce. 2024).
+</center>
+
 
 ## Historico de revisão
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                Revisor(es)                 |
 | :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :----------------------------------------: |
 | 06/05/2024 | `1.0`  | Criação do documento | [Cainã Freitas](https://github.com/freitasc) |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 06/05/2024 | `1.2`  | Adição de Cenário | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
