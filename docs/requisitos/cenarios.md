@@ -66,6 +66,7 @@ Tabela 2: Consultar Panorama Econômico (Fonte: FREITAS, Cainã. 2024).
 | Exceção    | Falta de internet ou problema de conexão com o site da prefeitura.                                                                                                                                                                                               |
 
 Tabela 3: Consultar Panorama Econômico (Fonte: DIONIZIO, Joyce. 2024).
+
 </center>
 
 
@@ -105,12 +106,33 @@ Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 Tabela 5: Busca de vagas de emprego (Fonte: Meireles, Lucas. 2024).
 </center>
 
+### C05: Cadastrar filho na creche
+A tabela abaixo especifica o elemento assim como a descrição do cenário especificado.
+
+<center>
+
+| Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Cadastrar filho na creche                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Contexto   | Local: Em casa <br> Tempo: Durante todo o dia <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                                                                                                                                                                                                                                                |
+| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal da Lagoa da Prata                                                                                                                                                                                                                                                                                                                                                                          |
+| Ator       | Maria Arlete, buscando cadastrar um de seus filhos na creche.                                                                                                                                                                                                                                                                                                                                                                                             |
+| Episódios  | - Maria Arlete acessa o site <br> - Ela navega até a imagem de "cadastramento escolar 2024 creche" <br> - Ele clica na imagem "cadastramento escolar 2024 creche" <br> - Ele navega até a tabela "INFORMAÇÕES" <br> - Dentro da tabela "INFORMAÇÕES ela clica no botão "ACESSAR LISTA" <br> - Ela navega até o botão "Uma nova inscrição" <br> - Ela clica no botão "Uma nova inscrição" <br> - Ela começa a realizar a inscrição do filho na creche <br> |
+| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                                               |
+
+Tabela 6: Cadastrar filho na creche (Fonte: DOURADO, Pedro Lucas. 2024).
+</center>
+
+## Bibliografia
+[1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 06/05/2024.
 
 ## Historico de revisão
 
-|    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                Revisor(es)                 |
-| :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :----------------------------------------: |
-| 06/05/2024 | `1.0`  | Criação do documento | [Cainã Freitas](https://github.com/freitasc) |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 06/05/2024 | `1.1`  | Adição de Cenário    | [Joyce Dionizio](https://github.com/joycejdm)|       |  |
-| 06/05/2024 | `1.2`  | Adição de Cenário    | [Augusto Duarte](https://github.com/Augcamp) |       |  |
-| 06/05/2024 | `1.3`  | Adição de Cenário    | [Lucas Meireles](https://github.com/Katuner) |       |  |
+|    Data    | Versão |            Descrição             |                   Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :------------------------------: | :-------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 06/05/2024 | `1.0`  |       Criação do documento       | [Cainã Freitas](https://github.com/freitasc)  |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 06/05/2024 | `1.1`  |        Adição de Cenário         | [Joyce Dionizio](https://github.com/joycejdm) |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 06/05/2024 | `1.2`  |        Adição de Cenário         | [Augusto Duarte](https://github.com/Augcamp)  |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 06/05/2024 | `1.3`  |        Adição de Cenário         | [Lucas Meireles](https://github.com/Katuner)  |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 06/05/2024 | `1.4`  | Adição de Cenário e Bibliografia |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    |                                             |
