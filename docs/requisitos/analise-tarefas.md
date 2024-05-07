@@ -31,8 +31,6 @@
 <p> <b>Tabela 1</b>: Elementos de uma HTA (Fonte: FREITAS, Cainã. 2024). </p>
 </div>
 
-
-
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/elementosHTA.png" width="100%">
 
 <div align="center">
@@ -45,7 +43,35 @@
 </p>
 
 
-### Análise da Tarefa HTA 1: XXXXXXXXX
+### Análise da Tarefa HTA 1: Fazer Download da Última Movimentação de uma Licitação
+
+| Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
+|------------------------------------------------------|---------------|----------------------------------------------------------|
+| 0. Fazer Download da Última Movimentação de uma Licitação |1 > 2|       Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar para a seção de editais de licitações, Selecionar o edital desejado, Acessar o edital, Navegar para a seção de movimentações do edital, Fazer download da última movimentação. <br> Feedback: Download concluído da última movimentação.|
+|   1. Realizar login no site   | 1 > 2|    Plano: informar o cpf e depois a senha do gov.br. <br> Feedback: tela menu de Serviços Registrato. |
+|     1.1 Informar CPF | |           |
+|     1.2 Informar senha do gov.br   | |  |
+|   2. Navegar para a seção de editais de licitações ||   Plano: Clicar no botão que leva a tela de editais de licitações <br>Feedback: Tela que seleciona qual tela sobre os editais você quer ir  |
+|     2.1 Clicar no botão que leva a editais de licitações |  |     |
+|   2.2 Selecionar a página de editais de licitações   | | |
+|   2.3 Clicar no botão que leva a tela de editais de licitações   | | |
+|   3. Buscar o edital desejado com a ferramenta de consulta | |   Plano: Usar a ferramenta de consulta  <br>Feedback: Aparecer o edital esperado na tela de pesquisa |
+|     3.1. Inserir nome do edital ou outra característica | |  |
+|     3.2. Clicar em "Consultar"                       | |  |
+|   3.3 Acessar o edital selecionado                    | |        Plano: Acessar o edital para download   |
+|     3.4. Clicar no botão que leva ao edital selecionado | |  |
+|   4. Navegar para a seção de movimentações do edital | |    Plano: Navegar até a seção de movimentação, fazer download da movimentação|
+|     4.1. Clicar no botão que leva à seção de movimentações do edital | |                         |
+|     4.2. Clicar no botão de download do último movimento da licitação | |      
+
+<div align="center">
+<p> <b>Tabela 2</b>: HTA da Tarefa: Fazer Download da Última Movimentação de uma Licitação (Fonte: Heler, Lucas. 2024). </p>
+</div>
+
+<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA1.png" width="100%">
+<div align="center">
+<p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Fazer Download da Última Movimentação de uma Licitação </p>
+</div>
 
 ## CNM-GOMS
 
@@ -171,7 +197,8 @@ Goal 0: Cadastrar criança na creche
 |    Data    | Versão |           Descrição            |                   Autor(es)                   | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :----------------------------: | :-------------------------------------------: | :-------------: | :------------------------------------------: |
 | 06/05/2024 | `1.0`  |      Criação do documento      | [Cainã Freitas](https://github.com/freitasc)  |   07/05/2024    | [Lucas Meireles](https://github.com/Katuner) |
-| 06/05/2024 | `1.1`  |  Adição de Análise de Tarefas  | [Joyce Dionizio](https://github.com/joycejdm) |                 |                                              |
-| 06/05/2024 | `1.2`  | Adição de Análise de Tarefas 3 | [Augusto Duarte](https://github.com/Augcamp)  |                 |                                              |
-| 06/05/2024 | `1.3`  | Adição de Análise de Tarefas 4 | [Lucas Meireles](https://github.com/Katuner)  |                 |                                              |
-| 07/05/2024 | `1.4`  | Adição de Análise de Tarefas 5 |  [Pedro Lucas](https://github.com/lucasdray)  |                 |                                              |
+| 06/05/2024 | `1.1`  |  Adição de Análise de Tarefas  | [Joyce Dionizio](https://github.com/joycejdm) |                 |                                            |
+| 06/05/2024 | `1.2`  | Adição de Análise de Tarefas 3 | [Augusto Duarte](https://github.com/Augcamp)  |                 |                                            |
+| 06/05/2024 | `1.3`  | Adição de Análise de Tarefas 4 | [Lucas Meireles](https://github.com/Katuner)  |                 |                                            |
+| 07/05/2024 | `1.4`  | Adição de Análise de Tarefas 5 |  [Pedro Lucas](https://github.com/lucasdray)  |                 |                                            |
+| 07/05/2024 | `1.5`  | Adição de Análise de Tarefas HTA 1 |  [Lucas Heler](https://github.com/akaeboshi) |              |                                            |
