@@ -1,15 +1,11 @@
-<div class="body">
-
 # Análise de Tarefas
 
 ## Introdução
 
-<div align="justify">
-
 &emsp;&emsp;Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir. [1]
-
+<br>
 &emsp;&emsp;No contexto da análise de tarefas, uma abordagem valiosa é a identificação da situação atual, seja ela suportada ou não por um sistema computacional. Essa análise pode ser empregada tanto para o (re)design de sistemas quanto para avaliar os resultados de intervenções que incluam a introdução de novos sistemas computacionais. Um dos passos iniciais cruciais nesse processo é a coleta dos objetivos das pessoas ao interagirem com o sistema em análise.
-
+<br>
 &emsp;&emsp;O site da Prefeitura da Lagoa da Prata é um site majoritariamente informativo, disponibilizando de uma gama de informações. O usuário pode acessar informações como: Fila de espera de creches munipais; lista de medicamentos disponíveis; calendário de eventos relacionados ao municipio; entre outros tipos de informação.
 
 ## Metodologia
@@ -24,9 +20,7 @@
 
 &emsp;&emsp;A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 
-</div>
-
-| <p align="center">Elemento</p> | <p align="center">Descrição</p> | 
+| Elemento | Descrição | 
 | --                           | ---- | 
 | Tarefa: | Uma parte do trabalho que requer realização, frequentemente definida em termos de objetivos e subobjetivos. |
 | Objetivo: | Um estado específico, um estado final, determinado por eventos ou por valores observáveis de variáveis, que servem como critério para alcançar o objetivo. |
@@ -39,7 +33,7 @@
 
 
 
-<img title="a title" alt="Elementos HTA" src="../assets/images/analiseTarefas/elementosHTA.png" width="100%">
+<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/elementosHTA.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 1</b>: Elementos de um diagrama HTA </p>
@@ -132,6 +126,19 @@ Goal 0: Visualizar e baixar editais de concursos e processos seletivos
     OP: Na nova página, localizar “EDITAL” na parte inferior para acessar o PDF
     OP: Clicar no botão/link para abrir o PDF
 ```
+### Análise da Tarefa CNM-GOMS 4: Buscar vagas de emprego
+```
+Goal 0: Buscar quais vagas estão disponíveis para emprego no município
+  Goal 1: Encontrar serviços de pessoa física
+    METHOD 1.A: Encontrar através do menu "Serviços para o Cidadão"
+    (SEL.RULE: preferência do usuário)
+        OP: Levar cursor até ícone de "Menu" com todas as abas do site
+        OP: Clicar no item menu "VAGAS DE EMPREGO"
+  Goal 2: Verificar uma vaga ideal
+    OP: Na nova página, percorrer pelo arquivo.
+```
+
+
 
 
 
@@ -142,3 +149,4 @@ Goal 0: Visualizar e baixar editais de concursos e processos seletivos
 | 06/05/2024 | `1.0`  |        Criação do documento          |  [Cainã Freitas](https://github.com/freitasc) |      |  |
 | 06/05/2024 | `1.1`  |        Adição de Análise de Tarefas  |  [Joyce Dionizio](https://github.com/joycejdm)|      |  |
 | 06/05/2024 | `1.2`  |        Adição de Análise de Tarefas 3|  [Augusto Duarte](https://github.com/Augcamp) |      |  |
+| 06/05/2024 | `1.3`  |        Adição de Análise de Tarefas 4|  [Lucas Meireles](https://github.com/Katuner) |      |  |
