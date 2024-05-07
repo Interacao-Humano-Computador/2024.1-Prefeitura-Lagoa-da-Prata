@@ -111,12 +111,30 @@ Goal 0: Consultar quadro de vagas das creches municipais
     OP: Clicar no botão/link para abrir o PDF
 
 
+### Análise da Tarefa CNM-GOMS 3: Visualizar e baixar editais de concursos e processos seletivos
+Goal 0: Visualizar e baixar editais de concursos e processos seletivos
+  Goal 1: Acessar o site da prefeitura municipal
+    METHOD: Acessar atráves do menu “EDITAIS”
+        OP: Levar o cursor do mouse até o menu “EDITAIS” 
+        OP: Localizar Concursos e Processos Seletivos
+        OP: Levar o cursor do mouse até Concursos e Processos Seletivos
+        OP: Clicar com o botão esquerdo do mouse
+  Goal 2: Visualizar e baixar editais de concursos e processos seletivos
+    OP: Localizar o edital desejado
+    OP: Clicar com o botão esquerdo do mouse 
+    OP: Localizar “Arquivos”
+    OP: Levar o cursor do mouse até “Arquivos”
+    OP: Clicar com o botão esquerdo do mouse
+    OP: Na nova página, localizar “EDITAL” na parte inferior para acessar o PDF
+    OP: Clicar no botão/link para abrir o PDF
+
 
 
 
 ## Historico de revisão
 
-|    Data    | Versão |              Descrição              |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
-| :--------: | :----: | :---------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
-| 06/05/2024 | `1.0`  |        Criação do documento         |  [Cainã Freitas](https://github.com/freitasc) |      |  |
-| 06/05/2024 | `1.1`  |        Adição de Análise de Tarefas         |  [Joyce Dionizio](https://github.com/joycejdm) |      |  |
+|    Data    | Versão |              Descrição               |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
+| :--------: | :----: | :---------------------------------:  | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
+| 06/05/2024 | `1.0`  |        Criação do documento          |  [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 06/05/2024 | `1.1`  |        Adição de Análise de Tarefas  |  [Joyce Dionizio](https://github.com/joycejdm)|      |  |
+| 06/05/2024 | `1.2`  |        Adição de Análise de Tarefas 3|  [Augusto Duarte](https://github.com/Augcamp) |      |  |
