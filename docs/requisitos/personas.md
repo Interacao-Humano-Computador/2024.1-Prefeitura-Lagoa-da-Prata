@@ -82,6 +82,19 @@ No geral, a utilização de personas na construção de storyboards é uma abord
 <p> <b>Tabela 1</b>: Persona 2 (DUARTE, Augusto. 2024)</p>
 </div>
 
+|                      |                      |
+| :------------------  | :------------------  |
+| **Nome**             |  Maria Oliveira      |
+| **Foto**             | <img width="200" src="../assets/images/personas/maria-oliveira.jpeg"><p>Imagem 1 Maria Oliveira persona</p> |
+| **Descrição**        | Maria Oliveira, 45 anos, moradora de Lagoa da Prata. Mulher. Casada. |
+| **Status**           | Persona Primária.     |
+| **Objetivos**        | Maria busca acessar informações sobre serviços públicos, como a lista de medicamentos disponíveis, de forma fácil e rápida. |
+| **Habilidades**      | Maria tem habilidades domésticas e de organização, além de interesse em se informar sobre serviços públicos. |
+| **Tarefas**          | Maria cuida da casa, fazendo as tarefas domésticas e preparando as refeições. Também auxilia o marido nas finanças da casa. Gosta de se informar sobre serviços públicos disponíveis. |
+| **Relacionamentos**  | Maria tem três filhos adultos que não moram mais com ela. O marido trabalha como motorista de ônibus. |
+| **Requisitos**       | Deseja poder acessar a lista de medicamentos disponíveis de forma online, sem a necessidade de deslocamento até um posto de saúde. |
+| **Expectativas**     | Espera que o site da prefeitura seja intuitivo e forneça as informações desejadas de forma clara e acessível. |
+
 
 ## Historico de revisão
 
