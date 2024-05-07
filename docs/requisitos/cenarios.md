@@ -69,9 +69,29 @@ Tabela 3: Consultar Panorama Econômico (Fonte: DIONIZIO, Joyce. 2024).
 </center>
 
 
+### C03: Consultar edital de concursos e processos seletivos
+Abaixo se encontra a tabela que especifica o elemento e sua descrição.
+
+<center>
+
+| Elemento   | Descrição                                                                                                                                                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Objetivo   | Consultar os editais de concursos e processos seletivos.                                                                                                                                                                       |
+| Contexto   | Local: Em casa <br> Tempo: Durante todo o dia <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                     |
+| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                 |
+| Ator       | Diogo, buscando realizar concursos.                                                                                                                                                                                            |
+| Episódios  | - Diogo acessa o site <br> - Ele navega até "Edital" <br> - Ele clica em "Concursos e processos seletivos" <br> - Ele encontra informações que estava buscando sobre os concursos e processos seletivos <br>                   |
+| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                  |
+| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                               |
+
+Tabela 4: Consultar edital de concursos e processos seletivos (Fonte: DUARTE, Augusto. 2024).
+</center>
+
+
 ## Historico de revisão
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                Revisor(es)                 |
 | :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :----------------------------------------: |
 | 06/05/2024 | `1.0`  | Criação do documento | [Cainã Freitas](https://github.com/freitasc) |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 06/05/2024 | `1.2`  | Adição de Cenário | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
+| 06/05/2024 | `1.2`  | Adição de Cenário    | [Joyce Dionizio](https://github.com/joycejdm)|       |  |
+| 06/05/2024 | `1.3`  | Adição de Cenário    | [Augusto Duarte](https://github.com/Augcamp) |       |  |
