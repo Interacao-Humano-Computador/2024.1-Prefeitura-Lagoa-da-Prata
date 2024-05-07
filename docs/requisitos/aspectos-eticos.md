@@ -40,7 +40,7 @@ As diretrizes éticas são essenciais para a condução de pesquisas em IHC. Ao 
 
 ## Historico de revisão
 
-|    Data    | Versão |              Descrição              |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
-| :--------: | :----: | :---------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
-| 20/04/2024 | `1.0`  |        Criação do documento         |  [Joyce Dionizio](https://github.com/joycejdm) |   06/05/2024   | [Cainã Freitas](https://github.com/freitasc) |
-| 06/05/2024 | `1.1`  |        Atualização e reestruturação |  [Lucas Heler](https://github.com/Akaeboshi) e [Lucas Meireles](https://github.com/Katuner) |  |  |
+|    Data    | Versão |          Descrição           |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :--------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
+| 20/04/2024 | `1.0`  |     Criação do documento     |                       [Joyce Dionizio](https://github.com/joycejdm)                        |   06/05/2024    | [Cainã Freitas](https://github.com/freitasc) |
+| 06/05/2024 | `1.1`  | Atualização e reestruturação | [Lucas Heler](https://github.com/Akaeboshi) e [Lucas Meireles](https://github.com/Katuner) |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |

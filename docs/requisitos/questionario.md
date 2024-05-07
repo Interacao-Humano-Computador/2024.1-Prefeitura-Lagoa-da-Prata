@@ -138,9 +138,9 @@ A pesquisa foi realizada de forma online, onde o link do questionário foi repas
 
 ## Histórico de revisão
 
-|    Data    | Versão |      Descrição       |             Autor(es)              | Data de revisão | Revisor(es) |
-| :--------: | :----: | :------------------: | :--------------------------------: | :-------------: | :---------: |
-| 06/05/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/) |                 |             |
+|    Data    | Versão |      Descrição       |             Autor(es)              | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :------------------: | :--------------------------------: | :-------------: | :------------------------------------------: |
+| 06/05/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/) |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
 
 
 

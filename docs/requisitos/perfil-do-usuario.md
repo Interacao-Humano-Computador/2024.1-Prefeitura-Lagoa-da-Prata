@@ -62,4 +62,4 @@ Apesar de a maioria dos que responderam terem respondido não ter problemas com 
 |    Data    | Versão |      Descrição       |                   Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------: | :-------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 20/04/2024 | `1.0`  | Criação do documento | [Joyce Dionizio](https://github.com/joycejdm) |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 06/05/2024 | `1.1`  |    Reestruturação    |  [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
+| 06/05/2024 | `1.1`  |    Reestruturação    |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |

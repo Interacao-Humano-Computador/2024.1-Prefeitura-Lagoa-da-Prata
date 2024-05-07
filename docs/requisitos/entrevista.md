@@ -21,6 +21,6 @@ Abaixo temos um vídeo que apresenta a entrevista completa com as respostas do u
 
 ## Histórico de revisão
 
-|    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 06/05/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+|    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :------------------------------------------: |
+| 06/05/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
