@@ -65,7 +65,31 @@
 | METHOD   | Método           | Sequência de subobjetivos e operadores para atingir um objetivo maior |
 | SEL.RULE | Regra de seleção | Tomada de decisão sobre qual método utilizar                          |
 
-### Análise da Tarefa CNM-GOMS 1: XXXXXXXXX
+### Análise da Tarefa CNM-GOMS 1: Consultar quantidade de DIPIRONA na lista de medicamentos disponíveis
+```
+Goal 0: Consultar lista de medicamentos disponíveis
+  Goal 1: Encontrar serviços de pessoa física
+    METHOD 1.A: Encontrar através do menu GOVERNO
+    (SEL.RULE: peferência do usuário)
+        OP: Levar cursor até menu "SERVIÇOS PARA O CIDADÃO"
+        OP: Levar cursor até menu "LISTA DE MEDICAMENTOS DISPONIVEIS"
+        OP: Levar cursor até botão "ACESSAR"
+        OP: Clicar com o botão esquerdo do mouse
+    METHOD 1.B: Encontrar através da aba de pesquisa
+    (SEL.RULE: peferência do usuário)
+        OP: Levar cursor até barra de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Digitar "medicamentos"
+        OP: Levar cursor até botão de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Levar cursor até "LISTA DE MEDICAMENTOS DISPONIVEIS"
+  Goal 2: Pesquisar medicamento
+    OP: Apertar botões "CTRL" + "L"
+    OP: Digitar "DIPIRONA"
+    OP: Consultar valor no lado direito da lista
+```
+
+
 
 
 
