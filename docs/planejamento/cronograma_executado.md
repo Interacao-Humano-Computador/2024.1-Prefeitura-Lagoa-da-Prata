@@ -25,6 +25,28 @@ A seguir se encontra a Tabela 01 que dispõe o cronograma executado pela equipe 
 
 <center>Fonte: DOURADO, Pedro Lucas. 2024.</center>
 
+## Cronograma Ponto de Controle 2
+
+ - Entrega: 06/05/2024
+ - Apresentação: 07/05/2024
+ 
+A seguir se encontra a Tabela 02 que dispõe o cronograma executado pela equipe durante o ponto de controle 2.
+
+<center>Tabela 02 - Cronograma Executado Ponto de Controle 2</center>
+
+| <center>Atividade </center>                     | <center>Período de desenvolvimento</center> |                                <center>Responsável</center>                                | <center>Revisão </center> |          <center>Revisores</center>          |
+| ----------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
+| Correção dos artefatos Ponto de Controle 1      |                09/04/2024 - 10/04/2024                |                        [Pedro Lucas](https://github.com/lucasdray)                         |           06/05/2024           | [Lucas Meireles](https://github.com/Katuner) |
+| Criação do perfil do Usuário                    |                06/05/2024 - 06/05/2024                |     [Joyce](https://github.com/joycejdm) e [Pedro Lucas](https://github.com/lucasdray)     |                      | [Lucas Heler](https://github.com/Akaeboshi)  |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas |                06/05/2024 - 06/05/2024                | [Lucas Meireles](https://github.com/Katuner) e [Lucas Heler](https://github.com/Akaeboshi) |                      |     [Cainã](https://github.com/freitasc)     |
+| Análise de Tarefas                              |                06/05/2024 - 06/05/2024                |        [Augusto](https://github.com/Augcamp) e [Cainã](https://github.com/freitasc)        |                      |     [Joyce](https://github.com/joycejdm)     |
+| Atualização Gitpages                            |                06/05/2024 - 06/05/2024                |                        [Pedro Lucas](https://github.com/lucasdray)                         |                      |    [Augusto](https://github.com/Augcamp)     |
+| Gravação da apresentação                        |                06/05/2024 - 06/05/2024                |                        [Lucas Heler](https://github.com/Akaeboshi)                         |                      | [Pedro Lucas](https://github.com/lucasdray)  |
+| Edição da gravação                              |                06/05/2024 - 06/05/2024                |                            [Joyce](https://github.com/joycejdm)                            |                      |    [Augusto](https://github.com/Augcamp)     |
+| Cronograma Executado                            |                    06/05/2024 - 06/05/2024                    |                        [Pedro Lucas](https://github.com/lucasdray)                         |                      | [Lucas Heler](https://github.com/Akaeboshi)  |
+
+<center>Fonte: DOURADO, Pedro Lucas. 2024.</center>
+
 ## Bibliografia
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf. Acesso em: 04 de Abril de 2024;
@@ -35,5 +57,6 @@ A seguir se encontra a Tabela 01 que dispõe o cronograma executado pela equipe 
 | :--------: | :----: | :---------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
 | 04/04/2024 | `1.0`  |        Criação do documento         |  [Pedro Lucas](https://github.com/lucasdray)  |   07/04/2024    | [Augusto Duarte](https://github.com/Augcamp)  |
 | 07/04/2024 | `1.1`  |     Correção antes da gravação      | [Cainã Valença](https://github.com/freitasc)  |   07/04/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
-| 07/04/2024 | `1.2`  | Atualização após edição da gravação | [Joyce Dionizio](https://github.com/joycejdm) |   07/04/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
-| 09/04/2024 | `1.3`  |        Correção após entrega        |  [Pedro Lucas](https://github.com/lucasdray)  |                 |                                               |
+| 07/04/2024 | `1.2`  | Atualização após edição da gravação | [Joyce Dionizio](https://github.com/joycejdm) |   07/04/2024    | [Pedro Lucas](https://github.com/lucasdray)   |
+| 09/04/2024 | `1.3`  |        Correção após entrega        |  [Pedro Lucas](https://github.com/lucasdray)  |   06/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
+| 06/05/2024 | `1.4`  | Criação e registro do ponto de controle 2|  [Lucas Meireles](https://github.com/Katuner) |            |                                               |
