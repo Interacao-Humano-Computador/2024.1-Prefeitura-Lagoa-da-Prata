@@ -63,6 +63,24 @@ No geral, a utilização de personas na construção de storyboards é uma abord
 <p> <b>Tabela 1</b>: Persona 1 (FREITAS, Cainã. 2024)</p>
 </div>
 
+### João Marcos
+
+|                      |                      |
+| :------------------  | :------------------  |
+| **Nome**             |  João Marcos         |
+| **Foto**             | <img width="200" src="../assets/images/personas/joao-marcos.jpg"><p>Imagem 2 João Marcos persona</p> |
+| **Descrição**        | João Marcos, 19 anos, morador de Lagoa da Prata. Homem. Solteiro. |
+| **Status**           | Anti Persona.     |
+| **Objetivos**        | João Marcos não tem objetivos específicos ao acessar o site da Prefeitura Municipal de Lagoa da Prata, não está realmente interessado nos serviços ou informações oferecidas |
+| **Habilidades**      | João Marcos é estudante universitario, tem um entendimento profundo de tecnologia, familizarizado com a utilização de sistemas eletrônicos. |
+| **Tarefas**          | João Marcos não sente nenhum interesse em explorar o site da Prefeitura de Pato de Minas. Para ele, as informações disponíveis ali são irrelevantes para sua vida universitária e pessoal. Ele prefere confiar nos recursos oferecidos pela universidade e em outras fontes online para encontrar informações sobre eventos, serviços públicos. |
+| **Relacionamentos**  | João Marcos embora seja sociável e capaz de interagir com colegas e conhecidos, ele não prioriza muito a construção de um grande círculo, preferindo investir em si mesmo e em suas metas pessoais |
+| **Requisitos**       | Para João Marcos não há requisitos significativos, ela não vê necessidade ou utilidade em explorar as informações disponíveis no site |
+| **Expectativas**     | Não possui. |
+
+<div style="text-align: center">
+<p> <b>Tabela 1</b>: Persona 2 (DUARTE, Augusto. 2024)</p>
+</div>
 
 
 ## Historico de revisão
@@ -70,3 +88,4 @@ No geral, a utilização de personas na construção de storyboards é uma abord
 |    Data    | Versão |              Descrição              |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
 | :--------: | :----: | :---------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
 | 06/05/2024 | `1.0`  |        Criação do documento         |  [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 06/05/2024 | `1.1`  |        Adição anti persona          |  [Augusto Duarte](https://github.com/Augcamp) |      |  |
