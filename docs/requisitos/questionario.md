@@ -100,6 +100,49 @@ A pesquisa foi realizada de forma online, onde o link do questionário foi repas
 <div style="text-align:center">Imagem 12: Continuação dos objetivos do usuário. (Fonte: Dourado, Pedro Lucas. 2024) </div>
 </center>
 
+- Foi perguntado se o participante gosta de explroar outras funcionalidades que o site da Prefeitura Municipal oferece ou se usa sempre as mesmas, obtendo 22 respostas em que a maioria diz que utiliza sempre as mesmas, como mostra a imagem 13.
+
+<center>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/questionario/foto13.png" >
+
+<div style="text-align:center">Imagem 13: Explorar outras funcionalidades. (Fonte: Dourado, Pedro Lucas. 2024) </div>
+</center>
+
+- Perguntamos quais as funcionalidades que o participante mais utiliza, obtendo 15 respostas sendo mostradas nas imagens 14 e 15.
+
+<center>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/questionario/foto14.png" >
+
+<div style="text-align:center">Imagem 14: Funcionalidade do site. (Fonte: Dourado, Pedro Lucas. 2024) </div>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/questionario/foto15.png" >
+
+<div style="text-align:center">Imagem 15: Continuação da funcionalidade do site. (Fonte: Dourado, Pedro Lucas. 2024) </div>
+</center>
+
+- Perguntamos se algo durante o uso do site causou incômodo ao participante, obtivemos 22 respostas das quais a maioria foi não, como mostra a imagem 16.
+
+<center>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/questionario/foto16.png" >
+
+<div style="text-align:center">Imagem 16: Incomodo no uso do site. (Fonte: Dourado, Pedro Lucas. 2024) </div>
+</center>
+
+- E a ultima pergunta do questiónario mostrada para quem respondeu que sentiu incômodo no uso do site em que obtivemos 9 respostas mostradas na imagem 17.
+
+<center>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/questionario/foto17.png" >
+
+<div style="text-align:center">Imagem 17: Causa do incômodo (Fonte: Dourado, Pedro Lucas. 2024) </div>
+</center>
+
+## Histórico de revisão
+
+|    Data    | Versão |      Descrição       |             Autor(es)              | Data de revisão | Revisor(es) |
+| :--------: | :----: | :------------------: | :--------------------------------: | :-------------: | :---------: |
+| 06/05/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/) |                 |             |
+
+
 
 
 
