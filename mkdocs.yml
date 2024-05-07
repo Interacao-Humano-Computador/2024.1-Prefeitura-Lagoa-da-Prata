@@ -34,8 +34,7 @@ nav:
     - Entrevista: requisitos/entrevista.md
     - Cenários: requisitos/cenarios.md
     - Personas: requisitos/personas.md
-    - Análise Hierárquica de Tarefas: requisitos/tarefas.md
-    - GOMS: requisitos/goms.md
+    - Análise de Tarefas: requisitos/analise-tarefas.md
     
 theme:
   name: material
