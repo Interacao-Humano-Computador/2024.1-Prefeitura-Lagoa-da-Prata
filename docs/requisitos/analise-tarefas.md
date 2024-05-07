@@ -90,6 +90,8 @@ Goal 0: Consultar lista de medicamentos disponíveis
 ```
 
 ### Análise da Tarefa CNM-GOMS 2: Consultar Quadro de Vagas das Creches Municipais
+```
+
 Goal 0: Consultar quadro de vagas das creches municipais
   Goal 1: Encontrar serviços de pessoa física
     METHOD 1.A: Encontrar através do menu "Serviços para o Cidadão"
@@ -109,9 +111,11 @@ Goal 0: Consultar quadro de vagas das creches municipais
   Goal 2: Acessar quadro de vagas
     OP: Na nova página, visualizar um botão ou link para acessar o quadro de vagas em formato PDF
     OP: Clicar no botão/link para abrir o PDF
-
+```
 
 ### Análise da Tarefa CNM-GOMS 3: Visualizar e baixar editais de concursos e processos seletivos
+```
+
 Goal 0: Visualizar e baixar editais de concursos e processos seletivos
   Goal 1: Acessar o site da prefeitura municipal
     METHOD: Acessar atráves do menu “EDITAIS”
@@ -127,7 +131,7 @@ Goal 0: Visualizar e baixar editais de concursos e processos seletivos
     OP: Clicar com o botão esquerdo do mouse
     OP: Na nova página, localizar “EDITAL” na parte inferior para acessar o PDF
     OP: Clicar no botão/link para abrir o PDF
-
+```
 
 
 
