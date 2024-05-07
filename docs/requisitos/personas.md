@@ -73,19 +73,19 @@ No geral, a utilização de personas na construção de storyboards é uma abord
 | **Status**           | Anti Persona.     |
 | **Objetivos**        | João Marcos não tem objetivos específicos ao acessar o site da Prefeitura Municipal de Lagoa da Prata, não está realmente interessado nos serviços ou informações oferecidas |
 | **Habilidades**      | João Marcos é estudante universitario, tem um entendimento profundo de tecnologia, familizarizado com a utilização de sistemas eletrônicos. |
-| **Tarefas**          | João Marcos não sente nenhum interesse em explorar o site da Prefeitura de Pato de Minas. Para ele, as informações disponíveis ali são irrelevantes para sua vida universitária e pessoal. Ele prefere confiar nos recursos oferecidos pela universidade e em outras fontes online para encontrar informações sobre eventos, serviços públicos. |
+| **Tarefas**          | João Marcos não sente nenhum interesse em explorar o site da Prefeitura Municipal de Lagoa da Prata. Para ele, as informações disponíveis ali são irrelevantes para sua vida universitária e pessoal. Ele prefere confiar nos recursos oferecidos pela universidade e em outras fontes online para encontrar informações sobre eventos, serviços públicos. |
 | **Relacionamentos**  | João Marcos embora seja sociável e capaz de interagir com colegas e conhecidos, ele não prioriza muito a construção de um grande círculo, preferindo investir em si mesmo e em suas metas pessoais |
 | **Requisitos**       | Para João Marcos não há requisitos significativos, ela não vê necessidade ou utilidade em explorar as informações disponíveis no site |
 | **Expectativas**     | Não possui. |
 
 <div style="text-align: center">
-<p> <b>Tabela 1</b>: Persona 2 (DUARTE, Augusto. 2024)</p>
+<p> <b>Tabela 2</b>: Persona 2 (DUARTE, Augusto. 2024)</p>
 </div>
 
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  Maria Oliveira      |
-| **Foto**             | <img width="200" src="../assets/images/personas/maria-oliveira.jpeg"><p>Imagem 1 Maria Oliveira persona</p> |
+| **Foto**             | <img width="200" src="../assets/images/personas/maria-oliveira.jpeg"><p>Imagem 3. Maria Oliveira. Persona</p> |
 | **Descrição**        | Maria Oliveira, 45 anos, moradora de Lagoa da Prata. Mulher. Casada. |
 | **Status**           | Persona Primária.     |
 | **Objetivos**        | Maria busca acessar informações sobre serviços públicos, como a lista de medicamentos disponíveis, de forma fácil e rápida. |
@@ -95,6 +95,28 @@ No geral, a utilização de personas na construção de storyboards é uma abord
 | **Requisitos**       | Deseja poder acessar a lista de medicamentos disponíveis de forma online, sem a necessidade de deslocamento até um posto de saúde. |
 | **Expectativas**     | Espera que o site da prefeitura seja intuitivo e forneça as informações desejadas de forma clara e acessível. |
 
+<div style="text-align: center">
+<p> <b>Tabela 3</b>: Persona 3 (DIONIZIO, Joyce. 2024)</p>
+</div>
+
+
+|                      |                      |
+| :------------------  | :------------------  |
+| **Nome**             | Diego Lima       |
+| **Foto**             | <img width="200" src="../assets/images/personas/diego-lima.jpg"><p>Imagem 4. Diego Lima. Persona</p> |
+| **Descrição**        | Diego Lima, 18 anos, morador de Lagoa da Prata. Homem. Solteiro. Recém completou o Ensino Médio. |
+| **Status**           | Persona Primária.     |
+| **Objetivos**        | Diego busca auxiliar sua família e trazer uma renda para casa. Ele quer crescer como pessoa e ser capaz de providenciar ajuda sempre que possível a amigos. |
+| **Habilidades**      | Diego tem habilidades avançadas de navegação na internet e é capaz de atingir seus objetivos de busca com facilidade quando fazem parte de seu interesse. |
+| **Tarefas**          | Diego acessa o site da prefeitura para encontrar vagas de emprego, onde ele possa verificar todas as informações de salário, requisitos, local e contato. Ele realiza essa tarefa regularmente para buscar uma vaga que seja satisfatória às necessidades em casa. |
+| **Relacionamentos**  | Diego ainda possui contato com diversos colegas, porém boa parte desses estão em outros locais para cursar ensino superior. Ele também interage com membros da família, apesar de que a maioria não possui o mesmo nível de formação. |
+| **Requisitos**       | Consultar vagas de emprego que pode ingressar. |
+| **Expectativas**     | Informações de pagamento, localidade, fornecedor, horários, requisitos e contato ao fornecedor das vagas |
+
+<div style="text-align: center">
+<p> <b>Tabela 4</b>: Persona 4 (MEIRELES, Lucas. 2024)</p>
+</div>
+
 
 ## Historico de revisão
 
@@ -102,3 +124,4 @@ No geral, a utilização de personas na construção de storyboards é uma abord
 | :--------: | :----: | :---------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
 | 06/05/2024 | `1.0`  |        Criação do documento         |  [Cainã Freitas](https://github.com/freitasc) |      |  |
 | 06/05/2024 | `1.1`  |        Adição anti persona          |  [Augusto Duarte](https://github.com/Augcamp) |      |  |
+| 06/05/2024 | `1.2`  |        Adição de personas           |  [Lucas Meireles](https://github.com/Katuner) e [Cainã Freitas](https://github.com/freitasc) e [Joyce Dionizio](https://github.com/joycejdm) |   |   |
