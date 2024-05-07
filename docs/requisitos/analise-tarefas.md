@@ -138,15 +138,40 @@ Goal 0: Buscar quais vagas estão disponíveis para emprego no município
     OP: Na nova página, percorrer pelo arquivo.
 ```
 
+### Análise da Tarefa CNM-GOMS 5: Cadastrar criança na creche
+```
+Goal 0: Cadastrar criança na creche
+  OP. 0.1: Abrir o site da prefeitura municipal da Lagoa da Prata em um navegador web.
+  OP. 0.2: clicar na imagem "CADASTRAMENTO ESCOLAR 2024 CRECHE" localizada abaixo do menu suspenso principal.
+  Goal 1: Acessar inscrição e consulta
+    Method 1.A: descer a pagina utilizando roda do mouse
+      OP. 1.A.1: girar a roda do mouse para a trás
+      OP. 1.A.2: deslocar cursor até botão "ACESSAR LISTA"
+      OP. 1.A.3: clicar com botão esquerdo do mouse no botão "ACESSAR LISTA"
+    Method 1.B: descer a pagina barra lateral de navegação
+      OP. 1.B.1: deslocar cursor até a barra lateral
+      OP. 1.B.2: clicar e segurar com botão esquerdo na barra lateral
+      OP. 1.B.3: arrastar para baixo com botão esquerdo pressionado
+      OP. 1.B.4: deslocar cursor até botão "ACESSAR LISTA"
+      OP. 1.B.5: clicar com botão esquerdo do mouse no botão "ACESSAR LISTA"
 
+  Goal 2: Realizar nova inscrição
+    Op. 2.1: deslocar cursor até botão "Uma nova inscrição"
+    Op. 2.2: clicar com botão esquerdo no botão "Uma nova inscrição"
+    Op. 2.3: selecionar com botão direito uma das configurações
+    Op. 2.4: deslocar cursor até caixa quadrada do captcha
+    Op. 2.5: clicar com botão direito na caixa quadrada
+    Op. 2.6: deslocar cursor até botão "PROSSEGUIR"
+    Op. 2.7: clicar no botão "PROSSEGUIR"
 
-
+```
 
 ## Historico de revisão
 
-|    Data    | Versão |              Descrição               |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
-| :--------: | :----: | :---------------------------------:  | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
-| 06/05/2024 | `1.0`  |        Criação do documento          |  [Cainã Freitas](https://github.com/freitasc) |  07/05/2024     | [Lucas Meireles](https://github.com/Katuner)  |
-| 06/05/2024 | `1.1`  |        Adição de Análise de Tarefas  |  [Joyce Dionizio](https://github.com/joycejdm)|      |  |
-| 06/05/2024 | `1.2`  |        Adição de Análise de Tarefas 3|  [Augusto Duarte](https://github.com/Augcamp) |      |  |
-| 06/05/2024 | `1.3`  |        Adição de Análise de Tarefas 4|  [Lucas Meireles](https://github.com/Katuner) |      |  |
+|    Data    | Versão |           Descrição            |                   Autor(es)                   | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :----------------------------: | :-------------------------------------------: | :-------------: | :------------------------------------------: |
+| 06/05/2024 | `1.0`  |      Criação do documento      | [Cainã Freitas](https://github.com/freitasc)  |   07/05/2024    | [Lucas Meireles](https://github.com/Katuner) |
+| 06/05/2024 | `1.1`  |  Adição de Análise de Tarefas  | [Joyce Dionizio](https://github.com/joycejdm) |                 |                                              |
+| 06/05/2024 | `1.2`  | Adição de Análise de Tarefas 3 | [Augusto Duarte](https://github.com/Augcamp)  |                 |                                              |
+| 06/05/2024 | `1.3`  | Adição de Análise de Tarefas 4 | [Lucas Meireles](https://github.com/Katuner)  |                 |                                              |
+| 07/05/2024 | `1.4`  | Adição de Análise de Tarefas 5 |  [Pedro Lucas](https://github.com/lucasdray)  |                 |                                              |

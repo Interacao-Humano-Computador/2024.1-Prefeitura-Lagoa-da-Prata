@@ -30,11 +30,11 @@ nav:
     - Apresentação 1: apresentacoes/apresentacao1.md
   - Análise de requisitos:
     - Aspectos Éticos: requisitos/aspectos-eticos.md
-    - Perfil do Usuário: requisitos/perfil-do-usuario.md
     - Questionario: requisitos/questionario.md
     - Entrevista: requisitos/entrevista.md
-    - Cenários: requisitos/cenarios.md
+    - Perfil do Usuário: requisitos/perfil-do-usuario.md
     - Personas: requisitos/personas.md
+    - Cenários: requisitos/cenarios.md
     - Análise de Tarefas: requisitos/analise-tarefas.md
     
 theme:
