@@ -4,8 +4,10 @@ No desenvolvimento de interfaces de Interação Humano-Computador (IHC), é esse
 projetarem sistemas que atendam às necessidades e expectativas dos usuários.
 
 ## Metodologia
-Para traçar o perfil dos usuários do site da Prefeitura de Lagoa da Prata, utilizamos uma abordagem mista, combinando questionário e entrevista individuail. 
+Para traçar o perfil dos usuários do site da Prefeitura de Lagoa da Prata, utilizamos uma abordagem mista, combinando [questionário](questionario.md) e entrevista individual. 
 A entrevista permitiu aprofundar conhecimentos obtidos através dos questionários, explorando a frequência de uso do site, os objetivos de acesso, experiências de uso, percepções sobre a organização das informações, funcionalidades importantes, dificuldades enfrentadas, e a acessibilidade do site.
+
+
 
 ## Resultados das Entrevistas
 
