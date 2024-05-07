@@ -87,11 +87,30 @@ Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 Tabela 4: Consultar edital de concursos e processos seletivos (Fonte: DUARTE, Augusto. 2024).
 </center>
 
+### C04: Consultar vagas de emprego
+Abaixo se encontra a tabela que especifica o elemento e sua descrição.
+
+<center>
+
+| Elemento   | Descrição                                                                                                                                                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Objetivo   | Consultar as vagas de emprego em aberto                                                                                                                                                                       |
+| Contexto   | Local: Em casa <br> Tempo: Durante todo o dia <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                     |
+| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                 |
+| Ator       | Diego, buscando um serviço regular.                                                                                                                                                                                            |
+| Episódios  | - Diego acessa o site <br> - Ele navega até o ícone de "menu" com todas as funções <br> - Ele clica em "Vagas de Emprego" <br> - Ele encontra apenas algumas informações que estava buscando sobre as vagas <br>                   |
+| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                  |
+| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                               |
+
+Tabela 5: Busca de vagas de emprego (Fonte: Meireles, Lucas. 2024).
+</center>
+
 
 ## Historico de revisão
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                Revisor(es)                 |
 | :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :----------------------------------------: |
 | 06/05/2024 | `1.0`  | Criação do documento | [Cainã Freitas](https://github.com/freitasc) |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 06/05/2024 | `1.2`  | Adição de Cenário    | [Joyce Dionizio](https://github.com/joycejdm)|       |  |
-| 06/05/2024 | `1.3`  | Adição de Cenário    | [Augusto Duarte](https://github.com/Augcamp) |       |  |
+| 06/05/2024 | `1.1`  | Adição de Cenário    | [Joyce Dionizio](https://github.com/joycejdm)|       |  |
+| 06/05/2024 | `1.2`  | Adição de Cenário    | [Augusto Duarte](https://github.com/Augcamp) |       |  |
+| 06/05/2024 | `1.3`  | Adição de Cenário    | [Lucas Meireles](https://github.com/Katuner) |       |  |
