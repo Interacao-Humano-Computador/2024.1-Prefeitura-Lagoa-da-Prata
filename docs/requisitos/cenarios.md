@@ -8,7 +8,7 @@ Para cada cenário elaborado, é importante detalhar os elementos característic
 
 ## Metodologia
 
-Este artefato utiliza a metodologia de Cenários, baseada em histórias sobre pessoas realizando atividades, conforme descrito por Rosson e Carroll (2002). A modelagem dos cenários segue os princípios apresentados nos slides do capítulo 6 do livro "Interação Humano Computador" de Simone Barbosa, disponibilizados pelo professor André Barros.
+Este artefato utiliza a metodologia de Cenários, baseada em histórias sobre pessoas realizando atividades, conforme descrito por Rosson e Carroll (2002). A modelagem dos cenários segue os princípios apresentados nos slides do capítulo 6 do livro "Interação Humano Computador" de Simone Barbosa.
 
 ## Modelo de Cenário
 
@@ -88,22 +88,22 @@ Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 Tabela 4: Consultar edital de concursos e processos seletivos (Fonte: DUARTE, Augusto. 2024).
 </center>
 
-### C04: Consultar vagas de emprego
+### C04: Gerar evento pelo site
 Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 
 <center>
 
 | Elemento   | Descrição                                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Objetivo   | Consultar as vagas de emprego em aberto                                                                                                                                                                       |
-| Contexto   | Local: Em casa <br> Tempo: Durante todo o dia <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                     |
-| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                 |
-| Ator       | Diego, buscando um serviço regular.                                                                                                                                                                                            |
-| Episódios  | - Diego acessa o site <br> - Ele navega até o ícone de "menu" com todas as funções <br> - Ele clica em "Vagas de Emprego" <br> - Ele encontra apenas algumas informações que estava buscando sobre as vagas <br>                   |
-| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                  |
-| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                               |
+| Objetivo   | Gerar evento cultural e publicar no site da prefeitura                                                                                                                                                                       |
+| Contexto   | Local: Em escritório <br> Tempo: Turno da tarde <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                     |
+| Recursos   | Internet, computador e site da Prefeitura Municipal                                                                                                                                                                 |
+| Ator       | Diego, verificando a caixa de mensagens e confirmando a intenção de um ator externo à realizar um evento.                                                                                                                                                                                            |
+| Episódios  | - Diego acessa o email de contato <br> - Ele verifica um email que contém informações sobre a intenção de realização de um evento <br> - Ele repassa as informações aos superiores <br> - Ele recebe a resposta e indica ao remetente inicial a decisão <br> Em caso negativo, ele informa os motivos e finaliza sua função <br> Em caso positivo, ele reconfirma as informações, monta uma imagem para publicação e valida com o remetente inicial <br> Diego acessa o site da prefeitura <br> Ele navega ao menu completo e acessa a área de "Eventos" <br> Ele aperta no botão para adicionar um evento <br> Ele preenche os dados de imagem, data de ínicio e término e adiciona uma descrição ao evento <br> Por fim, ele confirma os dados novamente e realiza a postagem.   |
+| Restrições | Fluxo de navegação intuitivo, confirmação de dados de superiores.                                                                                                                                                                                                  |
+| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura, indivíduos secundários inalcançáveis.                                                                                                                                                                                               |
 
-Tabela 5: Busca de vagas de emprego (Fonte: Meireles, Lucas. 2024).
+Tabela 5: Gerar evento pelo site (Fonte: MEIRELES, Lucas. 2024).
 </center>
 
 ### C05: Gerar listagem de editais de licitação
@@ -136,3 +136,4 @@ Tabela 6: Cadastrar filho na creche (Fonte: DOURADO, Pedro Lucas. 2024).
 | 06/05/2024 | `1.2`  |        Adição de Cenário         | [Augusto Duarte](https://github.com/Augcamp)  |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 06/05/2024 | `1.3`  |        Adição de Cenário         | [Lucas Meireles](https://github.com/Katuner)  |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 06/05/2024 | `1.4`  | Adição de Cenário e Bibliografia |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    |   [Augusto Duarte](https://github.com/Augcamp)                                          |
+| 10/05/2024 | `1.5`  |        Correção pós entrega e edição de cenário         | [Lucas Meireles](https://github.com/Katuner)  |      |  |

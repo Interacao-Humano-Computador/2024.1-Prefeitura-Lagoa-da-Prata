@@ -32,6 +32,12 @@ A assinatura do Termo de Consentimento Livre e Esclarecido (TCLE) é fundamental
 ## Conclusão
 As diretrizes éticas são essenciais para a condução de pesquisas em IHC. Ao seguir os princípios éticos fundamentais, como a autonomia dos participantes para consentir livremente e retirar-se da pesquisa a qualquer momento, a busca pelo benefício com mínimo risco possível, a garantia de justiça na distribuição de ônus e benefícios, e o respeito absoluto à privacidade e confidencialidade das informações dos participantes, estamos fortalecendo a credibilidade da pesquisa em IHC.
 
+## Aplicação
+
+Para o projeto, visto que será necessário uma interação frequente com usuários do site avaliado, a equipe deverá sempre levar em consideração o bem estar dos entrevistados, deverão ser claros e concisos na explicação de seus propósitos e objetivos da entrevista, além de garantir e buscar melhor atender as necessidades e limitações do usuário, seja em questões de tempo, de forma de comunicação ou até no caso do mesmo optar por se retirar da pesquisa. É
+importante também que os membros do grupo estejam sempre atentos e façam as necessárias verificações ao TCLE para a participação de pessoas externas na 
+pesquisa.
+
 ## Referências Bibliográficas
 
 > [1] BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf> Acesso em: 06/05/2024.
@@ -44,3 +50,4 @@ As diretrizes éticas são essenciais para a condução de pesquisas em IHC. Ao 
 | :--------: | :----: | :--------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 20/04/2024 | `1.0`  |     Criação do documento     |                       [Joyce Dionizio](https://github.com/joycejdm)                        |   06/05/2024    | [Cainã Freitas](https://github.com/freitasc) |
 | 06/05/2024 | `1.1`  | Atualização e reestruturação | [Lucas Heler](https://github.com/Akaeboshi) e [Lucas Meireles](https://github.com/Katuner) |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 10/05/2024 | `1.2`  | Correção pós-entrega | [Lucas Meireles](https://github.com/Katuner) |    |    |

@@ -12,6 +12,9 @@
 
 &emsp;&emsp;A metodologia para o desenvolvimento das análises de tarefas foi estabelecida com o objetivo de explorar diversas técnicas, selecionando aquela mais adequada para cada tarefa em questão. As técnicas escolhidas foram a AHT (Análise Hierárquica de Tarefas) e o CMN-GOMS (Card, Moran e Newell GOMS). Essa análise é fundamental para identificar o fluxo de passos das tarefas, permitindo a identificação de áreas que necessitam de melhorias.
 
+Para este projeto, serão utilizadas ambas as técnicas mencionadas anteriormente, realizando uma ligação direta com os cenários estabelecidos e utilizando
+tarefas que podem ser associadas às personas declaradas. A forma da AHT será utilizada principalmente em tarefas complexas que não são repetitivas e podem assumir diversas dependências. Já o CMN-GOMS será utilizado como base geral para os cenários e análise das etapas para se alcançar o objetivo primário.
+
 ## HTA - Análise Hierárquica de Tarefas
 
 
@@ -152,16 +155,38 @@ Goal 0: Visualizar e baixar editais de concursos e processos seletivos
     OP: Na nova página, localizar “EDITAL” na parte inferior para acessar o PDF
     OP: Clicar no botão/link para abrir o PDF
 ```
-### Análise da Tarefa CNM-GOMS 4: Buscar vagas de emprego
+### Análise da Tarefa CNM-GOMS 4: Gerar novo evento no site
 ```
-Goal 0: Buscar quais vagas estão disponíveis para emprego no município
-  Goal 1: Encontrar serviços de pessoa física
-    METHOD 1.A: Encontrar através do menu "Serviços para o Cidadão"
-    (SEL.RULE: preferência do usuário)
-        OP: Levar cursor até ícone de "Menu" com todas as abas do site
-        OP: Clicar no item menu "VAGAS DE EMPREGO"
-  Goal 2: Verificar uma vaga ideal
-    OP: Na nova página, percorrer pelo arquivo.
+Goal 0: Criar um novo evento público no site
+  Goal 1: Receber informações de intenção de um novo evento
+    METHOD 1.A: Verificar mensagens sobre eventos já preparados
+        OP: Acessar mensagens dos encarregados de eventos
+        OP: Confirmar informações do evento
+    METHOD 1.B: Verificar a intenção de um indivíduo externo a realizar um evento
+    (SEL. RULE: Caso não tenha 1.B)
+      OP: Acessar a caixa de email
+      OP: Acessar um email e verificar os dados
+  Goal 2: Confirmar a disponibilidade do local na data e horário
+    
+    Goal 3: Acessar a aba de eventos
+      OP: Acessar a página inicial do site
+      OP: Mover o mouse até o menu geral
+      OP: Selecionar "Eventos", abaixo do tópico "A nossa cidade"
+    
+    METHOD 2.A: Verificação separada
+      OP: Mover a página até que se veja algum evento
+      OP: Comparar o local e data do evento com o que se deseja registrar
+      OP: Mover a página até o próximo evento e repetir
+    METHOD 2.B: Verificação pelo calendário
+      OP: Movimentar o mouse até a data inicial no calendário
+      OP: Verificar se algum evento irá aparecer
+      OP: Clicar no evento para confirmar horário e local
+  Goal 4: Registrar evento
+    OP: Movimentar o mouse até o botão de adicionar
+    OP: Escolher o arquivo de imagem
+    OP: Preencher os campos de data inicial e término
+    OP: Adicionar uma descrição ao evento
+    OP: Clicar para publicar o evento
 ```
 
 ### Análise da Tarefa CNM-GOMS 5: Gerar relatório de licitações em aberto em CSV
@@ -195,3 +220,4 @@ Goal 0: Gerar relatório de licitações em aberto
 | 06/05/2024 | `1.3`  |   Adição de Análise de Tarefas 4   | [Lucas Meireles](https://github.com/Katuner)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 07/05/2024 | `1.4`  |   Adição de Análise de Tarefas 5   |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Lucas Heler](https://github.com/akaeboshi)  |
 | 07/05/2024 | `1.5`  | Adição de Análise de Tarefas HTA 1 |  [Lucas Heler](https://github.com/akaeboshi)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega |  [Lucas Meireles](https://github.com/Katuner)  |       |   |

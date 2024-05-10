@@ -1,6 +1,15 @@
 ## Introdução
 A seguinte entrevista foi realizada com Marlucio Meireles, morador do Municipio de Lagoa da Prata, professor e usuário frequente do site da Prefeitura. Com objetivo de ajudar a definir o perfil do usuário do projeto.
 
+## Informações da entrevista
+
++ Nome completo do entrevistado : Marlucio Meireles
++ Idade do entrevistado : 56 anos.
++ Grau de escolaridade do entrevistado : Ensino superior completo.
++ Data e horário da entrevista : 17/04, 21:04 horas.
++ Duração da entrevista : 5 minutos e 12 segundos.
++ Ferramenta utilizada para a entrevista : Google Meet.
+
 ## Resultados das Entrevistas
 
 As seguintes perguntas foram utilizadas na entrevista com o usuário:
@@ -24,3 +33,4 @@ Abaixo temos um vídeo que apresenta a entrevista completa com as respostas do u
 |    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :------------------------------------------: |
 | 06/05/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
+| 10/05/2024 | `1.1`  | Correção pós-entrega | [Lucas Meireles](https://github.com/Katuner) |       |  |
