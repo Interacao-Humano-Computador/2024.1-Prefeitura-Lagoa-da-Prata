@@ -38,8 +38,8 @@ nav:
     - Análise de Tarefas: requisitos/analise-tarefas.md
     - Metas de Usabilidade: requisitos/metas-usabilidade.md
     - Principios Gerais: requisistos/principios.md
-    - Guias de Estilo: requisitos/guias.md
-    
+    - Guias de Estilo: requisitos/guia-de-estilo.md
+
 theme:
   name: material
   features:
