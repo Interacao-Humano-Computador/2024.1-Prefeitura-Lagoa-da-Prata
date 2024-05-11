@@ -36,6 +36,9 @@ nav:
     - Personas: requisitos/personas.md
     - Cenários: requisitos/cenarios.md
     - Análise de Tarefas: requisitos/analise-tarefas.md
+    - Metas de Usabilidade: requisitos/metas-usabilidade.md
+    - Principios Gerais: requisistos/principios.md
+    - Guias de Estilo: requisitos/guias.md
     
 theme:
   name: material
