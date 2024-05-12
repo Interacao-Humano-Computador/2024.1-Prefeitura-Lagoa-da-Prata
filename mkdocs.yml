@@ -28,17 +28,22 @@ nav:
     - Reunião 2: reunioes/reuniao_2.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
-  - Análise de requisitos:
-    - Aspectos Éticos: requisitos/aspectos-eticos.md
-    - Questionario: requisitos/questionario.md
-    - Entrevista: requisitos/entrevista.md
-    - Perfil do Usuário: requisitos/perfil-do-usuario.md
-    - Personas: requisitos/personas.md
-    - Cenários: requisitos/cenarios.md
-    - Análise de Tarefas: requisitos/analise-tarefas.md
-    - Metas de Usabilidade: requisitos/metas-usabilidade.md
-    - Principios Gerais: requisistos/principios.md
-    - Guias de Estilo: requisitos/guia-de-estilo.md
+  - Análise de requisitos I:
+    - Aspectos Éticos: requisitos1/aspectos-eticos.md
+    - Questionario: requisitos1/questionario.md
+    - Entrevista: requisitos1/entrevista.md
+    - Perfil do Usuário: requisitos1/perfil-do-usuario.md
+    - Personas: requisitos1/personas.md
+    - Cenários: requisitos1/cenarios.md
+    - Análise de Tarefas: requisitos1/analise-tarefas.md
+  - Análise de requisitos II:
+      - Principios Gerais: requisitos2/principios.md
+      - Metas de Usabilidade: requisitos2/metas-usabilidade.md
+      - Guias de Estilo: requisitos2/guia-de-estilo.md
+      - Caracteristicas da Plataforma Para o Projeto: requisitos2/caracteristicas.md
+
+
+
 
 theme:
   name: material
