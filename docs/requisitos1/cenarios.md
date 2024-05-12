@@ -124,6 +124,24 @@ A tabela abaixo especifica o elemento assim como a descrição do cenário espec
 Tabela 6: Cadastrar filho na creche (Fonte: DOURADO, Pedro Lucas. 2024).
 </center>
 
+### C06: Informar luminária queimada no Município
+A tabela abaixo especifica o elemento assim como a descrição do cenário especificado.
+
+<center>
+
+| Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Informar luminária queimada no Município                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Contexto   | Local: Perto do Poste da luminária ou em qualquer lugar <br> Tempo: No momento que identifica a luminária estragada ou depois com as informações dela em mãos <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                                                                                                                                                                                                                 |
+| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal da Lagoa da Prata                                                                                                                                                                                                                                                                                                                                                         |
+| Ator       | Lucas Oliveira, andando na rua achou uma luminaria queimada.                                                                                                                                                                                                                                                                                                                                                                  |
+| Episódios  | - Lucas  acessa o site <br> - Ele navega até o menu suspenso e passa o mouse no ícone do menu "hambúrguer" <br> - Ele clica na opção "Iluminação Pública" <br> - Ele navega até o formulário de "Iluminação Pública – Troca de Lâmpadas" <br> - Ele clica na caixa "Requerente" e insere seu nome completo <br> - Ele clica na caixa "E-mail " e insere seu E-mail <br>  - Ele clica na caixa "Número em frente ao Poste" e insere Número em frente ao Poste <br> - Ele clica na caixa "Endereço do Local do Serviço (poste)" e insere o Endereço do Local do poste <br> - Ele, opcionamente, clica na caixa "Bairro" e insere o bairro da luminária <br> - Ele clica em uma das 3 opções do Tipo de defeito referente ao estado do poste que estaria informando o mal-funcionamento <br> - Ele faz um Captcha Simples <br> Ele clica no botão enviar
+| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
+
+Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
+</center>
+
 ## Bibliografia
 [1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 06/05/2024.
 
@@ -136,4 +154,5 @@ Tabela 6: Cadastrar filho na creche (Fonte: DOURADO, Pedro Lucas. 2024).
 | 06/05/2024 | `1.2`  |            Adição de Cenário             | [Augusto Duarte](https://github.com/Augcamp)  |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 06/05/2024 | `1.3`  |            Adição de Cenário             | [Lucas Meireles](https://github.com/Katuner)  |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 06/05/2024 | `1.4`  |     Adição de Cenário e Bibliografia     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
-| 10/05/2024 | `1.5`  | Correção pós entrega e edição de cenário | [Lucas Meireles](https://github.com/Katuner)  |                 |                                              |
+| 10/05/2024 | `1.5`  | Correção pós entrega e edição de cenário | [Lucas Meireles](https://github.com/Katuner)  |    12/05/2024             |      [Lucas Heler](https://github.com/akaeboshi)                                        |
+| 12/05/2024 | `1.6`  | Adição de Cenário | [Lucas Heler](https://github.com/akaeboshi)  |                 |                                              |
