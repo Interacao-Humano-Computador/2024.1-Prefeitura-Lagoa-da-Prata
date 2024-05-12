@@ -48,6 +48,29 @@ A seguir se encontra a Tabela 02 que dispõe o cronograma executado pela equipe 
 
 <center>Fonte: DOURADO, Pedro Lucas. 2024.</center>
 
+## Cronograma Ponto de Controle 3
+
+ - Entrega: 13/05/2024
+ - Apresentação: 14/05/2024
+ 
+A seguir se encontra a Tabela 03 que dispõe o cronograma executado pela equipe durante o ponto de controle 3.
+
+<center>**Tabela 03 - Ponto de Controle 3**</center>
+
+| <center>Atividade </center>                  | <center>Período de desenvolvimento</center> |                                <center>Responsável</center>                                | <center>Revisão </center> |          <center>Revisores</center>          |
+| -------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
+| Correção dos artefatos Ponto de Controle 2   |   09/05/2024 - 11/05/2024  | [Lucas Meireles](https://github.com/Katuner) e  [Cainã](https://github.com/freitasc)  |          |         |
+| Princípios Gerais de Projeto                 |                11/05/2024                |     [Lucas Meireles](https://github.com/Katuner)      |              |                    |
+| Metas de usabilidade                         |                11/05/2024                | [Lucas Meireles](https://github.com/Katuner) e [Joyce](https://github.com/joycejdm) |       |       |
+| Guia de Estilo                               |                10/05/2024 - 12/05/2024                |        [Lucas Heler](https://github.com/Akaeboshi)  |     |       |
+| Características da plataforma para o projeto |    |   [Cainã](https://github.com/freitasc)  |       |   |
+| Atualização Gitpages                         |          |        |                      |   |
+| Gravação da apresentação                     |          |        |                      |   |
+| Edição da gravação                           |          |        |                      |   |
+| Cronograma Executado                         |     09/05/2024 - 13/05/2024      | [Lucas Meireles](https://github.com/Katuner) |    |  |
+
+<center>Fonte: MEIRELES, Lucas Oliveira. 2024.</center>
+
 ## Bibliografia
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf. Acesso em: 04 de Abril de 2024;
@@ -61,3 +84,4 @@ A seguir se encontra a Tabela 02 que dispõe o cronograma executado pela equipe 
 | 07/04/2024 | `1.2`  |    Atualização após edição da gravação    | [Joyce Dionizio](https://github.com/joycejdm) |   07/04/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
 | 09/04/2024 | `1.3`  |           Correção após entrega           |  [Pedro Lucas](https://github.com/lucasdray)  |   06/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
 | 06/05/2024 | `2.0`  | Criação e registro do ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |   07/05/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
+| 11/05/2024 | `3.0`  | Criação e registro do ponto de controle 3 | [Lucas Meireles](https://github.com/Katuner)  |       |    |

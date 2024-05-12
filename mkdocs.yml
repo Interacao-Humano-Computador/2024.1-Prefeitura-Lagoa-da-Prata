@@ -37,9 +37,9 @@ nav:
     - Cenários: requisitos/cenarios.md
     - Análise de Tarefas: requisitos/analise-tarefas.md
     - Metas de Usabilidade: requisitos/metas-usabilidade.md
-    - Principios Gerais de Projeto: requisistos/principios-gerais-projeto.md
-    - Guias de Estilo: requisitos/guias-estilo.md
-    
+    - Principios Gerais: requisitos/principios.md
+    - Guias de Estilo: requisitos/guia-de-estilo.md
+
 theme:
   name: material
   features:
