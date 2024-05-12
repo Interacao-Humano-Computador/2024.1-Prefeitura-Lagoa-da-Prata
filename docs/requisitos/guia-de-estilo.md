@@ -28,6 +28,17 @@ Este guia pode ser utilizado como referência para decisões de design ao longo 
 
 É crucial atualizar o guia de estilo sempre que a equipe (alunos, designers e desenvolvedores do site da Prefeitura Municipal de Lagoa da Prata) tomar decisões que afetem o projeto de Interação Humano-Computador, garantindo que todas as alterações estejam alinhadas com as diretrizes estabelecidas. Isso assegura a consistência visual e de interação em todo o sistema, promovendo a melhor experiência do usuário e evitando problemas de usabilidade e acessibilidade.
 
+<p style="text-align: center"></p>
+
+<div style="text-align:center;">
+  <p style="text-align:center;">Figura 1 - Elementos da Interface.<br>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/0f038721fb8b91e7cac8b2271fff0c368adc706f/docs/assets/images/Guia%20de%20Estilo%20do%20site%20da%20Prefeitura%20Lagoa%20Da%20Prata%20(1).png" alt="TCLE" width = 100%> <br>
+  Fonte: <a href="https://github.com/akaeboshi">Lucas Heler, 2024.</a>
+  Acesso: <a href="https://www.figma.com/file/N86XvihjYQG2uF5JLT437N/Guia-de-Estilo-do-site-da-Prefeitura-Lagoa-Da-Prata?type=whiteboard&node-id=0%3A1&t=gBGtnA4X10YLJeJv-1">Site com o Guia de estilo</a>
+
+  </p>
+</div>
+
 
 ## Referências Bibliográficas
 
@@ -38,3 +49,4 @@ Este guia pode ser utilizado como referência para decisões de design ao longo 
 |    Data    | Versão |          Descrição           |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 11/05/2024 | `1.0`  |     Criação do documento     |                       [Lucas Heler](https://github.com/akaeboshi)                        |      |  |
+| 12/05/2024 | `1.1`  |    Atualização com o figma do Guia de Estilo do Site    |                       [Lucas Heler](https://github.com/akaeboshi)                        |      |  |
