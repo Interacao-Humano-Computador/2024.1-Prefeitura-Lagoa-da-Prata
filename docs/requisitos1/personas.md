@@ -27,13 +27,13 @@ As personas podem ser aplicadas em diferentes fases do projeto para auxiliar na 
 ## Metodologias
 
 
-Cada projeto possui seu próprio conjunto de personas, variando de três a 12 personas, conforme sugerido por Courage e Baxter. No caso deste projeto, foram definidas cinco personas após análise dos perfis de usuário da Prefeitura Municipal de Lagoa da Prata, incluindo quatro personas para abranger os diferentes papéis de usuários identificados e uma persona que representa um usuário que não se encaixa nos perfis identificados.
+Cada projeto possui seu próprio conjunto de personas, variando de três a 12 personas, conforme sugerido por Courage e Baxter. No caso deste projeto, foram definidas seis personas após análise dos perfis de usuário da Prefeitura Municipal de Lagoa da Prata, incluindo quatro personas para abranger os diferentes papéis de usuários identificados e uma persona que representa um usuário que não se encaixa nos perfis identificados.
 
 As personas são fundamentais para a construção de storyboards, instrumentos que serão utilizados para este projeto, pois representam usuários fictícios e fornecem insights sobre suas necessidades, comportamentos e metas. Os storyboards, por sua vez, consistem em sequências de ilustrações que descrevem a interação do usuário com um produto ou serviço ao longo do tempo, identificando pontos problemáticos e oportunidades de melhoria. A ligação entre personas e storyboards é crucial para garantir que o design do produto seja centrado no usuário, personalizando os storyboards de acordo com as personas para garantir relevância e representatividade das expectativas dos usuários. Em resumo, a utilização de personas na construção de storyboards é uma abordagem estratégica e eficaz para o desenvolvimento de produtos centrados no usuário, permitindo antecipar problemas e identificar oportunidades de melhoria durante o processo de design.
 
 ## Definição das Personas
 
-Com base no perfil do usuário e nas tarefas primárias identificadas, foram definidas cinco personas para o projeto. A quantidade de personas foi escolhida visando torná-las memoráveis e próximas à equipe, evitando um elenco muito extenso que poderia distanciar a equipe das personas. As personas foram elaboradas após discussão em grupo e representam diferentes segmentos do público-alvo.
+Com base no perfil do usuário e nas tarefas primárias identificadas, foram definidas seis personas para o projeto. A quantidade de personas foi escolhida visando torná-las memoráveis e próximas à equipe, evitando um elenco muito extenso que poderia distanciar a equipe das personas. As personas foram elaboradas após discussão em grupo e representam diferentes segmentos do público-alvo.
 
 ### Eduardo Silva
 
@@ -125,6 +125,24 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 <p> <b>Tabela 5</b>: Persona 5 (DOURADO, Pedro Lucas. 2024)</p>
 </div>
 
+### Lucas Oliveira
+
+| **Nome**            | Lucas Oliveira                                                                                                                                                                                                                                                                 |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/personas/oliveira.png"><p>Imagem 6. Lucas Oliveira. Persona</p>                                                               |
+| **Descrição**       | Lucas Oliveira, 32 anos, morador de Lagoa da Prata. Homem. Solteiro. Pai de três filhas pequena.                                                                                                                                                                                  |
+| **Status**          | Persona Primária.                                                                                                                                                                                                                                                               |
+| **Objetivos**       | Lucas precisa acessar o site da prefeitura para verificar a fila de espera das creches municipais, com o objetivo de matricular suas filhas. Ele também deseja utilizar o site para pagar contas e consultar as datas de vencimento de impostos municipais.                        |
+| **Habilidades**     | Lucas possui habilidades intermediárias de navegação na internet e é confortável com o uso de aplicativos de smartphone. Ele tem experiência em realizar pagamentos online, mas procura uma experiência simples e eficiente ao utilizar serviços municipais online.                  |
+| **Tarefas**         | Lucas precisa regularmente verificar a lista de espera das creches municipais para planejar a matrícula de suas filhas. Além disso, ele deseja acessar informações sobre seus pagamentos e impostos municipais através do site da prefeitura.                                      |
+| **Relacionamentos** | Lucas mantém um círculo social diversificado, incluindo amigos, familiares e colegas de trabalho. Ele valoriza a praticidade e eficiência ao utilizar serviços online, especialmente considerando seu papel como pai solteiro com responsabilidades familiares.             |
+| **Requisitos**      | Verificar a fila de espera das creches municipais para matricular sua filhas. Realizar pagamentos de contas e consultar datas de vencimento de impostos municipais através do site da prefeitura.                                                                              |
+| **Expectativas**    | Lucas espera uma interface do site intuitiva e fácil de usar, que ofereça informações claras sobre a fila de espera das creches e permita o acesso rápido e seguro às informações de pagamento e impostos.|
+
+<div style="text-align: center">
+<p> <b>Tabela 6</b>: Persona 6 (Heler, Lucas. 2024)</p>
+</div>
+
 
 ## Historico de revisão
 
@@ -133,4 +151,5 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 | 06/05/2024 | `1.0`  | Criação do documento |                                                                      [Cainã Freitas](https://github.com/freitasc)                                                                      |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 06/05/2024 | `1.1`  | Adição anti persona  |                                                                      [Augusto Duarte](https://github.com/Augcamp)                                                                      |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 06/05/2024 | `1.2`  |  Adição de personas  | [Lucas Meireles](https://github.com/Katuner), [Cainã Freitas](https://github.com/freitasc), [Joyce Dionizio](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 10/05/2024 | `1.3`  | Correção pós entrega e ajuste de persona |  [Lucas Meireles](https://github.com/Katuner)  |       |            |
+| 10/05/2024 | `1.3`  | Correção pós entrega e ajuste de persona |  [Lucas Meireles](https://github.com/Katuner)  |   12/05/2024    |  [Lucas Heler](https://github.com/akaeboshi)      |
+| 12/05/2024 | `1.4`  | Adição de persona |  [Lucas Heler](https://github.com/akaeboshi)  |       |            |
