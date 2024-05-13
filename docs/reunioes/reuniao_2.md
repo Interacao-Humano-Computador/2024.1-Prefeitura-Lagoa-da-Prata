@@ -19,8 +19,6 @@
 A reunião foi registrada para que os membros pudessem verificar o feedback recebido a respeito da primeira entrega do trabalho. Dado os diversos tópicos para correção, foram
 atribuídos os itens de correção e responsáveis de acordo com a Tabela 1 a seguir:
 
-<p style="text-align:center;">Tabela 1 - Itens de revisão e responsáveis primários <br>
-
 |    Item a ser trabalhado    | Responsável primário pela correção |
 | :-------------------------: | :--------------------------------: |
 | Motivação e critérios de escolha do site | [Lucas Heler](https://github.com/Akaeboshi) |
@@ -38,9 +36,10 @@ atribuídos os itens de correção e responsáveis de acordo com a Tabela 1 a se
 | Correção do link de gravação da primeira apresentação | [Pedro Lucas Dourado](https://github.com/lucasdray) |
 | Quesitos de Pair Programming | [Joyce Dionizio](https://github.com/joycejdm) |
 
+
 ## 4. Histórico de Versões
 |    Data    | Versão |          Descrição          |                      Autor(es)                      | Data de revisão | Revisor(es) |
 | :--------: | :----: | :-------------------------: | :-------------------------------------------------: | :-------------: | :---------: |
-| 19/04/2024 | `1.0`  | Versão inicial de documento | [Lucas Meireles](https://github.com/Katuner)        |                 |             |
+| 19/04/2024 | `1.0`  | Versão inicial de documento | [Lucas Meireles](https://github.com/Katuner)        |  13/05/2024               |  [Joyce Dionizio](https://github.com/joycejdm)            |
 
 
