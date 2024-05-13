@@ -49,7 +49,22 @@ Para garantir a manuntenção adequada e que os aspectos descritos sejam seguido
 
 
 ## Resultado da análise
-Como observado
+
+Ao analisarmos como os usuários utilizam o site da Prefeitura Municipal de Lagoa da Prata, percebemos o seguinte:
+
+- **Dispositivos e Resolução:** A maioria dos acessos ocorre por meio de smartphones, com resoluções variadas, geralmente na proporção de 9:16 a 9:21. É essencial adaptar o design do site para garantir que o conteúdo seja apresentado de forma clara e organizada em telas de diferentes tamanhos.
+
+- **Navegadores:** Embora não tenhamos informações específicas sobre os navegadores usados, observamos que o Google Chrome, Safari e Microsoft Edge são comuns entre os usuários. Portanto, o site deve ser compatível e testado em diferentes navegadores para proporcionar uma experiência consistente.
+
+- **Sistemas Operacionais:** Os sistemas Android e iOS são os mais utilizados em dispositivos móveis, enquanto Windows, macOS e Linux são predominantes em computadores. Garantir que o site funcione bem em todos esses sistemas é crucial para atender a diversos tipos de usuários.
+
+- **Periféricos:** Os usuários interagem com o site utilizando uma variedade de periféricos, como telas sensíveis ao toque, teclados virtuais e físicos. É importante projetar a interface levando em consideração esses diferentes métodos de interação.
+
+- **Conectividade:** Embora muitos acessem o site por meio de dispositivos móveis, é necessário considerar que as conexões de internet podem variar. O site deve ser otimizado para carregamento rápido, especialmente em conexões mais lentas ou instáveis.
+
+- **Contexto de Uso:** Os usuários acessam o site para diversas finalidades, desde consultar informações sobre impostos e notícias locais até realizar cadastros e acessar documentos oficiais. É fundamental projetar a interface pensando na diversidade de usos e garantir a facilidade de acesso às informações.
+
+## Elementos da Interface
 
 <p style="text-align: center"></p>
 
@@ -75,4 +90,5 @@ Como observado
 | :--------: | :----: | :------------------------------------------------------------------------------: | :-----------------------------------------: | :-------------: | :-----------------------------------------: |
 | 11/05/2024 | `1.0`  |                               Criação do documento                               | [Lucas Heler](https://github.com/akaeboshi) |   12/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 12/05/2024 | `1.1`  |                Atualização com o figma do Guia de Estilo do Site                 | [Lucas Heler](https://github.com/akaeboshi) |   12/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 12/05/2024 | `1.2`  | Reestruturação de toda a página, adição de referências bibliográficas adicionais | [Pedro Lucas](https://github.com/lucasdray) |                 |                                             |
+| 12/05/2024 | `1.2`  | Reestruturação dos tópicos da página, adição de referências bibliográficas adicionais | [Pedro Lucas](https://github.com/lucasdray) |                 |                                             |
+| 12/05/2024 | `1.3`  | Adicionado Resultado da Análise | [Lucas Heler](https://github.com/akaeboshi) |                 |                                             |
