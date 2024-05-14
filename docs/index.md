@@ -65,4 +65,4 @@ Tabela 1: Equipe de trabalho
 | :--------: | :----: | :-------------------------------: | :-----------------------------------------: | :-------------: | :------------------------------------------: |
 | 27/03/2024 | `1.0`  |    Versão inicial de documento    | [Pedro Lucas](https://github.com/lucasdray) |   27/03/2024    | [Augusto Campos](https://github.com/Augcamp) |
 | 04/04/2024 | `1.1`  | Correção Fonte e link Integrante  | [Pedro Lucas](https://github.com/lucasdray) |   07/04/2024    | [Cainã Freitas](https://github.com/freitasc) |
-| 15/04/2024 | `2.0`  | Padronização fonte e titulo tabel | [Pedro Lucas](https://github.com/lucasdray) |                 |                                              |
+| 15/04/2024 | `2.0`  | Padronização fonte e titulo tabel | [Pedro Lucas](https://github.com/lucasdray) |   13/05/2024    | [Augusto Campos](https://github.com/Augcamp) |
