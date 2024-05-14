@@ -18,11 +18,11 @@ O método Scrum é um conjunto de práticas que visa o desenvolvimento de projet
 ## Reuniões
 Planning e Review: Terça-Feira
 
-## Política de Commits
-Quase sempre deve-se abrir um pull request, em especial, nas seguintes ocasiões:
+## Pair Programming
+Para projetos que envolvem principalmente documentação e não código, o conceito de pair programming pode ser adaptado para atividades colaborativas de revisão, edição e melhoria da documentação.
 
-Quando for enviar correções simples.
-No momento que for dar assistência à alguma contribuição na qual já está sendo trabalhada em alguma issue.
+### Revisão em Dupla
+Realize revisões conjuntas da documentação, onde um membro da equipe revise o trabalho do outro em tempo real.
 
 ## Histórico de Versões
 |    Data    | Versão |          Descrição          |                      Autor(es)                      | Data de revisão | Revisor(es) |
@@ -30,6 +30,7 @@ No momento que for dar assistência à alguma contribuição na qual já está s
 | 13/05/2024 | `1.0`  | Versão inicial de documento | [Joyce Dionizio](https://github.com/joycejdm)        |                |             |
 | 13/05/2024 | `1.1`  | Definição da Metodologia | [Joyce Dionizio](https://github.com/joycejdm)        |                |             |
 | 13/05/2024 | `1.2`  | Adiciona Equipe Scrum    |   [Joyce Dionizio](https://github.com/joycejdm)              |             |
+| 13/05/2024 | `1.3`  | Adiciona Pair Programming    |   [Joyce Dionizio](https://github.com/joycejdm)              |             |
 
 ## Bibliografia
 >ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 16/04/2023.
