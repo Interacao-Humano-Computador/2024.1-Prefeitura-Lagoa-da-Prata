@@ -71,7 +71,8 @@ Os elementos de interface, interação e ação podem ser observados no projeto 
 
 <div style="text-align:center;">
   <p style="text-align:center;">Figura 1 - Elementos da Interface.<br>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/0f038721fb8b91e7cac8b2271fff0c368adc706f/docs/assets/images/Guia%20de%20Estilo%20do%20site%20da%20Prefeitura%20Lagoa%20Da%20Prata%20(1).png" alt="TCLE" width = 100%> <br>
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fboard%2FN86XvihjYQG2uF5JLT437N%2FGuia-de-Estilo-do-site-da-Prefeitura-Lagoa-Da-Prata%3Fnode-id%3D0%253A1%26t%3DqXTLb5FzUtVBG7A3-1" allowfullscreen></iframe>
+  <br>
   Fonte: <a href="https://github.com/akaeboshi">Lucas Heler, 2024.</a>
   Acesso: <a href="https://www.figma.com/file/N86XvihjYQG2uF5JLT437N/Guia-de-Estilo-do-site-da-Prefeitura-Lagoa-Da-Prata?type=whiteboard&node-id=0%3A1&t=gBGtnA4X10YLJeJv-1">Site com o Guia de estilo</a>
 
@@ -80,14 +81,16 @@ Os elementos de interface, interação e ação podem ser observados no projeto 
 
 <p style="text-align: center"></p>
 
+<!---
 <div style="text-align:center;">
   <p style="text-align:center;">Figura 2 - Elementos da Interface.<br>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/35316f2094d59f446f9981bff5143ae6d2d48bf1/docs/assets/images/grid.png" alt="TCLE" width = 100%> <br>
   Fonte: <a href="https://github.com/akaeboshi">Lucas Heler, 2024.</a>
   Acesso: <a href="https://www.figma.com/file/N86XvihjYQG2uF5JLT437N/Guia-de-Estilo-do-site-da-Prefeitura-Lagoa-Da-Prata?type=whiteboard&node-id=0%3A1&t=gBGtnA4X10YLJeJv-1">Site com o Guia de estilo</a>
-
   </p>
 </div>
+-->
+
 
 ## Conclusão
 
@@ -98,9 +101,9 @@ Ao seguir o guia de estilo, os desenvolvedores, designers e demais equipes envol
 ## Referências Bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
-> 
+
 > [2] Marcus, A. Graphic Design for Electronic Documents and User Interfaces. New York, NY: Th e ACM Press, 1992.
-> 
+
 > [3] Mayhew, D. Th e Usability Engineering Lifecycle: a practitioner’s handbook for user interface design. San Francisco, CA: Morgan Kaufmann, 1999.
 
 ## Historico de revisão
