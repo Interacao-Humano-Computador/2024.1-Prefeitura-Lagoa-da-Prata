@@ -64,5 +64,5 @@ Com base na análise, as metas que devem ser focadas para melhorar a usabilidade
 | 11/05/2024 | `1.0`  | Criação do documento | [Joyce Dionizio](https://github.com/joycejdm) | 11/05/2024 | [Lucas Meireles](https://github.com/Katuner) |
 | 11/05/2024 | `1.1`  | Adição da estrutura do documento | [Joyce Dionizio](https://github.com/joycejdm) | 11/05/2024 | [Lucas Meireles](https://github.com/Katuner) |
 | 11/05/2024 | `1.2`  | Definição das Metas de Usabilidade|[Joyce Dionizio](https://github.com/joycejdm) | 11/05/2024 | [Lucas Meireles](https://github.com/Katuner) |
-| 11/05/2024 | `1.3`  | Ajuste de referencial e nomes | [Lucas Meireles](https://github.com/Katuner)|          |              |
-| 11/05/2024 | `1.4`  | Ajuste de escrita e de metas | [Lucas Meireles](https://github.com/Katuner) |          |              |
+| 11/05/2024 | `1.3`  | Ajuste de referencial e nomes | [Lucas Meireles](https://github.com/Katuner)| 13/05/2024      | [Augusto Duarte ](https://github.com/Augcamp)|
+| 11/05/2024 | `1.4`  | Ajuste de escrita e de metas | [Lucas Meireles](https://github.com/Katuner) | 13/05/2024      | [Augusto Duarte ](https://github.com/Augcamp)|

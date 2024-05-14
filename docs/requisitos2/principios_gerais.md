@@ -112,5 +112,5 @@ Por fim, tratamos também de projeções para um erro, isto é, levar em conside
 
 |    Data    | Versão |      Descrição       |        Autor(es)            | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------: | --------------------------: | :-------------: | :-----------------------------------------: |
-| 11/05/2024 | `1.0`  | Criação do documento |  [Joyce Dionizio](https://github.com/joycejdm) |       |                                    |
-| 11/05/2024 | `1.1`  | Elaboração do documento |  [Lucas Meireles](https://github.com/Katuner) |     |                                    |
+| 11/05/2024 | `1.0`  | Criação do documento |  [Joyce Dionizio](https://github.com/joycejdm) | 13/05/2024       | [Augusto Duarte](https://github.com/Augcamp)|
+| 11/05/2024 | `1.1`  | Elaboração do documento |  [Lucas Meireles](https://github.com/Katuner) | 13/05/2024     | [Augusto Duarte](https://github.com/Augcamp)|
