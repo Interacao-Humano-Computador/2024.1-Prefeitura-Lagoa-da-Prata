@@ -7,11 +7,17 @@ Para alcançar tais objetivos, é fundamental contar com um guia de estilo que o
 ## Objetivos do Guia de Estilo
 
 O propósito deste guia de estilo é oferecer diretrizes e práticas recomendadas para o design e desenvolvimento de interfaces de usuário eficazes e usáveis na área de Interação Humano-Computador (IHC). Marcus [3] apresenta os elementos que um guia de estilo deve seguir. A seguir é listado os elementos que fazem parte de um guia de estilo:
+
 - **Layout**:  proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas;
+  
 - **Tipografia e seu uso em diálogos, formulários e relatórios;**: estilos de interação, seleção de estilo, aceleradores (atalhos);
+  
 - **Simbolismo**: clareza e consistência no design de ícones;
+  
 - **Cores**: os dez mandamentos sobre o uso de cores;
+  
 - **Visualização de informação**: design de gráficos, diagramas e mapas;
+  
 - **Design de telas e elementos de interface (widgets).**
 
 ## Organização e Conteúdo do Guia de Estilo
@@ -27,11 +33,10 @@ O público-alvo deste guia de estilo são os desenvolvedores, designers e equipe
 - **Designers**: estão envolvidos na concepção e na criação de protótipos da interface, assegurando que os princípios de design sejam aplicados de maneira adequada.
 - **Equipe de suporte**: é incumbida de fornecer assistência técnica e manter a consistência do design durante todo o ciclo de vida da aplicação, desde o desenvolvimento até a manutenção.
 
-
 Os utilizadores do guia devem referenciá-lo ao longo do desenvolvimento da aplicação, aderindo às orientações definidas para assegurar uma interface que seja fácil de usar, acessível e eficaz. Adicionalmente, eles têm a oportunidade de enriquecer o guia, partilhando feedback, ideias e atualizações com base nas suas vivências e descobertas.
 
-
 ## Como Utilizar o Guia
+
 ### **Em produção**
 
 Este guia pode ser utilizado como referência para decisões de design ao longo de todo o ciclo de vida do projeto de Interação Humano-Computador, incluindo as fases de produção e manutenção. As diretrizes e práticas recomendadas aqui fornecem orientação para tomada de decisões de design, visando garantir que a interface resultante atenda às necessidades dos usuários finais, promovendo uma interação eficaz e satisfatória com o sistema.
@@ -91,6 +96,21 @@ Os elementos de interface, interação e ação podem ser observados no projeto 
 </div>
 -->
 
+## Vocabulário e Padrões
+
+O guia de estilo estabelece diretrizes para o vocabulário e os padrões a serem seguidos neste projeto:
+
+# Terminologia
+
+- Durante este projeto, é essencial considerar a consistência na terminologia utilizada pelos usuários. Recomenda-se ao designer avaliar cuidadosamente as semelhanças e diferenças nos termos, priorizando o uso de linguagem mais comum para garantir a intuitividade do sistema. Isso contribui para uma interação mais consistente e eficaz com o usuário.
+
+# Tipos de Telas (para tarefas comuns)
+
+- Todas as telas desenvolvidas devem aderir aos padrões definidos no guia de estilo. Ao criar uma página, é importante selecionar a interface apropriada com base no conteúdo. Além disso, é crucial seguir os padrões estabelecidos para os elementos de interface, interação e ação, conforme especificado no Figma.
+
+# Sequências de Diálogos
+
+- As sequências de diálogos devem incluir feedbacks e confirmações após a finalização ou realização de uma operação. É importante fornecer ao usuário um retorno adequado sobre o status da operação e garantir que ele esteja ciente das ações realizadas. Esse feedback de realização será fornecido por meio da conclusão da operação; todas devem possuir um resultado após qualquer operação feita. No caso de feedback de erro, o usuário deve ser informado sobre o erro ocorrido na tela, por exemplo, quando o preenchimento de campos está incorreto, o feedback deve ser exibido em vermelho acima ou abaixo do campo.
 
 ## Conclusão
 
@@ -106,6 +126,8 @@ Ao seguir o guia de estilo, os desenvolvedores, designers e demais equipes envol
 
 > [3] Mayhew, D. Th e Usability Engineering Lifecycle: a practitioner’s handbook for user interface design. San Francisco, CA: Morgan Kaufmann, 1999.
 
+> [4] FIGMA. Disponível em: FIGMA. Acesso em: 12 de Maio de 2023.
+
 ## Historico de revisão
 
 |    Data    | Versão |                                       Descrição                                       |                  Autor(es)                  | Data de revisão |                 Revisor(es)                 |
@@ -114,4 +136,4 @@ Ao seguir o guia de estilo, os desenvolvedores, designers e demais equipes envol
 | 12/05/2024 | `1.1`  |                   Atualização com o figma do Guia de Estilo do Site                   | [Lucas Heler](https://github.com/akaeboshi) |   12/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 12/05/2024 | `1.2`  | Reestruturação dos tópicos da página, adição de referências bibliográficas adicionais | [Pedro Lucas](https://github.com/lucasdray) |   12/05/2024    | [Lucas Heler](https://github.com/akaeboshi) |
 | 12/05/2024 | `1.3`  |                            Adicionado Resultado da Análise                            | [Lucas Heler](https://github.com/akaeboshi) |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 13/05/2024 | `1.4`  | Adicionado novamente o Resultado da Análise, Adicionado a parte de disposição e grid  | [Lucas Heler](https://github.com/akaeboshi) |                 |                                             |
+| 13/05/2024 | `1.4`  | Adicionado novamente o Resultado da Análise, Adicionado a parte de disposição e grid  | [Lucas Heler](https://github.com/akaeboshi) |   13/05/2024    | [Lucas Meireles](https://github.com/katuner), [Pedro Lucas](https://github.com/lucasdray), [Lucas Heler](https://github.com/akaeboshi), [Joyce Dionizio](https://github.com/joycejdm), [Cainã Freitas](https://github.com/freitasc), [Augusto Duarte](https://github.com/Augcamp) |
