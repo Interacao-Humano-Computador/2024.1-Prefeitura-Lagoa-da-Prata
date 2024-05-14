@@ -29,7 +29,7 @@ No momento que for dar assistência à alguma contribuição na qual já está s
 | :--------: | :----: | :-------------------------: | :-------------------------------------------------: | :-------------: | :---------: |
 | 13/05/2024 | `1.0`  | Versão inicial de documento | [Joyce Dionizio](https://github.com/joycejdm)        |                |             |
 | 13/05/2024 | `1.1`  | Definição da Metodologia | [Joyce Dionizio](https://github.com/joycejdm)        |                |             |
-| 13/05/2024 | `1.2`  | Adiciona Equipe Scrum [Joyce Dionizio](https://github.com/joycejdm)        |                |             |
+| 13/05/2024 | `1.2`  | Adiciona Equipe Scrum    |   [Joyce Dionizio](https://github.com/joycejdm)              |             |
 
 ## Bibliografia
 >ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 16/04/2023.
