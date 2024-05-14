@@ -8,21 +8,21 @@ Para alcançar tais objetivos, é fundamental contar com um guia de estilo que o
 
 O propósito deste guia de estilo é oferecer diretrizes e práticas recomendadas para o design e desenvolvimento de interfaces de usuário eficazes e usáveis na área de Interação Humano-Computador (IHC). Marcus [3] apresenta os elementos que um guia de estilo deve seguir. A seguir é listado os elementos que fazem parte de um guia de estilo:
 
-- **Layout**:  proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas;
+- **Layout:**  proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas;
   
-- **Tipografia e seu uso em diálogos, formulários e relatórios;**: estilos de interação, seleção de estilo, aceleradores (atalhos);
+- **Tipografia e seu uso em diálogos, formulários e relatórios:** estilos de interação, seleção de estilo, aceleradores (atalhos);
   
-- **Simbolismo**: clareza e consistência no design de ícones;
+- **Simbolismo:** clareza e consistência no design de ícones;
   
-- **Cores**: os dez mandamentos sobre o uso de cores;
+- **Cores:** os dez mandamentos sobre o uso de cores;
   
-- **Visualização de informação**: design de gráficos, diagramas e mapas;
+- **Visualização de informação:** design de gráficos, diagramas e mapas;
   
 - **Design de telas e elementos de interface (widgets).**
 
 ## Organização e Conteúdo do Guia de Estilo
 
-O guia de estilo do site da Prefeitura Municipal de Lagoa da Prata foi elaborado seguindo a estrutura proposta por Marcus[2] e Mayhew[3], sendo dividios em tópicos (ntrodução, Resultados de análise, Elementos de interface, Elementos de interação, Elementos de ação e Vocabulário e padrões) e subtópicos (elementos descritos de um guia de estilo).
+O guia de estilo do site da Prefeitura Municipal de Lagoa da Prata foi elaborado seguindo a estrutura proposta por Marcus[2] e Mayhew[3], sendo divididos em tópicos (Introdução, Resultados de análise, Elementos de interface, Elementos de interação, Elementos de ação e Vocabulário e padrões) e subtópicos (elementos descritos de um guia de estilo).
 O objetivo deste artefato é padronizar tanto a interação do site como a aparência para que possa ser garantida uma boa experiência do usuário sendo ela consistente e de alta qualidade.
 
 ## Público-alvo do Guia de Estilo

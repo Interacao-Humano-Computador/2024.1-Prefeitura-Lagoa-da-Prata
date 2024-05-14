@@ -1,7 +1,7 @@
 # Apresentação 01
 
 ## Introdução
-Este documento contém o vídeo de apresentação do ponto de control 1 da matéria de Interação Humano Computador e a tabela que valida a entrega.
+Este documento contém o vídeo de apresentação do ponto de controle 1 da matéria de Interação Humano Computador e a tabela que valida a entrega.
 
 ## Vídeo da apresentação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Koyh0fGpyys?si=7sbi9JkolYy1zKlj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

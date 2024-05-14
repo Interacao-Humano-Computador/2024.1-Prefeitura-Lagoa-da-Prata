@@ -84,4 +84,4 @@ A seguir se encontra a Tabela 03 que dispõe o cronograma executado pela equipe 
 | 09/04/2024 | `1.3`  |                Correção após entrega                |  [Pedro Lucas](https://github.com/lucasdray)  |   06/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
 | 06/05/2024 | `2.0`  |      Criação e registro do ponto de controle 2      | [Lucas Meireles](https://github.com/Katuner)  |   07/05/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
 | 11/05/2024 | `3.0`  |      Criação e registro do ponto de controle 3      | [Lucas Meireles](https://github.com/Katuner)  |   12/05/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
-| 13/05/2024 | `3.1`  | Finalização cronograma executado ponto de control 3 |  [Pedro Lucas](https://github.com/lucasdray)  |      13/05/2024           |                                               |
+| 13/05/2024 | `3.1`  | Finalização cronograma executado ponto de control 3 |  [Pedro Lucas](https://github.com/lucasdray)  |   13/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |

@@ -212,12 +212,12 @@ Goal 0: Gerar relatório de licitações em aberto
 
 ## Historico de revisão
 
-|    Data    | Versão |             Descrição              |                   Autor(es)                   | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :--------------------------------: | :-------------------------------------------: | :-------------: | :------------------------------------------: |
-| 06/05/2024 | `1.0`  |        Criação do documento        | [Cainã Freitas](https://github.com/freitasc)  |   07/05/2024    | [Lucas Meireles](https://github.com/Katuner) |
-| 06/05/2024 | `1.1`  |    Adição de Análise de Tarefas    | [Joyce Dionizio](https://github.com/joycejdm) |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 06/05/2024 | `1.2`  |   Adição de Análise de Tarefas 3   | [Augusto Duarte](https://github.com/Augcamp)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 06/05/2024 | `1.3`  |   Adição de Análise de Tarefas 4   | [Lucas Meireles](https://github.com/Katuner)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 07/05/2024 | `1.4`  |   Adição de Análise de Tarefas 5   |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Lucas Heler](https://github.com/akaeboshi)  |
-| 07/05/2024 | `1.5`  | Adição de Análise de Tarefas HTA 1 |  [Lucas Heler](https://github.com/akaeboshi)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega |  [Lucas Meireles](https://github.com/Katuner)  |       |   |
+|    Data    | Versão |                               Descrição                                |                   Autor(es)                   | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :--------------------------------------------------------------------: | :-------------------------------------------: | :-------------: | :------------------------------------------: |
+| 06/05/2024 | `1.0`  |                          Criação do documento                          | [Cainã Freitas](https://github.com/freitasc)  |   07/05/2024    | [Lucas Meireles](https://github.com/Katuner) |
+| 06/05/2024 | `1.1`  |                      Adição de Análise de Tarefas                      | [Joyce Dionizio](https://github.com/joycejdm) |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 06/05/2024 | `1.2`  |                     Adição de Análise de Tarefas 3                     | [Augusto Duarte](https://github.com/Augcamp)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 06/05/2024 | `1.3`  |                     Adição de Análise de Tarefas 4                     | [Lucas Meireles](https://github.com/Katuner)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 07/05/2024 | `1.4`  |                     Adição de Análise de Tarefas 5                     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Lucas Heler](https://github.com/akaeboshi)  |
+| 07/05/2024 | `1.5`  |                   Adição de Análise de Tarefas HTA 1                   |  [Lucas Heler](https://github.com/akaeboshi)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
