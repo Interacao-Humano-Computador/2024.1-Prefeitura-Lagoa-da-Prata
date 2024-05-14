@@ -47,10 +47,25 @@ Para garantir a manuntenção adequada e que os aspectos descritos sejam seguido
 - **Revisão Regular**: Toda vez que houver decisões de design ou desenvolvimento que impactem o site, é necessário atualizar o guia de estilo para refletir tais mudanças. Garantindo que esteja alinhado com as últimas atualizações do projeto e com as tendências de design.
 - **Monitoramento de mudanças**: Sempre que possível coletar feedback dos usuários para que possa ser feito propostas atualização para o guia, uma vez aceitas a documentação deve ser feita imediatamente para evitar problemas de padronização.
 
+## Resultados de análise
+
+Ao analisarmos como os usuários utilizam o site da Prefeitura Municipal de Lagoa da Prata, percebemos o seguinte:
+
+- **Dispositivos e Resolução:** A maioria dos acessos ocorre por meio de smartphones, com resoluções variadas, geralmente na proporção de 9:16 a 9:21. É essencial adaptar o design do site para garantir que o conteúdo seja apresentado de forma clara e organizada em telas de diferentes tamanhos.
+
+- **Navegadores:** Embora não tenhamos informações específicas sobre os navegadores usados, observamos que o Google Chrome, Safari e Microsoft Edge são comuns entre os usuários. Portanto, o site deve ser compatível e testado em diferentes navegadores para proporcionar uma experiência consistente.
+
+- **Sistemas Operacionais:** Os sistemas Android e iOS são os mais utilizados em dispositivos móveis, enquanto Windows, macOS e Linux são predominantes em computadores. Garantir que o site funcione bem em todos esses sistemas é crucial para atender a diversos tipos de usuários.
+
+- **Periféricos:** Os usuários interagem com o site utilizando uma variedade de periféricos, como telas sensíveis ao toque, teclados virtuais e físicos. É importante projetar a interface levando em consideração esses diferentes métodos de interação.
+
+- **Conectividade:** Embora muitos acessem o site por meio de dispositivos móveis, é necessário considerar que as conexões de internet podem variar. O site deve ser otimizado para carregamento rápido, especialmente em conexões mais lentas ou instáveis.
+
+- **Contexto de Uso:** Os usuários acessam o site para diversas finalidades, desde consultar informações sobre impostos e notícias locais até realizar cadastros e acessar documentos oficiais. É fundamental projetar a interface pensando na diversidade de usos e garantir a facilidade de acesso às informações.
 
 ## Elementos de interface, interação e ação
 
-Os elementos de interface, interação e ação podem ser observados no projeto elaborado através do sítio eletrônico Figma, localizado abaixo:
+Os elementos de interface, interação e ação podem ser observados no projeto elaborado através do site Figma, localizado abaixo:
 
 <p style="text-align: center"></p>
 
@@ -63,20 +78,29 @@ Os elementos de interface, interação e ação podem ser observados no projeto 
   </p>
 </div>
 
+<p style="text-align: center"></p>
+
+<div style="text-align:center;">
+  <p style="text-align:center;">Figura 2 - Elementos da Interface.<br>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/35316f2094d59f446f9981bff5143ae6d2d48bf1/docs/assets/images/grid.png" alt="TCLE" width = 100%> <br>
+  Fonte: <a href="https://github.com/akaeboshi">Lucas Heler, 2024.</a>
+  Acesso: <a href="https://www.figma.com/file/N86XvihjYQG2uF5JLT437N/Guia-de-Estilo-do-site-da-Prefeitura-Lagoa-Da-Prata?type=whiteboard&node-id=0%3A1&t=gBGtnA4X10YLJeJv-1">Site com o Guia de estilo</a>
+
+  </p>
+</div>
+
 ## Conclusão
 
 Neste projeto, elaboramos um guia de estilo para direcionar o design e a interação em um projeto de Interação Humano-Computador (IHC). O objetivo central do guia foi abordar e corrigir os erros identificados na Avaliação Heurística do site, além de refletir os princípios gerais do projeto, com foco em aprimorar a usabilidade e a experiência do usuário.
 
 Ao seguir o guia de estilo, os desenvolvedores, designers e demais equipes envolvidas no projeto terão o suporte necessário para criar interfaces consistentes e intuitivas, alinhadas com as expectativas e necessidades dos usuários. Além disso, o guia serve como uma referência valiosa para a manutenção contínua do projeto, garantindo que as futuras alterações estejam em conformidade com as diretrizes estabelecidas.
 
-
-
-
-
 ## Referências Bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+> 
 > [2] Marcus, A. Graphic Design for Electronic Documents and User Interfaces. New York, NY: Th e ACM Press, 1992.
+> 
 > [3] Mayhew, D. Th e Usability Engineering Lifecycle: a practitioner’s handbook for user interface design. San Francisco, CA: Morgan Kaufmann, 1999.
 
 ## Historico de revisão
@@ -87,3 +111,4 @@ Ao seguir o guia de estilo, os desenvolvedores, designers e demais equipes envol
 | 12/05/2024 | `1.1`  |                   Atualização com o figma do Guia de Estilo do Site                   | [Lucas Heler](https://github.com/akaeboshi) |   12/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 12/05/2024 | `1.2`  | Reestruturação dos tópicos da página, adição de referências bibliográficas adicionais | [Pedro Lucas](https://github.com/lucasdray) |   12/05/2024    | [Lucas Heler](https://github.com/akaeboshi) |
 | 12/05/2024 | `1.3`  |                            Adicionado Resultado da Análise                            | [Lucas Heler](https://github.com/akaeboshi) |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 13/05/2024 | `1.4`  | Adicionado novamente o Resultado da Análise, Adicionado a parte de disposição e grid  | [Lucas Heler](https://github.com/akaeboshi) |                 |                                             |
