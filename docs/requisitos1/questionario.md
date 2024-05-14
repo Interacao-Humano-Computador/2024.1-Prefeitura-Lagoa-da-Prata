@@ -11,7 +11,7 @@ Este questionário teve como objetivo identificar o perfil dos possíveis usuár
 + Forma de distribuição : Forma interpessoal, via compartilhamento por aplicativo de mensagens, entre moradores da cidade de Lagoa da Prata.
 
 ## Comunidade de pesquisa
-A pesquisa foi realizada de forma online, onde o link do questionário foi repassado através de grupos online de WhatsApp para que moradores e usuários que utilizam ou utilizaram o site da prefeitura possam responder. O contato inicial foi feito ao entrevistado, [Marlucio Meireles](../requisitos/entrevista.md) e então repassados a conhecidos dentro da cidade de Lagoa da Prata.
+A pesquisa foi realizada de forma online, onde o link do questionário foi repassado através de grupos online de WhatsApp para que moradores e usuários que utilizam ou utilizaram o site da prefeitura possam responder. O contato inicial foi feito ao entrevistado, [Marlucio Meireles](https://www.youtube.com/embed/8nhkA2m-Um0?si=Gt1cWd3pgZWlabQW) e então repassados a conhecidos dentro da cidade de Lagoa da Prata.
 
 ## Perfil dos participantes
 - Coletamos a resposta dos participantes de que estão de acordo em fornecer seus dados para a pesquisa totalizando 27 respostas que estavam de acordo, como pode ser observado na Figura 01.

@@ -38,7 +38,7 @@ nav:
     - Cenários: requisitos1/cenarios.md
     - Análise de Tarefas: requisitos1/analise-tarefas.md
   - Análise de requisitos II:
-      - Principios Gerais: requisitos2/principios.md
+      - Principios Gerais: requisitos2/principios_gerais.md
       - Metas de Usabilidade: requisitos2/metas-usabilidade.md
       - Guias de Estilo: requisitos2/guia-de-estilo.md
       - Caracteristicas da Plataforma Para o Projeto: requisitos2/caracteristicas.md
