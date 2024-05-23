@@ -40,5 +40,5 @@ A seguir se encontra a Tabela 1, que foi feita com base nos critérios de avalia
 
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 09/04/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 15/04/2024 | `2.0`  | Adição video e correção link vazio | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 09/04/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |  22/05/2024    | [Lucas Meireles](https://github.com/Katuner) |
+| 15/04/2024 | `2.0`  | Adição video e correção link vazio | [Pedro Lucas](https://github.com/lucasdray) |  22/05/2024    | [Lucas Meireles](https://github.com/Katuner) |

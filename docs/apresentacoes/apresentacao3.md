@@ -1,4 +1,4 @@
-# Apresentação 01
+# Apresentação 03
 
 ## Introdução
 Este documento contém o vídeo de apresentação do ponto de controle 3 da matéria de Interação Humano Computador e a tabela que valida a entrega.
@@ -36,4 +36,4 @@ A seguir se encontra a Tabela 1, que foi feita com base nos critérios de avalia
 
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 13/05/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 13/05/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |  22/05/2024     | [Lucas Meireles](https://github.com/Katuner)  |
