@@ -144,6 +144,24 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 </div>
 
 
+### Denise Oliveira Pereira 
+
+| **Nome**            | Denise Oliveira Pereira                                                                                                                                                                                                                                                                 |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/personas/denise.png"><p>Imagem 7. Augusto Duarte. Persona</p>                                                               |
+| **Descrição**       | Denise Oliveira, 43 anos, moradora de Lagoa da Prata. Mulher. Solteira.                                                                                                                                                                                  |
+| **Status**          | Persona Primária.                                                                                                                                                                                                                                                               |
+| **Objetivos**       | Denise formada em pedagogia, escolheu se tornar funcionária publica, com objetivo de conseguir estabilidade financeira.                        |
+| **Habilidades**     | Denise tem habilidades básicas de navegação na internet. Denise também é professora em uma escola pública.                  |
+| **Tarefas**         | Denise acessa o site da prefeitura para poder acessar seus processos de servidora através do contra cheque. Ele realiza essa tarefa regularmente para gerenciar seus processos. Por ser funcionária pública, também constantemente precisa acessar o contra cheque para ver seu extrato de pagamento                                     |
+| **Relacionamentos** | Denise mantém um círculo social amplo. Ela também interage muito com seus colegas de trabalho.             |
+| **Requisitos**      | Acessar seus processos de servidora através do contra cheque.                                                                              |
+| **Expectativas**    | Facilidade de acesso, informações relevantes, intuitivo, com interface fácil de usar para pessoas com conhecimento de navegação básica. |
+
+<div style="text-align: center">
+<p> <b>Tabela 7</b>: Persona 7 (Duarte, Augusto. 2024)</p>
+</div>
+
 ## Historico de revisão
 
 |    Data    | Versão |      Descrição       |                                                                                       Autor(es)                                                                                        | Data de revisão |                 Revisor(es)                 |
