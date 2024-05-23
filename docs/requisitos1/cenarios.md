@@ -88,22 +88,22 @@ Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 Tabela 4: Consultar edital de concursos e processos seletivos (Fonte: DUARTE, Augusto. 2024).
 </center>
 
-### C04: Gerar evento pelo site
+### C04: Registrar e verificar o panorama de saúde da cidade
 Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 
 <center>
 
 | Elemento   | Descrição                                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Objetivo   | Gerar evento cultural e publicar no site da prefeitura                                                                                                                                                                       |
-| Contexto   | Local: Em escritório <br> Tempo: Turno da tarde <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                     |
+| Objetivo   | Registrar e verificar o panorama de saúde da cidade                                                                                                                                                                       |
+| Contexto   | Local: Em casa <br> Tempo: Sem especificação <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                     |
 | Recursos   | Internet, computador e site da Prefeitura Municipal                                                                                                                                                                 |
-| Ator       | Diego, verificando a caixa de mensagens e confirmando a intenção de um ator externo à realizar um evento.                                                                                                                                                                                            |
-| Episódios  | - Diego acessa o email de contato <br> - Ele verifica um email que contém informações sobre a intenção de realização de um evento <br> - Ele repassa as informações aos superiores <br> - Ele recebe a resposta e indica ao remetente inicial a decisão <br> Em caso negativo, ele informa os motivos e finaliza sua função <br> Em caso positivo, ele reconfirma as informações, monta uma imagem para publicação e valida com o remetente inicial <br> Diego acessa o site da prefeitura <br> Ele navega ao menu completo e acessa a área de "Eventos" <br> Ele aperta no botão para adicionar um evento <br> Ele preenche os dados de imagem, data de ínicio e término e adiciona uma descrição ao evento <br> Por fim, ele confirma os dados novamente e realiza a postagem.   |
-| Restrições | Fluxo de navegação intuitivo, confirmação de dados de superiores.                                                                                                                                                                                                  |
-| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura, indivíduos secundários inalcançáveis.                                                                                                                                                                                               |
+| Ator       | Diego, notando que está com sintomas de uma doença contagiosa e desejando atualizar seu estado de saúde par alertar pessoas próximas.                                                                                                                                                                                            |
+| Episódios  | - Diego percebe seus sintomas <br> - Ele acessa o site da prefeitura <br> - Ele se dirige ao serviço de saúde <br> - Ele escolhe a opção para relatar um problema de saúde <br> Realiza o login em sua conta <br> Confirma o seu endereço <br> Diego seleciona a opção de registrar seu estado de saúde <br> Ele seleciona os sintomas que melhor encaixam no que está sentindo <br> Ele seleciona que deseja realizar uma consulta médica <br> Ele revisa os dados e confirma suas respostas <br> Diego é redirecionado à página inicial onde pode ver áreas com relatos de pessoas dontes <br> Ele identifica que esteve perto de áreas em que pessoas estão doentes <br> Após algum tempo, Diego recebe uma notificação de um horário para sua consulta e o local <br> Diego confirma estar disponível pelo site e a consulta é registrada em cronograma do médico responsável.   |
+| Restrições | Fluxo de navegação intuitivo, acesso à internet, conhecimento de sintomas e de áreas da cidade.                                                                                                                                                                                                  |
+| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                               |
 
-Tabela 5: Gerar evento pelo site (Fonte: MEIRELES, Lucas. 2024).
+Tabela 5: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024).
 </center>
 
 ### C05: Gerar listagem de editais de licitação
@@ -142,6 +142,24 @@ A tabela abaixo especifica o elemento assim como a descrição do cenário espec
 Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
 </center>
 
+### C07: Acessar o modulo de contra cheque e consultar processos do servidor
+A tabela abaixo especifica o elemento assim como a descrição do cenário especificado.
+
+<center>
+
+| Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Acessar o modulo de contra cheque e consultar processos do servidor                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Contexto   | Local: Em casa <br> Tempo: Durante todo o dia <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                                                                                                                                                                                                                 |
+| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                                                                                                                                                                                                         |
+| Ator       | Denise, buscando acompanhar seus processos de servidora.                                                                                                                                                                                                                                                                                                                                                                  |
+| Episódios  | - Denise acessa o site <br> - Ela navega até "Contra Cheque" <br> - Ela fornece seus dados pessoas e clica em “validar” <br> - Ela clica em "Processo Digital"  <br> - Ela encontra algumas informações sobre o que estava buscando <br> - Ela clica no número do processo  <br>   Ela encontra todas as informações que buscava sobre seus processos de servidora <br>             |
+| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
+
+Tabela 8: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
+</center>
+
 ## Bibliografia
 [1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 06/05/2024.
 
@@ -157,3 +175,5 @@ Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
 | 10/05/2024 | `1.5`  | Correção pós entrega e edição de cenário | [Lucas Meireles](https://github.com/Katuner)  |    12/05/2024             |      [Lucas Heler](https://github.com/akaeboshi)                                        |
 | 12/05/2024 | `1.6`  | Adição de Cenário | [Lucas Heler](https://github.com/akaeboshi)  |                 |                                              |
 | 22/05/2024 | `1.7`  | Adição de Cenário | [Joyce Dionizio](https://github.com/joycejdm)  |                 |                    
+| 22/05/2024 | `1.7`  | Adição de Cenário | [Augusto Duarte](https://github.com/Augcamp)   |                 |                                                |
+| 22/05/2024 | `1.7`  | Atualização de Cenário |  [Lucas Meireles](https://github.com/Katuner)  |       |            |
