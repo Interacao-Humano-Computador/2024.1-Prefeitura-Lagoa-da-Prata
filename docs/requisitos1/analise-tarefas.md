@@ -50,24 +50,24 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 
 | Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
 |------------------------------------------------------|---------------|----------------------------------------------------------|
-| 0: Informar luminária queimada no Município | 1>2 |      |
-|   1: Acessar a página sobre iluminação pública  | 1>2 |   |
-|     1.1: Encontrar pelo MENU "hamburguer"  | 1/2 |           |
+| 0: Informar luminária queimada no Município | 1>2 | Input: Acesso a página de iluminação, preenchimento do formulário com as informações pedidas e passar pelo reCaptcha e o preenchimento do protocolo para acompanhar solicitação <br> Plano: Acessar página de iluminação pública, depois preencher o formulário de troca de lâmpadas, em seguida ver o protocolo de solicitação e por último acompanhar a solicitação <br> Feedback: Tela de acompanhamento de solicitação de iluminação pública   |
+|   1: Acessar a página sobre iluminação pública  | 1>2 | Plano: Selecionar uma das opções de acesso à pagina pelo MENU "hamburguer, aba de pesquisa ou acesso rápido <br> Feedback: Tela iluminação pública |
+|     1.1: Encontrar pelo MENU "hamburguer"  | 1/2 | Plano: Selecionar o MENU "hamburguer" por meio de uma das opções, clicando ou não |
 |     1.1.1: Encontrar pelo MENU "hamburguer" sem necessidade de clicar | |           |
 |     1.1.2: Encontrar pelo MENU "hamburguer" com necessidade de clicar | |           |
-|     1.2: Encontrar pela aba de pesquisa    | 1/2|  |
+|     1.2: Encontrar pela aba de pesquisa    | 1/2| Input: Preencher aba de pesquisa, realizar a pesquisa e filtrar resultados para "serviços" <br> Plano: Realizar a pesquisa por meio de uma das opções, clicando ou não no botão de pesquisa  |
 |     1.2.1: Realizar a pesquisa clicando sem clicar no botão de pesquisa   | |  |
 |     1.2.2: Realizar a pesquisa clicando no botão de pesquisa   | |  |
-|     1.3: Encontrar pelo acesso rápido disponível na página inicial | |  |
-|   2: Preencher formulário "Iluminação Pública - Troca de Lâmpadas"  | 1>2 | |
+|     1.3: Encontrar pelo acesso rápido disponível na página inicial | | Plano: Localizar na página inicial o botão |
+|   2: Preencher formulário "Iluminação Pública - Troca de Lâmpadas"  | 1>2 | Plano: Preencher dados, em seguida responder o reCaptcha e finalmente clicar no botão enviar <br> Feedback: Tela de protocolo de solicitação|
 |     2.1: Preencher informações requeridas |  |     |
 |     2.2: Responder o reCaptcha |  |     |
 |     2.3: Clicar no botão Enviar |  |     |
 |   3: Ver protocolo de solicitação  | | |
-|   4: Acompanhar protocolo de solicitação em "Acompanhe sua solicitação"  | 1>2 |  |
+|   4: Acompanhar protocolo de solicitação em "Acompanhe sua solicitação"  | 1>2 | Plano: Preencher número de protocolo e em seguida clicar em consultar <br> Feedback: Tela de acompanhamento de solicitação de iluminação pública  |
 |     4.1: Colocar protocolo no campo requerido | |    |
 |     4.2: Clicar em consultar | |      
-|     4.3: Visualizar a situação e atualizações do protocolo | |      
+|     4.3: Visualizar a situação e atualizações do protocolo | |       
 
 <div align="center">
 <p> <b>Tabela 2</b>: HTA da Tarefa: Informar luminária queimada no Município (Fonte: Heler, Lucas. 2024). </p>
