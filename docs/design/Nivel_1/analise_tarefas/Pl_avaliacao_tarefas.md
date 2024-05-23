@@ -8,11 +8,11 @@ A Tabela 1 apresenta as tarefas a serem analisadas durante a avaliação.
 
 | Número | Tarefas que podem ser executadas no site da Prefeitura |
 | :----: | ------------------------------------------------------ |
-|    1   | x                                                      |
-|    2   | y                                                      |
-|    3   | z                                                      |
-|    4   | a                                                      |
-|    5   | b                                                      |
+|    1   | Registrar e verificar o panorama de saúde da cidade                                                      |
+|    2   | Cadastro Antecipado de Aluno                                                      |
+|    3   | Cadastrar e Acompanhar uma reclamação                                                      |
+|    4   | Cadastro Antecipado de Aluno                                                      |
+|    5   | Cadastrar e Acompanhar uma reclamação                                                      |
 
 Tabela 1: Tarefas da Prefeitura (Fonte: FREITAS, Cainã. 2024).
 
