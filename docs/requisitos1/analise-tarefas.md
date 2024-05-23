@@ -73,7 +73,7 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 <p> <b>Tabela 2</b>: HTA da Tarefa: Informar luminária queimada no Município (Fonte: Heler, Lucas. 2024). </p>
 </div>
 
-<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA1.png" width="100%">
+<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA Poste.png" width="100%">
 <div align="center">
 <p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Informar luminária queimada no Município </p>
 </div>
