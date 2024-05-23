@@ -199,7 +199,7 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 <p> <b>Tabela 4</b>: HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024). </p>
 </div>
 
-<img title="a title" alt="Elementos HTA" src="" width="100%">
+<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_Saude.png" width="100%">
 <div align="center">
 <p> <b>Figura 3</b>: Diagrama HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: Freitas, Cainã. 2024).</p>
 </div>
