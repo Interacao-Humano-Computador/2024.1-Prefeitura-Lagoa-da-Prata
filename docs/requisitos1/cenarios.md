@@ -33,25 +33,7 @@ Para a descrição dos cenários, adotamos o formato de texto estruturado, com a
 ## Cenários Identificados
 Os cenários identificados, tendo como base as [Personas](personas.md) desenvolvidas no projeto, estão apresentados nas Tabelas a seguir:
 
-### C01: Consultar Panorama Econômico
-Abaixo se encontra a tabela que especifica o elemento e sua descrição.
-
-<center>
-
-| Elemento   | Descrição                                                                                                                                                                                                                      |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Objetivo   | Consultar a lista de medicamentos disponiveis na saúde pública do municipio.                                                                                                                                                   |
-| Contexto   | Local: No trabalho <br> Tempo: Durante todo o dia <br> Pré-condições: Acesso à Internet                                                                                                                                        |
-| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                 |
-| Ator       | Eduardo, um médico                                                                                                                                                                                                                      |
-| Episódios  | - Eduardo acessa o site da prefeitura em seu navegador <br> - Ele navega até a seção "Serviços para o Cidadão" <br> - Eduardo procura e encontra a opção "Lista de Medicamentos Disponíveis" <br> - Eduardo clica na opção e é redirecionada para uma nova página <br> - Na nova página, Eduardo visualiza um botão ou link para acessar a lista em formato PDF <br> - Eduardo clica no botão/link para abrir o PDF <br> |
-| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                  |
-| Exceção    | Falta de internet ou de energia.                                                                                                                                                                                               |
-
-Tabela 2: Consultar Panorama Econômico (Fonte: FREITAS, Cainã. 2024).
-</center>
-
-### C03: Cadastro Antecipado de Aluno
+### C01: Cadastro Antecipado de Aluno
 
 <center>
 
@@ -65,30 +47,11 @@ Tabela 2: Consultar Panorama Econômico (Fonte: FREITAS, Cainã. 2024).
 | Restrições | O site da prefeitura deve possuir uma seção específica para serviços públicos e uma opção clara para acessar o serviço de matrículas web.                                                                                                                                                                                                  |
 | Exceção    | Falta de internet ou problema de conexão com o site da prefeitura.                                                                                                                                                                                              |
 
-Tabela 3: Realização de Denúncia na Ouvidoria (Fonte: DIONIZIO, Joyce. 2024).
+Tabela 2: Realização de Denúncia na Ouvidoria (Fonte: DIONIZIO, Joyce. 2024).
 
 </center>
 
-
-### C03: Consultar edital de concursos e processos seletivos
-Abaixo se encontra a tabela que especifica o elemento e sua descrição.
-
-<center>
-
-| Elemento   | Descrição                                                                                                                                                                                                                      |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Objetivo   | Consultar os editais de concursos e processos seletivos.                                                                                                                                                                       |
-| Contexto   | Local: Em casa <br> Tempo: Durante todo o dia <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                     |
-| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                 |
-| Ator       | Diogo, buscando realizar concursos.                                                                                                                                                                                            |
-| Episódios  | - Diogo acessa o site <br> - Ele navega até "Edital" <br> - Ele clica em "Concursos e processos seletivos" <br> - Ele encontra informações que estava buscando sobre os concursos e processos seletivos <br>                   |
-| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                  |
-| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                               |
-
-Tabela 4: Consultar edital de concursos e processos seletivos (Fonte: DUARTE, Augusto. 2024).
-</center>
-
-### C04: Registrar e verificar o panorama de saúde da cidade
+### C02: Registrar e verificar o panorama de saúde da cidade
 Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 
 <center>
@@ -103,10 +66,10 @@ Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 | Restrições | Fluxo de navegação intuitivo, acesso à internet, conhecimento de sintomas e de áreas da cidade.                                                                                                                                                                                                  |
 | Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                               |
 
-Tabela 5: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024).
+Tabela 3: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024).
 </center>
 
-### C05: Gerar listagem de editais de licitação
+### C03: Gerar listagem de editais de licitação
 A tabela abaixo especifica o elemento assim como a descrição do cenário especificado.
 
 <center>
@@ -121,10 +84,11 @@ A tabela abaixo especifica o elemento assim como a descrição do cenário espec
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
 
-Tabela 6: Cadastrar filho na creche (Fonte: DOURADO, Pedro Lucas. 2024).
+Tabela 4: Cadastrar filho na creche (Fonte: DOURADO, Pedro Lucas. 2024).
 </center>
 
-### C06: Informar luminária queimada no Município
+
+### C04: Informar luminária queimada no Município
 A tabela abaixo especifica o elemento assim como a descrição do cenário especificado.
 
 <center>
@@ -139,11 +103,10 @@ A tabela abaixo especifica o elemento assim como a descrição do cenário espec
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
 
-Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
+Tabela 5: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
 </center>
 
-### C07: Cadastrar e acompanhar reclamação no conselho municipal de educação
-### C07: Acessar o modulo de contra cheque e consultar processos do servidor
+### C05: Cadastrar e acompanhar reclamação no conselho municipal de educação
 A tabela abaixo especifica o elemento assim como a descrição do cenário especificado.
 
 <center>
@@ -158,7 +121,13 @@ A tabela abaixo especifica o elemento assim como a descrição do cenário espec
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
 
-Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
+Tabela 6: Cadastrar e acompanhar reclamação no conselho municipal de educação (Fonte: FREITAS, Cainã. 2024).
+
+
+### C06: Acessar o modulo de contra cheque e consultar processos do servidor
+
+| Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | Acessar o modulo de contra cheque e consultar processos do servidor                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Contexto   | Local: Em casa <br> Tempo: Durante todo o dia <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                                                                                                                                                                                                                 |
 | Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                                                                                                                                                                                                         |
@@ -167,7 +136,7 @@ Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
 
-Tabela 8: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
+Tabela 7: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
 </center>
 
 ## Bibliografia
