@@ -95,6 +95,22 @@ Para a tarefa de [Cadastro Antecipado de Aluno](../../../requisitos1/cenarios.md
 
 <center> Tabela 6: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Cadastro Antecipado de Aluno. Fonte: DIONIZIO, Joyce (2024). </center>
 
+Para a tarefa de [Cadastrar e Acompanhar uma reclamação](../../../requisitos1/cenarios.md), serão feitas as seguintes perguntas:
+
+| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
+| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
+| 1°                  | Verificar ordem de login | Ao acessar o site, como você realiza o login? | Aberta         | Discursiva          |
+| 2°                  | Verificar como os usuários encontram a aba da ouvidoria normalmente | Após o login, como você navega até a seção de Ouvidoria? | Aberta         | Discursiva          |
+| 3°                  | Medir experiência média do usuário | Qual é a sua experiência ao preencher o formulário de cadastro de reclamação? | Aberta         | Discursiva          |
+| 4°                  | Verificar utilidade dos campos de localização | Você acha que os campos opcionais do formulário são relevantes? Por quê? | Aberta         | Discursiva          |
+| 5°                  | Verificar como o usuário acompanha a tramitação da reclamação (email, sms, próprio site...) | Como você acompanha o status de uma reclamação cadastrada? | Aberta         | Discursiva          |
+| 6°                  | Verificar qualidade do design e da acessibilidade do site | A sequência de processos para consultar o status da reclamação é intuitiva para você? | Aberta         | Discursiva          |
+| 7°                  | Verificar utilidade da ferramenta de acompanhamento | Você acha que a função "meus protocolos" é útil? Por quê? | Aberta         | Discursiva          |
+
+<center> Tabela 7: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Cadastrar e Acompanhar uma reclamação. Fonte: FREITAS, Cainã (2024). </center>
+
+
+
 ### C - Escolher os métodos
 
 O método escolhido foi o investigativo, por meio de entrevistas. Trata-se de uma conversa guiada por um roteiro de perguntas, na qual o entrevistador busca obter informações do entrevistado [2]. Esse método foi escolhido porque permite ao avaliador interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1]. As entrevistas serão estruturadas, seguindo um roteiro devido à inexperiência dos entrevistadores, com perguntas abertas e fechadas.
