@@ -76,6 +76,37 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 <p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Fazer Download da Última Movimentação de uma Licitação </p>
 </div>
 
+### Análise da Tarefa HTA 2: Cadastrar e acompanhar uma reclamação na ouvidoria
+
+| Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
+|------------------------------------------------------|---------------|----------------------------------------------------------|
+| 0. Cadastrar e consultar uma reclamação cadastrada |1 > 2|       Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar até a Ouvidoria, Cadastrar reclamação desejada, Acessar a reclamação na lista, Acompanhar status. <br> Feedback: Status da reclamação cadastrada emitido.|
+|   1. Realizar login no site   | 1 > 2|    Plano: informar o cpf e depois a senha do gov.br. <br> Feedback: tela menu de Serviços Registrato. |
+|       1.1 Informar CPF | |           |
+|       1.2 Informar senha do gov.br   | |  |
+|   2. Navegar para a ouvidoria | 1 / 2 |   Plano: selecionar uma das opções, entre ir até pagina da ouvidoria através do menu hamburguer e ir até a pagina da ouvidoria através da aba de pesquisa <br>Feedback: Tela da ouvidoria que mostra opção de cadastrar reclamação  |
+|   2.1 Ir através do menu hamburguer |  |     |
+|   2.2 Ir através da aba de pesquisa |  |     |
+|   3. Cadastrar Reclamação | 1 > 2 | Plano: Cadastrar uma reclamação através do formulário  <br>Feedback: Caixa de aviso avisando que a reclamação foi cadastrada |
+|     3.1. Selecionar tipo, secretaria e assunto | |  |
+|     3.2. Preencher texto de reclamação | |  |
+|     3.3. Preencher campos opcionais | 1 / 2 | Plano: Cadastrar (ou não) campos adicionais do formulário  <br>Feedback: Campo adicional presente na pagina de acompanhamento |
+|       3.3.1 Preencher endereço |  |  |
+|       3.3.2 Solicitar Sigilo |  |  |
+|     3.4. Resolver Captcha                    | |  |
+|   4. Consultar status da reclamação | 1 > 2 | Plano: Acompanhar status da reclamação recem registrada  <br>Feedback: Campo de status presente na pagina de acompanhamento   |
+|       4.1. Selecionar "meus protocolos" | |   |
+|       4.2. Selecionar reclamação cadastrada | |    |
+|       4.3. Conferir status | |    |
+
+<div align="center">
+<p> <b>Tabela 2</b>: HTA da Tarefa: Cadastrar e uma reclamação na ouvidoria (Fonte: Freitas, Cainã. 2024). </p>
+</div>
+
+<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_ouvidoria.png" width="100%">
+<div align="center">
+<p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Cadastrar e acompanhar uma reclamação na ouvidoria (Fonte: Freitas, Cainã. 2024).</p>
+
 ### Análise da Tarefa HTA 2: Fazer Download da Última Movimentação de uma Licitação
 
 | Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
@@ -340,7 +371,79 @@ Goal 0: Gerar relatório de licitações em aberto
   Goal 3: Baixar arquivo CSV
     Op. 3.1: Mover cursor até botão "CSV"
     Op. 3.2: CLicar no botão "CSV"
+```
 
+### Análise da Tarefa CNM-GOMS 6: Cadastrar e acompanhar status de uma reclamação no conselho municipal de educação sobre uma escola do municipio da lagoa da prata
+```
+Goal 0: Cadastrar e acompanhar status de uma reclamação
+  Goal 1: Encontrar Ouvidoria
+    METHOD 1.A: Encontrar através do menu "hamburguer"
+    (SEL.RULE: peferência do usuário)
+        OP: Levar cursor até menu "hamburguer"
+        OP: Levar cursor até botão "Ouvidoria"
+        OP: Clicar com o botão esquerdo do mouse
+
+    METHOD 1.B: Encontrar através da aba de pesquisa
+    (SEL.RULE: peferência do usuário)
+        OP: Levar cursor até barra de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Digitar "Ouvidoria"
+        OP: Levar cursor até botão de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Levar cursor até "Ouvidoria"
+        OP: Clicar com o botão esquerdo do mouse
+
+  Goal 2: Cadastrar Reclamação na ouvioria:
+    METHOD 2.A: Preencher formulario de cadastro de reclamação
+      OP: Levar cursor até botão "Cadastrar Manifestação"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Ele navega até o formulário de "Solicitação"
+      OP: Levar cursor até caixa "Tipo"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Clicar com o botão esquerdo do mouse em "Reclamação"
+      OP: Levar cursor até caixa "Secretaria/Departamento"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Clicar com o botão esquerdo do mouse em "Conselho Municipal de Educação"
+      OP: Levar cursor até caixa "Assunto"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Clicar com o botão esquerdo do mouse em "OUVIDORIA GERAL - RECLAMAÇÃO"
+      OP: Levar cursor até caixa "Forma de Resposta"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Clicar com o botão esquerdo do mouse em "Consulta no Site"
+      OP: Levar cursor até caixa "Solicitação"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Escrever toda a reclamação necessária para relatar o ocorrido
+
+    METHOD 2.B: Preencher cambos opcionais com local do ocorrido
+    (SEL.RULE: campos opcionais para o usuário)
+      OP: Levar cursor até caixa "Anexar Arquivos"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Escolhe um arquivo para ser anexado
+      OP: Navegar até a aba de "Local da Ocorrência"
+      OP: Levar cursor até caixa "Bairro"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Clicar com botão esquerdo do mouse no bairro da escola
+      OP: Levar cursor até caixa "Logradouro"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Escrever o Logradouro da escola
+      OP: Levar cursor até caixa "Número"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Escrever o Número da escola
+
+    METHOD 2.C: Enviar Reclamação
+      OP: Levar cursor até caixa de captcha
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Resolver captcha simples
+      OP: Levar cursor até botão "Cadastrar"
+      OP: Clicar com o botão esquerdo do mouse
+
+  Goal 3: Acompanhar status de reclamação cadastrada
+    OP: Levar cursor até botão "Meus Protocolos
+    OP: Levar cursor até protocolo cadastrado anteriormente
+    OP: Clicar com o botão esquerdo do mouse
+    OP: Navegar até status da reclamação
+    OP: Acompanhar status
+```
  
 
 ```
