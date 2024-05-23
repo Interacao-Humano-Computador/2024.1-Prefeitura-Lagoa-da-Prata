@@ -50,30 +50,32 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 
 | Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
 |------------------------------------------------------|---------------|----------------------------------------------------------|
-| 0. Fazer Download da Última Movimentação de uma Licitação |1 > 2|       Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar para a seção de editais de licitações, Selecionar o edital desejado, Acessar o edital, Navegar para a seção de movimentações do edital, Fazer download da última movimentação. <br> Feedback: Download concluído da última movimentação.|
-|   1. Realizar login no site   | 1 > 2|    Plano: informar o cpf e depois a senha do gov.br. <br> Feedback: tela menu de Serviços Registrato. |
-|     1.1 Informar CPF | |           |
-|     1.2 Informar senha do gov.br   | |  |
-|   2. Navegar para a seção de editais de licitações ||   Plano: Clicar no botão que leva a tela de editais de licitações <br>Feedback: Tela que seleciona qual tela sobre os editais você quer ir  |
-|     2.1 Clicar no botão que leva a editais de licitações |  |     |
-|   2.2 Selecionar a página de editais de licitações   | | |
-|   2.3 Clicar no botão que leva a tela de editais de licitações   | | |
-|   3. Buscar o edital desejado com a ferramenta de consulta | |   Plano: Usar a ferramenta de consulta  <br>Feedback: Aparecer o edital esperado na tela de pesquisa |
-|     3.1. Inserir nome do edital ou outra característica | |  |
-|     3.2. Clicar em "Consultar"                       | |  |
-|   3.3 Acessar o edital selecionado                    | |        Plano: Acessar o edital para download   |
-|     3.4. Clicar no botão que leva ao edital selecionado | |  |
-|   4. Navegar para a seção de movimentações do edital | |    Plano: Navegar até a seção de movimentação, fazer download da movimentação|
-|     4.1. Clicar no botão que leva à seção de movimentações do edital | |                         |
-|     4.2. Clicar no botão de download do último movimento da licitação | |      
+| 0: Informar luminária queimada no Município | 1>2 |      |
+|   1: Acessar a página sobre iluminação pública  | 1>2 |   |
+|     1.1: Encontrar pelo MENU "hamburguer"  | 1/2 |           |
+|     1.1.1: Encontrar pelo MENU "hamburguer" sem necessidade de clicar | |           |
+|     1.1.2: Encontrar pelo MENU "hamburguer" com necessidade de clicar | |           |
+|     1.2: Encontrar pela aba de pesquisa    | 1/2|  |
+|     1.2.1: Realizar a pesquisa clicando sem clicar no botão de pesquisa   | |  |
+|     1.2.2: Realizar a pesquisa clicando no botão de pesquisa   | |  |
+|     1.3: Encontrar pelo acesso rápido disponível na página inicial | |  |
+|   2: Preencher formulário "Iluminação Pública - Troca de Lâmpadas"  | 1>2 | |
+|     2.1: Preencher informações requeridas |  |     |
+|     2.2: Responder o reCaptcha |  |     |
+|     2.3: Clicar no botão Enviar |  |     |
+|   3: Ver protocolo de solicitação  | | |
+|   4: Acompanhar protocolo de solicitação em "Acompanhe sua solicitação"  | 1>2 |  |
+|     4.1: Colocar protocolo no campo requerido | |    |
+|     4.2: Clicar em consultar | |      
+|     4.3: Visualizar a situação e atualizações do protocolo | |      
 
 <div align="center">
-<p> <b>Tabela 2</b>: HTA da Tarefa: Fazer Download da Última Movimentação de uma Licitação (Fonte: Heler, Lucas. 2024). </p>
+<p> <b>Tabela 2</b>: HTA da Tarefa: Informar luminária queimada no Município (Fonte: Heler, Lucas. 2024). </p>
 </div>
 
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA1.png" width="100%">
 <div align="center">
-<p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Fazer Download da Última Movimentação de uma Licitação </p>
+<p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Informar luminária queimada no Município </p>
 </div>
 
 ## CNM-GOMS
@@ -205,9 +207,80 @@ Goal 0: Gerar relatório de licitações em aberto
   Goal 3: Baixar arquivo CSV
     Op. 3.1: Mover cursor até botão "CSV"
     Op. 3.2: CLicar no botão "CSV"
+```
 
- 
+### Análise da Tarefa CNM-GOMS 6: Informar luminária queimada no Município
+```
+Goal 0: Informar luminária queimada no Município
+  Goal 1: Acessar a página sobre iluminação pública
+    METHOD 1.A: Encontrar pelo MENU "hamburguer"
+    (SEL.RULE: preferência do usuário)
+      METHOD 1.A.1: Encontrar pelo MENU "hamburguer" sem necessidade de clicar
+      (SEL.RULE: Largura da página maior que 1000px)
+        OP: Mover cursor ao MENU "hamburguer"
+        OP: Mover cursor a "Iluminação Pública"
+        OP: Clicar com botão esquerdo
+      METHOD 1.A.2: Encontrar pelo MENU "hamburguer" com necessidade de clicar
+      (SEL.RULE: Largura da página igual ou menor que 1000px)
+          OP: Mover cursor ao MENU "hamburguer"
+          OP: Clicar com o botão esquerdo
+          OP: Mover cursor ao indicador de menu suspenso de "Serviços Online"
+          OP: Clicar com o botão esquerdo para abrir as opções
+          OP: Morver cursor a "Iluminação Pública"
+          OP: Clicar com o botão esquerdo
 
+    METHOD 1.B: Encontrar pela aba de pesquisa
+    (SEL.RULE: preferência do usuário)
+      METHOD 1.B.1: Realizar a pesquisa clicando sem clicar no botão de pesquisa
+      (SEL.RULE: Obrigatoriamente quando a largura da página é igual ou menor que 1000px; preferência do usuário)
+        OP: Mover cursor à barra de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Digitar "iluminação pública"
+        OP: Apertar enter no teclado
+        OP: Mover cursor a opção "Serviços" em registros encontrados
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Mover cursor ao resultado "Iluminação Pública"
+        OP: Clicar com o botão esquerdo do mouse
+      METHOD 1.B.2: Realizar a pesquisa clicando no botão de pesquisa
+      (SEL.RULE: Disponível quando a largura da página é maior que 1000px; preferência do usuário)
+        OP: Mover cursor à barra de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Digitar "iluminação pública"
+        OP: Mover cursor ao botão de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Mover cursor a opção "Serviços" em registros encontrados
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Mover cursor ao resultado "Iluminação Pública"
+        OP: Clicar com o botão esquerdo do mouse
+
+    METHOD 1.C: Encontrar pelo acesso rápido disponível na página inicial
+    (SEL.RULE: preferência do usuário)
+      OP: Mover cursor até "Iluminação Pública A LÂMPADA QUEIMOU?!"
+      OP: Clicar com o botão esquerdo
+
+  Goal 2: Preencher formulário "Iluminação Pública - Troca de Lâmpadas"
+      OP: Mover cursor até espaços disponíveis para preenchimento escrito
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Digitar informações requeridas
+      OP: Mover cursor do mouse até opção de tipo de defeito identificado
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Mover cursor até a "box" do reCAPTCHA
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Mover cursor ate botão "ENVIAR"
+      OP: Clicar com o botão esquerdo do mouse
+
+  Goal 3: Ver protocolo de solicitação
+      OP: Visualizar o protocolo apresentado pelo site
+      OP: Mover cursor até botão "OK"
+      OP: Clicar com o botão esquerdo do mouse
+
+  Goal 4: Acompanhar protocolo de solicitação em "Acompanhe sua solicitação"
+      OP: Mover cursor até espaço disponível para preenchimento escrito
+      OP: Clicar com botão esquerdo do mouse
+      OP: Digitar informação requerida
+      OP: Mover cursor até botão "CONSULTAR"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Visualizar a situação e atualizações do protocolo
 ```
 
 ## Historico de revisão
@@ -221,3 +294,4 @@ Goal 0: Gerar relatório de licitações em aberto
 | 07/05/2024 | `1.4`  |                     Adição de Análise de Tarefas 5                     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Lucas Heler](https://github.com/akaeboshi)  |
 | 07/05/2024 | `1.5`  |                   Adição de Análise de Tarefas HTA 1                   |  [Lucas Heler](https://github.com/akaeboshi)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 22/05/2024 | `1.7`  | Adição de Análise de Tarefas 6 e HTA | [Lucas Heler](https://github.com/Akaeboshi)  |    |
