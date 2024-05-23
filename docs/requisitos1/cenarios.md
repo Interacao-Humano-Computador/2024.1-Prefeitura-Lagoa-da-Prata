@@ -142,6 +142,24 @@ A tabela abaixo especifica o elemento assim como a descrição do cenário espec
 Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
 </center>
 
+### C07: Acessar o modulo de contra cheque e consultar processos do servidor
+A tabela abaixo especifica o elemento assim como a descrição do cenário especificado.
+
+<center>
+
+| Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Acessar o modulo de contra cheque e consultar processos do servidor                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Contexto   | Local: Em casa <br> Tempo: Durante todo o dia <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                                                                                                                                                                                                                 |
+| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                                                                                                                                                                                                         |
+| Ator       | Denise, buscando acompanhar seus processos de servidora.                                                                                                                                                                                                                                                                                                                                                                  |
+| Episódios  | - Denise acessa o site <br> - Ela navega até "Contra Cheque" <br> - Ela fornece seus dados pessoas e clica em “validar” <br> - Ela clica em "Processo Digital"  <br> - Ela encontra algumas informações sobre o que estava buscando <br> - Ela clica no número do processo  <br>   Ela encontra todas as informações que buscava sobre seus processos de servidora <br>             |
+| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
+
+Tabela 8: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
+</center>
+
 ## Bibliografia
 [1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 06/05/2024.
 
@@ -155,4 +173,5 @@ Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
 | 06/05/2024 | `1.3`  |            Adição de Cenário             | [Lucas Meireles](https://github.com/Katuner)  |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 06/05/2024 | `1.4`  |     Adição de Cenário e Bibliografia     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
 | 10/05/2024 | `1.5`  | Correção pós entrega e edição de cenário | [Lucas Meireles](https://github.com/Katuner)  |    12/05/2024             |      [Lucas Heler](https://github.com/akaeboshi)                                        |
-| 12/05/2024 | `1.6`  | Adição de Cenário | [Lucas Heler](https://github.com/akaeboshi)  |                 |                                              |
+| 12/05/2024 | `1.6`  | Adição de Cenário | [Lucas Heler](https://github.com/akaeboshi)  |                 |
+| 22/05/2024 | `1.7`  | Adição de Cenário | [Augusto Duarte](https://github.com/Augcamp)   |                 |                                                |

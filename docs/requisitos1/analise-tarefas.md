@@ -76,6 +76,28 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 <p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Fazer Download da Última Movimentação de uma Licitação </p>
 </div>
 
+
+### Análise da Tarefa HTA 2: Acessar o módulo de Contra Cheque e consultar processos do servidor 
+
+|    Objetivos/Operações    |    Relações    |    Problemas e recomendações    |
+| :-----------------------: | ------------------------------- | ------------------------------- | 
+| 0. Acessar o módulo de Contra Cheque e consultar processos do servidor  |  | **input:** Localização e acesso ao modulo. | 
+| 1. Selecionar a opção "Contra Cheque" | 1>2 | **input:** Escolha da opção para iniciar o processo de consulta. |
+| 2. Preencher os campos requeridos de login | 2>3 |  **input:** Inserção de dados pessoais. |
+| 3. Selecionar a opção "Processo Digital" |3>4 |  **input:** Escolha da opção para iniciar o acompanhamento dos processos. |
+| 4. Escolher o processo  |4>5 |  **input:** Seleção do processo desejado. |
+| 5. Acompanhar o status do processo | | **feedback:** Informação sobre o processo e resultados. |
+ 
+
+<div align="center">
+<p> <b>Tabela 3</b>: HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor  (Fonte: Duarte, Augusto. 2024). </p>
+</div>
+
+<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA2.png" width="100%">
+<div align="center">
+<p> <b>Figura 3</b>: Diagrama HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor </p>
+</div>
+
 ## CNM-GOMS
 
 &emsp;&emsp;O GOMS (Goals, Operators, Methods, and Selection Rules - Objetivos, Operadores, Métodos e Regras de Seleção) é um conjunto de modelos utilizados para análise de tarefas. O CMN-GOMS (Card, Moran e Newell GOMS) é um desses modelos e consiste em uma hierarquia bem definida de objetivos representados em forma de programa, permitindo assim uma análise executável. (Barbosa e Silva, 2010)
@@ -205,6 +227,35 @@ Goal 0: Gerar relatório de licitações em aberto
   Goal 3: Baixar arquivo CSV
     Op. 3.1: Mover cursor até botão "CSV"
     Op. 3.2: CLicar no botão "CSV"
+
+ 
+
+```
+
+### Análise da Tarefa CNM-GOMS 6: Acessar o modulo de contra cheque e consultar processos do servidor
+```
+Goal 0: Acessar o modulo de contra cheque e consultar processos do servidor
+  Goal 1: Acessar página do Contra Cheque
+    METHOD 1.A: Acessar utilizando CPF
+    (SEL.RULE: preferência do usuário)
+      OP: Levar cursor até o menu "Contra Cheque"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Inserir informações pessoas utilizando CPF
+      OP: Levar o cursor até “Validar”
+      OP: Clicar com o botão esquerdo do mouse
+    METHOD 1.B: Acessar utilizando matrícula 
+    (SEL.RULE: preferência do usuário)
+      OP: Levar cursor até o menu "Contra Cheque"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Inserir informações pessoas utilizando matrícula
+      OP: Levar o cursor até “Validar”
+      OP: Clicar com o botão esquerdo do mouse
+  Goal 2: Consultar processos do servidor
+    OP: Levar o cursor do mouse até "Processo Digital"
+    OP: Clicar com botão esquerdo do mouse
+	  OP: Levar o cursor do mouse até “Nº do processo”
+	  OP: Clicar com o botão esquerdo do mouse 
+
 
  
 
