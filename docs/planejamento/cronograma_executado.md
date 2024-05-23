@@ -106,5 +106,5 @@ Segue abaixo a Tabela 04 contendo as Atividades que serão realizadas, a data da
 | 09/04/2024 | `1.3`  |                Correção após entrega                |  [Pedro Lucas](https://github.com/lucasdray)  |   06/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
 | 06/05/2024 | `2.0`  |      Criação e registro do ponto de controle 2      | [Lucas Meireles](https://github.com/Katuner)  |   07/05/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
 | 11/05/2024 | `3.0`  |      Criação e registro do ponto de controle 3      | [Lucas Meireles](https://github.com/Katuner)  |   12/05/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
-| 13/05/2024 | `3.1`  | Finalização cronograma executado ponto de control 3 |  [Pedro Lucas](https://github.com/lucasdray)  |   13/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
-| 22/05/2024 | `4.0`  | Finalização cronograma executado ponto de control 4 |  [Cainã Valença](https://github.com/freitasc)  |   22/05/2024    | [Augusto](https://github.com/Augcamp) |
+| 13/05/2024 | `3.1`  | Finalização cronograma executado ponto de controle 3 |  [Pedro Lucas](https://github.com/lucasdray)  |   13/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
+| 22/05/2024 | `4.0`  | Finalização cronograma executado ponto de controle 4 |  [Cainã Valença](https://github.com/freitasc)  |   22/05/2024    | [Augusto](https://github.com/Augcamp) |
