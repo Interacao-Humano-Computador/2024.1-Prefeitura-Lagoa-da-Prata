@@ -66,6 +66,22 @@ Para a tarefa de [registrar e verificar o panorama de saúde da cidade](../../..
 
 <center> Tabela 4: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de registrar e verificar o panorama de saúde da cidade. Fonte: MEIRELES, Lucas (2024). </center>
 
+
+Para a tarefa de [Acessar o modulo de contra cheque e consultar processos do servidor](../../../requisitos1/cenarios.md#c06-Acessar-o-modulo-de-contra-cheque-e-consultar-processos-do-servidor), serão feitas as seguintes perguntas:
+
+| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
+| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
+| 1°                  | Obter dados do entrevistado                    | Qual seu nome completo? | Aberta         | Discursiva          |
+| 2°                  | Obter dados do entrevistado                    | Qual sua idade?         | Aberta         | Discursiva          |
+| 3°                  | Obter dados do entrevistado                    | Qual sua ocupação?      | Aberta         | Discursiva          |
+| 4°                  | Obter feedback sobre a funcionalidade                    | Você já acessou algum sistema online para consulta de contracheques? | Aberta         | Discursiva          |
+| 5°                  | Verificar o interesse do entrevistado pela proposta                    | Como você acessaria e visualizaria seu contracheque em um sistema online?         | Aberta         | Discursiva          |
+| 6°                  | Verificar se o entrevistado teria interesse em convencer mais pessoas a utilizar o sistema                    | Ao observar a tarefa de acesso ao contracheque, a sequência de processos é coerente com o que você espera? Se não, poderia descrever o porquê?       | Aberta         | Discursiva          |
+| 7°                  | Verificar a visão do entrevistado sobre a população da cidade                    | Como você acessaria e consultaria o andamento de um processo do servidor público no sistema?       | Aberta         | Discursiva          |
+| 8°                  | Recolher opiniões e ideias para manutenção e ajustes da funcionalidade                   | Ao observar a tarefa de consulta de processos do servidor público, a sequência de processos é coerente com o que você espera? Se não, poderia descrever o porquê?       | Aberta         | Discursiva          |
+
+<center> Tabela 5: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Acessar o modulo de contra cheque e consultar processos do servidor. Fonte: DUARTE, Augusto (2024). </center>
+
 ### C - Escolher os métodos
 
 O método escolhido foi o investigativo, por meio de entrevistas. Trata-se de uma conversa guiada por um roteiro de perguntas, na qual o entrevistador busca obter informações do entrevistado [2]. Esse método foi escolhido porque permite ao avaliador interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1]. As entrevistas serão estruturadas, seguindo um roteiro devido à inexperiência dos entrevistadores, com perguntas abertas e fechadas.
