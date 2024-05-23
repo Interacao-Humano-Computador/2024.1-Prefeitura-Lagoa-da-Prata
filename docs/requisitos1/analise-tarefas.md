@@ -76,7 +76,6 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 <p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Fazer Download da Última Movimentação de uma Licitação </p>
 </div>
 
-
 ### Análise da Tarefa HTA 2: Acessar o módulo de Contra Cheque e consultar processos do servidor 
 
 |    Objetivos/Operações    |    Relações    |    Problemas e recomendações    |
@@ -97,6 +96,43 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 <div align="center">
 <p> <b>Figura 3</b>: Diagrama HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor </p>
 </div>
+
+
+### Análise da Tarefa HTA 3: Registrar e verificar o panorama de saúde da cidade
+
+| Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
+|------------------------------------------------------|---------------|----------------------------------------------------------|
+| 0. Registrar e verificar o panorama de saúde da cidade |1 > 2|       Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar para a página de estado de saúde, Registrar estado de saúde, Verificar panorama de saúde da cidade. <br> Feedback: Status do estado de saúde emitido.|
+|   1. Realizar login no site   | 1 > 2|    Plano: informar o cpf e depois a senha do gov.br. |
+|       1.1 Informar CPF | |           |
+|       1.2 Informar senha do gov.br   | |  |
+|   2. Navegar para a página de estado de saúde | 1 / 2 |   Plano: selecionar uma das opções, entre ir até pagina através do menu hamburguer e ir até a pagina pela aba de pesquisa |
+|   2.1 Ir através do menu hamburguer |  |     |
+|   2.2 Ir através da aba de pesquisa |  |     |
+|   3. Registrar estado de saúde | 1 > 2 | Plano: Selecionar se está bem ou não, em caso negativo, realizar os registros |
+|     3.1. Registrar que não se sente mal | |  |
+|     3.2. Registrar que se sente mal | 1 > 2 | Plano: registrar os dados de sintomas e locais |
+|       3.2.1 Confirmar endereço |  |  |
+|       3.2.2 Registrar os sintomas |  |  |
+|       3.2.3 Registrar se deseja marcar uma consulta | 1 / 2 | |
+|         3.2.3.1 Não marcar consulta | | |
+|         3.2.3.2 Marcar consulta | 1 > 2 | |
+|           3.2.3.2.1 Selecionar horário da consulta | | |
+|       3.2.4 Registrar locais que esteve presente      | |  |
+|   4. Verificar panorama de saúde da cidade | |  |
+|       4.1. Navegar pelo mapa interativo | 1 / 2 |   |
+|       4.1.1 Visualizar as informações resumidas pelo mapa | |    |
+|       4.1.2 Selecionar uma área do mapa e verificar dados detalhados | |    |
+
+<div align="center">
+<p> <b>Tabela 4</b>: HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024). </p>
+</div>
+
+<img title="a title" alt="Elementos HTA" src="" width="100%">
+<div align="center">
+<p> <b>Figura 3</b>: Diagrama HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: Freitas, Cainã. 2024).</p>
+</div>
+
 
 ## CNM-GOMS
 
@@ -177,38 +213,66 @@ Goal 0: Visualizar e baixar editais de concursos e processos seletivos
     OP: Na nova página, localizar “EDITAL” na parte inferior para acessar o PDF
     OP: Clicar no botão/link para abrir o PDF
 ```
-### Análise da Tarefa CNM-GOMS 4: Gerar novo evento no site
+### Análise da Tarefa CNM-GOMS 4: Registrar e verificar o panorama de saúde da cidade
 ```
-Goal 0: Criar um novo evento público no site
-  Goal 1: Receber informações de intenção de um novo evento
-    METHOD 1.A: Verificar mensagens sobre eventos já preparados
-        OP: Acessar mensagens dos encarregados de eventos
-        OP: Confirmar informações do evento
-    METHOD 1.B: Verificar a intenção de um indivíduo externo a realizar um evento
-    (SEL. RULE: Caso não tenha 1.B)
-      OP: Acessar a caixa de email
-      OP: Acessar um email e verificar os dados
-  Goal 2: Confirmar a disponibilidade do local na data e horário
+Goal 0: Registrar e verificar o panorama de saúde da cidade
+  Goal 1: Encontrar Registro de Estado de Saúde
+    METHOD 1.A: Encontrar através do menu "hamburguer"
+    (SEL.RULE: peferência do usuário)
+        OP: Levar cursor até menu "hamburguer"
+        OP: Levar cursor até botão "Registro de Estado de Saúde"
+        OP: Clicar com o botão esquerdo do mouse
+    METHOD 1.B: Encontrar através da aba de pesquisa
+    (SEL.RULE: peferência do usuário)
+        OP: Levar cursor até barra de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Digitar "Saúde"
+        OP: Levar cursor até botão de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Levar cursor até "Registro de Estado de Saúde"
+        OP: Clicar com o botão esquerdo do mouse
     
-    Goal 3: Acessar a aba de eventos
-      OP: Acessar a página inicial do site
-      OP: Mover o mouse até o menu geral
-      OP: Selecionar "Eventos", abaixo do tópico "A nossa cidade"
+    Goal 2: Registrar Estado de Saúde:
+      OP: Levar cursor até botão "Registrar estado de saúde"
+        METHOD 2.A: Usuário não possui sintomas de doença
+        (SEL.RULE: estado de saúde atual do usuário)
+      OP: Levar cursor até caixa "Me sinto bem"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Verificar o endereço do morador
+      OP: Levar cursor até o botão "Endereço correto"
+      OP: Clicar com o botão esquerdo do mouse
+        METHOD 2.B: Usuário possui sintomas de doença
+        (SEL.RULE: estado de saúde atual do usuário)
+      OP: Levar cursor até caixa "Não me sinto bem"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Verificar o endereço do morador
+      OP: Levar cursor até o botão "Endereço correto"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar o cursor até a caixa seletora de sintomas
+      OP: Clicar com o botão esquerdo nas caixas de sintomas que condizem com o que o usuário sente
+      OP: Levar o cursor até a caixa de seleção de "Desejo marcar uma consulta"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar o cursor até o mapa da cidade encontrado na área "Locais que estive recentemente"
+      OP: Levar o cursor até as áreas que foram frequentadas pelo usuário nos últimos dias
+      OP: Clicar com o botão esquerdo do mouse em cada área que o usuário esteve
+      OP: Levar cursor até a caixa "Prosseguir"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar o cursor até a tabela de horários
+      OP: Clicar com o botão esquerdo do mouse nos horários disponíveis para o usuário
+      OP: Levar o cursor até a caixa "Prosseguir"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar cursor até caixa "OK"
+      OP: Clicar com o botão esquerdo do mouse
+
+    Goal 3: Verificar o panorama de saúde da cidade
+      OP: Levar o cursor até o mapa interativo no centro da página
+      OP: Clicar e arrastar com o botão esquerdo do mouse para movimentar o mapa
+      OP: Posicionar o cursor sobre o círculo no mapa interativo
+      OP: Realizar a leitura dos sintomas frequentes na área do círculo
+      OP: Clicar com o botão esquerdo do mouse no círculo
+      OP: Realizar a leitura dos dados de números de pessoas que registraram cada tipo de sintoma
     
-    METHOD 2.A: Verificação separada
-      OP: Mover a página até que se veja algum evento
-      OP: Comparar o local e data do evento com o que se deseja registrar
-      OP: Mover a página até o próximo evento e repetir
-    METHOD 2.B: Verificação pelo calendário
-      OP: Movimentar o mouse até a data inicial no calendário
-      OP: Verificar se algum evento irá aparecer
-      OP: Clicar no evento para confirmar horário e local
-  Goal 4: Registrar evento
-    OP: Movimentar o mouse até o botão de adicionar
-    OP: Escolher o arquivo de imagem
-    OP: Preencher os campos de data inicial e término
-    OP: Adicionar uma descrição ao evento
-    OP: Clicar para publicar o evento
+    
 ```
 
 ### Análise da Tarefa CNM-GOMS 5: Gerar relatório de licitações em aberto em CSV
