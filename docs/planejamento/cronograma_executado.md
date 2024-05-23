@@ -70,6 +70,28 @@ A seguir se encontra a Tabela 03 que dispõe o cronograma executado pela equipe 
 
 <center>Fonte: MEIRELES, Lucas Oliveira. 2024.</center>
 
+## Cronograma Ponto de Controle 4
+
+ - Entrega: 22/05/2024
+ - Apresentação: 23/05/2024
+
+Segue abaixo a Tabela 04 contendo as Atividades que serão realizadas, a data da realização,a data da revisão e os revisores do ponto de controle 4.
+
+<center>**Tabela 04 - Ponto de Controle 4**</center>
+
+| <center>Atividade </center>                                             | <center>Período de desenvolvimento</center> |                                                                                                  <center>Responsável</center>                                                                                                  | <center>Revisão </center> |          <center>Revisores</center>          |
+| ----------------------------------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
+| Correção dos artefatos Ponto de Controle 3                              |           14/05/2024 - 22/05/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        22/05/2024         |     [Cainã](https://github.com/freitasc)     |
+| Planejamento da Avaliação do Storyboard e Análise de tarefas            |          22/05/2024          |                                                                   [Lucas Meireles](https://github.com/Katuner)                                                                    |        22/05/2024        |     [Joyce](https://github.com/joycejdm)     |
+| Planejamento do relato dos resultados da avaliação do Storyboard        |          22/05/2024          |                                                                          [Lucas Meireles](https://github.com/Katuner)                                                                           |        22/05/2024         | [Cainã](https://github.com/freitasc)  |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefa |          22/05/2024          |                                                                       [Cainã](https://github.com/freitasc)                                                                        |        22/05/2024         | [Lucas Meireles](https://github.com/Katuner)  |
+| Atualização Gitpages                                                    |           14/05/2024 - 22/05/2024           | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Heler](https://github.com/Akaeboshi), [Pedro Lucas](https://github.com/lucasdray) |        22/05/2024         |     [Cainã](https://github.com/freitasc)     |
+| Gravação da apresentação                                                |          22/05/2024           | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Heler](https://github.com/Akaeboshi), [Pedro Lucas](https://github.com/lucasdray) |        22/05/2024         |    [Augusto](https://github.com/Augcamp)     |
+| Edição da gravação                                                      |           22/05/2024           |                                                                                              [Joyce](https://github.com/joycejdm)                                                                                              |        22/05/2024         | [Lucas Meireles](https://github.com/Katuner) |
+| Cronograma Executado                                                    |                 22/05/2024                  |                                                                                          [Cainã](https://github.com/freitasc)                                                                                           |        22/05/2024         |    [Augusto](https://github.com/Augcamp)     |
+
+<center>Fonte: FREITAS, Cainã. 2024.</center>
+
 ## Bibliografia
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf. Acesso em: 04 de Abril de 2024;
@@ -85,3 +107,4 @@ A seguir se encontra a Tabela 03 que dispõe o cronograma executado pela equipe 
 | 06/05/2024 | `2.0`  |      Criação e registro do ponto de controle 2      | [Lucas Meireles](https://github.com/Katuner)  |   07/05/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
 | 11/05/2024 | `3.0`  |      Criação e registro do ponto de controle 3      | [Lucas Meireles](https://github.com/Katuner)  |   12/05/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
 | 13/05/2024 | `3.1`  | Finalização cronograma executado ponto de control 3 |  [Pedro Lucas](https://github.com/lucasdray)  |   13/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
+| 22/05/2024 | `4.0`  | Finalização cronograma executado ponto de control 4 |  [Cainã Valença](https://github.com/freitasc)  |   22/05/2024    | [Augusto](https://github.com/Augcamp) |
