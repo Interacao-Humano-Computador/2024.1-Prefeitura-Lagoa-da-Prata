@@ -82,6 +82,19 @@ Para a tarefa de [Acessar o modulo de contra cheque e consultar processos do ser
 
 <center> Tabela 5: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Acessar o modulo de contra cheque e consultar processos do servidor. Fonte: DUARTE, Augusto (2024). </center>
 
+Para a tarefa de [Cadastro Antecipado de Aluno](../../../requisitos1/cenarios.md#c01-cadastro-antecipado-de-aluno), serão feitas as seguintes perguntas:
+
+| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
+| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
+| 1°                  | Obter dados do entrevistado                    | Qual seu nome completo? | Aberta         | Discursiva          |
+| 2°                  | Obter dados do entrevistado                    | Qual sua idade?         | Aberta         | Discursiva          |
+| 3°                  | Obter dados do entrevistado                    | Qual sua ocupação?      | Aberta         | Discursiva          |
+| 4°                  | Problemas na interação com as tarefas                    | 	Foi fácil encontrar a seção "Matrículas Web" no site da Prefeitura? | Fechada         | Sim/Não          |
+| 5°                  | Problemas na interação com as tarefas                    | Você encontrou alguma dificuldade ao inserir os dados do candidato? Se sim, qual?         | Aberta         | Discursiva          |
+| 6°                  | Problemas na interação com as tarefas                    | O processo de gravação dos dados foi claro e intuitivo?       | Fechada         | Sim/Não          
+
+<center> Tabela 6: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Cadastro Antecipado de Aluno. Fonte: DIONIZIO, Joyce (2024). </center>
+
 ### C - Escolher os métodos
 
 O método escolhido foi o investigativo, por meio de entrevistas. Trata-se de uma conversa guiada por um roteiro de perguntas, na qual o entrevistador busca obter informações do entrevistado [2]. Esse método foi escolhido porque permite ao avaliador interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1]. As entrevistas serão estruturadas, seguindo um roteiro devido à inexperiência dos entrevistadores, com perguntas abertas e fechadas.
