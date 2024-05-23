@@ -109,7 +109,17 @@ Para a tarefa de [Cadastrar e Acompanhar uma reclamação](../../../requisitos1/
 
 <center> Tabela 7: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Cadastrar e Acompanhar uma reclamação. Fonte: FREITAS, Cainã (2024). </center>
 
+Para a tarefa de [Cadastrar e Acompanhar uma reclamação](../../../requisitos1/cenarios.md), serão feitas as seguintes perguntas:
 
+| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
+| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
+| 1°                  | Verificar o uso da funcionalidade | Qual é a sua experiência ao preencher o formulário de cadastro de reclamação? | Aberta         | Discursiva          |
+| 2°                  | Verificar a frequencia de uso da funcionalidade | Com qual frequencia você utiliza o formulário para informar uma luminária queimada? | Aberta         | Discursiva          |
+| 3°                  | Ver problemas de navegação do usuário | Houve algum momento em que você se sentiu perdido ou confuso ao tentar acessar o formulário para informar uma luminária queimada? | Aberta         | Discursiva          |
+| 4°                  | Consultar as espectativas do usuário | Em que medida o processo de informar uma luminária queimada no site atendeu às suas expectativas? | Aberta         | Discursiva          |
+| 5°                  | Verificar a facilidade do preenchimento do formulário | Quão fácil ou difícil foi para você preencher o formulário de informe de luminária queimada? | Aberta         | Discursiva          |
+
+<center> Tabela 8: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Informar luminária queimada no Município. Fonte: Heler, Lucas (2024). </center>
 
 ### C - Escolher os métodos
 
