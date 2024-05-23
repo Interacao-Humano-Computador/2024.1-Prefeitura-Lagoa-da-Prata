@@ -44,11 +44,27 @@ A Tabela 3 apresenta as perguntas a serem realizadas durante as entrevistas. As 
 
 | Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
 | :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
-| 1°                  | -                    | Qual seu nome completo? | Aberta         | Discursiva          |
-| 2°                  | -                    | Qual sua idade?         | Aberta         | Discursiva          |
-| 3°                  | -                    | Qual sua ocupação?      | Aberta         | Discursiva          |
+| 1°                  | -                    | Qual seu nome completo? | Aberta         | Discursiva       |
+| 2°                  | -                    | Qual sua idade?         | Aberta         | Discursiva       |
+| 3°                  | -                    | Qual sua ocupação?      | Aberta         | Discursiva       |
 
 Tabela 3: Questões a serem tratadas nas entrevistas (Fonte: FREITAS, Cainã. 2024).
+
+
+Para a tarefa de [registrar e verificar o panorama de saúde da cidade](../../../requisitos1/cenarios.md#c02-registrar-e-verificar-o-panorama-de-saúde-da-cidade), serão feitas as seguintes perguntas:
+
+| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
+| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
+| 1°                  | Obter dados do entrevistado                    | Qual seu nome completo? | Aberta         | Discursiva          |
+| 2°                  | Obter dados do entrevistado                    | Qual sua idade?         | Aberta         | Discursiva          |
+| 3°                  | Obter dados do entrevistado                    | Qual sua ocupação?      | Aberta         | Discursiva          |
+| 4°                  | Obter feedback sobre a funcionalidade                    | Você se interessa pela funcionalidade aqui apresentada? | Aberta         | Discursiva          |
+| 5°                  | Verificar o interesse do entrevistado pela proposta                    | Você utilizaria esta funcionalidade? Se sim, com qual frequência?         | Aberta         | Discursiva          |
+| 6°                  | Verificar se o entrevistado teria interesse em convencer mais pessoas a utilizar o sistema                    | Você recomendaria esta funcionalidade para outras pessoas?       | Aberta         | Discursiva          |
+| 7°                  | Verificar a visão do entrevistado sobre a população da cidade                    | Como você enxerga a preocupação do estado de saúde pelos cidadãos? A funcionalidade seria um aspecto positivo à população?       | Aberta         | Discursiva          |
+| 8°                  | Recolher opiniões e ideias para manutenção e ajustes da funcionalidade                   | Você possui dicas e opiniões adicionais que podem ser feitas nesse sistema?       | Aberta         | Discursiva          |
+
+<center> Tabela 4: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de registrar e verificar o panorama de saúde da cidade. Fonte: MEIRELES, Lucas (2024). </center>
 
 ### C - Escolher os métodos
 
