@@ -51,21 +51,21 @@ Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 Tabela 2: Consultar Panorama Econômico (Fonte: FREITAS, Cainã. 2024).
 </center>
 
-### C02: Acesso à Fila de Espera de Creches Municipais
+### C03: Cadastro Antecipado de Aluno
 
 <center>
 
 | Elemento   | Descrição                                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Objetivo   | Consultar quadro de vagas das creches.                                                                                                                                                   |
-| Contexto   | Local: Em casa <br> Tempo: Durante a tarde <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                                        |
-| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                 |
-| Ator       | Maria, moradora da cidade                                                                                                                                                                                                                      |
-| Episódios  | - Maria acessa o site da prefeitura em seu navegador <br> - Ela navega até a seção "Serviços para o Cidadão" <br> - Maria procura e encontra a opção "Fila de Espera para Creches Municipais" <br> - Ela clica na opção e é redirecionada para uma nova página <br> - Na nova página, Maria visualiza um botão ou link para acessar o quadro de vagas em formato PDF <br> - Maria clica no botão/link para abrir o PDF <br> |
-| Restrições | O site da prefeitura deve possuir uma seção específica para serviços públicos e uma opção clara para acessar o quadro de vagas das cheches.                                                                                                                                                                                                  |
-| Exceção    | Falta de internet ou problema de conexão com o site da prefeitura.                                                                                                                                                                                               |
+| Objetivo   | Realizar cadastro antecipado de aluno para matrícula escolar através do site da prefeitura.                                                                                                                                           |
+| Contexto   | Local: Em casa <br> Tempo: Durante a tarde <br> Pré-condições: Acesso à Internet, computador ou celular.                                                                                                                                        |
+| Recursos   | Internet, computador ou celular e site da Prefeitura.                                                                                                                                                            |
+| Ator       | Maria, moradora da cidade                                                                                                                                                                                                             |
+| Episódios  | - Maria acessa o site da Prefeitura em seu navegador <br> - Ela navega até a seção "Serviços" <br> - Maria procura e encontra a opção "Matrículas Web" <br> - Ela clica na opção e é redirecionada para uma nova página <br> - Na nova página, Maria clica em "Acessar Serviço" <br> - Maria seleciona a opção "Cadastro Antecipado" <br> - Na nova página, Maria insere os dados em "Dados do Candidato" <br> - Maria insere os dados em "Dados do Responsável" <br> - Maria insere os dados em "Dados Sócio-Econômicos" <br> - Maria clica no botão "Gravar Candidato" <br> - Maria clica em "OK" no balão de confirmação de dados. |
+| Restrições | O site da prefeitura deve possuir uma seção específica para serviços públicos e uma opção clara para acessar o serviço de matrículas web.                                                                                                                                                                                                  |
+| Exceção    | Falta de internet ou problema de conexão com o site da prefeitura.                                                                                                                                                                                              |
 
-Tabela 3: Consultar Panorama Econômico (Fonte: DIONIZIO, Joyce. 2024).
+Tabela 3: Realização de Denúncia na Ouvidoria (Fonte: DIONIZIO, Joyce. 2024).
 
 </center>
 
@@ -173,6 +173,7 @@ Tabela 8: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
 | 06/05/2024 | `1.3`  |            Adição de Cenário             | [Lucas Meireles](https://github.com/Katuner)  |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 06/05/2024 | `1.4`  |     Adição de Cenário e Bibliografia     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
 | 10/05/2024 | `1.5`  | Correção pós entrega e edição de cenário | [Lucas Meireles](https://github.com/Katuner)  |    12/05/2024             |      [Lucas Heler](https://github.com/akaeboshi)                                        |
-| 12/05/2024 | `1.6`  | Adição de Cenário | [Lucas Heler](https://github.com/akaeboshi)  |                 |
+| 12/05/2024 | `1.6`  | Adição de Cenário | [Lucas Heler](https://github.com/akaeboshi)  |                 |                                              |
+| 22/05/2024 | `1.7`  | Adição de Cenário | [Joyce Dionizio](https://github.com/joycejdm)  |                 |                    
 | 22/05/2024 | `1.7`  | Adição de Cenário | [Augusto Duarte](https://github.com/Augcamp)   |                 |                                                |
 | 22/05/2024 | `1.7`  | Atualização de Cenário |  [Lucas Meireles](https://github.com/Katuner)  |       |            |

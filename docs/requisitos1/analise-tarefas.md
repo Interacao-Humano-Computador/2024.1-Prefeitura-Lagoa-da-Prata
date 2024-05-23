@@ -76,6 +76,44 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 <p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Fazer Download da Última Movimentação de uma Licitação </p>
 </div>
 
+### Análise da Tarefa HTA 2: Fazer Download da Última Movimentação de uma Licitação
+
+| Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
+|------------------------------------------------------|---------------|----------------------------------------------------------|
+| 0. Realizar cadastro antecipado de aluno para matrícula escolar |1 > 2 > 3 > 4 > 5 > 6 > 7 > 8|      Input: Acesso ao site da Prefeitura de Goiânia, Dados do candidato, Dados do responsável, Dados sócio-econômicos. <br> Plano: Navegar até a seção de serviços, selecionar "Matrículas Web", acessar "Cadastro Antecipado", preencher dados, gravar dados, confirmar gravação. <br> Feedback: Confirmação de cadastro bem-sucedido.|
+|   1. Encontrar a seção de serviços   | 1.1 > 1.2 > 1.3 > 1.4|    Plano: Abrir o navegador, acessar o site da prefeitura, navegar até o menu "SERVIÇOS", selecionar "MATRÍCULAS WEB". <br> Feedback: Acesso à página de matrículas web. |
+|     1.1 Abrir o navegador | | Recomenda-se usar um navegador compatível com o site.         |
+|     1.2 Acessar o site da Prefeitura de Goiânia   | | Pode ser necessário garantir uma conexão estável com a internet. |
+|   1.3 Navegar até o menu "SERVIÇOS" ||   A identificação do menu "SERVIÇOS" deve ser clara.  |
+|     1.4 Navegar até a opção "MATRÍCULAS WEB" |  |A opção "MATRÍCULAS WEB" deve estar visível e acessível no menu.     |
+|   2. Navegar para a página de matrícula web   |2.1 > 2.2 | Plano: Visualizar a opção "Acessar Serviço", clicar para acessar. <br> Feedback: Página de cadastro antecipado aberta.|
+|   2.1 Visualizar a opção "Acessar Serviço"   | | A opção deve ser funcional e responsiva.|
+|   2.2 Clicar na opção "Acessar Serviço" | |   	A opção deve ser funcional e responsiva. |
+|     3. Selecionar "Cadastro Antecipado" | 3.1 > 3.2| Plano: Visualizar e selecionar "Cadastro Antecipado". <br> Feedback: Página de inserção de dados aberta.   |
+|     3.1 Visualizar a opção "Cadastro Antecipado"                       | | A opção deve ser destacada e facilmente localizável. |
+|   3.2 Clicar na opção "Cadastro Antecipado"                   | |       A opção deve redirecionar corretamente.  |
+|     4. Inserir dados do candidato | 4.1| Plano: Preencher campos obrigatórios em "Dados do Candidato". <br> Feedback: Campos preenchidos corretamente. |
+|   4.1 Preencher os campos obrigatórios em "Dados do Candidato" | |    Plano: Navegar até a seção de movimentação, fazer download da movimentação|
+|     5. Inserir dados do responsável | 5.1| Plano: Preencher campos obrigatórios em "Dados do Responsável". <br> Feedback: Campos preenchidos corretamente.                        |
+|     5.1 Preencher os campos obrigatórios em "Dados do Responsável" | |Campos devem ser claros e permitir a inserção de informações sem erros.      
+|     6. Inserir dados sócio-econômicos | 6.1| Plano: Preencher campos obrigatórios em "Dados Sócio-Econômicos". <br> Feedback: Campos preenchidos corretamente.    
+|     6.1 Preencher os campos obrigatórios em "Dados Sócio-Econômicos" | | Campos devem ser claros e permitir a inserção de informações sem erros. 
+|     7. Gravar os dados do candidato |7.1 > 7.2 | Plano: Verificar todas as informações e clicar em "Gravar Candidato". <br> Feedback: Dados salvos no sistema.    
+|     7.1 Verificar todas as informações inseridas | |  Revisão de dados para evitar erros.   
+|     7.2 Clicar no botão "Gravar Candidato" | | Botão deve ser claramente identificável e funcional.    
+|    8. Confirmar gravação dos dados | 8.1 > 8.2|  Plano: Verificar balão de confirmação e clicar em "OK". <br> Feedback: Confirmação de dados gravados.   
+|     8.1 Verificar o balão de confirmação de dados | |Mensagem de confirmação deve ser clara e compreensível.     
+|     8.2 Clicar em "OK" no balão de confirmação de dados | | Botão "OK" deve ser funcional.      
+
+<div align="center">
+<p> <b>Tabela 2</b>: HTA da Tarefa: Fazer Download da Última Movimentação de uma Licitação (Fonte: Heler, Lucas. 2024). </p>
+</div>
+
+<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/hta_matricula.jpg" width="100%">
+<div align="center">
+<p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Cadastro Antecipado de Aluno </p>
+</div>
+
 ### Análise da Tarefa HTA 2: Acessar o módulo de Contra Cheque e consultar processos do servidor 
 
 |    Objetivos/Operações    |    Relações    |    Problemas e recomendações    |
@@ -133,7 +171,6 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 <p> <b>Figura 3</b>: Diagrama HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: Freitas, Cainã. 2024).</p>
 </div>
 
-
 ## CNM-GOMS
 
 &emsp;&emsp;O GOMS (Goals, Operators, Methods, and Selection Rules - Objetivos, Operadores, Métodos e Regras de Seleção) é um conjunto de modelos utilizados para análise de tarefas. O CMN-GOMS (Card, Moran e Newell GOMS) é um desses modelos e consiste em uma hierarquia bem definida de objetivos representados em forma de programa, permitindo assim uma análise executável. (Barbosa e Silva, 2010)
@@ -170,28 +207,40 @@ Goal 0: Consultar lista de medicamentos disponíveis
     OP: Consultar valor no lado direito da lista
 ```
 
-### Análise da Tarefa CNM-GOMS 2: Consultar Quadro de Vagas das Creches Municipais
+### Análise da Tarefa CNM-GOMS 2: Cadastro Antecipado de Aluno
 ```
 
-Goal 0: Consultar quadro de vagas das creches municipais
-  Goal 1: Encontrar serviços de pessoa física
-    METHOD 1.A: Encontrar através do menu "Serviços para o Cidadão"
+Goal 0: Realizar cadastro antecipado de aluno para matrícula escolar
+  Goal 1: Encontrar a seção de serviços
+    METHOD 1.A: Encontrar através do menu "Serviços"
     (SEL.RULE: preferência do usuário)
-        OP: Levar cursor até menu "SERVIÇOS PARA O CIDADÃO"
-        OP: Levar cursor até menu "FILA DE ESPERA PARA CRECHES MUNICIPAIS"
-        OP: Levar cursor até botão "ACESSAR"
+        OP: Levar cursor até menu "SERVIÇOS"
+        OP: Levar cursor até opção "MATRÍCULAS WEB"
         OP: Clicar com o botão esquerdo do mouse
     METHOD 1.B: Encontrar através da aba de pesquisa
     (SEL.RULE: preferência do usuário)
         OP: Levar cursor até barra de pesquisa
         OP: Clicar com o botão esquerdo do mouse
-        OP: Digitar "creches"
+        OP: Digitar "matrículas web"
         OP: Levar cursor até botão de pesquisa
         OP: Clicar com o botão esquerdo do mouse
-        OP: Levar cursor até "FILA DE ESPERA PARA CRECHES MUNICIPAIS"
-  Goal 2: Acessar quadro de vagas
-    OP: Na nova página, visualizar um botão ou link para acessar o quadro de vagas em formato PDF
-    OP: Clicar no botão/link para abrir o PDF
+        OP: Levar cursor até opção "MATRÍCULAS WEB"
+  Goal 2: Navegar para a página de matrícula web
+    OP: Na nova página, visualizar e clicar na opção "Acessar Serviço"
+  Goal 3: Selecionar "Cadastro Antecipado"
+    OP: Selecionar a opção "Cadastro Antecipado"
+  Goal 4: Inserir dados do candidato
+    OP: Preencher os campos obrigatórios em "Dados do Candidato"
+  Goal 5: Inserir dados do responsável
+    OP: Preencher os campos obrigatórios em "Dados do Responsável"
+  Goal 6: Inserir dados sócio-econômicos
+    OP: Preencher os campos obrigatórios em "Dados Sócio-Econômicos"
+  Goal 7: Gravar os dados do candidato
+    OP: Clicar no botão "Gravar Candidato"
+  Goal 8: Confirmar gravação dos dados
+    OP: Clicar em "OK" no balão de confirmação de dados
+
+
 ```
 
 ### Análise da Tarefa CNM-GOMS 3: Visualizar e baixar editais de concursos e processos seletivos
@@ -336,3 +385,5 @@ Goal 0: Acessar o modulo de contra cheque e consultar processos do servidor
 | 07/05/2024 | `1.4`  |                     Adição de Análise de Tarefas 5                     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Lucas Heler](https://github.com/akaeboshi)  |
 | 07/05/2024 | `1.5`  |                   Adição de Análise de Tarefas HTA 1                   |  [Lucas Heler](https://github.com/akaeboshi)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 22/05/2024 | `1.7`  | Adição de tarefa | [Joyce Dionizio](https://github.com/joycejdm)  |   |   |
+
