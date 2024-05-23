@@ -45,9 +45,13 @@ nav:
       - Metas de Usabilidade: requisitos2/metas-usabilidade.md
       - Guias de Estilo: requisitos2/guia-de-estilo.md
       - Caracteristicas da Plataforma Para o Projeto: requisitos2/caracteristicas.md
-  - Design:
-    - Nível 1: 
-      - Planejamento para Storyboards: design/Nivel_1/Pl_storyboard.md
+  - Design Nível 1: 
+    - Analise de Tarefas:
+      - Planejamento para Analise de Tarefas: design/Nivel_1/analise_tarefas/Pl_avaliacao_tarefas.md
+      - Planejamento do Relato dos Resultados: design/Nivel_1/analise_tarefas/Pl_relatoresultado_tarefas.md
+      - Termo de Consentimento: design/Nivel_1/analise_tarefas/termo_consentimento.md
+    - Storyboard:
+      - Planejamento para Storyboards: design/Nivel_1/storyboard/Pl_storyboard.md
 
 
 

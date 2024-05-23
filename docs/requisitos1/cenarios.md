@@ -51,21 +51,21 @@ Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 Tabela 2: Consultar Panorama Econômico (Fonte: FREITAS, Cainã. 2024).
 </center>
 
-### C02: Acesso à Fila de Espera de Creches Municipais
+### C03: Cadastro Antecipado de Aluno
 
 <center>
 
 | Elemento   | Descrição                                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Objetivo   | Consultar quadro de vagas das creches.                                                                                                                                                   |
-| Contexto   | Local: Em casa <br> Tempo: Durante a tarde <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                                        |
-| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                 |
-| Ator       | Maria, moradora da cidade                                                                                                                                                                                                                      |
-| Episódios  | - Maria acessa o site da prefeitura em seu navegador <br> - Ela navega até a seção "Serviços para o Cidadão" <br> - Maria procura e encontra a opção "Fila de Espera para Creches Municipais" <br> - Ela clica na opção e é redirecionada para uma nova página <br> - Na nova página, Maria visualiza um botão ou link para acessar o quadro de vagas em formato PDF <br> - Maria clica no botão/link para abrir o PDF <br> |
-| Restrições | O site da prefeitura deve possuir uma seção específica para serviços públicos e uma opção clara para acessar o quadro de vagas das cheches.                                                                                                                                                                                                  |
-| Exceção    | Falta de internet ou problema de conexão com o site da prefeitura.                                                                                                                                                                                               |
+| Objetivo   | Realizar cadastro antecipado de aluno para matrícula escolar através do site da prefeitura.                                                                                                                                           |
+| Contexto   | Local: Em casa <br> Tempo: Durante a tarde <br> Pré-condições: Acesso à Internet, computador ou celular.                                                                                                                                        |
+| Recursos   | Internet, computador ou celular e site da Prefeitura.                                                                                                                                                            |
+| Ator       | Maria, moradora da cidade                                                                                                                                                                                                             |
+| Episódios  | - Maria acessa o site da Prefeitura em seu navegador <br> - Ela navega até a seção "Serviços" <br> - Maria procura e encontra a opção "Matrículas Web" <br> - Ela clica na opção e é redirecionada para uma nova página <br> - Na nova página, Maria clica em "Acessar Serviço" <br> - Maria seleciona a opção "Cadastro Antecipado" <br> - Na nova página, Maria insere os dados em "Dados do Candidato" <br> - Maria insere os dados em "Dados do Responsável" <br> - Maria insere os dados em "Dados Sócio-Econômicos" <br> - Maria clica no botão "Gravar Candidato" <br> - Maria clica em "OK" no balão de confirmação de dados. |
+| Restrições | O site da prefeitura deve possuir uma seção específica para serviços públicos e uma opção clara para acessar o serviço de matrículas web.                                                                                                                                                                                                  |
+| Exceção    | Falta de internet ou problema de conexão com o site da prefeitura.                                                                                                                                                                                              |
 
-Tabela 3: Consultar Panorama Econômico (Fonte: DIONIZIO, Joyce. 2024).
+Tabela 3: Realização de Denúncia na Ouvidoria (Fonte: DIONIZIO, Joyce. 2024).
 
 </center>
 
@@ -88,22 +88,22 @@ Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 Tabela 4: Consultar edital de concursos e processos seletivos (Fonte: DUARTE, Augusto. 2024).
 </center>
 
-### C04: Gerar evento pelo site
+### C04: Registrar e verificar o panorama de saúde da cidade
 Abaixo se encontra a tabela que especifica o elemento e sua descrição.
 
 <center>
 
 | Elemento   | Descrição                                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Objetivo   | Gerar evento cultural e publicar no site da prefeitura                                                                                                                                                                       |
-| Contexto   | Local: Em escritório <br> Tempo: Turno da tarde <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                     |
+| Objetivo   | Registrar e verificar o panorama de saúde da cidade                                                                                                                                                                       |
+| Contexto   | Local: Em casa <br> Tempo: Sem especificação <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                     |
 | Recursos   | Internet, computador e site da Prefeitura Municipal                                                                                                                                                                 |
-| Ator       | Diego, verificando a caixa de mensagens e confirmando a intenção de um ator externo à realizar um evento.                                                                                                                                                                                            |
-| Episódios  | - Diego acessa o email de contato <br> - Ele verifica um email que contém informações sobre a intenção de realização de um evento <br> - Ele repassa as informações aos superiores <br> - Ele recebe a resposta e indica ao remetente inicial a decisão <br> Em caso negativo, ele informa os motivos e finaliza sua função <br> Em caso positivo, ele reconfirma as informações, monta uma imagem para publicação e valida com o remetente inicial <br> Diego acessa o site da prefeitura <br> Ele navega ao menu completo e acessa a área de "Eventos" <br> Ele aperta no botão para adicionar um evento <br> Ele preenche os dados de imagem, data de ínicio e término e adiciona uma descrição ao evento <br> Por fim, ele confirma os dados novamente e realiza a postagem.   |
-| Restrições | Fluxo de navegação intuitivo, confirmação de dados de superiores.                                                                                                                                                                                                  |
-| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura, indivíduos secundários inalcançáveis.                                                                                                                                                                                               |
+| Ator       | Diego, notando que está com sintomas de uma doença contagiosa e desejando atualizar seu estado de saúde par alertar pessoas próximas.                                                                                                                                                                                            |
+| Episódios  | - Diego percebe seus sintomas <br> - Ele acessa o site da prefeitura <br> - Ele se dirige ao serviço de saúde <br> - Ele escolhe a opção para relatar um problema de saúde <br> Realiza o login em sua conta <br> Confirma o seu endereço <br> Diego seleciona a opção de registrar seu estado de saúde <br> Ele seleciona os sintomas que melhor encaixam no que está sentindo <br> Ele seleciona que deseja realizar uma consulta médica <br> Ele revisa os dados e confirma suas respostas <br> Diego é redirecionado à página inicial onde pode ver áreas com relatos de pessoas dontes <br> Ele identifica que esteve perto de áreas em que pessoas estão doentes <br> Após algum tempo, Diego recebe uma notificação de um horário para sua consulta e o local <br> Diego confirma estar disponível pelo site e a consulta é registrada em cronograma do médico responsável.   |
+| Restrições | Fluxo de navegação intuitivo, acesso à internet, conhecimento de sintomas e de áreas da cidade.                                                                                                                                                                                                  |
+| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                               |
 
-Tabela 5: Gerar evento pelo site (Fonte: MEIRELES, Lucas. 2024).
+Tabela 5: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024).
 </center>
 
 ### C05: Gerar listagem de editais de licitação
@@ -142,6 +142,34 @@ A tabela abaixo especifica o elemento assim como a descrição do cenário espec
 Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
 </center>
 
+### C07: Cadastrar e acompanhar reclamação no conselho municipal de educação
+### C07: Acessar o modulo de contra cheque e consultar processos do servidor
+A tabela abaixo especifica o elemento assim como a descrição do cenário especificado.
+
+<center>
+
+| Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objetivo   | Cadastrar e acompanhar reclamação no conselho municipal de educação                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Contexto   | Local: Em qualquer lugar <br> Tempo:  Durante todo o dia <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                                                                                                                                                                                                                 |
+| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal da Lagoa da Prata                                                                                                                                                                                                                                                                                                                                                         |
+| Ator       | Lucas Oliveira, sente-se indignido com um fato na escola de suas filhas e decide deixar uma reclamação                                                                                                                                                                                                                                                                                                                                              |
+| Episódios  | - Lucas  acessa o site <br> - Ele navega até o menu suspenso e passa o mouse no ícone do menu "hambúrguer" <br> - Ele clica na opção "Ouvidoria" <br> - Ele clica no botão "Cadastrar Manifestação" <br> - Ele navega até o formulário de "Solicitação"  <br> - Ele clica na caixa "Tipo" e escolhe "Reclamação" <br> - Ele clica na caixa "Secretaria/Departamento" e escolhe "Conselho Municipal de Educação" <br>  - Ele clica na caixa "Assunto" e escolhe "OUVIDORIA GERAL - RECLAMAÇÃO" <br> - Ele clica na caixa "Forma de Resposta" e escolhe "Consulta no Site" <br> - Ele, opcionamente, clica na caixa "Solicitar Sigilo?" e altera de "Não" para "Sim" <br> - Ele clica na caixa de "Solicitação" e escreve toda a reclamação necessária <br> - Ele, opcionamente, clica na caixa "Anexar Arquivos" e faz upload de um arquivo relacionado <br> - Ele, opcionamente, navega até a aba de "Local da Ocorrência" <br> - Ele, opcionamente, clica na caixa "Bairro" e insere o bairro da escola<br> - Ele, opcionamente, clica na caixa "Logradouro" e insere o logradouro da escola <br> - Ele, opcionamente, clica na caixa "Número" insere o número da escola<br> - Ele faz um Captcha Simples <br> - Ele clica no botão cadastrar que o redireciona para uma nova página <br> - Ele clica no botão "Meus Protocolos" <br> - Ele clica na caixa que mostra sua reclamação recente cadastrada <br> - Ele navega pela página de sua reclamação e acompanha o status
+| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
+
+Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
+| Objetivo   | Acessar o modulo de contra cheque e consultar processos do servidor                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Contexto   | Local: Em casa <br> Tempo: Durante todo o dia <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                                                                                                                                                                                                                 |
+| Recursos   | Internet, computador ou celular e site da Prefeitura Municipal                                                                                                                                                                                                                                                                                                                                                         |
+| Ator       | Denise, buscando acompanhar seus processos de servidora.                                                                                                                                                                                                                                                                                                                                                                  |
+| Episódios  | - Denise acessa o site <br> - Ela navega até "Contra Cheque" <br> - Ela fornece seus dados pessoas e clica em “validar” <br> - Ela clica em "Processo Digital"  <br> - Ela encontra algumas informações sobre o que estava buscando <br> - Ela clica no número do processo  <br>   Ela encontra todas as informações que buscava sobre seus processos de servidora <br>             |
+| Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
+
+Tabela 8: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
+</center>
+
 ## Bibliografia
 [1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 06/05/2024.
 
@@ -156,3 +184,7 @@ Tabela 7: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
 | 06/05/2024 | `1.4`  |     Adição de Cenário e Bibliografia     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
 | 10/05/2024 | `1.5`  | Correção pós entrega e edição de cenário | [Lucas Meireles](https://github.com/Katuner)  |    12/05/2024             |      [Lucas Heler](https://github.com/akaeboshi)                                        |
 | 12/05/2024 | `1.6`  | Adição de Cenário | [Lucas Heler](https://github.com/akaeboshi)  |                 |                                              |
+| 22/05/2024 | `1.6`  | Adição de Cenário | [Cainã Freitas](https://github.com/freitasc)  |                 |                                              |
+| 22/05/2024 | `1.7`  | Adição de Cenário | [Joyce Dionizio](https://github.com/joycejdm)  |                 |                    
+| 22/05/2024 | `1.7`  | Adição de Cenário | [Augusto Duarte](https://github.com/Augcamp)   |                 |                                                |
+| 22/05/2024 | `1.7`  | Atualização de Cenário |  [Lucas Meireles](https://github.com/Katuner)  |       |            |
