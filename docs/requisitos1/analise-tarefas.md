@@ -46,7 +46,7 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 </p>
 
 
-### Análise da Tarefa HTA 1: Fazer Download da Última Movimentação de uma Licitação
+### Análise da Tarefa HTA 1: Informar luminária queimada no Município
 
 | Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
 |------------------------------------------------------|---------------|----------------------------------------------------------|
@@ -102,14 +102,14 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 |       4.3. Conferir status | |    |
 
 <div align="center">
-<p> <b>Tabela 2</b>: HTA da Tarefa: Cadastrar e uma reclamação na ouvidoria (Fonte: Freitas, Cainã. 2024). </p>
+<p> <b>Tabela 3</b>: HTA da Tarefa: Cadastrar e uma reclamação na ouvidoria (Fonte: Freitas, Cainã. 2024). </p>
 </div>
 
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_ouvidoria.png" width="100%">
 <div align="center">
-<p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Cadastrar e acompanhar uma reclamação na ouvidoria (Fonte: Freitas, Cainã. 2024).</p>
+<p> <b>Figura 3</b>: Diagrama HTA da Tarefa: Cadastrar e acompanhar uma reclamação na ouvidoria (Fonte: Freitas, Cainã. 2024).</p>
 
-### Análise da Tarefa HTA 2: Fazer Download da Última Movimentação de uma Licitação
+### Análise da Tarefa HTA 3: Cadastro Antecipado de Aluno
 
 | Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
 |------------------------------------------------------|---------------|----------------------------------------------------------|
@@ -139,15 +139,15 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 |     8.2 Clicar em "OK" no balão de confirmação de dados | | Botão "OK" deve ser funcional.      
 
 <div align="center">
-<p> <b>Tabela 2</b>: HTA da Tarefa: Fazer Download da Última Movimentação de uma Licitação (Fonte: Heler, Lucas. 2024). </p>
+<p> <b>Tabela 4</b>: HTA da Tarefa: Cadastro Antecipado de Aluno (Fonte: Heler, Lucas. 2024). </p>
 </div>
 
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/hta_matricula.jpg" width="100%">
 <div align="center">
-<p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Cadastro Antecipado de Aluno </p>
+<p> <b>Figura 4</b>: Diagrama HTA da Tarefa: Cadastro Antecipado de Aluno </p>
 </div>
 
-### Análise da Tarefa HTA 2: Acessar o módulo de Contra Cheque e consultar processos do servidor 
+### Análise da Tarefa HTA 4: Acessar o módulo de Contra Cheque e consultar processos do servidor 
 
 |    Objetivos/Operações    |    Relações    |    Problemas e recomendações    |
 | :-----------------------: | ------------------------------- | ------------------------------- | 
@@ -160,16 +160,16 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
  
 
 <div align="center">
-<p> <b>Tabela 3</b>: HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor  (Fonte: Duarte, Augusto. 2024). </p>
+<p> <b>Tabela 5</b>: HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor  (Fonte: Duarte, Augusto. 2024). </p>
 </div>
 
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA2.png" width="100%">
 <div align="center">
-<p> <b>Figura 3</b>: Diagrama HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor </p>
+<p> <b>Figura 5</b>: Diagrama HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor </p>
 </div>
 
 
-### Análise da Tarefa HTA 3: Registrar e verificar o panorama de saúde da cidade
+### Análise da Tarefa HTA 5: Registrar e verificar o panorama de saúde da cidade
 
 | Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
 |------------------------------------------------------|---------------|----------------------------------------------------------|
@@ -196,12 +196,11 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 |       4.1.2 Selecionar uma área do mapa e verificar dados detalhados | |    |
 
 <div align="center">
-<p> <b>Tabela 4</b>: HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024). </p>
+<p> <b>Tabela 6</b>: HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024). </p>
 </div>
 
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_Saude.png" width="100%">
-<div align="center">
-<p> <b>Figura 3</b>: Diagrama HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: Freitas, Cainã. 2024).</p>
+<p> <b>Figura 6</b>: Diagrama HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: Freitas, Cainã. 2024).</p>
 </div>
 
 ## CNM-GOMS
@@ -448,7 +447,6 @@ Goal 0: Cadastrar e acompanhar status de uma reclamação
 ```
  
 
-```
 
 ### Análise da Tarefa CNM-GOMS 6: Acessar o modulo de contra cheque e consultar processos do servidor
 ```
@@ -473,7 +471,7 @@ Goal 0: Acessar o modulo de contra cheque e consultar processos do servidor
     OP: Clicar com botão esquerdo do mouse
 	  OP: Levar o cursor do mouse até “Nº do processo”
 	  OP: Clicar com o botão esquerdo do mouse 
-
+```
 
 ### Análise da Tarefa CNM-GOMS 6: Informar luminária queimada no Município
 ```
@@ -560,5 +558,5 @@ Goal 0: Informar luminária queimada no Município
 | 07/05/2024 | `1.4`  |                     Adição de Análise de Tarefas 5                     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Lucas Heler](https://github.com/akaeboshi)  |
 | 07/05/2024 | `1.5`  |                   Adição de Análise de Tarefas HTA 1                   |  [Lucas Heler](https://github.com/akaeboshi)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 22/05/2024 | `1.7`  | Adição de Análise de Tarefas 6 e HTA | [Lucas Heler](https://github.com/Akaeboshi)  |    |
-| 22/05/2024 | `1.7`  | Adição de tarefa | [Joyce Dionizio](https://github.com/joycejdm)  |   |   |
+| 22/05/2024 | `1.7`  | Adição de Análise de Tarefas 6 e HTA | [Lucas Heler](https://github.com/Akaeboshi)  | 22/05/2024  | [Cainã Freitas](https://github.com/freitasc)  |
+| 22/05/2024 | `1.8`  | Adição de tarefa | [Joyce Dionizio](https://github.com/joycejdm)  | 22/05/2024  | [Cainã Freitas](https://github.com/freitasc)  |

@@ -152,8 +152,8 @@ Tabela 7: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
 | 06/05/2024 | `1.3`  |            Adição de Cenário             | [Lucas Meireles](https://github.com/Katuner)  |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 06/05/2024 | `1.4`  |     Adição de Cenário e Bibliografia     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
 | 10/05/2024 | `1.5`  | Correção pós entrega e edição de cenário | [Lucas Meireles](https://github.com/Katuner)  |    12/05/2024             |      [Lucas Heler](https://github.com/akaeboshi)                                        |
-| 12/05/2024 | `1.6`  | Adição de Cenário | [Lucas Heler](https://github.com/akaeboshi)  |                 |                                              |
-| 22/05/2024 | `1.6`  | Adição de Cenário | [Cainã Freitas](https://github.com/freitasc)  |                 |                                              |
-| 22/05/2024 | `1.7`  | Adição de Cenário | [Joyce Dionizio](https://github.com/joycejdm)  |                 |                    
-| 22/05/2024 | `1.7`  | Adição de Cenário | [Augusto Duarte](https://github.com/Augcamp)   |                 |                                                |
-| 22/05/2024 | `1.7`  | Atualização de Cenário |  [Lucas Meireles](https://github.com/Katuner)  |       |            |
+| 12/05/2024 | `1.6`  | Adição de Cenário | [Lucas Heler](https://github.com/akaeboshi)  |         22/05/2024  | [Cainã Freitas](https://github.com/freitasc)  |
+| 22/05/2024 | `1.6`  | Adição de Cenário | [Cainã Freitas](https://github.com/freitasc)  |          22/05/2024  | [Cainã Freitas](https://github.com/freitasc)  |
+| 22/05/2024 | `1.7`  | Adição de Cenário | [Joyce Dionizio](https://github.com/joycejdm)  |        22/05/2024  | [Cainã Freitas](https://github.com/freitasc)  |
+| 22/05/2024 | `1.7`  | Adição de Cenário | [Augusto Duarte](https://github.com/Augcamp)   |    22/05/2024  | [Cainã Freitas](https://github.com/freitasc)  |
+| 22/05/2024 | `1.7`  | Atualização de Cenário |  [Lucas Meireles](https://github.com/Katuner)  |  22/05/2024  | [Cainã Freitas](https://github.com/freitasc)  ||
