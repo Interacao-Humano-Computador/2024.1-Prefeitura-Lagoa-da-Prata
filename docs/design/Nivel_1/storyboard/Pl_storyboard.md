@@ -20,8 +20,7 @@ Será utilizada, para o propósito desta avaliação, uma abordagem planejada co
 Ao analisar o objetivo I temos as seguintes perguntas principais:
 
     - Por que os usuários não incorporaram o sistema no seu cotidiano?
-    - Quais objetivos dos usuários podem ser alcançados através do sistema? Quais não podem? Quais necessidades e
-desejos foram ou não atendidos?
+    - Quais objetivos dos usuários podem ser alcançados através do sistema? Quais não podem? Quais necessidades e desejos foram ou não atendidos?
     - Como o sistema interativo afeta o modo de as pessoas se comunicarem e relacionarem?
 
 Já referente ao objetivo II:
@@ -30,6 +29,20 @@ Já referente ao objetivo II:
     - Ele entende o que significa e para que serve cada elemento de interface?
     - Ele vai entender o que deve fazer em seguida?
     - Quais barreiras o usuário encontra para atingir seus objetivos?
+
+Ao final da simulação de uso o avaliador fará perguntas ao usuário sobre sua experiência com o protótipo durante a avaliação. A Tabela 1 descreve as perguntas a serem realizadas.
+
+| Ordem das perguntas | Pergunta           | Tipo de pergunta | Respostas possíveis |
+| :-----------------: | :-----------------:| :--------------: | :-----------------: |
+| 1°                  | Você compreendeu a história aqui passada e as pessoas envolvidas? | Fechada         | Sim / Não      |
+| 2°                  | Foi possível compreender os passos realizados? Se não, por que?       | Fechada / Aberta        | Sim / Não e Discursiva     |
+| 3°                  | Foi possível identificar a vantagem e a satisfação final da história?      | Fechada         | Sim / Não      |
+| 4°                  | Dados os aspectos apresentados, você vê a possibilidade desse cenário ocorrer na cidade?      | Fechada         | Sim / Não      |
+| 5°                  | Dados os aspectos apresentados, você vê a população criando uma cultura para utilizar a proposta aqui descrita? Explique    | Aberta         | Discursiva      |
+| 6°                  | Dados os aspectos apresentados, você acha que é viável a utilização da ferramenta e que isso trará benefícios para as partes interessadas? Explique.    | Aberta         | Discursiva      |
+| 7°                  | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?    | Fechada / Aberta        | Sim e Discursiva / Não    |
+
+Tabela 1: Questões a serem tratadas nas entrevistas (Fonte: FREITAS, Cainã. 2024).
 
 ### Escolher o(s) método(s) de avaliação (C)
 
@@ -40,6 +53,7 @@ Dada uma divisão de objetivos principais a serem avaliados, o grupo irá realiz
 Para o objetivo I, será necessário o contato com indivíduos do município de Lagoa da Prata que, por meio de entrevista, consigam julgar os protópipos realizados pela equipe e também fornecer feedback referente ao seu uso da plataforma com as funcionalidades retratadas. Baseado na proposta de Dumas & Redish (1999), serão entrevistados cinco usuários. Cada entrevista será realizada por um membro do grupo de IHC de modo online. As entrevistas serão realizadas via Microsoft Teams, plataforma gratuita para os estudantes da Universidade de Brasília que permite chamadas de voz ou vídeo e oferece gravações.
 
 Já para a análise do objetivo II, devido ao método de inspeção, será necessário a verificação dos horários de cada membro encarregado por cada avaliação e de suas ferramentas em estado funcional, gerando um baixo custo em geral, além de simplicidade ao não envolver pessoas externas. Cada avaliador se responsabilizará por compreender o perfil que utilizará quando realizar a avaliação, listar os problemas encontrados com dados de local, gravidade, justificativa e recomendações de solução.
+
 
 ### Decidir como lidar com as questões éticas (D)
 
@@ -56,6 +70,7 @@ Já para os dados provenientes da avaliação heurística, será seguido o model
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 22/05/2024 | `1.0`  |  Elaboração inicial do documento   |      [Lucas Meireles](https://github.com/Katuner) |  22/05/2024 | [Lucas Heler](https://github.com/akaeboshi) |
+| 03/06/2024 | `1.1`  |  Adiciona tabela de perguntas para entrevista   | [Cainã Freitas](https://github.com/freitasc) |   |  |
 
 ## Referencial Bibliográfico
 
