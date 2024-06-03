@@ -95,7 +95,7 @@ O equipamento dos participantes e entrevistados, como também softwares gratuito
 
 #### Sumário de Dados
 
-No planejamento do relato da análise de tarefas, é crucial fornecer um resumo dos dados coletados durante o estudo. Para este fim, é importante a criação de uma ficha de entrevista, que será preenchida com as respostas dos entrevistados. Essa ficha não será a única fonte de analise, mas será usada para criar uma base.
+No planejamento do relato da análise de tarefas, é crucial fornecer um resumo dos dados coletados durante o estudo. Para este fim, é importante a criação de uma ficha de entrevista, que será preenchida com as respostas dos entrevistados. Essa ficha não será a única fonte de analise, mas será usada para criar uma base que poderá ser utilizada para a análise.
 
 | Ordem das perguntas | Pergunta           | Tipo de pergunta | Respostas possíveis |
 | :-----------------: | :-----------------:| :--------------: | :-----------------: |
