@@ -2,7 +2,7 @@
 
 ## Teste de usabilidade com protótipo de alta fidelidade do site da Prefeitura da Lagoa da Prata
 
-Pesquisador Responsável:
+Pesquisador Responsável: Cainã Freitas
 
 Instituição: Universidade de Brasília
 

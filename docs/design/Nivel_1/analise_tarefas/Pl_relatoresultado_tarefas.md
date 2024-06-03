@@ -62,7 +62,6 @@ No planejamento do relatório da análise de tarefas através de entrevistas, é
 4. **Registro das entrevistas**: Determinar como as entrevistas serão registradas, seja por gravações, anotações ou ambos, garantindo consentimento e confidencialidade.
 5. **Análise dos dados**: Planejar a análise dos dados coletados, identificando temas recorrentes e utilizando técnicas apropriadas.
 6. **Aspectos éticos**: Observar questões éticas, como consentimento informado, privacidade e proteção de dados, em conformidade com regulamentações e políticas.
-7. **Teste piloto**: Realizar um teste piloto para verificar a eficácia das ferramentas a serem utilizadas, como gravação de áudio e apresentação de materiais aos participantes.
 
 Além disso, será incluído um cronograma para fornecer detalhes sobre o andamento do projeto. Para padronização, apresentaremos um exemplo na Tabela 1.
 
@@ -77,14 +76,9 @@ Tabela 1: Modelo de entrevista executada (Fonte: FREITAS, Cainã. 2024).
 
 No planejamento do relato da análise de tarefas, é essencial considerar a equipe envolvida na condução da avaliação. Abaixo estão os aspectos a serem abordados:
 
-#### Avaliadores:
-
-- **Pedro Ribeiro**: Especialista em usabilidade com experiência de 5 anos em testes de interface.
-- **João Goulart**: Designer de interação com conhecimento em design centrado no usuário.
-
 #### Participantes:
 
-- 130 usuários do sistema do site da Prefeitura da Lagoa da Prata, com idades entre 25 e 45 anos.
+- 5 usuários do sistema do site da Prefeitura da Lagoa da Prata, com idades entre 25 e 45 anos.
 
 Incluir esse resumo proporciona uma compreensão clara da equipe e dos usuários envolvidos no estudo, facilitando a contextualização dos resultados no relatório final.
 
@@ -92,17 +86,13 @@ Incluir esse resumo proporciona uma compreensão clara da equipe e dos usuários
 
 O artefato de relato deve apresentar detalhes sobre o orçamento necessário para a análise de tarefas, incluindo despesas com materiais e custos gerais. Isso garante transparência e controle financeiro adequado durante o processo.
 
-### Prazo
-
-O relatório deve ser concluído até 29/05/2023 para cumprir os prazos estabelecidos na matéria. É importante respeitar essa data para garantir a entrega dentro do prazo.
-
 ### Equipamentos
 
 Todos os equipamentos utilizados para conduzir as entrevistas com os usuários devem ser listados. Isso inclui qualquer hardware, software ou outras ferramentas necessárias para o sucesso da avaliação.
 
 ### Aspectos Éticos
 
-É fundamental decidir e documentar os aspectos éticos considerados durante a avaliação. Isso inclui garantir o respeito aos participantes, evitando qualquer forma de dano durante ou após a divulgação dos resultados.
+É fundamental decidir e documentar os aspectos éticos considerados durante a avaliação. Isso inclui garantir o respeito aos participantes, evitando qualquer forma de dano durante ou após a divulgação dos resultados, como também garantindo que eles concordam com o termo de consentimento.
 
 ### Interpretação e Apresentação dos Dados
 

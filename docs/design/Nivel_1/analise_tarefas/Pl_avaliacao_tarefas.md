@@ -42,24 +42,30 @@ O objetivo desta avaliação é obter informações dos _stakeholders_, especial
 
 A Tabela 3 apresenta as perguntas a serem realizadas durante as entrevistas. As perguntas foram elaboradas com base nas sugestões do livro de Simone Barbosa e Bruno Diniz [1] e são essenciais para avaliar o entendimento dos participantes em relação aos fluxos de tarefas em questão (Tabela 1).
 
-| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
-| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
-| 1°                  | -                    | Qual seu nome completo? | Aberta         | Discursiva       |
-| 2°                  | -                    | Qual sua idade?         | Aberta         | Discursiva       |
-| 3°                  | -                    | Qual sua ocupação?      | Aberta         | Discursiva       |
-| 4°                  | -                    | Qual seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Fechada         | Muito Boa / Boa / Média / Ruim / Muito ruim   |
-| 5°                  | -                    | Já utilizou o site da prefeitura da lagoa da prata? | Fechada         | Sim / Não          |
-| 6°                  | -                    | Já utilizou outros sites de prefeitura similares a este? | Fechada         | Sim / Não          |
-| 7°                  | -                   | Como é sua navegação pelo site?         | Aberta         | Discursiva       |
-| 8°                  | -                   | Consegue encontrar as tarefas que procura facilmente?         | Fechada         | Sim / Não          |
-| 9°                  | -                   | Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele?         | Fechada         | Sim / Não          |
-| 10°                  | -                   | Ao utilizar uma funcionalidade, seus objetivos são completamente satisfeitos?         | Fechada         | Sim / Não          |
-| 11°                  | -                   | Acredita que a interface lhe causa alguma perda de tempo?         | Fechada         | Sim / Não          |
-| 12°                  | -                   | Alguma parte da interface e da interação o deixa insatisfeito? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
-| 13°                  | -                   | Alguma parte da interface o desmotiva a explorar novas funcionalidades? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
-| 14°                  | -                   | Consegue entender com clareza como utilizar o site para realizar seu objetivo? se não, por que?         | Fechada / Aberta        | Sim / Não e Discursiva         |
-| 15°                  | -                   | Você utiliza a acessibilidade disponível pelo site, como libras e alto contraste? Se sim, cumpre com seu objetivo?         | Fechada / Aberta        | Sim e Discursiva / Não          |
-| 16°                  | -                   | Quais são os pontos fortes e fracos em sua opnião?         | Aberta         | Discursiva       |
+| Ordem | Data | Horário | Nome do Entrevistado | Nome do Entrevistador |
+| :---: | :--: | :-----: | :-------------------: | :-------------------: |
+|   X   | Data de uma entrevista | Horário de uma entrevista | Nome de um entrevistado | Nome de um entrevistador |
+
+Tabela 1: Ficha de entrevista (Fonte: FREITAS, Cainã. 2024)
+
+| Ordem das perguntas | Pergunta           | Tipo de pergunta | Respostas possíveis |
+| :-----------------: | :-----------------:| :--------------: | :-----------------: |
+| 1°                  |Qual seu nome completo? | Aberta         | Discursiva       |
+| 2°                  | Qual sua idade?         | Aberta         | Discursiva       |
+| 3°                  |Qual sua ocupação?      | Aberta         | Discursiva       |
+| 4°                  | Qual seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Fechada         | Muito Boa / Boa / Média / Ruim / Muito ruim   |
+| 5°                  |Já utilizou o site da prefeitura da lagoa da prata? | Fechada         | Sim / Não          |
+| 6°                  |Já utilizou outros sites de prefeitura similares a este? | Fechada         | Sim / Não          |
+| 7°                  |Como é sua navegação pelo site?         | Aberta         | Discursiva       |
+| 8°                  |  Consegue encontrar as tarefas que procura facilmente?         | Fechada         | Sim / Não          |
+| 9°                  |Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele?         | Fechada         | Sim / Não          |
+| 10°                  | Ao utilizar uma funcionalidade, seus objetivos são completamente satisfeitos?         | Fechada         | Sim / Não          |
+| 11°                  |Acredita que a interface lhe causa alguma perda de tempo?         | Fechada         | Sim / Não          |
+| 12°                  | Alguma parte da interface e da interação o deixa insatisfeito? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
+| 13°                  | Alguma parte da interface o desmotiva a explorar novas funcionalidades? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
+| 14°                  | Consegue entender com clareza como utilizar o site para realizar seu objetivo? se não, por que?         | Fechada / Aberta        | Sim / Não e Discursiva         |
+| 15°                  | Você utiliza a acessibilidade disponível pelo site, como libras e alto contraste? Se sim, cumpre com seu objetivo?         | Fechada / Aberta        | Sim e Discursiva / Não          |
+| 16°                  | Quais são os pontos fortes e fracos em sua opnião?         | Aberta         | Discursiva       |
 
 Tabela 3: Questões a serem tratadas nas entrevistas (Fonte: FREITAS, Cainã. 2024).
 
@@ -88,16 +94,6 @@ Seguindo os princípios éticos estabelecidos no documento de [Aspectos Éticos]
 ### E - Avaliar, interpretar e apresentar os dados
 
 Antes de finalizar a análise dos resultados, avaliaremos a confiabilidade dos dados e a validade externa do estudo, verificando até que ponto os resultados são representativos de uma população mais ampla. Após essa verificação, os dados serão analisados de forma detalhada e apresentados no documento de relato dos resultados da avaliação da análise de tarefas para contribuir com o avanço do projeto.
-
-### Planejamento do teste piloto
-
-Antes da realização da entrevista real com os usuários, será conduzido um teste piloto por dois avaliadores. Esse teste tem como objetivo simular uma sessão normal de avaliação para garantir o correto funcionamento de todas as ferramentas planejadas, verificar a eficácia do planejamento e analisar se a avaliação será capaz de fornecer os dados necessários para o estudo. Além disso, o teste piloto também servirá para verificar a clareza e objetividade da linguagem utilizada na entrevista, garantindo que as perguntas sejam compreendidas de maneira adequada pelos participantes. Um planejamento para realização do teste piloto pode ser visto na Tabela 6.
-
-| Data       | Horário de início e fim | Local                          | Entrevistadores       | Entrevistado |
-| :--------: | :---------------------: | ----------------------------- | --------------------- | ------------ |
-| 23/05/2023 | 18:00 - 18:15           | Plataforma Microsoft Teams     | Cainã e Lucas         | ---          |
-
-Tabela 6: Planejamento do teste piloto (Fonte: FREITAS, Cainã. 2024).
 
 ## Referência Bibliográfica
 
