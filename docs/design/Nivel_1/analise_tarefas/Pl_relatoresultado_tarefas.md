@@ -66,8 +66,8 @@ No planejamento do relatório da análise de tarefas através de entrevistas, é
 Além disso, será incluído um cronograma para fornecer detalhes sobre o andamento do projeto. Para padronização, apresentaremos um exemplo na Tabela 1.
 
 
-|    Data    | Horário de início  e fim | Local            | Entrevistadores |              Entrevistado              | 
-| :--------: | :------------------------------------: | :--------: | :----------------------: | ---------------- |
+|    Data    | Horário de início  e fim |Entrevistadores |              Entrevistado              | 
+| :--------: | :------------------------------------: | :--------: | ---------------- |
 | Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
 
 Tabela 1: Modelo de entrevista executada (Fonte: FREITAS, Cainã. 2024).
@@ -82,47 +82,54 @@ No planejamento do relato da análise de tarefas, é essencial considerar a equi
 
 Incluir esse resumo proporciona uma compreensão clara da equipe e dos usuários envolvidos no estudo, facilitando a contextualização dos resultados no relatório final.
 
-### Orçamento
-
-O artefato de relato deve apresentar detalhes sobre o orçamento necessário para a análise de tarefas, incluindo despesas com materiais e custos gerais. Isso garante transparência e controle financeiro adequado durante o processo.
 
 ### Equipamentos
 
-Todos os equipamentos utilizados para conduzir as entrevistas com os usuários devem ser listados. Isso inclui qualquer hardware, software ou outras ferramentas necessárias para o sucesso da avaliação.
+O equipamento dos participantes e entrevistados, como também softwares gratuitos para a realização das entrevistas são suficientes para a realização da análise de tarefas.
 
 ### Aspectos Éticos
 
-É fundamental decidir e documentar os aspectos éticos considerados durante a avaliação. Isso inclui garantir o respeito aos participantes, evitando qualquer forma de dano durante ou após a divulgação dos resultados, como também garantindo que eles concordam com o termo de consentimento.
+É fundamental decidir e documentar os aspectos éticos considerados durante a avaliação. Para isso, é importante abordar questões como consentimento informado, privacidade, confidencialidade e proteção de dados dos participantes. Também é necessário que o entrevistado concorde com o termo de consentimento antes de iniciar a entrevista.
 
 ### Interpretação e Apresentação dos Dados
 
 #### Sumário de Dados
 
-No planejamento do relato da análise de tarefas, é crucial fornecer um resumo dos dados coletados durante o estudo. Este sumário oferece uma visão geral dos tipos, quantidade e fonte dos dados. Aqui estão os elementos principais que podem ser incluídos:
+No planejamento do relato da análise de tarefas, é crucial fornecer um resumo dos dados coletados durante o estudo. Para este fim, é importante a criação de uma ficha de entrevista, que será preenchida com as respostas dos entrevistados. Essa ficha não será a única fonte de analise, mas será usada para criar uma base.
 
-1. **Tipos de Dados**: Descreva os diferentes tipos de dados coletados, incluindo dados quantitativos (como métricas de desempenho e tempo gasto) e qualitativos (como observações comportamentais e respostas de entrevistas).
-2. **Quantidade de Dados**: Indique a quantidade de dados para cada tipo, seja o número de entrevistas realizadas, observações registradas ou tamanho dos conjuntos de dados qualitativos.
-3. **Fonte dos Dados**: Identifique a origem dos dados, incluindo informações sobre os participantes do estudo e a fonte dos dados qualitativos, como transcrições de entrevistas.
-4. **Métodos de Coleta**: Descreva brevemente os métodos utilizados para coletar os dados, como entrevistas estruturadas, observação direta ou questionários padronizados.
+| Ordem das perguntas | Pergunta           | Tipo de pergunta | Respostas possíveis |
+| :-----------------: | :-----------------:| :--------------: | :-----------------: |
+| 1°                  |Qual seu nome completo? | Aberta         | Discursiva       |
+| 2°                  | Qual sua idade?         | Aberta         | Discursiva       |
+| 3°                  |Qual sua ocupação?      | Aberta         | Discursiva       |
+| 4°                  | Qual seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Fechada         | Muito Boa / Boa / Média / Ruim / Muito ruim   |
+| 5°                  |Já utilizou o site da prefeitura da lagoa da prata? | Fechada         | Sim / Não          |
+| 6°                  |Já utilizou outros sites de prefeitura similares a este? | Fechada         | Sim / Não          |
+| 7°                  |Como é sua navegação pelo site?         | Aberta         | Discursiva       |
+| 8°                  |  Consegue encontrar as tarefas que procura facilmente?         | Fechada         | Sim / Não          |
+| 9°                  |Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele?         | Fechada         | Sim / Não          |
+| 10°                  | Ao utilizar uma funcionalidade, seus objetivos são completamente satisfeitos?         | Fechada         | Sim / Não          |
+| 11°                  |Acredita que a interface lhe causa alguma perda de tempo?         | Fechada         | Sim / Não          |
+| 12°                  | Alguma parte da interface e da interação o deixa insatisfeito? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
+| 13°                  | Alguma parte da interface o desmotiva a explorar novas funcionalidades? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
+| 14°                  | Consegue entender com clareza como utilizar o site para realizar seu objetivo? se não, por que?         | Fechada / Aberta        | Sim / Não e Discursiva         |
+| 15°                  | Você utiliza a acessibilidade disponível pelo site, como libras e alto contraste? Se sim, cumpre com seu objetivo?         | Fechada / Aberta        | Sim e Discursiva / Não          |
+| 16°                  | Quais são os pontos fortes e fracos em sua opnião?         | Aberta         | Discursiva       |
+
+Tabela 2: Ficha de entrevista (Fonte: FREITAS, Cainã. 2024).
 
 Este sumário fornece uma visão geral dos dados coletados, ajudando a contextualizar as conclusões e recomendações apresentadas no relatório final.
 
 #### Análise dos Dados Coletados
 
-Durante a análise dos dados coletados, é fundamental examinar e interpretar os dados de forma sistemática. Aqui estão os aspectos a considerar:
+Durante a análise dos dados coletados, é fundamental examinar e interpretar os dados de forma sistemática, mas também ouvir e considerar as opiniões dos participantes. A análise deve ser guiada pelos objetivos da avaliação, identificando padrões, tendências e insights relevantes para a análise de tarefas.
 
-1. **Organização dos Dados**: Organize os dados de maneira lógica e estruturada, utilizando tabelas, gráficos ou categorias relevantes.
-2. **Codificação dos Dados**: Aplique uma codificação aos dados qualitativos para identificar padrões emergentes.
-3. **Análise Quantitativa e Qualitativa**: Realize análises quantitativas e qualitativas para extrair insights significativos.
-4. **Relacionamento entre os Dados**: Analise as relações entre diferentes conjuntos de dados para identificar padrões ou tendências.
-5. **Interpretação dos Resultados**: Interprete os resultados de maneira clara e objetiva, destacando descobertas importantes.
-6. **Apoio Visual**: Utilize elementos visuais, como gráficos e tabelas, para apresentar os resultados de forma acessível e compreensível.
+Os dados coletados podem ser organizados e apresentados de várias maneiras, como tabelas, gráficos, diagramas ou mapas de calor. Essas representações visuais ajudam a resumir e comunicar os resultados de forma clara e eficaz.
 
-Uma análise rigorosa dos dados coletados é essencial para embasar as conclusões e recomendações no relatório final da análise de tarefas.
 
-### Sugestões de Correções
+#### Sugestões de Correções
 
-Serão oferecidas sugestões de correção para cada problema identificado, com indicação da prioridade de cada correção.
+Ao fim de cada entrevista, a ultima pergunta será sobre sugestões de correções. Essas sugestões serão anotadas e documentadas para serem analisadas posteriormente.
 
 ## Bibliografia
 
