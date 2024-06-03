@@ -47,79 +47,21 @@ A Tabela 3 apresenta as perguntas a serem realizadas durante as entrevistas. As 
 | 1°                  | -                    | Qual seu nome completo? | Aberta         | Discursiva       |
 | 2°                  | -                    | Qual sua idade?         | Aberta         | Discursiva       |
 | 3°                  | -                    | Qual sua ocupação?      | Aberta         | Discursiva       |
+| 4°                  | -                    | Qual seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Fechada         | Muito Boa / Boa / Média / Ruim / Muito ruim   |
+| 5°                  | -                    | Já utilizou o site da prefeitura da lagoa da prata? | Fechada         | Sim / Não          |
+| 6°                  | -                    | Já utilizou outros sites de prefeitura similares a este? | Fechada         | Sim / Não          |
+| 7°                  | -                   | Como é sua navegação pelo site?         | Aberta         | Discursiva       |
+| 8°                  | -                   | Consegue encontrar as tarefas que procura facilmente?         | Fechada         | Sim / Não          |
+| 9°                  | -                   | Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele?         | Fechada         | Sim / Não          |
+| 10°                  | -                   | Ao utilizar uma funcionalidade, seus objetivos são completamente satisfeitos?         | Fechada         | Sim / Não          |
+| 11°                  | -                   | Acredita que a interface lhe causa alguma perda de tempo?         | Fechada         | Sim / Não          |
+| 12°                  | -                   | Alguma parte da interface e da interação o deixa insatisfeito? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
+| 13°                  | -                   | Alguma parte da interface o desmotiva a explorar novas funcionalidades? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
+| 14°                  | -                   | Consegue entender com clareza como utilizar o site para realizar seu objetivo? se não, por que?         | Fechada / Aberta        | Sim / Não e Discursiva         |
+| 15°                  | -                   | Você utiliza a acessibilidade disponível pelo site, como libras e alto contraste? Se sim, cumpre com seu objetivo?         | Fechada / Aberta        | Sim e Discursiva / Não          |
+| 16°                  | -                   | Quais são os pontos fortes e fracos em sua opnião?         | Aberta         | Discursiva       |
 
 Tabela 3: Questões a serem tratadas nas entrevistas (Fonte: FREITAS, Cainã. 2024).
-
-
-Para a tarefa de [registrar e verificar o panorama de saúde da cidade](../../../requisitos1/cenarios.md#c02-registrar-e-verificar-o-panorama-de-saúde-da-cidade), serão feitas as seguintes perguntas:
-
-| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
-| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
-| 1°                  | Obter dados do entrevistado                    | Qual seu nome completo? | Aberta         | Discursiva          |
-| 2°                  | Obter dados do entrevistado                    | Qual sua idade?         | Aberta         | Discursiva          |
-| 3°                  | Obter dados do entrevistado                    | Qual sua ocupação?      | Aberta         | Discursiva          |
-| 4°                  | Obter feedback sobre a funcionalidade                    | Você se interessa pela funcionalidade aqui apresentada? | Aberta         | Discursiva          |
-| 5°                  | Verificar o interesse do entrevistado pela proposta                    | Você utilizaria esta funcionalidade? Se sim, com qual frequência?         | Aberta         | Discursiva          |
-| 6°                  | Verificar se o entrevistado teria interesse em convencer mais pessoas a utilizar o sistema                    | Você recomendaria esta funcionalidade para outras pessoas?       | Aberta         | Discursiva          |
-| 7°                  | Verificar a visão do entrevistado sobre a população da cidade                    | Como você enxerga a preocupação do estado de saúde pelos cidadãos? A funcionalidade seria um aspecto positivo à população?       | Aberta         | Discursiva          |
-| 8°                  | Recolher opiniões e ideias para manutenção e ajustes da funcionalidade                   | Você possui dicas e opiniões adicionais que podem ser feitas nesse sistema?       | Aberta         | Discursiva          |
-
-<center> Tabela 4: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de registrar e verificar o panorama de saúde da cidade. Fonte: MEIRELES, Lucas (2024). </center>
-
-
-Para a tarefa de [Acessar o modulo de contra cheque e consultar processos do servidor](../../../requisitos1/cenarios.md#c06-Acessar-o-modulo-de-contra-cheque-e-consultar-processos-do-servidor), serão feitas as seguintes perguntas:
-
-| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
-| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
-| 1°                  | Obter dados do entrevistado                    | Qual seu nome completo? | Aberta         | Discursiva          |
-| 2°                  | Obter dados do entrevistado                    | Qual sua idade?         | Aberta         | Discursiva          |
-| 3°                  | Obter dados do entrevistado                    | Qual sua ocupação?      | Aberta         | Discursiva          |
-| 4°                  | Obter feedback sobre a funcionalidade                    | Você já acessou algum sistema online para consulta de contracheques? | Aberta         | Discursiva          |
-| 5°                  | Verificar o interesse do entrevistado pela proposta                    | Como você acessaria e visualizaria seu contracheque em um sistema online?         | Aberta         | Discursiva          |
-| 6°                  | Verificar se o entrevistado teria interesse em convencer mais pessoas a utilizar o sistema                    | Ao observar a tarefa de acesso ao contracheque, a sequência de processos é coerente com o que você espera? Se não, poderia descrever o porquê?       | Aberta         | Discursiva          |
-| 7°                  | Verificar a visão do entrevistado sobre a população da cidade                    | Como você acessaria e consultaria o andamento de um processo do servidor público no sistema?       | Aberta         | Discursiva          |
-| 8°                  | Recolher opiniões e ideias para manutenção e ajustes da funcionalidade                   | Ao observar a tarefa de consulta de processos do servidor público, a sequência de processos é coerente com o que você espera? Se não, poderia descrever o porquê?       | Aberta         | Discursiva          |
-
-<center> Tabela 5: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Acessar o modulo de contra cheque e consultar processos do servidor. Fonte: DUARTE, Augusto (2024). </center>
-
-Para a tarefa de [Cadastro Antecipado de Aluno](../../../requisitos1/cenarios.md#c01-cadastro-antecipado-de-aluno), serão feitas as seguintes perguntas:
-
-| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
-| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
-| 1°                  | Obter dados do entrevistado                    | Qual seu nome completo? | Aberta         | Discursiva          |
-| 2°                  | Obter dados do entrevistado                    | Qual sua idade?         | Aberta         | Discursiva          |
-| 3°                  | Obter dados do entrevistado                    | Qual sua ocupação?      | Aberta         | Discursiva          |
-| 4°                  | Problemas na interação com as tarefas                    | 	Foi fácil encontrar a seção "Matrículas Web" no site da Prefeitura? | Fechada         | Sim/Não          |
-| 5°                  | Problemas na interação com as tarefas                    | Você encontrou alguma dificuldade ao inserir os dados do candidato? Se sim, qual?         | Aberta         | Discursiva          |
-| 6°                  | Problemas na interação com as tarefas                    | O processo de gravação dos dados foi claro e intuitivo?       | Fechada         | Sim/Não          
-
-<center> Tabela 6: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Cadastro Antecipado de Aluno. Fonte: DIONIZIO, Joyce (2024). </center>
-
-Para a tarefa de [Cadastrar e Acompanhar uma reclamação](../../../requisitos1/cenarios.md), serão feitas as seguintes perguntas:
-
-| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
-| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
-| 1°                  | Verificar ordem de login | Ao acessar o site, como você realiza o login? | Aberta         | Discursiva          |
-| 2°                  | Verificar como os usuários encontram a aba da ouvidoria normalmente | Após o login, como você navega até a seção de Ouvidoria? | Aberta         | Discursiva          |
-| 3°                  | Medir experiência média do usuário | Qual é a sua experiência ao preencher o formulário de cadastro de reclamação? | Aberta         | Discursiva          |
-| 4°                  | Verificar utilidade dos campos de localização | Você acha que os campos opcionais do formulário são relevantes? Por quê? | Aberta         | Discursiva          |
-| 5°                  | Verificar como o usuário acompanha a tramitação da reclamação (email, sms, próprio site...) | Como você acompanha o status de uma reclamação cadastrada? | Aberta         | Discursiva          |
-| 6°                  | Verificar qualidade do design e da acessibilidade do site | A sequência de processos para consultar o status da reclamação é intuitiva para você? | Aberta         | Discursiva          |
-| 7°                  | Verificar utilidade da ferramenta de acompanhamento | Você acha que a função "meus protocolos" é útil? Por quê? | Aberta         | Discursiva          |
-
-<center> Tabela 7: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Cadastrar e Acompanhar uma reclamação. Fonte: FREITAS, Cainã (2024). </center>
-
-Para a tarefa de [Cadastrar e Acompanhar uma reclamação](../../../requisitos1/cenarios.md), serão feitas as seguintes perguntas:
-
-| Ordem das perguntas | Objetivo relacionado | Pergunta           | Tipo de pergunta | Respostas possíveis |
-| :-----------------: | :------------------: | :-----------------:| :--------------: | :-----------------: |
-| 1°                  | Verificar o uso da funcionalidade | Qual é a sua experiência ao preencher o formulário de cadastro de reclamação? | Aberta         | Discursiva          |
-| 2°                  | Verificar a frequencia de uso da funcionalidade | Com qual frequencia você utiliza o formulário para informar uma luminária queimada? | Aberta         | Discursiva          |
-| 3°                  | Ver problemas de navegação do usuário | Houve algum momento em que você se sentiu perdido ou confuso ao tentar acessar o formulário para informar uma luminária queimada? | Aberta         | Discursiva          |
-| 4°                  | Consultar as espectativas do usuário | Em que medida o processo de informar uma luminária queimada no site atendeu às suas expectativas? | Aberta         | Discursiva          |
-| 5°                  | Verificar a facilidade do preenchimento do formulário | Quão fácil ou difícil foi para você preencher o formulário de informe de luminária queimada? | Aberta         | Discursiva          |
-
-<center> Tabela 8: Questões a serem tratadas na entrevista referente à funcionalidade do cenário de Informar luminária queimada no Município. Fonte: Heler, Lucas (2024). </center>
 
 ### C - Escolher os métodos
 
@@ -170,3 +112,4 @@ Tabela 6: Planejamento do teste piloto (Fonte: FREITAS, Cainã. 2024).
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 22/05/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 03/06/2024 | `1.1`  |  Corrige documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
