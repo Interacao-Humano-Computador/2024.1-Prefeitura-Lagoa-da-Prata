@@ -11,11 +11,11 @@ Este artefato utiliza a metodologia de Observação, na qual o avaliador coleta 
 Ao projetar uma interface de usuário, é crucial compreender o comportamento da interface na plataforma em que será empregada. O desenvolvedor precisa estar consciente das variações e afinidades entre plataformas, a fim de conceber um design que se adapte harmoniosamente a todas elas, sem impor limitações. Essa análise deve abordar tanto os aspectos visuais quanto comportamentais, observando atentamente como a plataforma, como uma página da web, responde às ações dos usuários e suas reações correspondentes.
 O site da Prefeitura Municipal de Lagoa da Prata pode ser acessada pelo [link](https://www.lagoadaprata.mg.gov.br/) e dentre suas características positivas foram identificadas:
 
-- Compatibilidade com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge, entre outros), fundamental para um site governamental.
-- Design responsivo, garantindo compatibilidade com diferentes tamanhos de tela seja em computadores ou em dispositivos móveis.
+- Compatibilidade com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge, Safarim entre outros), fundamental para um site governamental.
+- Design responsivo, garantindo compatibilidade com diferentes tamanhos de tela seja entre computadores (1280 x 1024 até 3840 x 2160) ou em dispositivos móveis (como 4.0 até 6.9)
 - Alta velocidade de resposta, proporcionando uma experiência rápida ao usuário, desde que não haja problemas de rede.
 - Acessibilidade aprimorada, incluindo contraste de cor, opções de aumento do tamanho da fonte, tradução para libras e fonte especial para dislexia.
-- Versão mobile otimizada, adaptando-se ao tamanho da tela do dispositivo.
+- Versão mobile otimizada, adaptando-se ao tamanho da tela do dispositivo seja de celulares menores a tablets com telas maiores.
 
 
 ## Características Negativas da Plataforma
@@ -40,10 +40,12 @@ Pela falta de documentação do site para encontrar as tecnologias que foram uti
 Com isso percebe-se que para acessar o site da Prefeitura Munincipal de Lagoa da Prata os requisitos de hardware são basicos.
 Caso o acesso seja optado por Computador pessoal (PC ou Laptop):
 - Dispositivo apontador (Mouse, touchpad, etc.).
-- Teclado.
+- Teclado físico ou virtual.
 - Conectividade com internet estável (Cabo Ethernet, Wi-Fi).
 
 Caso o acesso seja optado por um Dispositivo móvel (Smarthphone ou Tablet):
+- Tela sensivel ao toque
+- Teclado virtual
 - Conectividade com internet estável (Wi-Fi ou dados móveis).
 
 ## Bibliografia
@@ -51,6 +53,9 @@ Caso o acesso seja optado por um Dispositivo móvel (Smarthphone ou Tablet):
 
 > [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021); Interação Humano-Computador e Experiência do usuário.
 
+> [3] Site da HP. Disponível em: https://www.hp.com/br-pt/shop/tech-takes/quais-sao-os-tamanhos-de-monitor-mais-comuns-e-qual-e-o-melhor . 
+
+> [4] Site da Sterr. Disponível em: https://www.strerr.com/pt/screen.html .
 
 ## Historico de revisão
 
