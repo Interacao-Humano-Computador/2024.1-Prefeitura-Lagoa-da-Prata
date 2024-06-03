@@ -1,10 +1,9 @@
 ## Introdução
 
-Baseado no Ciclo de Vida de Mayhew, a primeira etapa do processo de design é a análise de requisitos. Nesta fase inicial, a análise das capacidades e restrições da plataforma é crucial para compreender os comportamentos da aplicação e definir possíveis melhorias. As avaliações incluem equipamentos, sistemas operacionais, recursos de redes, entre outros aspectos.
-
+Pegando como base o Ciclo de Vida de Mayhew, a fase inicial do processo de design é a análise de requisitos. Durante essa etapa, é essencial examinar as capacidades e limitações da plataforma para entender como a aplicação se comporta e identificar possíveis melhorias. As avaliações abrangem equipamentos, sistemas operacionais, recursos de rede, entre outros elementos.
 ## Metodologia
 
-Este artefato utiliza a metodologia de Observação, na qual o avaliador coleta dados a partir da observação de um determinado site ou documento. Essa abordagem é detalhada no capítulo 10 do livro "Interação Humano Computador", de Simone Barbosa.
+Utilizamos a metodologia de Observação para a realização deste artefato, uma vez que, seria a melhor metodologia em que o grupo poderia aplicar devido a recursos e tempo. Abordagem essa que é detalhada no capítulo 10 do livro "Interação Humano Computador", da autora Simone Barbosa.
 
 ## Características Positivas da Plataforma
 
