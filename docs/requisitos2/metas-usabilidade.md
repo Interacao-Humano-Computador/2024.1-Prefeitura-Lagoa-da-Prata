@@ -24,31 +24,73 @@ Através da análise de Barbosa (2021) sobre o trabalho de Nielsen (1999), é po
 Para definir as metas que desejamos alcançar foram levantadas as seguintes questões sobre cada meta:
 
 - Eficácia: O sistema atende às funções à qual foi projetado?
-    - O site fornece diversas formas de informações públicas, como lista de espera de chreches, lista de espera para o SUS, consulta de editais, itens relacionados à prestação de serviços, itens relacionados à transparência de gastos, entre outros. Há porém de se analisar as diversas partes do sistema, que se apresenta para diversas funcionalidades à diferentes áreas, como cidadão, empresa, funcionários, etc. O site avaliado apresenta algumas páginas e funcionalidades que estão incompletas ou não aparentam ter sido implementadas até então, como é o caso de uma listagem de prefeitos, de informações do prefeito atual, de eventos atuais, entre outros.
-
+    - O site fornece diversas formas de informações públicas, como lista de espera de creches, lista de espera para o SUS, consulta de editais, itens relacionados à prestação de serviços, itens relacionados à transparência de gastos, entre outros. Há porém de se analisar as diversas partes do sistema, que se apresenta para diversas funcionalidades à diferentes áreas, como cidadão, empresa, funcionários, etc. O site avaliado apresenta algumas páginas e funcionalidades que estão incompletas ou não aparentam ter sido implementadas até então, como é o caso de uma listagem de prefeitos, de informações do prefeito atual, de eventos atuais, entre outros. Sendo demonstrado na Figura 1 a seguir:
+<div style="text-align:center;">
+  <p>Figura 1 - Login em Guia Externa <br>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/eficacia.png" alt="Tecnologias Wappalyzer"> <br>
+  Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
+  </p>
+</div>
 - Eficiência: Quanto tempo leva para realizar uma tarefa específica?
-    - A maioria das atividades no site é realizada em poucas interações, como consultas de editais e acesso à listas de espera, mas algumas atividades levam a links externos que exigem login ou preenchimento de formulários, comumente visto em áreas para empresas ou verificações de impostos pelo cidadão.
+    - A maioria das atividades no site é realizada em poucas interações, como consultas de editais e acesso à listas de espera, mas algumas atividades levam a links externos que exigem login ou preenchimento de formulários, comumente visto em áreas para empresas ou verificações de impostos pelo cidadão. Sendo demonstrado na Figura 2 a seguir:
+
+<div style="text-align:center;">
+  <p>Figura 2 - Login em Guia Externa <br>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/eficiencia.png" alt="Tecnologias Wappalyzer"> <br>
+  Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
+  </p>
+</div>
 
 - Segurança: O sistema evita erros ou ações indesejáveis? Ele permite recuperar ações anteriores?
-    - O site não oferece alternativas de segurança para evitar erros, especialmente para atividades que levam a guias externas.
+    - O site não oferece alternativas de segurança para evitar erros, especialmente para atividades que levam a guias externas. Como mostra a Figura 3 a seguir:
+
+<div style="text-align:center;">
+  <p>Figura 3 - Guia Externa sem retorno <br>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/seguranca.png" alt="Tecnologias Wappalyzer"> <br>
+  Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
+  </p>
+</div>
 
 - Utilidade: O sistema oferece a funcionalidade certa no contexto certo?
-    - O site possui seções de acesso rápido para atividades específicas, porém também há ocorrências em que os usuários precisam navegar por locais gerais, como "Serviços de Cidadão", para encontrar atividades específicas ou ainda pelo ícone de menu geral. 
+    - O site possui seções de acesso rápido para atividades específicas, porém também há ocorrências em que os usuários precisam navegar por locais gerais, como "Serviços de Cidadão", para encontrar atividades específicas ou ainda pelo ícone de menu geral e que poderiam estar disponibilizadas na página principal de uma forma direta como "Inscrições Habita Lagoa" ou "Solicitar ITBI On-line". Como mostra na figura 4 a seguir:
+
+<div style="text-align:center;">
+  <p>Figura 4 - Atividades Específicas de Díficil localização <br>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/utilidade.png" alt="Tecnologias Wappalyzer"> <br>
+  Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
+  </p>
+</div>
 
 - Aprendizagem:  É fácil aprender a usar o sistema?
     - O site oferece uma experiência de aprendizado intuitiva e os dados estão organizados de forma que facilitem a utilização de determinadas funções, porém existem funções e informações que estão "escondidas" pelo site e exigem mais atenção à detalhes e movimentação do usuário por outras páginas para encontrá-las.
 
 - Memorização: Que suporte é oferecido para auxiliar o usuário a realizar tarefas, especialmente as não recorrentes?
-    -  Não é oferecido nenhum guia ou suporte ao usuário, logo o usuário depende inicialmente de que nenhuma mudança seja feita na página inicial do sistema e também corre o risco de perder um acesso rápido à alguma funcionalidade caso o site remova do destaque aquilo que o usuário estava buscando, como é o caso de notícias.
+    -  Não é oferecido nenhum guia ou suporte ao usuário, logo o usuário depende inicialmente de que nenhuma mudança seja feita na página inicial do sistema levando a uma memorização das funcionalidades requiridas e também corre o risco de perder um acesso rápido à alguma funcionalidade caso o site remova do destaque aquilo que o usuário estava buscando, como é o caso de notícias mostrado na Figura 5 abaixo.
+
+<div style="text-align:center;">
+  <p>Figura 5 - Funcionalidade de díficil localização <br>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/memorizacao.png" alt="Tecnologias Wappalyzer"> <br>
+  Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
+  </p>
+</div>
+
 
 
 ## Conclusão
-Com base na análise, as metas que devem ser focadas para melhorar a usabilidade do site da Prefeitura Municipal de Lagoa da Prata, sem que haja um grande retrabalho em suas funcionalidades e aparência, são:
+Com base na análise, foi estabelicido as metas que devem ser focadas para melhorar a usabilidade do site da Prefeitura Municipal de Lagoa da Prata, sem que haja um grande retrabalho em suas funcionalidades e aparência. 
+Também adotaremos a metodologia de avaliação heurística criando 2 perfis de usuário: 
+ - Usuário com pouca ou nenhuma familiaridade com computadores e tecnólogias e que possui dificuldades para acessar.
+ - Usuário comum que possui um conhecimento médio de acesso e familiaridades com acessos a sites e computadores.
 
-- Eficiência: Garantir que todas as atividades possam ser realizadas de forma rápida e eficiente, mesmo aquelas que levam a links externos.
-- Segurança: Implementar medidas de segurança para evitar erros e garantir que os usuários possam recuperar ações anteriores.
-- Utilidade: Organizar o site de forma que os usuários possam acessar facilmente as informações e serviços específicos que estão procurando, sem a necessidade de navegar por locais gerais.
-- Aprendizagem: Manter a experiência de aprendizado do usuário intuitiva e garantir que os dados estejam organizados de forma que, consequentemente, facilitem a meta de memorização.
+ Com isso foi feita a seguinte tabela com resultados:
+
+| Meta de usabilidade | Como será feito a avaliação                                                                                                                                                                           |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Eficiência          | Garantir que as atividades possam ser realizadas em no máximo 2 cliques e que estejam descritas de forma não ambígua, evitando ao máximo o uso de links externos                                      |
+| Segurança           | Garantir medidas que permite ao usuário reverter ações indesejadas facilmente, tendo opções de confirmação a fim de evitar que o usuário faça alguma ação ou interação que não estava planejado fazer |
+| Utilidade           | O usuário deve receber feedback visual do que está acontecendo em tempo real para confirmar suas ações e que seja de facil localização                                                                |
+| Aprendizagem        | Garantir que a aprendizagem da utilização do site seja intuitiva e facil assim como um guia rapido de como utilizar para que usuários com pouca ou nenhuma experiência não sejam prejudicados |
+
 
 ## Referências Bibliográficas
 
@@ -59,10 +101,10 @@ Com base na análise, as metas que devem ser focadas para melhorar a usabilidade
 
 ## Historico de revisão
 
-|    Data    | Versão |      Descrição       |           Autor(es)         | Data de revisão |                 Revisor(es)                 |
-| :--------: | :----: | :------------------: | :-------------------------: | :-------------: | :-----------------------------------------: |
-| 11/05/2024 | `1.0`  | Criação do documento | [Joyce Dionizio](https://github.com/joycejdm) | 11/05/2024 | [Lucas Meireles](https://github.com/Katuner) |
-| 11/05/2024 | `1.1`  | Adição da estrutura do documento | [Joyce Dionizio](https://github.com/joycejdm) | 11/05/2024 | [Lucas Meireles](https://github.com/Katuner) |
-| 11/05/2024 | `1.2`  | Definição das Metas de Usabilidade|[Joyce Dionizio](https://github.com/joycejdm) | 11/05/2024 | [Lucas Meireles](https://github.com/Katuner) |
-| 11/05/2024 | `1.3`  | Ajuste de referencial e nomes | [Lucas Meireles](https://github.com/Katuner)| 13/05/2024      | [Augusto Duarte ](https://github.com/Augcamp)|
-| 11/05/2024 | `1.4`  | Ajuste de escrita e de metas | [Lucas Meireles](https://github.com/Katuner) | 13/05/2024      | [Augusto Duarte ](https://github.com/Augcamp)|
+|    Data    | Versão |             Descrição              |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
+| :--------: | :----: | :--------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |
+| 11/05/2024 | `1.0`  |        Criação do documento        | [Joyce Dionizio](https://github.com/joycejdm) |   11/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
+| 11/05/2024 | `1.1`  |  Adição da estrutura do documento  | [Joyce Dionizio](https://github.com/joycejdm) |   11/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
+| 11/05/2024 | `1.2`  | Definição das Metas de Usabilidade | [Joyce Dionizio](https://github.com/joycejdm) |   11/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
+| 11/05/2024 | `1.3`  |   Ajuste de referencial e nomes    | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Augusto Duarte ](https://github.com/Augcamp) |
+| 11/05/2024 | `1.4`  |    Ajuste de escrita e de metas    | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Augusto Duarte ](https://github.com/Augcamp) |
