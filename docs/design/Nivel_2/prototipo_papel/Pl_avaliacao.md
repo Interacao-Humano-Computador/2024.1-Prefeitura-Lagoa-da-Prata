@@ -40,7 +40,8 @@ Também será registrado, pelos avaliadores, alguns aspectos referentes à ativi
 | 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.        | Objetiva/Discursiva|         |
 | 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?        | Objetiva/Discursiva  |         |
 | 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva |    |
-| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?    | Objetiva / Discursiva   |       | 
+| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?    | Objetiva/Discursiva   |       | 
+
 <center>Tabela 2: Ficha modelo para documentação das perguntas (Fonte: FREITAS, Cainã. 2024).</center>
 
 | Elementos a serem registrados | Tipo de informação a ser registrada | Registro da atividade |
