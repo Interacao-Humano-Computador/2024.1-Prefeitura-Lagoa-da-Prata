@@ -22,7 +22,7 @@ O framework DECIDE de Sharp, Rogers e Preece [2] foi utilizado para planejar a a
 
 ## D - Determinar os objetivos
 
-O objetivo dessa avaliação é adquirir informação dos usuários sobre suas interações com as tarefas e indentificar problemas na interface e na interação que possam comprometer a experiência do usuário. Critérios diversos serão avaliados, como expectativas dos usuários, facilidade de uso, eficiência, eficácia, satisfação e usabilidade.
+O objetivo dessa avaliação é adquirir informação dos usuários sobre suas interações com as tarefas e indentificar problemas na interface e na interação que possam comprometer a experiência do usuário. Critérios diversos serão avaliados, como expectativas dos usuários, quantidade de ações até alcançar cada objetivo, quantidade de erros cometidos e usabilidade. 
 
 ## E - Explorar perguntas
 
