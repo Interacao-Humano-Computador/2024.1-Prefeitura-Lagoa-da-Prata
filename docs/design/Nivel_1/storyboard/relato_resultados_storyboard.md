@@ -51,7 +51,8 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
         - Profissão do(a) entrevistado(a): Estudante de Medicina
 
     - Storyboard a ser tratado:
-    <img title="a title" alt="StoryBoard Lucas Meireles" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/StoryBoards/Storyboard_Meireles.png" width="100%">
+
+    <img title="a title" alt="StoryBoard Lucas Meireles" src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/c011aae23f1f15b9b1454b359bd2c94ca043c34f/docs/assets/images/StoryBoards/Storyboard_Meireles.jpg?raw=true" width="100%">
     <div align="center">
     <p> <b>Figura 1</b>: O storyboard da funcionalidade de Registrar e verificar o panorama de saúde da cidade. (Fonte: MEIRELES, Lucas. 2024).</p>
     </div> 
