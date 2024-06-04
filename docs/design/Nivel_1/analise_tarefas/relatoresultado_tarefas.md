@@ -45,10 +45,46 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
 ## Resultados
 
 - Primeira Entrevista
-    - Gravação da entrevista 1: https://example.com
+    - Dados gerais da entrevista:
+
+        - Entrevistador: [Cainã Freitas](https://github.com/Katuner)
+        - Nome do(a) entrevistado(a): Ana Vieira
+        - Faixa etária do(a) entrevistado(a): 30 a 45 anos
+        - Profissão do(a) entrevistado(a): Funcionária Pública
+
+    - Vídeo da entrevista: 
+    <iframe width="1280" height="684" src="https://www.youtube.com/embed/Zb_PMLXnS4U" title="relato tarefa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <center>
+    Disponível em : <https://youtu.be/Zb_PMLXnS4U>
+    </center>
+    - Respostas às perguntas:
+
+| Ordem | Data | Horário | Nome do Entrevistado | Nome do Entrevistador |
+| :---: | :--: | :-----: | :-------------------: | :-------------------: |
+|   1   | 03/06/2024 | 22:00 | Ana Vieira | Cainã Freitas |
+
+| Ordem das perguntas | Pergunta           | Respostas possíveis |
+| :-----------------: | :-----------------:| :-----------------: |
+| 1°                  |Qual seu nome completo? | Ana Vieira Motta       |
+| 2°                  | Qual sua idade?         |  45       |
+| 3°                  |Qual sua ocupação?      |Servidora Pública       |
+| 4°                  | Qual seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Bom   |
+| 5°                  |Já utilizou o site da prefeitura da lagoa da prata? | Sim  |
+| 6°                  |Já utilizou outros sites de prefeitura similares a este? |Não          |
+| 7°                  |Como é sua navegação pelo site?         |Direto a ponto, uso a ferramenta que preciso e só  |
+| 8°                  |  Consegue encontrar as tarefas que procura facilmente?         | Sim         |
+| 9°                  |Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele?         |  Não          |
+| 10°                  | Ao utilizar uma funcionalidade, seus objetivos são completamente satisfeitos?         |  Sim         |
+| 11°                  |Acredita que a interface lhe causa alguma perda de tempo?         | Não          |
+| 12°                  | Alguma parte da interface e da interação o deixa insatisfeito? Se sim, por que?         | Não          |
+| 13°                  | Alguma parte da interface o desmotiva a explorar novas funcionalidades? Se sim, por que?         | Não          |
+| 14°                  | Consegue entender com clareza como utilizar o site para realizar seu objetivo? se não, por que?         |Sim        |
+| 15°                  | Você utiliza a acessibilidade disponível pelo site, como libras e alto contraste? Se sim, cumpre com seu objetivo?         | Não, pois não preciso.          |
+| 16°                  | Quais são os pontos fortes e fracos em sua opnião?         |  Ponto forte: Contato direto com a prefeitura por meio da ouvidoria, Ponto fraco: demora na resposta       |
 
 ## Histórico de Revisões
 
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 03/06/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |  03/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
+| 03/06/2024 | `1.1`  |  Adiciona entrevista   |      [Cainã Freitas](https://github.com/freitasc) |  | |

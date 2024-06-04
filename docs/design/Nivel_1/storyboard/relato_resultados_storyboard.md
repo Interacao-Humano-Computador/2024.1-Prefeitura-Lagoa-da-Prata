@@ -82,6 +82,46 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
     <center>
     Tabela 3: Respostas da entrevista para o Storyboard 1 </center>
 
+- Segunda Entrevista
+    - Dados gerais da entrevista:
+
+        - Entrevistador: [Cainã Freitas](https://github.com/freitasc)
+        - Nome do(a) entrevistado(a): Ana Vieira
+        - Faixa etária do(a) entrevistado(a): 30 a 45 anos
+        - Profissão do(a) entrevistado(a): Funcionária Pública
+
+    - Storyboard a ser tratado:
+
+    <img title="a title" alt="StoryBoard Lucas Meireles" src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/StoryBoards/storyboard_caina.png?raw=true" width="100%">
+    <div align="center">
+    <p> <b>Figura 2</b>: O storyboard da funcionalidade de Registrar e verificar o panorama de saúde da cidade. (Fonte: FREITAS, Cainã. 2024).</p>
+    </div> 
+
+    - Vídeo da entrevista: 
+    <iframe width="1280" height="684" src="https://www.youtube.com/embed/Vo36pWGr4NE" title="Entr Storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <center>
+    Disponível em : <https://youtu.be/Vo36pWGr4NE>
+    </center>
+    - Respostas às perguntas:
+
+    | Enumeração de perguntas | Pergunta       |   Resposta |
+    | :-----------------: | :-----------------:|  :-----------------: |
+    | 1        | Os usuários envolvidos no storyboard condizem com a realidade?   |  Sim  |
+    | 2        | O cenário que o storyboard está inserido condiz com a realidade? |  Sim  |
+    | 3        | As ações realizadas pelo usuário no storyboard condizem com o esperado? |  Sim  |
+    | 4        | Você compreendeu o storyboard aqui passado e as pessoas envolvidas? |  Sim  |
+    | 5        | Foi possível compreender os passos realizados? Se não, por que?       |  Sim  |
+    | 6        | Foi possível identificar a vantagem e a satisfação final do storyboard?     |  Sim |
+    | 7        | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário?      |  Sim  |
+    | 8        | O storyboard demonstra os benefícios e as vantagens da ferramenta?      |  Parcialmente  |
+    | 9        | Dados os aspectos apresentados, você vê a possibilidade desse cenário ocorrer na cidade?      |  Sim  |
+    | 10       | Dados os aspectos apresentados, você vê a população criando uma cultura para utilizar a proposta aqui descrita? Explique    |  Sim, mas nem todos os cidadãos conhecem ferramenta da ouvidoria, é necessario uma campanha para melhor divulgar.    |
+    | 11       | Dados os aspectos apresentados, você acha que é viável a utilização da ferramenta e que isso trará benefícios para as partes interessadas? Explique. | Sim, desde que as partes interessadas saibam onde encontrar a ferramenta      |
+    | 12       | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?    | Não   |
+    
+    <center>
+    Tabela 4: Respostas da entrevista para o Storyboard 1 </center>
+
 
 
 ## Histórico de Revisões
@@ -89,3 +129,4 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 03/06/2024 | `1.0`  |  Elaboração inicial do documento   |      [Lucas Meireles](https://github.com/Katuner) |      |  |
+| 03/06/2024 | `1.0`  |  Insere video   | [Cainã Freitas](https://github.com/freitasc) |      |  |
