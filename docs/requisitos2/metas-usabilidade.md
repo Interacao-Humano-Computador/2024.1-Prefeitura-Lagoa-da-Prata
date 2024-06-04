@@ -108,3 +108,4 @@ Também adotaremos a metodologia de avaliação heurística criando 2 perfis de 
 | 11/05/2024 | `1.2`  | Definição das Metas de Usabilidade | [Joyce Dionizio](https://github.com/joycejdm) |   11/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
 | 11/05/2024 | `1.3`  |   Ajuste de referencial e nomes    | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Augusto Duarte ](https://github.com/Augcamp) |
 | 11/05/2024 | `1.4`  |    Ajuste de escrita e de metas    | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Augusto Duarte ](https://github.com/Augcamp) |
+| 03/06/2024 | `2.0`  |  Correção pós entrega artefato 3   | [Pedro Lucas](https://github.com/lucasdray) |                 |                                               |
