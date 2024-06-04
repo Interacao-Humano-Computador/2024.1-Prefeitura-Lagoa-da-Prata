@@ -14,7 +14,7 @@ A tabela 1 apresenta as tarefas que serão avaliadas pelo uso da técnica de pro
 | x      | e      |
 | x      | e      |
 
-Tabela 1: Tarefas a serem avaliadas no protótipo de papel (Fonte: FREITAS, Cainã. 2024).
+<center>Tabela 1: Tarefas a serem avaliadas no protótipo de papel (Fonte: FREITAS, Cainã. 2024). </center>
 
 # Planejamento
 
@@ -29,6 +29,7 @@ O objetivo dessa avaliação é adquirir informação dos usuários sobre suas i
 Para uma prototipação em papel, há dois avaliadores, um que simula o comportamento do sistema e outro que observa as experiência do usuário.
 
 Ao final da simulação, faremos perguntas aos usuários sobre a experiência de uso do protótipo de papel. A tabela 2 apresenta as perguntas que serão feitas aos usuários.
+Também será registrado, pelos avaliadores, alguns aspectos referentes à atividade desenvolvida pelo entrevistado, demonstrados na tabela 3.
 
 | Ordem das perguntas | Pergunta | Tipo de pergunta | Resposta |
 |---------------------|----------|------------------|----------|
@@ -36,31 +37,41 @@ Ao final da simulação, faremos perguntas aos usuários sobre a experiência de
 | 2                   | e        | e                | e        |
 | 3                   | e        | e                | e        |
 
-Tabela 2: Ficha modelo para documentação das perguntas (Fonte: FREITAS, Cainã. 2024).
+<center>Tabela 2: Ficha modelo para documentação das perguntas (Fonte: FREITAS, Cainã. 2024).</center>
+
+| Elementos a serem registrados | Tipo de informação a ser registrada | Registro da atividade |
+| :---------------------------: | :---------------------------------: | :-------------------: |
+| Número de erros do usuário    | Valor númerico                      |                       |
+| Páginas que causaram confusão | Anotação da página com a área de confusão |                 |
+| Ações inesperadas             | Anotações das ações do usuário      |                       |
+| Comentários do usuário durante a atividade | Anotações gerais       |                       |
+
+<center> Tabela 3: Ficha modelo para documentação dos avaliadores sobre a atividade do usuário (Fonte: MEIRELES, Lucas. 2024). </center>
+
 
 ## C - Escolher os métodos
 
-O método escolhido para avaliar o protótipo de papel é a avaliação por meio de uma simulação de uso. Simlar o uso em papel é uma técnica de avaliação de usabilidade que permite identificar problemas de interação e de interface e serve para comparar alternativas de design. Permite também avaliar soluções parciais e soluções de baixa e média fidelidade.
+O método escolhido para avaliar o protótipo de papel é a avaliação por meio de uma simulação de uso. Simular o uso em papel é uma técnica de avaliação de usabilidade que permite identificar problemas de interação e de interface e serve para comparar alternativas de design. Permite também avaliar soluções parciais e soluções de baixa e média fidelidade.
 
 ## I - Identificar as questões práticas
 
 Para selecionar os participantes da avaliação, usaremos o critério definido no [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos1/perfil-do-usuario/). Seguiremos a recomendação de Dumas e Redish [4], que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas, como relata Nielsen [5].
 
-Simulação de uso será conduzia por dois avaliadores, um que simula o comportamento do sistema e outro que observa as experiência do usuário. A avaliação será realizada em um ambiente tranquilo e sem interrupções, para que os usuários possam se concentrar na tarefa.
+As simulações de uso serão conduzidas por dois avaliadores, um que simulará o comportamento do sistema e outro que observará as experiência do usuário. A avaliação será realizada em um ambiente tranquilo e sem interrupções, para que os usuários possam se concentrar na tarefa.
 
 Para preparar a avaliação, os avaliadores devem utilizar papel, canetas e outros materiais necessários para simular a interação com o protótipo. Os avaliadores devem representar e destacar os principais elementos da interface, como botões, campos de texto, menus, etc que o usuário pode interagir.
 
-A Tabela 3 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
+A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
 
 | Ordem | Data | Horário | Entrevistadores | Entrevistado | Tarefas |
 |-------|------|---------|-----------------|--------------|---------|
 | Ordem da entrevista | Data da entrevista | Horário da entrevista | Nome dos entrevistadores | Nome do entrevistado | Tarefas realizadas pelo entrevistado |
 
-Tabela 3: Ficha modelo para documentação das entrevistas (Fonte: FREITAS, Cainã. 2024).
+Tabela 4: Ficha modelo para documentação das entrevistas (Fonte: FREITAS, Cainã. 2024).
 
 ## D - Decidir questões éticas
 
-Os participantes da avaliação serão convidados a participar voluntariamente e a assinar um [termo de consentimento](). O termo de consentimento informa aos participantes sobre os objetivos da pesquisa, os procedimentos que serão realizados, os riscos e benefícios da participação, a garantia de anonimato e a possibilidade de desistir a qualquer momento. O termo de consentimento também informa que a participação é voluntária e que os participantes podem desistir a qualquer momento, sem penalidades ou consequências negativas.
+Os participantes da avaliação serão convidados a participar voluntariamente e a assinar um [termo de consentimento](./termo_consentimento.md). O termo de consentimento informa aos participantes sobre os objetivos da pesquisa, os procedimentos que serão realizados, os riscos e benefícios da participação, a garantia de anonimato e a possibilidade de desistir a qualquer momento. O termo de consentimento também informa que a participação é voluntária e que os participantes podem desistir a qualquer momento, sem penalidades ou consequências negativas. De modo a evitar possíveis constrangimentos e incentivar a participação de usuários, não será disponibilizado de modo público as gravações audio-visuais do procedimento, sendo que os registros serão disponibilizados apenas à equipe de avaliação para verificação das informações textuais registradas e tratamento de dúvidas das ações realizadas pelos entrevistados.
 
 ## E - Avaliar, interpretar e apresentar os resultados
 
@@ -85,4 +96,4 @@ Os resultados da avaliação serão analisados e interpretados pelos avaliadores
 
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
-| 03/06/2024 | `1.0`  |  Cria termo de consentimento   | [Cainã Freitas](https://github.com/freitasc) |   |  |
+| 03/06/2024 | `1.0`  |  Cria termo de consentimento   | [Cainã Freitas](https://github.com/freitasc) | 03/06/2024  | [Lucas Meireles](https://github.com/Katuner) |

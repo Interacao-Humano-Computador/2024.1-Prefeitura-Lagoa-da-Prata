@@ -12,4 +12,4 @@ Como especificado o link da apresentação se encontra no youtube e na categoria
 
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 22/05/2024 | `1.0`  |        Criação do documento        | [Lucas Meireles](https://github.com/Katuner) |                 |             |
+| 22/05/2024 | `1.0`  |        Criação do documento        | [Lucas Meireles](https://github.com/Katuner)|                 |             |
