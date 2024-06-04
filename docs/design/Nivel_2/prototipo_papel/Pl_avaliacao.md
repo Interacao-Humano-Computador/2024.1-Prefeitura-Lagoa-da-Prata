@@ -4,9 +4,9 @@
 
 Conforme apontam Simone Barbosa e Bruno Diniz [1], a avaliação de IHC (Interação Humano-Computador) é essencial nos processos de desenvolvimento que almejam criar sistemas interativos com elevada qualidade de uso. Esta avaliação orienta o avaliador a realizar um julgamento sobre a qualidade da interação, identificando problemas na interface e na interação que possam comprometer a experiência do usuário. Os métodos de observação são particularmente valiosos, pois permitem ao avaliador coletar dados reais sobre as situações em que os usuários executam suas tarefas, com ou sem a utilização de tecnologias computacionais. O registro e a análise desses dados possibilitam a identificação de problemas concretos enfrentados pelos usuários, ao contrário das avaliações por inspeção, que tendem a prever apenas problemas potenciais.
 
-O protótipo em papel foi escolhido como método de avaliação por ser uma técnica de baixo custo e de fácil aplicação, que permite a avaliação de interfaces de forma rápida e eficaz. O protótipo de papel é uma representação visual da interface do sistema, que pode ser utilizada para simular a interação com o usuário. A avaliação do protótipo de papel é uma técnica de avaliação de usabilidade que permite identificar problemas de interação e de interface, antes que o sistema seja implementado. A avaliação do protótipo de papel é uma técnica de avaliação de usabilidade que permite identificar problemas de interação e de interface, antes que o sistema seja implementado.
+O protótipo em papel foi escolhido como método de avaliação por ser uma técnica de baixo custo e de fácil aplicação, que permite a avaliação de interfaces de forma rápida e eficaz. O protótipo de papel é uma representação visual da interface do sistema, que pode ser utilizada para simular a interação com o usuário. A avaliação do protótipo de papel é uma técnica de avaliação de usabilidade que permite identificar problemas de interação e de interface, antes que o sistema seja implementado.
 
-A tabela 1 apresenta as tarefas que serão avaliadas no protótipo de papel.
+A tabela 1 apresenta as tarefas que serão avaliadas pelo uso da técnica de prototipagem em papel.
 
 | Número | Tarefa |
 |--------|--------|
