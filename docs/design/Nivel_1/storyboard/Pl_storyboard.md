@@ -1,3 +1,5 @@
+# Planejamento da Avaliação dos Storyboards
+
 ## Introdução
 
 Seguindo o processo de deisgn de Mayhew (1999), escolhido para o projeto, após concluídas as etapas de estabelecimento de requisitos é iniciado o desenvolvimento de design. Torna-se necessário, para dar continuidade ao papel do avaliador, a elaboração de protótipos dos cenários estabelecidos no projeto, tornando possível uma visualização mais direta e a verificação da ideia estabelecida pelo avaliador pelos próprios usuários do site avaliado.
@@ -36,7 +38,7 @@ Ao final da simulação de uso o avaliador fará perguntas ao usuário sobre sua
 | :-----------------: | :-----------------:| :--------------: | :-----------------: |
 | 1°                  | Os usuários envolvidos no storyboard condizem com a realidade? | Fechada         | Sim / Não      |
 | 2°                  | O cenário que o storyboard está inserido condiz com a realidade? | Fechada         | Sim / Não      |
-| 3°                  | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Fechada         | Sim / Não      |
+| 3°                  | As ações realizadas pelo usuário no storyboard condizem com o esperado? | Fechada         | Sim / Não      |
 | 4°                  | Você compreendeu o storyboard aqui passado e as pessoas envolvidas? | Fechada         | Sim / Não      |
 | 5°                  | Foi possível compreender os passos realizados? Se não, por que?       | Fechada / Aberta        | Sim / Não e Discursiva     |
 | 6°                  | Foi possível identificar a vantagem e a satisfação final do storyboard?      | Fechada         | Sim / Não      |
