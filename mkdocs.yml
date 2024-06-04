@@ -32,6 +32,8 @@ nav:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 2: apresentacoes/apresentacao2.md
     - Apresentação 3: apresentacoes/apresentacao3.md
+    - Apresentação 4: apresentacoes/apresentacao4.md
+    # - Apresentação 5: apresentacoes/apresentacao5.md 
   - Análise de requisitos I:
     - Aspectos Éticos: requisitos1/aspectos-eticos.md
     - Questionario: requisitos1/questionario.md
@@ -49,9 +51,11 @@ nav:
     - Analise de Tarefas:
       - Planejamento para Analise de Tarefas: design/Nivel_1/analise_tarefas/Pl_avaliacao_tarefas.md
       - Planejamento do Relato dos Resultados: design/Nivel_1/analise_tarefas/Pl_relatoresultado_tarefas.md
+      - Relato de Resultados: design/Nivel_1/analise_tarefas/relatoresultado_tarefas.md
       - Termo de Consentimento: design/Nivel_1/analise_tarefas/termo_consentimento.md
     - Storyboard:
       - Planejamento para Storyboards: design/Nivel_1/storyboard/Pl_storyboard.md
+      - Relato de Resultados para Storyboards: design/Nivel_1/storyboard/relato_resultados_storyboard.md
 
 
 
