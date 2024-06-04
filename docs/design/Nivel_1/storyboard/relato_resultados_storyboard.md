@@ -24,15 +24,15 @@ Tabela 1: Ficha de entrevista - programação (Fonte: MEIRELES, Lucas. 2024)
 
 | Enumeração de perguntas | Pergunta           | Tipo de pergunta | Respostas possíveis |
 | :-----------------: | :-----------------:| :--------------: | :-----------------: |
-| 1                   | Os usuários envolvidos no storyboard condizem com a realidade? |  Sim / Não      |
-| 2                   | O cenário que o storyboard está inserido condiz com a realidade? |  Sim / Não      |
-| 3                   | As ações realizadas pelo usuário no storyboard condizem com o esperado? |  Sim / Não      |
-| 4                   | Você compreendeu o storyboard aqui passado e as pessoas envolvidas? |  Sim / Não      |
+| 1                   | Os usuários envolvidos no storyboard condizem com a realidade? | Fechada |  Sim / Não      |
+| 2                   | O cenário que o storyboard está inserido condiz com a realidade? | Fechada | Sim / Não      |
+| 3                   | As ações realizadas pelo usuário no storyboard condizem com o esperado? | Fechada |  Sim / Não      |
+| 4                   | Você compreendeu o storyboard aqui passado e as pessoas envolvidas? | Fechada |  Sim / Não      |
 | 5                   | Foi possível compreender os passos realizados? Se não, por que?       | Fechada / Aberta        | Sim / Não e Discursiva     |
-| 6                   | Foi possível identificar a vantagem e a satisfação final do storyboard?      |  Sim / Não      |
-| 7                   | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário?      |  Sim / Não      |
-| 8                   | O storyboard demonstra os benefícios e as vantagens da ferramenta?      |  Sim / Não      |
-| 9                   | Dados os aspectos apresentados, você vê a possibilidade desse cenário ocorrer na cidade?      |  Sim / Não      |
+| 6                   | Foi possível identificar a vantagem e a satisfação final do storyboard?      | Fechada |  Sim / Não      |
+| 7                   | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário?      | Fechada |  Sim / Não      |
+| 8                   | O storyboard demonstra os benefícios e as vantagens da ferramenta?      | Fechada |  Sim / Não      |
+| 9                   | Dados os aspectos apresentados, você vê a possibilidade desse cenário ocorrer na cidade?      | Fechada |  Sim / Não      |
 | 10                  | Dados os aspectos apresentados, você vê a população criando uma cultura para utilizar a proposta aqui descrita? Explique    | Aberta         | Discursiva      |
 | 11                  | Dados os aspectos apresentados, você acha que é viável a utilização da ferramenta e que isso trará benefícios para as partes interessadas? Explique.    | Aberta         | Discursiva      |
 | 12                  | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?    | Fechada / Aberta        | Sim e Discursiva / Não    |
