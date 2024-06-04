@@ -1,12 +1,12 @@
-# Planejamento do relato do protótipo de papel
+# Planejamento do relato de resultados do protótipo de papel
 
 ## Introdução
 
-O propósito deste documento é estruturar o relato dos resultados da avaliação do protótipo de papel do site da Prefeitura de Lagoa da Prata. O protótipo foi avaliado por meio de simulações de uso, nas quais os avaliadores simularam o comportamento do sistema e os usuários interagiram com o protótipo. O objetivo da avaliação foi adquirir informações dos usuários sobre suas interações com as tarefas e identificar problemas na interface e na interação que possam comprometer a experiência do usuário.
+O propósito deste documento é estruturar o relato dos resultados da avaliação do protótipo de papel do site da Prefeitura Municipal de Lagoa da Prata. O protótipo foi avaliado por meio de simulações de uso, nas quais os avaliadores simularam o comportamento do sistema e os usuários interagiram com o protótipo. O objetivo da avaliação foi adquirir informações dos usuários sobre suas interações com as tarefas e identificar problemas na interface e na interação que possam comprometer a experiência do usuário.
 
 ## Metodologia
 
-O framework DECIDE de Sharp, Rogers e Preece [1] foi utilizado para planejar a avaliação do protótipo de papel. O framework DECIDE é um guia para a avaliação de usabilidade de sistemas interativos, que propõe um conjunto de atividades a serem realizadas durante o processo de avaliação.
+O framework DECIDE de Sharp, Rogers e Preece [1] foi utilizado para planejar a avaliação do protótipo de papel, disponível no [artefato](Pl_avaliacao.md). O framework DECIDE é um guia para a avaliação de usabilidade de sistemas interativos, que propõe um conjunto de atividades a serem realizadas durante o processo de avaliação.
 
 No caso deste aterfato, usaremos as abordagens de observação e investigação. As metodologias elencaveis para o protótipo de papel são:
 
@@ -22,7 +22,7 @@ No caso deste aterfato, usaremos as abordagens de observação e investigação.
 
 ## Foco do Artefato
 
-O foco deste artefato é planejar como relatar a avaliação do protótipo de papel do site da Prefeitura de Lagoa da Prata. O relato deve ser estruturado de forma clara e objetiva, apresentando os resultados da avaliação e as conclusões obtidas.
+O foco deste artefato é planejar como relatar a avaliação do protótipo de papel do site da Prefeitura Municipal de Lagoa da Prata. O relato deve ser estruturado de forma clara e objetiva, apresentando os resultados da avaliação e as conclusões obtidas.
 
 ## Método
 
@@ -32,7 +32,7 @@ O foco deste artefato é planejar como relatar a avaliação do protótipo de pa
 
 - Conduzir a avaliação: A simulação de uso será conduzida por dois avaliadores, um que simula o comportamento do sistema e outro que observa as experiências do usuário. A avaliação será realizada em um ambiente tranquilo e sem interrupções, para que os usuários possam se concentrar na tarefa.
 
-- Documentar a avaliação: Os avaliadores devem documentar as entrevistas realizadas, registrando informações como data, horário, entrevistadores, entrevistado e tarefas realizadas pelo entrevistado. A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
+- Documentar a avaliação: Os avaliadores devem documentar as entrevistas realizadas, registrando informações como data, horário, entrevistadores, entrevistado e tarefas realizadas pelo entrevistado. A Tabela 1 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
 
 - Analisar os resultados: Os avaliadores devem analisar os resultados da avaliação, identificando os problemas encontrados e as sugestões de melhoria. Os resultados devem ser apresentados de forma clara e objetiva, para facilitar a compreensão dos interessados.
 
@@ -40,7 +40,7 @@ O foco deste artefato é planejar como relatar a avaliação do protótipo de pa
 
 Para fornecer detalhes sobre a avaliação, os avaliadores preencheram a tabela 4 que representa um exemplo de cronograma de entrevista executada.
 
-A Tabela 3 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
+A Tabela 1 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
 
 | Ordem | Data | Horário | Entrevistadores | Entrevistado | Tarefas |
 |-------|------|---------|-----------------|--------------|---------|
@@ -54,7 +54,7 @@ Tabela 1: Ficha modelo para documentação das entrevistas (Fonte: FREITAS, Cain
 
 Para conduzir a avaliação do protótipo de papel, serão necessários dois avaliadores, um que simula o comportamento do sistema e outro que observa as experiências do usuário. Os avaliadores devem ter conhecimento em avaliação de usabilidade e experiência do usuário, para garantir a qualidade dos resultados obtidos.
 
-4. Simulador: Responsável por simular o comportamento do sistema e conduzir a simulação de uso com os usuários.
+1. Simulador: Responsável por simular o comportamento do sistema e conduzir a simulação de uso com os usuários.
 2. Observador: Responsável por observar as experiências dos usuários durante a simulação de uso e documentar as informações coletadas.
 3. Entrevistado: Usuário que participa da simulação de uso e fornece feedbacks sobre a experiência de uso do protótipo de papel.
 
