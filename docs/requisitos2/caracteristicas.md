@@ -37,12 +37,15 @@ Pela falta de documentação do site para encontrar as tecnologias que foram uti
 </div>
 
 Com isso percebe-se que para acessar o site da Prefeitura Munincipal de Lagoa da Prata os requisitos de hardware são basicos.
+
 Caso o acesso seja optado por Computador pessoal (PC ou Laptop):
+
 - Dispositivo apontador (Mouse, touchpad, etc.).
 - Teclado físico ou virtual.
 - Conectividade com internet estável (Cabo Ethernet, Wi-Fi).
 
 Caso o acesso seja optado por um Dispositivo móvel (Smarthphone ou Tablet):
+
 - Tela sensivel ao toque
 - Teclado virtual
 - Conectividade com internet estável (Wi-Fi ou dados móveis).
@@ -61,4 +64,4 @@ Caso o acesso seja optado por um Dispositivo móvel (Smarthphone ou Tablet):
 |    Data    | Versão |       Descrição       |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :-------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 13/05/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 03/06/2024 | `2.0`  | Correções pós entrega | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
+| 03/06/2024 | `2.0`  | Correções pós entrega artefato 3 | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
