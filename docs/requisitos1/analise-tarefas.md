@@ -30,6 +30,7 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 | Subobjetivo:| Uma subdivisão de objetivos complexos, usada para identificar quais subobjetivos são mais difíceis de alcançar, já que limitam ou até mesmo impedem o alcance do objetivo principal. |
 | Plano: | Define os subobjetivos necessários para alcançar um objetivo maior e a ordem em que esses subobjetivos devem ser alcançados. |
 | Operação: | As circunstâncias em que o objetivo é ativado (entrada), as atividades ou ações que contribuem para alcançá-lo e as condições que indicam o seu alcance (feedback). |
+
 <div align="center">
 <p> <b>Tabela 1</b>: Elementos de uma HTA (Fonte: FREITAS, Cainã. 2024). </p>
 </div>
@@ -105,9 +106,10 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 <p> <b>Tabela 3</b>: HTA da Tarefa: Cadastrar e uma reclamação na ouvidoria (Fonte: Freitas, Cainã. 2024). </p>
 </div>
 
-<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_ouvidoria.png" width="100%">
+<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA Poste.png" width="100%">
 <div align="center">
-<p> <b>Figura 3</b>: Diagrama HTA da Tarefa: Cadastrar e acompanhar uma reclamação na ouvidoria (Fonte: Freitas, Cainã. 2024).</p>
+<p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Informar luminária queimada no Município </p>
+</div>
 
 ### Análise da Tarefa HTA 3: Cadastro Antecipado de Aluno
 
@@ -171,34 +173,36 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 
 ### Análise da Tarefa HTA 5: Registrar e verificar o panorama de saúde da cidade
 
-| Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
-|------------------------------------------------------|---------------|----------------------------------------------------------|
-| 0. Registrar e verificar o panorama de saúde da cidade |1 > 2|       Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar para a página de estado de saúde, Registrar estado de saúde, Verificar panorama de saúde da cidade. <br> Feedback: Status do estado de saúde emitido.|
-|   1. Realizar login no site   | 1 > 2|    Plano: informar o cpf e depois a senha do gov.br. |
-|       1.1 Informar CPF | |           |
-|       1.2 Informar senha do gov.br   | |  |
-|   2. Navegar para a página de estado de saúde | 1 / 2 |   Plano: selecionar uma das opções, entre ir até pagina através do menu hamburguer e ir até a pagina pela aba de pesquisa |
-|   2.1 Ir através do menu hamburguer |  |     |
-|   2.2 Ir através da aba de pesquisa |  |     |
-|   3. Registrar estado de saúde | 1 > 2 | Plano: Selecionar se está bem ou não, em caso negativo, realizar os registros |
-|     3.1. Registrar que não se sente mal | |  |
-|     3.2. Registrar que se sente mal | 1 > 2 | Plano: registrar os dados de sintomas e locais |
-|       3.2.1 Confirmar endereço |  |  |
-|       3.2.2 Registrar os sintomas |  |  |
-|       3.2.3 Registrar se deseja marcar uma consulta | 1 / 2 | |
-|         3.2.3.1 Não marcar consulta | | |
-|         3.2.3.2 Marcar consulta | 1 > 2 | |
-|           3.2.3.2.1 Selecionar horário da consulta | | |
-|       3.2.4 Registrar locais que esteve presente      | |  |
-|   4. Verificar panorama de saúde da cidade | |  |
-|       4.1. Navegar pelo mapa interativo | 1 / 2 |   |
-|       4.1.1 Visualizar as informações resumidas pelo mapa | |    |
-|       4.1.2 Selecionar uma área do mapa e verificar dados detalhados | |    |
+
+| Objetivos / Operações                                          | Relações | Problemas / Recomendações                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Registrar e verificar o panorama de saúde da cidade         | 1 > 2    | Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar para a página de estado de saúde, Registrar estado de saúde, Verificar panorama de saúde da cidade. <br> Feedback: Status do estado de saúde emitido. |
+| 1. Realizar login no site                                      | 1 > 2    | Plano: informar o cpf e depois a senha do gov.br.                                                                                                                                                                                                                                  |
+| 1.1 Informar CPF                                               |          |                                                                                                                                                                                                                                                                                    |
+| 1.2 Informar senha do gov.br                                   |          |                                                                                                                                                                                                                                                                                    |
+| 2. Navegar para a página de estado de saúde                    | 1 / 2    | Plano: selecionar uma das opções, entre ir até pagina através do menu hamburguer e ir até a pagina pela aba de pesquisa                                                                                                                                                            |
+| 2.1 Ir através do menu hamburguer                              |          |                                                                                                                                                                                                                                                                                    |
+| 2.2 Ir através da aba de pesquisa                              |          |                                                                                                                                                                                                                                                                                    |
+| 3. Registrar estado de saúde                                   | 1 > 2    | Plano: Selecionar se está bem ou não, em caso negativo, realizar os registros                                                                                                                                                                                                      |
+| 3.1. Registrar que não se sente mal                            |          |                                                                                                                                                                                                                                                                                    |
+| 3.2. Registrar que se sente mal                                | 1 > 2    | Plano: registrar os dados de sintomas e locais                                                                                                                                                                                                                                     |
+| 3.2.1 Confirmar endereço                                       |          |                                                                                                                                                                                                                                                                                    |
+| 3.2.2 Registrar os sintomas                                    |          |                                                                                                                                                                                                                                                                                    |
+| 3.2.3 Registrar se deseja marcar uma consulta                  | 1 / 2    |                                                                                                                                                                                                                                                                                    |
+| 3.2.3.1 Não marcar consulta                                    |          |                                                                                                                                                                                                                                                                                    |
+| 3.2.3.2 Marcar consulta                                        | 1 > 2    |                                                                                                                                                                                                                                                                                    |
+| 3.2.3.2.1 Selecionar horário da consulta                       |          |                                                                                                                                                                                                                                                                                    |
+| 3.2.4 Registrar locais que esteve presente                     |          |                                                                                                                                                                                                                                                                                    |
+| 4. Verificar panorama de saúde da cidade                       |          |                                                                                                                                                                                                                                                                                    |
+| 4.1. Navegar pelo mapa interativo                              | 1 / 2    |                                                                                                                                                                                                                                                                                    |
+| 4.1.1 Visualizar as informações resumidas pelo mapa            |          |                                                                                                                                                                                                                                                                                    |
+| 4.1.2 Selecionar uma área do mapa e verificar dados detalhados |          |                                                                                                                                                                                                                                                                                    |
 
 <div align="center">
 <p> <b>Tabela 6</b>: HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024). </p>
 </div>
 
+<div>
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_Saude.png" width="100%">
 <p> <b>Figura 6</b>: Diagrama HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: Freitas, Cainã. 2024).</p>
 </div>
@@ -549,14 +553,14 @@ Goal 0: Informar luminária queimada no Município
 
 ## Historico de revisão
 
-|    Data    | Versão |                               Descrição                                |                   Autor(es)                   | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :--------------------------------------------------------------------: | :-------------------------------------------: | :-------------: | :------------------------------------------: |
-| 06/05/2024 | `1.0`  |                          Criação do documento                          | [Cainã Freitas](https://github.com/freitasc)  |   07/05/2024    | [Lucas Meireles](https://github.com/Katuner) |
-| 06/05/2024 | `1.1`  |                      Adição de Análise de Tarefas                      | [Joyce Dionizio](https://github.com/joycejdm) |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 06/05/2024 | `1.2`  |                     Adição de Análise de Tarefas 3                     | [Augusto Duarte](https://github.com/Augcamp)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 06/05/2024 | `1.3`  |                     Adição de Análise de Tarefas 4                     | [Lucas Meireles](https://github.com/Katuner)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 07/05/2024 | `1.4`  |                     Adição de Análise de Tarefas 5                     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Lucas Heler](https://github.com/akaeboshi)  |
-| 07/05/2024 | `1.5`  |                   Adição de Análise de Tarefas HTA 1                   |  [Lucas Heler](https://github.com/akaeboshi)  |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 22/05/2024 | `1.7`  | Adição de Análise de Tarefas 6 e HTA | [Lucas Heler](https://github.com/Akaeboshi)  | 22/05/2024  | [Cainã Freitas](https://github.com/freitasc)  |
-| 22/05/2024 | `1.8`  | Adição de tarefa | [Joyce Dionizio](https://github.com/joycejdm)  | 22/05/2024  | [Cainã Freitas](https://github.com/freitasc)  |
+|    Data    | Versão |                               Descrição                                |                   Autor(es)                   | Data de revisão |                                        Revisor(es)                                        |
+| :--------: | :----: | :--------------------------------------------------------------------: | :-------------------------------------------: | :-------------: | :---------------------------------------------------------------------------------------: |
+| 06/05/2024 | `1.0`  |                          Criação do documento                          | [Cainã Freitas](https://github.com/freitasc)  |   07/05/2024    |                       [Lucas Meireles](https://github.com/Katuner)                        |
+| 06/05/2024 | `1.1`  |                      Adição de Análise de Tarefas                      | [Joyce Dionizio](https://github.com/joycejdm) |   07/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 06/05/2024 | `1.2`  |                     Adição de Análise de Tarefas 3                     | [Augusto Duarte](https://github.com/Augcamp)  |   07/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 06/05/2024 | `1.3`  |                     Adição de Análise de Tarefas 4                     | [Lucas Meireles](https://github.com/Katuner)  |   07/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 07/05/2024 | `1.4`  |                     Adição de Análise de Tarefas 5                     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    |                        [Lucas Heler](https://github.com/akaeboshi)                        |
+| 07/05/2024 | `1.5`  |                   Adição de Análise de Tarefas HTA 1                   |  [Lucas Heler](https://github.com/akaeboshi)  |   07/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 22/05/2024 | `1.7`  |                  Adição de Análise de Tarefas 6 e HTA                  |  [Lucas Heler](https://github.com/Akaeboshi)  |   22/05/2024    |                       [Cainã Freitas](https://github.com/freitasc)                        |
+| 22/05/2024 | `1.8`  |                            Adição de tarefa                            | [Joyce Dionizio](https://github.com/joycejdm) |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc), [Pedro Lucas](https://github.com/lucasdray) |
