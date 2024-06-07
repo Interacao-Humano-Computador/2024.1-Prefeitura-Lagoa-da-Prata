@@ -207,6 +207,23 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 <p> <b>Figura 6</b>: Diagrama HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: Freitas, Cainã. 2024).</p>
 </div>
 
+
+### Análise da Tarefa HTA 6: Solicitar vistoria de local com água parada
+Abaixo se encontra tanto a tabela e diagrama HTA relacionado a Solicitar vistoria de local com água parada, ambos foram elaborados levando em consideração a [persona Maria Arlete](/requisitos1/personas/#maria-arlete) e o [cenario C03](/requisitos1/cenarios/#c03-solicitar-vistoria-de-local-com-agua-parada).
+
+| Objetivos / Operações                                  | Relações | Problemas / Recomendações                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Registrar e verificar o panorama de saúde da cidade | 1 > 2    | Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar para a página de estado de saúde, Registrar estado de saúde, Verificar panorama de saúde da cidade. <br> Feedback: Status do estado de saúde emitido. |
+
+<div align="center">
+<p> <b>Tabela 7</b>: HTA da Tarefa: Solicitar vistoria de local com água parada (Fonte: DOURADO, Pedro Lucas. 2024). </p>
+</div>
+
+<div>
+<img   src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_solicitacao.png" >
+<p> <b>Figura 7</b>: Diagrama HTA da Tarefa: Solicitar vistoria de local com água parada (Fonte: DOURADO, Pedro Lucas. 2024).</p>
+</div>
+
 ## CNM-GOMS
 
 &emsp;&emsp;O GOMS (Goals, Operators, Methods, and Selection Rules - Objetivos, Operadores, Métodos e Regras de Seleção) é um conjunto de modelos utilizados para análise de tarefas. O CMN-GOMS (Card, Moran e Newell GOMS) é um desses modelos e consiste em uma hierarquia bem definida de objetivos representados em forma de programa, permitindo assim uma análise executável. (Barbosa e Silva, 2010)
@@ -564,3 +581,4 @@ Goal 0: Informar luminária queimada no Município
 | 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
 | 22/05/2024 | `1.7`  |                  Adição de Análise de Tarefas 6 e HTA                  |  [Lucas Heler](https://github.com/Akaeboshi)  |   22/05/2024    |                       [Cainã Freitas](https://github.com/freitasc)                        |
 | 22/05/2024 | `1.8`  |                            Adição de tarefa                            | [Joyce Dionizio](https://github.com/joycejdm) |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc), [Pedro Lucas](https://github.com/lucasdray) |
+| 06/06/2024 | `2.0`  |                      Adição de HTA 6 e CNM-GOMS 7                      |  [Pedro Lucas](https://github.com/lucasdray)  |                 |                                                                                           |
