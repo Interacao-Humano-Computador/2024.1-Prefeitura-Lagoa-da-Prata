@@ -516,7 +516,7 @@ Goal 0: Acessar o modulo de contra cheque e consultar processos do servidor
 	  OP: Clicar com o botão esquerdo do mouse 
 ```
 
-### Análise da Tarefa CNM-GOMS 6: Informar luminária queimada no Município
+### Análise da Tarefa CNM-GOMS 7: Informar luminária queimada no Município
 ```
 Goal 0: Informar luminária queimada no Município
   Goal 1: Acessar a página sobre iluminação pública
@@ -590,6 +590,169 @@ Goal 0: Informar luminária queimada no Município
       OP: Visualizar a situação e atualizações do protocolo
 ```
 
+### Análise da Tarefa CNM-GOMS 8: Solicitar vistoria de água parada (Fonte: DOURADO, Pedro Lucas. 2024).
+```
+  Goal 0: Solicitar vistoria de água parada
+
+  Goal 1: Acessar a página de Solicitar vistoria de local com água parada
+    Method 1.A: Encontrar pelo menu "hamburguer" na aba Serviços a qualquer momento
+    (SEL. RULE: usuário está em qualquer página e quer um acesso rapido a parte de serviços)
+      Method 1.A.A: Acessar o menu passando o dispositivo apontador em cima
+      (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador (ex: computadores (PCs e Notebooks)))
+        OP. 1.A.A.1: deslocar o cursor até o menu "hamburguer"
+        OP. 1.A.A.2: ao abrir o menu localizar a aba "Serviços"
+        OP. 1.A.A.3: deslocar o cursor até a opção "Solicitar vistoria de local com água parada"
+        OP. 1.A.A.4: clicar com o botão esquerdo do dispositvo apontador na opção "Solicitar vistoria de local com água parada"
+
+      Method 1.A.B: Acessar o menu clicando no botão "hamburguer"
+      (SEL. RULE: usuário está usando dispositivos moveis (ex: Smartphones e Tablets))
+        OP. 1.A.B.1: clicar no menu "hamburguer"
+        OP. 1.A.B.2: ao abrir o menu localizar a aba "Serviços"
+        OP. 1.A.B.3: clicar na opção "Solicitar vistoria de local com água parada"
+    
+    Method 1.B: Encontrar na página inicial ao clicar em "Serviços para o Cidadão"
+    (SEL. RULE: usuário está na página inicial )
+      Method 1.B.A:	Acessar "serviços para o cidadão" com dispositivo apontador
+      (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador (ex: computadores (PCs e Notebooks)))
+        OP. 1.B.A.1: girar a roda do mouse para baixo
+        OP. 1.B.A.2: deslocar o cursor até o botão "Serviços para o Cidadão"
+        OP. 1.B.A.3: clicar com o botão esquerdo do dispostivo apontador
+        OP. 1.B.A.4: deslocar o cursor até o opção "Solicitar vistoria de local com água parada"
+        OP. 1.B.A.5: clicar com o botão esquerdo do dispostivo apontador
+
+      Method 1.B.A:	Acessar "serviços para o cidadão" em telas touchscreen
+      (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+        OP. 1.B.A.1: arrastar a tela para baixo
+        OP. 1.B.A.2: clicar no botão "Serviços para o Cidadão"
+        OP. 1.B.A.3: clicar na opção "Solicitar vistoria de local com água parada"
+
+
+    Method 1.C: Encontrar pela aba de pesquisa
+    (SEL. RULE: usuário não sabe onde localizar o serviço e deseja fazer a busca )
+      Method 1.C.A:	Fazer busca com computadores (PCs e Notebooks)
+      (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador e teclado ( mecânico ou virtual))
+        OP. 1.C.A.1: deslocar cursor até a aba de pesquisa
+        OP. 1.C.A.2: clicar com o botão esquerdo do dispositivo apontador
+        OP. 1.C.A.3: usar teclado e digitar "Solicitar vistoria de local com água parada" ou algo parecido
+        OP. 1.C.A.4: apertar tecla "Enter"
+
+      Method 1.C.B:	Fazer busca em telas touchscreen
+      (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+        OP. 1.C.B.1: rolar a tela para cima
+        OP. 1.C.B.1: clicar na aba de pesquisa
+        OP. 1.C.B.1: digitar "Solicitar vistoria de local com água parada" ou algo parecido
+        OP. 1.C.B.1: clicar no botão de lupa
+
+  Goal 2: Fazer leitura das informações da solicitação
+
+  Goal 3: Fazer login
+    Method 3.A: Fazer login pela Prefeitura Munincipal de Lagoa da Prata
+    (SEL. RULE: usuário tem preferencia por usar esse login e/ou já possui conta )
+      Method 3.A.A: Fazer login pelo Prefeitura Munincipal de Lagoa da Prata com cadastro feito anteriormente
+      (SEL. RULE: usuário já possui conta )
+        Method 3.A.A.A: Fazer login em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.A.A.1: desloca o cursor até o botão "Entrar com login Munincipal"
+          OP. 3.A.A.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.3: desloca o cursor até o aba "CPF/CNPJ/email"
+          OP. 3.A.A.A.4: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.5: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.A.6: desloca o cursor até o aba "Senha"
+          OP. 3.A.A.A.7: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.8: preenche o campo senha
+          OP. 3.A.A.A.9: desloca o cursor até o aba "Senha"
+          OP. 3.A.A.A.10: desloca o cursor até o botão "Entrar"
+          OP. 3.A.A.A.10: clica com o botão esquerdo do dispositivo apontador
+
+        Method 3.A.A.B: Fazer login em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: clicar no botão "Entrar com login Munincipal"
+          OP. 3.A.A.A.2: clica na aba "CPF/CNPJ/email"
+          OP. 3.A.A.A.3: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.B.4: clicar na aba "Senha"
+          OP. 3.A.A.A.5: preenche o campo usuário com senha
+          OP. 3.A.A.B.6: clicar no botão "Entrar"
+
+      Method 3.A.B: Fazer cadastro pela Prefeitura Munincipal de Lagoa da Pratacaso não possuir conta e realizar login
+      (SEL. RULE: usuário não possui conta )
+        Method 3.A.A.A: Fazer cadastro em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.A.A.1: desloca o cursor até o botão "Entrar com login Munincipal"
+          OP. 3.A.A.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.3: desloca o cursor até a opção "Cadastrar-se"
+          OP. 3.A.A.A.4: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.5: preenche os campos e realiza o cadastro no site da Prefeitura
+          OP. 3.A.A.A.6: desloca o cursor até o botão "Entrar com login Munincipal"
+          OP. 3.A.A.A.7: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.8: desloca o cursor até o aba "CPF/CNPJ/email"
+          OP. 3.A.A.A.9: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.10: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.A.11: desloca o cursor até o aba "Senha"
+          OP. 3.A.A.A.12: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.13: preenche o campo senha
+          OP. 3.A.A.A.14: desloca o cursor até o aba "Senha"
+          OP. 3.A.A.A.15: desloca o cursor até o botão "Entrar"
+          OP. 3.A.A.A.16: clica com o botão esquerdo do dispositivo apontador
+
+    Method 3.B: Fazer login pelo GOV.BR
+    (SEL. RULE: usuário tem preferencia por usar esse login e/ou já possui conta )
+      Method 3.B.A: Realizar login
+      (SEL. RULE: usuário já possui conta )
+       Method 3.A.B.A: Fazer login em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.B.A.1: desloca o cursor até o botão "Entrar com GOV.BR"
+          OP. 3.A.B.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.B.A.4: desloca o cursor até o botão "Entrar como {NOME DO USUÁRIO}"
+          OP. 3.A.B.A.5: clica com o botão esquerdo do dispositivo apontador
+         
+        Method 3.A.A.B: Fazer login em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: desce a página até a aba de login
+          OP. 3.A.B.A.2: clica no botão "Entrar com GOV.BR"
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.A.B.4: desce a página até a aba de login
+          OP. 3.A.B.A.5: clica no botão "Entrar como {NOME DO USÁRIO}"
+         
+      Method 3.B.B: Cadastrar e realizar login
+      (SEL. RULE: usuário não possui conta )
+       Method 3.A.B.A: Fazer cadastro em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.B.A.1: desloca o cursor até o botão "Entrar com GOV.BR"
+          OP. 3.A.B.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.B.A.3: realiza cadastro no site do GOV.BR
+          OP. 3.A.B.A.4: realiza login no site do GOV.BR
+          OP. 3.A.B.A.5: desloca o cursor até o botão "Entrar como {NOME DO USUÁRIO}"
+          OP. 3.A.B.A.6: clica com o botão esquerdo do dispositivo apontador
+         
+        Method 3.A.A.B: Fazer cadastro em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: desce a página até a aba de login
+          OP. 3.A.B.A.2: clica no botão "Entrar com GOV.BR"
+          OP. 3.A.B.A.3: realiza cadastro no site do GOV.BR
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.A.B.4: desce a página até a aba de login
+          OP. 3.A.B.A.5: clica no botão "Entrar como {NOME DO USÁRIO}"
+
+
+    Method 3.C: Solicitar anonimamente
+    (SEL. RULE: usuário não quer se identificar )
+    OP 3.C.1: desloca cursor até botão "Solicitar Anonimamente"
+    OP 3.C.2: clica com o botão esquerdo do dispositivo apontador
+
+  Goal 4: Enviar Solicitação de vistoria de local com água parada
+    OP. 4.1: preenche o formulário nos campos solicitados
+    OP. 4.2: responde o reCaptcha
+    OP. 4.3: rlica no botão "Enviar"
+
+  Goal 5: Baixar os dados da solicitação
+    OP. 5.1: move o cursor até o botão "Baixar dados da solicitação"
+    OP. 5.2: clica com o botão esquerdo do dispositivo apontador
+
+
+```
+
+
 ## Historico de revisão
 
 |    Data    | Versão |                               Descrição                                |                   Autor(es)                   | Data de revisão |                                        Revisor(es)                                        |
@@ -604,3 +767,4 @@ Goal 0: Informar luminária queimada no Município
 | 22/05/2024 | `1.7`  |                  Adição de Análise de Tarefas 6 e HTA                  |  [Lucas Heler](https://github.com/Akaeboshi)  |   22/05/2024    |                       [Cainã Freitas](https://github.com/freitasc)                        |
 | 22/05/2024 | `1.8`  |                            Adição de tarefa                            | [Joyce Dionizio](https://github.com/joycejdm) |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc), [Pedro Lucas](https://github.com/lucasdray) |
 | 06/06/2024 | `2.0`  |                            Adição de HTA 6                             |  [Pedro Lucas](https://github.com/lucasdray)  |                 |                                                                                           |
+| 07/06/2024 | `2.1`  |                           Adição CNM-GOMS 8                            |  [Pedro Lucas](https://github.com/lucasdray)  |                 |                                                                                           |
