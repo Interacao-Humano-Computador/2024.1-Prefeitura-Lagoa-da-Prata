@@ -63,7 +63,19 @@ nav:
     - Termo de consentimento para Prototipação de Papel: design/Nivel_2/prototipo_papel/termo_consentimento.md
   - Verificacao:
     - Verificacao Grupo 06:
-      - Planejamento da Verificacao: verificacao/grupo06/planejamento.md
+      - Introdução: verificacao/grupo06/introducao.md
+      - Etapa 2: 
+        - Planejamento: verificacao/grupo06/etapa2/planejamento.md
+        - Verificação:  verificacao/grupo06/etapa2/verificacao.md
+      - Etapa 3: 
+        - Planejamento: verificacao/grupo06/etapa3/planejamento.md
+        - Verificação:  verificacao/grupo06/etapa3/verificacao.md
+      - Etapa 4:       
+        - Planejamento: verificacao/grupo06/etapa4/planejamento.md
+        - Verificação:  verificacao/grupo06/etapa4/verificacao.md
+      - Etapa 5: 
+        - Planejamento: verificacao/grupo06/etapa5/planejamento.md
+        - Verificação:  verificacao/grupo06/etapa5/verificacao.md
 
 
 
