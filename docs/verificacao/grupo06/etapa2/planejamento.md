@@ -103,7 +103,7 @@ A tabela 5 a seguir apresenta a checklist referente ao artefato Cénarios <a id=
 | 32  |   Os cenários são associados à alguma tarefa de uso diário do ator?    |     -     |      -      |
 | 33  | Há Objetivo, Contexto, Recursos, Ator, Episódios, Restrições e Exções? |     -     |      -      |
 | 34  |                     Cada cenário possui um titulo?                     |     -     |      -      |
-| 35  |         Foi criado uma persona para cada integrante do grupo?          |     -     |      -      |
+| 35  |         Foi criado um cénario para cada integrante do grupo?          |     -     |      -      |
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
 

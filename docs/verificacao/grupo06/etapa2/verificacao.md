@@ -22,7 +22,7 @@ A tabela 1 a seguir resume os participantes que partiparam como avaliadores, det
 | **ANÁLISE DE TAREFAS HTA**  |           |
 | **ANÁLISE DE TAREFAS GOMS** |           |
 
-*Fonte: DOURADO, Pedro Lucas. (2024).*
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
 ## Padronização
@@ -39,7 +39,7 @@ A tabela 2 a seguir apresenta os dados obtidos na verificação de todos os arte
 |  4  |         Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?         |    NÃO     |     **Perfil do Usuário** Faltando fontes e títulos em figuras <br> **Persona** Fonte não está em ABNT. <br> **Aspectos Éticos** Falta título <br> **HTA** falta fonte e título em tabelas, título em figuras. <br> **GOMS** Falta título e fontes nas tabelas.     |
 |  5  | Em cada artefato, todos os textos estão na norma padrão? Estão seguindo um padrão (centralizados, justificado, alinhado a esquerda)? |     SIM     |                                                                                                                                  -                                                                                                                                  |
 
-*Fonte: DOURADO, Pedro Lucas. (2024).*
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
 ### Acompanhamento
@@ -71,8 +71,8 @@ A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Pe
 | 16  |                                     É identificado o sexo?                                      |    NÃO     |                                                                                         -                                                                                          |
 | 17  |                                É identificado a ocupação atual?                                 |    NÃO     |                                                                                         -                                                                                          |
 
-*Fonte: DOURADO, Pedro Lucas. (2024).*
-</center>
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
+
 
 ### Acompanhamento 
 
@@ -80,7 +80,7 @@ A figura 02 abaixo permite uma visualização melhor quanto as respostas da aval
 <center>
 **Figura 02** - Gráfico dos resultados do Perfil de Usuário
 <iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwiIiXHZoHJ6r-yLq6_AGbd--3aPjyVmprUKx_01pzPxb5VP2YXkbGpc9lNj3SjTNLvObGd5p37Iy_/pubchart?oid=602220828&amp;format=image"></iframe>
-*Fonte: DOURADO, Pedro Lucas. 2024.*
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
 ### Problemas Encontrados e Análise dos Dados
@@ -126,7 +126,7 @@ A figura 02 abaixo permite uma visualização melhor quanto as respostas da aval
 #### ID 17 - É identificado a ocupação atual?  
 - Identificado no formulário mas não é relacionado depois
 
-## Sugestões de Correção
+### Sugestões de Correção
 Com base nos problemas encontrados e na análise dos dados encontrados, fica sugerido que o grupo faça as seguintes correções:
 
 - Colocar títulos e fonte em todas as figuras
@@ -137,7 +137,7 @@ Com base nos problemas encontrados e na análise dos dados encontrados, fica sug
 
 
 ## **Personas**
-A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do Perfil do Usuário <a id=anchor_3 href="#REF3"><sup>3</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
+A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do artefato Personas <a id=anchor_3 href="#REF3"><sup>3</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 4** - Verificação Persona
 
@@ -156,8 +156,8 @@ A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do Pe
 | 28  |           Foi utilizado algum método para identificar os objetivos de cada persona?           |    NÃO     |                       Não foi apresentado                       |
 | 29  |                     Foi criado uma Persona para cada integrante do grupo?                     |    NÃO     |                               Não                               |
 
-*Fonte: DOURADO, Pedro Lucas. (2024).*
-</center>
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
+
 
 ### Acompanhamento
 
@@ -165,7 +165,7 @@ A figura 03 abaixo permite uma visualização melhor quanto as respostas da aval
 <center>
 **Figura 03** - Gráfico dos resultados da Persona
 <iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwiIiXHZoHJ6r-yLq6_AGbd--3aPjyVmprUKx_01pzPxb5VP2YXkbGpc9lNj3SjTNLvObGd5p37Iy_/pubchart?oid=134369053&amp;format=image"></iframe>
-*Fonte: DOURADO, Pedro Lucas. 2024.*
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
 ### Problemas Encontrados e Análise dos Dados
@@ -203,29 +203,75 @@ A figura 03 abaixo permite uma visualização melhor quanto as respostas da aval
 
 ## **Cénarios**
 
-A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do Perfil do Usuário <a id=anchor_4 href="#REF4"><sup>4</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
+A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do artefato Cénarios <a id=anchor_4 href="#REF4"><sup>4</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 5** - Verificação Cénarios
 
-| ID  |                                           Descrição                                           | Avaliação  |                           Observações                           |
-| :-: | :-------------------------------------------------------------------------------------------: | :--------: | :-------------------------------------------------------------: |
-| 18  |                   As personas são definidas a partir do perfil do usuário?                    |    NÃO     |       O perfil do usuário não foi definido anteriormente        |
-| 19  |                                 Possuem Nome completo e foto?                                 |    SIM     |                                -                                |
-| 20  |                                  As personas possuem status?                                  | INCOMPLETO | Não é especificado que tipo de persona são primária, secundária |
-| 21  |                                As personas possuem objetivos?                                 |    SIM     |                                -                                |
-| 22  |                               As personas possuem habilidades?                                |    SIM     |                                -                                |
-| 23  |                             As personas possuem relacionamentos?                              |    NÃO     |                                -                                |
-| 24  |                           É especificado os requisitos da persona?                            |    SIM     |                                -                                |
-| 25  |                          É especificado as expectativas da persona?                           |    SIM     |                                -                                |
-| 26  |               O conjunto de personas deixa evidente os objetivos dos usuários?                |    SIM     |                                -                                |
-| 27  | O elenco de personas tem entre 3 a 12 personas? É justificado a escolha do tanto de personas? | INCOMPLETO |                       Não foi justificado                       |
-| 28  |           Foi utilizado algum método para identificar os objetivos de cada persona?           |    NÃO     |                       Não foi apresentado                       |
-| 29  |                     Foi criado uma Persona para cada integrante do grupo?                     |    NÃO     |                               Não                               |
+| ID  |                               Descrição                                | Avaliação |                Observações                |
+| :-: | :--------------------------------------------------------------------: | :-------: | :---------------------------------------: |
+| 30  |            Os atores são as personas feitas para o projeto?            |    NÃO    |                     -                     |
+| 31  |             É feito um modelo de cenário para ser seguido?             |    NÃO    |                     -                     |
+| 32  |   Os cenários são associados à alguma tarefa de uso diário do ator?    |    SIM    |                     -                     |
+| 33  | Há Objetivo, Contexto, Recursos, Ator, Episódios, Restrições e Exções? |    NÃO    |                     -                     |
+| 34  |                     Cada cenário possui um titulo?                     |    SIM    | Só existem um cénario e ele possui título |
+| 35  |         Foi criado um cénario para cada integrante do grupo?          |    NÃO    |                     -                     |
 
-*Fonte: DOURADO, Pedro Lucas. (2024).*
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
+
+### Acompanhamento
+
+A figura 04 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
+<center>
+**Figura 04** - Gráfico dos resultados da Cénarios
+<iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwiIiXHZoHJ6r-yLq6_AGbd--3aPjyVmprUKx_01pzPxb5VP2YXkbGpc9lNj3SjTNLvObGd5p37Iy_/pubchart?oid=2128916519&amp;format=interactive"></iframe>
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
+
+### Problemas Encontrados e Análise dos Dados
+
+#### ID 01 - Os artefatos possuem introdução?
+- Não apresentado.
+
+#### ID 02 - Os artefatos possuem uma bibliografia/referência bibliográfica?
+- Não apresentado.
+
+#### ID 03 - Os artefatos possuem um histórico de versões com descrição, versões, data de criação, autores e revisores?
+- Não possui revisor.
+
+#### ID 30 - Os atores são as personas feitas para o projeto?
+- Atores diferentes de personas.
+
+#### ID 31 - É feito um modelo de cenário para ser seguido?
+- Não apresentado.
+
+#### ID 33 - Há Objetivo, Contexto, Recursos, Ator, Episódios, Restrições e Exções?
+- Não está apresentado de forma clara.
+
+#### ID 35 - Foi criado um cénario para cada integrante do grupo?
+- Não, só existe um cénario.
+
+### Sugestões de Correção
+- Criar um cénario para cada integrando do grupo.
+- Criar um modelo de cénario para ser seguido e usado como base para a criação dos outros, dispondo Objetivo, Contexto, Recursos, Ator, Episódios, Restrições e Exções.
+- Dispor a bibliografia utilizada.
+- Revisar o artefato.
+- Estabelecer os atores dos cénarios como as personas.
+
 ## **Aspectos Éticos de Pesquisas Envolvendo Pessoas**
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## **Análise de tarefas HTA** 
 
@@ -252,3 +298,4 @@ A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do Pe
 | 10/06/2024 | `1.0`  |             Criação do documento             | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
 | 10/06/2024 | `1.1`  | Verificação Padronização e Perfil do Usuário | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
 | 10/06/2024 | `1.2`  |             Verificação Persona              | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 10/06/2024 | `1.3`  |             Verificação Cénarios             | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
