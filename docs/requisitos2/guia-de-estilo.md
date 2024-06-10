@@ -128,7 +128,7 @@ Ao seguir o guia de estilo, os desenvolvedores, designers e demais equipes envol
 
 > [4] FIGMA. Disponível em: FIGMA. Acesso em: 12 de Maio de 2023.
 
-## Historico de revisão
+## Historico de Versões
 
 |    Data    | Versão |                                       Descrição                                       |                  Autor(es)                  | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :-----------------------------------------: | :-------------: | :-----------------------------------------: |

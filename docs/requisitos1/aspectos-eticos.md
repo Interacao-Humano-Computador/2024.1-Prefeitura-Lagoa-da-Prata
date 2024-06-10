@@ -44,7 +44,7 @@ pesquisa.
 
 > [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
-## Historico de revisão
+## Historico de Versões
 
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |

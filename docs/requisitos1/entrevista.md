@@ -28,7 +28,7 @@ Abaixo temos um vídeo que apresenta a entrevista completa com as respostas do u
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8nhkA2m-Um0?si=Gt1cWd3pgZWlabQW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Histórico de revisão
+## Histórico de Versões
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :------------------------------------------: |

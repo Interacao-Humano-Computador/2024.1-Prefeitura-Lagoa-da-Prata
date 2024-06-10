@@ -142,7 +142,7 @@ Tabela 7: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
 ## Bibliografia
 [1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 06/05/2024.
 
-## Historico de revisão
+## Historico de Versões
 
 |    Data    | Versão |                Descrição                 |                   Autor(es)                   | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :-------------------------------------------: | :-------------: | :------------------------------------------: |

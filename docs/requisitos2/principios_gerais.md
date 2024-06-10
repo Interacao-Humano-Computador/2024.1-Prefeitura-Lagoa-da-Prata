@@ -108,7 +108,7 @@ Por fim, tratamos também de projeções para um erro, isto é, levar em conside
 
 > [5] Reeves, Byron e Nass, Clifford (1996). The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places. Cambridge University Press/CSLI, Stanford, Calif, new edition edition.
 
-## Historico de revisão
+## Historico de Versões
 
 |    Data    | Versão |      Descrição       |        Autor(es)            | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------: | --------------------------: | :-------------: | :-----------------------------------------: |

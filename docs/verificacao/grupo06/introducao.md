@@ -18,7 +18,7 @@ No planejamento deverá conter duas tabelas de checklist uma quanto a padroniza�
 
 Após ser feita a verificação deverá ser realizado um relato contendo os checklists preenchidos para cada artefato e os resultados da verificação, sendo disponibilizado um gráfico que demonstra o resultado.
 
-## Histórico de revisão
+## Histórico de Versões
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |

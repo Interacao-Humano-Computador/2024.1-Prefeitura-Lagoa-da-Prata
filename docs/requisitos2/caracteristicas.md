@@ -59,7 +59,7 @@ Caso o acesso seja optado por um Dispositivo móvel (Smarthphone ou Tablet):
 
 > [4] Site da Sterr. Disponível em: https://www.strerr.com/pt/screen.html .
 
-## Historico de revisão
+## Historico de Versões
 
 |    Data    | Versão |       Descrição       |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :-------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |

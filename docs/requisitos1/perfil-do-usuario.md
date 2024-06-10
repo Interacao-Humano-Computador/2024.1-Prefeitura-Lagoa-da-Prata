@@ -57,7 +57,7 @@ Apesar de a maioria dos que responderam terem respondido não ter problemas com 
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-## Historico de revisão
+## Historico de Versões
 
 |    Data    | Versão |      Descrição       |                   Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------: | :-------------------------------------------: | :-------------: | :-----------------------------------------: |

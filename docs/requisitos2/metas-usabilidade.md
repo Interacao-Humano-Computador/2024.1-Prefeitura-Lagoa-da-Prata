@@ -99,7 +99,7 @@ Também adotaremos a metodologia de avaliação heurística criando 2 perfis de 
 > [2] NIELSEN, Jacob. Designing Web Usability: The Practice of Simplicity Peachpit Press, la edição 1999
 
 
-## Historico de revisão
+## Historico de Versões
 
 |    Data    | Versão |             Descrição              |                   Autor(es)                   | Data de revisão |                  Revisor(es)                  |
 | :--------: | :----: | :--------------------------------: | :-------------------------------------------: | :-------------: | :-------------------------------------------: |

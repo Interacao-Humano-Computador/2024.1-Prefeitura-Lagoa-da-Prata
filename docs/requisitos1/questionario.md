@@ -142,7 +142,7 @@ A pesquisa foi realizada de forma online, onde o link do questionário foi repas
 <div style="text-align:center">Figura 17: Causa do incômodo (Fonte: Dourado, Pedro Lucas. 2024) </div>
 </center>
 
-## Histórico de revisão
+## Histórico de Versões
 
 |    Data    | Versão |      Descrição       |             Autor(es)              | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :------------------: | :--------------------------------: | :-------------: | :------------------------------------------: |

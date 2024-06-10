@@ -162,7 +162,7 @@ Com base no perfil do usuário e nas tarefas primárias identificadas, foram def
 <p> <b>Tabela 7</b>: Persona 7 (Duarte, Augusto. 2024)</p>
 </div>
 
-## Historico de revisão
+## Historico de Versões
 
 |    Data    | Versão |                Descrição                 |                                                                                       Autor(es)                                                                                        | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :--------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-----------------------------------------: |
