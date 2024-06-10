@@ -16,5 +16,12 @@ No planejamento deverá conter duas tabelas de checklist uma quanto a padroniza�
 
 ## Relato dos resultados
 
-Após ser feita a verificação deverá ser realizado um relato contendo  os checklists preenchidos para cada artefato e os resultados da verificação, sendo disponibilizado um gráfico que demonstra o resultado.
+Após ser feita a verificação deverá ser realizado um relato contendo os checklists preenchidos para cada artefato e os resultados da verificação, sendo disponibilizado um gráfico que demonstra o resultado.
+
+## Histórico de revisão
+
+|    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
+| :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
+| 09/06/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+
 
