@@ -50,7 +50,7 @@ A figura 01 abaixo permite uma visualização melhor quanto as respostas da aval
 *Fonte: DOURADO, Pedro Lucas. 2024.*
 </center>
 
-## Perfil do Usuário
+## **Perfil do Usuário**
 A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Perfil do Usuário <a id=anchor_2 href="#REF2"><sup>2</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
 
 <center>
@@ -136,21 +136,119 @@ Com base nos problemas encontrados e na análise dos dados encontrados, fica sug
 - Identificar as características do perfil do usuário (ocupação,sexo,faixa etária, etc.)
 
 
-## Personas
+## **Personas**
+A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do Perfil do Usuário <a id=anchor_3 href="#REF3"><sup>3</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
+<center>
+**Tabela 4** - Verificação Persona
 
-## Cénarios
+| ID  |                                           Descrição                                           | Avaliação  |                           Observações                           |
+| :-: | :-------------------------------------------------------------------------------------------: | :--------: | :-------------------------------------------------------------: |
+| 18  |                   As personas são definidas a partir do perfil do usuário?                    |    NÃO     |       O perfil do usuário não foi definido anteriormente        |
+| 19  |                                 Possuem Nome completo e foto?                                 |    SIM     |                                -                                |
+| 20  |                                  As personas possuem status?                                  | INCOMPLETO | Não é especificado que tipo de persona são primária, secundária |
+| 21  |                                As personas possuem objetivos?                                 |    SIM     |                                -                                |
+| 22  |                               As personas possuem habilidades?                                |    SIM     |                                -                                |
+| 23  |                             As personas possuem relacionamentos?                              |    NÃO     |                                -                                |
+| 24  |                           É especificado os requisitos da persona?                            |    SIM     |                                -                                |
+| 25  |                          É especificado as expectativas da persona?                           |    SIM     |                                -                                |
+| 26  |               O conjunto de personas deixa evidente os objetivos dos usuários?                |    SIM     |                                -                                |
+| 27  | O elenco de personas tem entre 3 a 12 personas? É justificado a escolha do tanto de personas? | INCOMPLETO |                       Não foi justificado                       |
+| 28  |           Foi utilizado algum método para identificar os objetivos de cada persona?           |    NÃO     |                       Não foi apresentado                       |
+| 29  |                     Foi criado uma Persona para cada integrante do grupo?                     |    NÃO     |                               Não                               |
 
-## Aspectos Éticos de Pesquisas Envolvendo Pessoas
+*Fonte: DOURADO, Pedro Lucas. (2024).*
+</center>
 
-## Análise de tarefas HTA  
+### Acompanhamento
 
-## Análise de tarefas GOMS
+A figura 03 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
+<center>
+**Figura 03** - Gráfico dos resultados da Persona
+<iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwiIiXHZoHJ6r-yLq6_AGbd--3aPjyVmprUKx_01pzPxb5VP2YXkbGpc9lNj3SjTNLvObGd5p37Iy_/pubchart?oid=134369053&amp;format=image"></iframe>
+*Fonte: DOURADO, Pedro Lucas. 2024.*
+</center>
+
+### Problemas Encontrados e Análise dos Dados
+
+#### ID 4 - Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?
+- Fonte das imagens das personas e fonte das tabelas não estão padronizadas e também não seguem a norma ABNT.
+- Fonte das imagens das personas está incorreta uma vez que é de origins do site this-person-does-not-exist.com
+
+#### ID 18 - As personas são definidas a partir do perfil do usuário?
+- O perfil do usuário não está definido 
+
+#### ID 20 -  As personas possuem status?
+- Apesar de todas as personas possuerem status, não é específicado de qual tipo ela é (primária ou secundária).
+
+#### ID 23 - As personas possuem relacionamentos?
+- Não apresentado.
+
+#### ID 27 - O elenco de personas tem entre 3 a 12 personas? É justificado a escolha do tanto de personas?
+- Apesar de ter 4 personas não há justificativa no texto do artefato para tal escolha.
+
+#### ID 28 - Foi utilizado algum método para identificar os objetivos de cada persona?
+- Não apresentado.
+
+#### ID 29 - Foi criado uma Persona para cada integrante do grupo?
+- O grupo possui 6 membros mas só há 4 personas.
+
+### Sugestões de Correção
+- Detalhar o motivo da escolha de quantidade de personas
+- Detalhar qual foi o método utilizado para definir os objetivos das peronas
+- Corrigir as fontes
+- Após definir o perfil do usuário verificar se condiz com as personas, caso contrário
+- Especificar qual o status da persona
+- Acrecentar relacionamentos da persona
+- Adicionar mais personas para condizer com o número de integrantes do grupo ou justificar motivo da escolha reduzida.
+
+## **Cénarios**
+
+A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do Perfil do Usuário <a id=anchor_4 href="#REF4"><sup>4</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
+<center>
+**Tabela 5** - Verificação Cénarios
+
+| ID  |                                           Descrição                                           | Avaliação  |                           Observações                           |
+| :-: | :-------------------------------------------------------------------------------------------: | :--------: | :-------------------------------------------------------------: |
+| 18  |                   As personas são definidas a partir do perfil do usuário?                    |    NÃO     |       O perfil do usuário não foi definido anteriormente        |
+| 19  |                                 Possuem Nome completo e foto?                                 |    SIM     |                                -                                |
+| 20  |                                  As personas possuem status?                                  | INCOMPLETO | Não é especificado que tipo de persona são primária, secundária |
+| 21  |                                As personas possuem objetivos?                                 |    SIM     |                                -                                |
+| 22  |                               As personas possuem habilidades?                                |    SIM     |                                -                                |
+| 23  |                             As personas possuem relacionamentos?                              |    NÃO     |                                -                                |
+| 24  |                           É especificado os requisitos da persona?                            |    SIM     |                                -                                |
+| 25  |                          É especificado as expectativas da persona?                           |    SIM     |                                -                                |
+| 26  |               O conjunto de personas deixa evidente os objetivos dos usuários?                |    SIM     |                                -                                |
+| 27  | O elenco de personas tem entre 3 a 12 personas? É justificado a escolha do tanto de personas? | INCOMPLETO |                       Não foi justificado                       |
+| 28  |           Foi utilizado algum método para identificar os objetivos de cada persona?           |    NÃO     |                       Não foi apresentado                       |
+| 29  |                     Foi criado uma Persona para cada integrante do grupo?                     |    NÃO     |                               Não                               |
+
+*Fonte: DOURADO, Pedro Lucas. (2024).*
+</center>
+
+## **Aspectos Éticos de Pesquisas Envolvendo Pessoas**
+
+## **Análise de tarefas HTA** 
+
+## **Análise de tarefas GOMS**
 
 ## Referências Bibliograficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> <a id="REF2" href="#anchor_2">2.</a> CARVALHO, Felipe. Perfil de Usuário. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/usuario/>. Acesso em: 10 junho 2024.
+
+> <a id="REF3" href="#anchor_3">3.</a> CARVALHO, Felipe; VIEIRA, Vinicius. Persona. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/personas/>. Acesso em: 10 junho 2024.
+
+> <a id="REF4" href="#anchor_4">4.</a> SENA, Pedro. Cénarios. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/cenarios/>. Acesso em: 10 junho 2024.
+
+> <a id="REF5" href="#anchor_5">5.</a> MIGUEL, Pedro. Aspectos Éticos. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/aspectos-eticos/>. Acesso em: 10 junho 2024.
+
+> <a id="REF6" href="#anchor_6">6.</a> SENA, Pedro; VIEIRA, Vinicius; CARVALHO, Filipe; MIGUEL, Pedro. Análise Hierárquica de Tarefas. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/aht/>. Acesso em: 10 junho 2024.
+
+> <a id="REF7" href="#anchor_7">7.</a> SENA, Pedro; VIEIRA, Vinicius; CARVALHO, Filipe. GOMS. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/goms/>. Acesso em: 10 junho 2024.
 
 ## Historico de Versões
 |    Data    | Versão |                  Descrição                   |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
 | 10/06/2024 | `1.0`  |             Criação do documento             | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
 | 10/06/2024 | `1.1`  | Verificação Padronização e Perfil do Usuário | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 10/06/2024 | `1.2`  |             Verificação Persona              | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
