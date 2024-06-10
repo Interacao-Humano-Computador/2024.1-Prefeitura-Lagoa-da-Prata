@@ -9,7 +9,7 @@ O responsável por esse planejamento foi o integrante [Pedro Lucas](https://gith
 ## Objetos de verificação
 A tabela 1 foi produzida para uma melhor visualização dos objetos que serão verificados e suas respectivas características, ela é composta por pelo Artefato que foi verificado, Versão verificada, Data que foi produzido, Autores do artefato e Revisões do artefato.
 
-<center>Tabela 1: Objetos que serão verificados</center>
+<center>**Tabela 1** - Objetos que serão verificados
 
 |                                                                       Artefato                                                                       | Versão | Data produzido |                                                                                            Produzido por                                                                                             |                                               Revisado por                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
@@ -20,7 +20,7 @@ A tabela 1 foi produzida para uma melhor visualização dos objetos que serão v
 |                   [Análise de tarefas HTA](https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/aht/)                    | `1.3`  |   22/05/2024   | [Filipe Carvalho](https://github.com/Filipe-002), [Pedro Miguel](https://github.com/pedromadbr), [Pedro Sena](https://github.com/pedroyen21), [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/Filipe-002), [Vinicius Vieira](https://github.com/viniciusvieira00)  |
 |                  [Análise de tarefas GOMS](https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/goms/)                   | `1.2`  |   22/05/2024   |                        [Filipe Carvalho](https://github.com/Filipe-002), [Pedro Sena](https://github.com/pedroyen21), [Vinicius Vieira](https://github.com/viniciusvieira00)                         | [Filipe Carvalho](https://github.com/Filipe-002),  [Vinicius Vieira](https://github.com/viniciusvieira00) |
 
-<center>*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
 
 Os resultados de cada artefato serão reunidos e disponibilizados na página de [verificação da etapa](/verificacao/grupo06/etapa2/verificacao/).
 
@@ -33,13 +33,13 @@ As avaliações podem ser respondidas com "Sim", "Não" e "Incompleto", tendo um
 ### Padronização
 A tabela 2 a seguir apresenta a checklist referente a padronização que os artefatos devem seguir.
 
-<center>Tabela 2: Checklist de padronização
+<center>**Tabela 2** - Checklist de padronização
 
 | ID  |                                                              Descrição                                                               | Avaliação | Observações |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
 |  1  |                                                   Os artefatos possuem introdução?                                                   |     -     |      -      |
 |  2  |                                   Os artefatos possuem uma bibliografia/referência bibliográfica?                                    |     -     |      -      |
-|  3  |         Os artefatos possuem um histórico de versões com descrição, versões, data de criação e revisão, autores e revisores?         |     -     |      -      |
+|  3  |         Os artefatos possuem um histórico de versões com descrição, versões, data de criação, autores e revisores?         |     -     |      -      |
 |  4  |         Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?         |     -     |      -      |
 |  5  | Em cada artefato, todos os textos estão na norma padrão? Estão seguindo um padrão (centralizados, justificado, alinhado a esquerda)? |     -     |      -      |
 
@@ -47,8 +47,8 @@ A tabela 2 a seguir apresenta a checklist referente a padronização que os arte
 
 ### Perfil do usuário
 
-A tabela 3 a seguir apresenta a checklist referente ao artefato Cénarios <a id=anchor_2 href="#REF2"><sup>2</sup></a>:
-<center>Tabela 3: Checklist Perfil do Usuário
+A tabela 3 a seguir apresenta a checklist referente ao artefato Perfil do Usuário <a id=anchor_2 href="#REF2"><sup>2</sup></a>:
+<center>**Tabela 3** - Checklist Perfil do Usuário
 
 | ID  |                                            Descrição                                            | Avaliação | Observações |
 | :-: | :---------------------------------------------------------------------------------------------: | :-------: | :---------: |
@@ -60,7 +60,7 @@ A tabela 3 a seguir apresenta a checklist referente ao artefato Cénarios <a id=
 | 11  |                         São priorizadas as características dos perfis?                          |     -     |      -      |
 | 12  |                          É identificado características de interesse?                           |     -     |      -      |
 | 13  |                                 É identificado a faixa etária?                                  |     -     |      -      |
-| 14  |                        É indetificado grau de facilidade com tecnologia?                        |     -     |      -      |
+| 14  |                        É identificado grau de facilidade com tecnologia?                        |     -     |      -      |
 | 15  |                             É identificado o nível de escolaridade?                             |     -     |      -      |
 | 16  |                                     É identificado o sexo?                                      |     -     |      -      |
 | 17  |                                É identificado a ocupação atual?                                 |     -     |      -      |
@@ -71,7 +71,7 @@ A tabela 3 a seguir apresenta a checklist referente ao artefato Cénarios <a id=
 
 A tabela 4 a seguir apresenta a checklist referente ao artefato Cénarios <a id=anchor_3 href="#REF3"><sup>3</sup></a>:
 
-<center>Tabela 4: Checklist Persona
+<center>**Tabela 4** - Checklist Persona
 
 | ID  |                                           Descrição                                           | Avaliação | Observações |
 | :-: | :-------------------------------------------------------------------------------------------: | :-------: | :---------: |
@@ -94,7 +94,7 @@ A tabela 4 a seguir apresenta a checklist referente ao artefato Cénarios <a id=
 A tabela 5 a seguir apresenta a checklist referente ao artefato Cénarios <a id=anchor_4 href="#REF4"><sup>4</sup></a>:
 
 
-<center>Tabela 5: Checklist Cénarios
+<center>**Tabela 5** - Checklist Cénarios
 
 | ID  |                               Descrição                                | Avaliação | Observações |
 | :-: | :--------------------------------------------------------------------: | :-------: | :---------: |
@@ -111,7 +111,7 @@ A tabela 5 a seguir apresenta a checklist referente ao artefato Cénarios <a id=
 A tabela 6 a seguir apresenta a checklist referente ao artefato Aspectos Éticos de Pesquisas Envolvendo Pessoas <a id=anchor_5 href="#REF5"><sup>5</sup></a>:
 '
 
-<center>Tabela 6: Checklist Aspectos Éticos
+<center>**Tabela 6** - Checklist Aspectos Éticos
 
 | ID  |                                              Descrição                                               | Avaliação | Observações |
 | :-: | :--------------------------------------------------------------------------------------------------: | :-------: | :---------: |
@@ -129,7 +129,7 @@ O grupo utilizou 2 técnicas para especificar as tarefas portanto decidimos sepa
 A tabela 7 a seguir apresenta a checklist referente ao artefato Análise Hierárquica de Tarefas (HTA) <a id=anchor_6 href="#REF6"><sup>6</sup></a>:
 
 
-<center>Tabela 7: Checklist Análise de Tarefas HTA(Análise hierárquica de tarefas)
+<center>**Tabela 7** - Checklist Análise de Tarefas HTA(Análise hierárquica de tarefas)
 
 | ID  |                                Descrição                                | Avaliação | Observações |
 | :-: | :---------------------------------------------------------------------: | :-------: | :---------: |
@@ -149,7 +149,7 @@ A tabela 7 a seguir apresenta a checklist referente ao artefato Análise Hierár
 
 A tabela 8 a seguir apresenta a checklist referente ao artefato Análise de Tarefas GOMS <a id=anchor_7 href="#REF7"><sup>7</sup></a>:
 
-<center>Tabela 8: Checklist Análise de Tarefas GOMS (Goals, Operators, Methods and Selection Rules) 
+<center>**Tabela 8** - Checklist Análise de Tarefas GOMS (Goals, Operators, Methods and Selection Rules) 
 
 | ID  |                         Descrição                          | Avaliação | Observações |
 | :-: | :--------------------------------------------------------: | :-------: | :---------: |
