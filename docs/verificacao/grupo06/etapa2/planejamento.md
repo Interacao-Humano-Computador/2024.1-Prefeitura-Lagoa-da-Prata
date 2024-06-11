@@ -136,12 +136,13 @@ A tabela 7 a seguir apresenta a checklist referente ao artefato Análise Hierár
 | 39  |             É apresentado os objetivos a serem alcançados?              |     -     |      -      |
 | 40  | As descrições das tarefas são claras, evitando confusão ou ambíguidade? |     -     |      -      |
 | 41  |            As tarefas apresentadas condizem com a realidade?            |     -     |      -      |
-| 42  |                     Existem objetivos e operações?                      |     -     |      -      |
+| 42  |                       É apresentado as operações?                       |     -     |      -      |
 | 43  |       As relações dos objetivos estão corretamente específicadas?       |     -     |      -      |
 | 44  |                  As tarefas são apresentdas em tabela?                  |     -     |      -      |
 | 45  |    As tabelas apresentam as entradas, ações, feedbacks e os planos?     |     -     |      -      |
 | 46  |           As tabelas apresentam os problemas e recomendações?           |     -     |      -      |
 | 47  |           É feita uma análise para cada integrante do grupo?            |     -     |      -      |
+| 48  |            É apresentado uma legenda explicando o diagrama?             |     -     |      -      |
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
 
@@ -153,13 +154,13 @@ A tabela 8 a seguir apresenta a checklist referente ao artefato Análise de Tare
 
 | ID  |                         Descrição                          | Avaliação | Observações |
 | :-: | :--------------------------------------------------------: | :-------: | :---------: |
-| 48  | A análise é feita a partir das tarefas encontradas no HTA? |     -     |      -      |
-| 49  |                       Possue GOALS?                        |     -     |      -      |
-| 50  |                     Possue OPERATORS?                      |     -     |      -      |
-| 51  |                      Possue METHODS?                       |     -     |      -      |
-| 52  |                  Possue SELECTION RULES?                   |     -     |      -      |
-| 53  |      A representação de GOMS é feita em pseudocódigo?      |     -     |      -      |
-| 54  |     É feita uma análise para cada integrante do grupo?     |     -     |      -      |
+| 49  | A análise é feita a partir das tarefas encontradas no HTA? |     -     |      -      |
+| 50  |                       Possue GOALS?                        |     -     |      -      |
+| 51  |                     Possue OPERATORS?                      |     -     |      -      |
+| 52  |                      Possue METHODS?                       |     -     |      -      |
+| 53  |                  Possue SELECTION RULES?                   |     -     |      -      |
+| 54  |      A representação de GOMS é feita em pseudocódigo?      |     -     |      -      |
+| 55  |     É feita uma análise para cada integrante do grupo?     |     -     |      -      |
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
 

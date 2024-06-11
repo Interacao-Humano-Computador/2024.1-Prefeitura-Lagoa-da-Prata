@@ -46,12 +46,13 @@ A tabela 2 a seguir apresenta os dados obtidos na verificação de todos os arte
 A figura 01 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
 <center>
 **Figura 01** - Gráfico dos resultados de Padronização
-<iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwiIiXHZoHJ6r-yLq6_AGbd--3aPjyVmprUKx_01pzPxb5VP2YXkbGpc9lNj3SjTNLvObGd5p37Iy_/pubchart?oid=860830760&amp;format=image"></iframe>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/padronizacao.png" >
+
 *Fonte: DOURADO, Pedro Lucas. 2024.*
 </center>
 
 ## **Perfil do Usuário**
-A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Perfil do Usuário <a id=anchor_2 href="#REF2"><sup>2</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
+A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Perfil do Usuário <a id=anchor_2 href="#REF2"><sup>2</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
 
 <center>
 **Tabela 3** - Verificação Perfil do Usuário
@@ -79,7 +80,8 @@ A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Pe
 A figura 02 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
 <center>
 **Figura 02** - Gráfico dos resultados do Perfil de Usuário
-<iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwiIiXHZoHJ6r-yLq6_AGbd--3aPjyVmprUKx_01pzPxb5VP2YXkbGpc9lNj3SjTNLvObGd5p37Iy_/pubchart?oid=602220828&amp;format=image"></iframe>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/perfil.png" >
+
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
@@ -137,7 +139,7 @@ Com base nos problemas encontrados e na análise dos dados encontrados, fica sug
 
 
 ## **Personas**
-A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do artefato Personas <a id=anchor_3 href="#REF3"><sup>3</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
+A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do artefato Personas <a id=anchor_3 href="#REF3"><sup>3</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 4** - Verificação Persona
 
@@ -164,7 +166,7 @@ A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do ar
 A figura 03 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
 <center>
 **Figura 03** - Gráfico dos resultados da Persona
-<iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwiIiXHZoHJ6r-yLq6_AGbd--3aPjyVmprUKx_01pzPxb5VP2YXkbGpc9lNj3SjTNLvObGd5p37Iy_/pubchart?oid=134369053&amp;format=image"></iframe>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/persona.png" >
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
@@ -203,7 +205,7 @@ A figura 03 abaixo permite uma visualização melhor quanto as respostas da aval
 
 ## **Cénarios**
 
-A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do artefato Cénarios <a id=anchor_4 href="#REF4"><sup>4</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
+A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do artefato Cénarios <a id=anchor_4 href="#REF4"><sup>4</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 5** - Verificação Cénarios
 
@@ -225,7 +227,7 @@ A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do ar
 A figura 04 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
 <center>
 **Figura 04** - Gráfico dos resultados da Cénarios
-<iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwiIiXHZoHJ6r-yLq6_AGbd--3aPjyVmprUKx_01pzPxb5VP2YXkbGpc9lNj3SjTNLvObGd5p37Iy_/pubchart?oid=2128916519&amp;format=interactive"></iframe>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/cenarios.png" >
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
@@ -261,7 +263,7 @@ A figura 04 abaixo permite uma visualização melhor quanto as respostas da aval
 
 ## **Aspectos Éticos de Pesquisas Envolvendo Pessoas**
 
-A tabela 6 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_5 href="#REF5"><sup>5</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
+A tabela 6 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_5 href="#REF5"><sup>5</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 6** - Verificação Aspectos Éticos
 
@@ -281,7 +283,7 @@ A tabela 6 abaixo apresenta os dados obtidos na verificação da checklist do ar
 A figura 05 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
 <center>
 **Figura 05** - Gráfico dos resultados dos Aspectos Éticos
-<iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwiIiXHZoHJ6r-yLq6_AGbd--3aPjyVmprUKx_01pzPxb5VP2YXkbGpc9lNj3SjTNLvObGd5p37Iy_/pubchart?oid=2128916519&amp;format=interactive"></iframe>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/aspectos_eticos.png" >
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
@@ -293,12 +295,67 @@ A figura 05 abaixo permite uma visualização melhor quanto as respostas da aval
 ### Sugestões de Correção
 - Como não há gravações não foi preciso solicitar permissão pra gravar a voz e a imagem da pessoa. Entretanto caso futuramente seja adicionado, o grupo deve solicitar permissão para gravar.
 
-
 ## **Análise de tarefas HTA** 
+A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_5 href="#REF5"><sup>5</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
+<center>
+**Tabela 7** - Análise de tarefas HTA
+
+| ID  |                                Descrição                                | Avaliação  |                                           Observações                                           |
+| :-: | :---------------------------------------------------------------------: | :--------: | :---------------------------------------------------------------------------------------------: |
+| 39  |             É apresentado os objetivos a serem alcançados?              |    SIM     |                      Em alguns HTA tem operações definidas como objetivos                       |
+| 40  | As descrições das tarefas são claras, evitando confusão ou ambíguidade? |    SIM     |                                                -                                                |
+| 41  |            As tarefas apresentadas condizem com a realidade?            |    SIM     |                                                -                                                |
+| 42  |                       É apresentado as operações?                       | INCOMPLETO |                                    Alguns HTA não apresentam                                    |
+| 43  |       As relações dos objetivos estão corretamente específicadas?       | INCOMPLETO |                                                -                                                |
+| 44  |                  As tarefas são apresentdas em tabela?                  |    SIM     |                                                -                                                |
+| 45  |    As tabelas apresentam as entradas, ações, feedbacks e os planos?     |    SIM     | A tarefa "Procurar empresa cadastrada para realizar renovação de CNH" apresenta no lugar errado |
+| 46  |           As tabelas apresentam os problemas e recomendações?           |    NÃO     |                                                -                                                |
+| 47  |           É feita uma análise para cada integrante do grupo?            |    NÃO     |                                                -                                                |
+| 48  |            É apresentado uma legenda explicando o diagrama?             |    SIM     |                                                -                                                |
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
+
+### Acompanhamento
+
+A figura 06 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
+<center>
+**Figura 06** - Gráfico dos resultados da Análise de tarefas HTA
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/hta.png" >
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
 
 
-#### Problemas Encontrados e Análise dos Dados
+### Problemas Encontrados e Análise dos Dados
 
+#### ID 2 -	Os artefatos possuem uma bibliografia/referência bibliográfica?
+- Não apresentado.
+
+#### ID 4 - Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?
+- As figuras não apresentam títulos
+- As figuras apresentam fontes erroneamente apresentadas
+
+#### ID 42 - É apresentado os objetivos a serem alcançados?
+- No diagrama "Emissão de Nada Consta da CNH" não consta as operações.
+- No diagrama "Emitir CRLV" há operações mostradas como objetivos
+
+#### ID 43 - As relações dos objetivos estão corretamente específicadas?
+- No diagrama "Emitir CRLV" há objetivos 6 e 4 mas não há 3 e 5.
+
+#### ID 46 - As tabelas apresentam os problemas e recomendações?
+- Não apresentado.
+
+#### ID 47 - É feita uma análise para cada integrante do grupo?
+- Não apresentado.
+
+### Sugestões de correções
+- Acrescentar títulos e corrigir as fontes nas imagens
+- Acrescentar bibliografia/referência bibliográfica
+- Acrecentar as operações no diagrama "Emissão de Nada Consta da CNH"
+- Corrigir as operações mostradas como objetivos e os números dos objetivos no diagrama "Emitir CRLV"
+- Apresentar as tabelas com problemas e recomendações
+- Fazer a quantidade de análises que faltam
 
 
 ## **Análise de tarefas GOMS**
@@ -325,3 +382,4 @@ A figura 05 abaixo permite uma visualização melhor quanto as respostas da aval
 | 10/06/2024 | `1.1`  | Verificação Padronização e Perfil do Usuário | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
 | 10/06/2024 | `1.2`  |             Verificação Persona              | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
 | 10/06/2024 | `1.3`  |             Verificação Cénarios             | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 11/06/2024 | `1,4`  |               Verificação HTA                | [Pedro Lucas](https://github.com/lucasdray)                                            |                 |             |
