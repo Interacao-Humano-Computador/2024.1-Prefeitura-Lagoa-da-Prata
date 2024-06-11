@@ -36,7 +36,7 @@ A tabela 2 a seguir apresenta os dados obtidos na verificação de todos os arte
 |  1  |                                                   Os artefatos possuem introdução?                                                   | INCOMPLETO |                                                                 **Cénarios** possui um texto géneriico que não condiz com uma introdução. <br> **Aspectos Éticos** falta o subtítulo de Introdução                                                                  |
 |  2  |                                   Os artefatos possuem uma bibliografia/referência bibliográfica?                                    | INCOMPLETO | **Cénarios** não posui. <br> **Análise de Tarefas HTA** não possui. <br> **GOMS** não possui. <br> **Padronização:** em algumas páginas as referências estão enumeradas (e mesmo assim não segue uma padronização de estilo) em outras está com bolinhas (persona). |
 |  3  |              Os artefatos possuem um histórico de versões com descrição, versões, data de criação, autores e revisores?              | INCOMPLETO |                                                                                                                  **Cénarios** não possui revisor.                                                                                                                   |
-|  4  |         Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?         |    NÃO     |     **Perfil do Usuário** Faltando fontes e títulos em figuras <br> **Persona** Fonte não está em ABNT. <br> **Aspectos Éticos** Falta título <br> **HTA** falta fonte e título em tabelas, título em figuras. <br> **GOMS** Falta título e fontes nas tabelas.     |
+|  4  |         Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?         |    NÃO     |     **Perfil do Usuário** Faltando fontes e títulos em figuras <br> **Persona** Fonte não está em ABNT. <br> **Aspectos Éticos** Falta título nas figuras e fontes mal atribuída <br> **HTA** falta fonte e título em tabelas, título em figuras. <br> **GOMS** Falta título e fontes nas tabelas.     |
 |  5  | Em cada artefato, todos os textos estão na norma padrão? Estão seguindo um padrão (centralizados, justificado, alinhado a esquerda)? |     SIM     |                                                                                                                                  -                                                                                                                                  |
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
@@ -261,19 +261,45 @@ A figura 04 abaixo permite uma visualização melhor quanto as respostas da aval
 
 ## **Aspectos Éticos de Pesquisas Envolvendo Pessoas**
 
+A tabela 6 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_5 href="#REF5"><sup>5</sup></a>, sendo esse checklist pensando e montado na etada de [planejamento](planejamento.md) da verificação:
+<center>
+**Tabela 6** - Verificação Aspectos Éticos
+
+| ID  |                                              Descrição                                               | Avaliação |                Observações                |
+| :-: | :--------------------------------------------------------------------------------------------------: | :-------: | :---------------------------------------: |
+| 35  |                              É garantido o anonimato dos participantes?                              |    SIM    |                     -                     |
+| 36  |             No documento é explicado os objetivos da pesquisa e como ela será realizada?             |    SIM    |                     -                     |
+| 37  | O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade? |    SIM    |                     -                     |
+| 38  |      É solicitado permissão pra gravar a voz e a imagem da pessoa antes de começar a gravação?       |    NÃO    | Não há gravações portanto sem necessidade |
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
 
 
+### Acompanhamento
 
+A figura 05 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
+<center>
+**Figura 05** - Gráfico dos resultados dos Aspectos Éticos
+<iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwiIiXHZoHJ6r-yLq6_AGbd--3aPjyVmprUKx_01pzPxb5VP2YXkbGpc9lNj3SjTNLvObGd5p37Iy_/pubchart?oid=2128916519&amp;format=interactive"></iframe>
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
 
+### Problemas Encontrados e Análise dos Dados
 
+#### ID 38 - É solicitado permissão pra gravar a voz e a imagem da pessoa antes de começar a gravação?
+- Não há gravações.
 
-
-
-
-
+### Sugestões de Correção
+- Como não há gravações não foi preciso solicitar permissão pra gravar a voz e a imagem da pessoa. Entretanto caso futuramente seja adicionado, o grupo deve solicitar permissão para gravar.
 
 
 ## **Análise de tarefas HTA** 
+
+
+#### Problemas Encontrados e Análise dos Dados
+
+
 
 ## **Análise de tarefas GOMS**
 
