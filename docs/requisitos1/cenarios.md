@@ -157,4 +157,4 @@ Tabela 7: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
 | 22/05/2024 | `1.7`  |            Adição de Cenário             | [Joyce Dionizio](https://github.com/joycejdm) |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc) |
 | 22/05/2024 | `1.7`  |            Adição de Cenário             | [Augusto Duarte](https://github.com/Augcamp)  |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc) |
 | 22/05/2024 | `1.7`  |          Atualização de Cenário          | [Lucas Meireles](https://github.com/Katuner)  |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc) |
-| 06/06/2024 | `2.0`  |          Atualização Cenário 3           |  [Pedro Lucas](https://github.com/lucasdray)  |                 |                                              |
+| 06/06/2024 | `2.0`  |          Atualização Cenário 3           |  [Pedro Lucas](https://github.com/lucasdray)  |   11/06/2024    | [Augusto Duarte](https://github.com/Augcamp) |
