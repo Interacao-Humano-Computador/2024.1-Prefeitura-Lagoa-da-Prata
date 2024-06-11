@@ -82,7 +82,7 @@ _Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm), 2024._
 
 A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o documento de planejamento segundo Barbosa e Silva (2011, p.358-362).<a id=anchor_1 href="#REF1"><sup>1</sup></a>
 
-<center>
+<center>como correspondência com as expectativas dos usuários, simplicidade nas estruturas, equilíbrio entre controle e liberdade, consistência e padronização, e promoção da eficiência do usuário? 
 
 **Tabela 4** - Checklist para a Verificação das Metas de Usabilidade.
 
@@ -106,11 +106,16 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 | ID  | Descrição     | Avaliação |
 | :---: | --------------------------------------------------------------------------------------------------------------- | :---------: |
-| 14  | Os princípios incluem os tópicos listados, como correspondência com as expectativas dos usuários, simplicidade nas estruturas, equilíbrio entre controle e liberdade, consistência e padronização, e promoção da eficiência do usuário?                     | -        |
-|15  | Os princípios que serão usados no futuro estão definidos?                                       | -        |
-| 16  | Há chamadas e links para outros textos dentro do artefato?               | -        |
-| 17  | As imagens possuem legendas?                        | -        |
-| 18  |O artefato contém referências internas ao longo do texto?              | -        |
+| 14  | Os princípios incluem os tópicos listados?                     | -        |
+| 15  | Os princípios incluem correspondência com as expectativas dos usuários?                     | -        |
+| 16  | Os princípios incluem simplicidade nas estruturas?                     | -        |
+| 17  | Os princípios incluem equilíbrio entre controle e liberdade?                     | -        |
+| 18  | Os princípios incluem consistência e padronização?                     | -        |
+| 19  | Os princípios incluem promoção da eficiência do usuário?                     | -        |
+|20  | Os princípios que serão usados no futuro estão definidos?                                       | -        |
+| 21  | Há chamadas e links para outros textos dentro do artefato?               | -        |
+| 22  | As imagens possuem legendas?                        | -        |
+| 23  |O artefato contém referências internas ao longo do texto?              | -        |
                                         
 
 _Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm), 2024._
@@ -127,9 +132,11 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para a ve
 
 | ID  | Descrição     | Avaliação |
 | :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | 
-| 19  | O documento descreve as características do site escolhido?                                    | -        |
-| 20  | As tecnologias pelas quais o site escolhido pode ser acessado estão mencionadas?                    | -        |
-| 21  | Os limites e entraves estão detalhados?                                                        | -        |
+| 24  | O documento descreve as características do site escolhido?                                    | -        |
+| 25  | As tecnologias pelas quais o site escolhido pode ser acessado estão mencionadas?                    | -        |
+| 26  | Os limites e entraves estão detalhados?                                                        | -        |
+| 27  | As funcionalidades da plataforma são identificadas?                                                        | -        |
+| 28  | Os dispositivos ou navegadores que podem ser utilizados são identificados?                                                        | -        |
 
 
 _Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm), 2024._
@@ -145,3 +152,4 @@ _Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm), 2024._
 | Versão | Data       | Descrição                                          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | -------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | `1.0`  | 10/06/2024 | Criação do documento.                                 | [Joyce Dionizio](https://github.com/joycejdm) |  |
+| `1.2`  | 10/06/2024 | Atualização checklists.                                 | [Joyce Dionizio](https://github.com/joycejdm) |  |
