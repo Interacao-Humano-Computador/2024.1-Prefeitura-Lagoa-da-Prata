@@ -92,6 +92,7 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o do
 | 12  | O documento define as metas a serem seguidas pelo grupo?                     | -           |
 | 13  | Há links e chamadas dentro dos textos do artefato?                | -           |
 
+
 _Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm), 2024._
 
 </center>
@@ -146,6 +147,14 @@ _Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm), 2024._
 ## Referências Bibliográficas
 
 > </a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> </a> ALMEIDA, Vitor. Guias de Estilo. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://github.com/Interacao-Humano-Computador/2024.1-DETRANDF/blob/main/docs/analise-requisitos/guia-estilo.md>. Acesso em: 10 junho 2024.
+
+> </a> COIMBRA, Daniel. Metas de Usabilidade. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://github.com/Interacao-Humano-Computador/2024.1-DETRANDF/blob/main/docs/analise-requisitos/metas-usabilidade>. Acesso em: 10 junho 2024.
+
+> </a> CARVALHO, Felipe. Caracteristicas Gerais. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://github.com/Interacao-Humano-Computador/2024.1-DETRANDF/blob/main/docs/analise-requisitos/caracteristicas-plataforma.md>. Acesso em: 10 junho 2024.
+
+> </a> MIGUEL, Pedro. Principios Gerais. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://github.com/Interacao-Humano-Computador/2024.1-DETRANDF/blob/main/docs/analise-requisitos/pgerais.md>. Acesso em: 10 junho 2024.
 
 ## Histórico de Versões
 
