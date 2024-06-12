@@ -35,7 +35,7 @@ A tabela 2 a seguir apresenta os dados obtidos na verificação de todos os arte
 
 | ID  |                                                              Descrição                                                               | Avaliação  |                                                                                                                             Observações                                                                                                                             |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |                                                   Os artefatos possuem introdução?                                                   | INCOMPLETO |                                                                 **Cénarios** possui um texto génerico que não condiz com uma introdução. <br> **Aspectos Éticos** falta o subtítulo de Introdução                                                                  |
+|  1  |                                                   Os artefatos possuem introdução?                                                   | INCOMPLETO |                                                                 **Cénarios** possui um texto genérico que não condiz com uma introdução. <br> **Aspectos Éticos** falta o subtítulo de Introdução                                                                  |
 |  2  |                                   Os artefatos possuem uma bibliografia/referência bibliográfica?                                    | INCOMPLETO | **Cénarios** não posui. <br> **Análise de Tarefas HTA** não possui. <br> **GOMS** não possui. <br> **Padronização:** em algumas páginas as referências estão enumeradas (e mesmo assim não segue uma padronização de estilo) em outras está com bolinhas (persona). |
 |  3  |              Os artefatos possuem um histórico de versões com descrição, versões, data de criação, autores e revisores?              | INCOMPLETO |                                                                                                                  **Cénarios** não possui revisor.                                                                                                                   |
 |  4  |         Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?         |    NÃO     |     **Perfil do Usuário** Faltando fontes e títulos em figuras <br> **Persona** Fonte não está em ABNT. <br> **Aspectos Éticos** Falta título nas figuras e fontes mal atribuída <br> **HTA** falta fonte e título em tabelas, título em figuras. <br> **GOMS** Falta título e fontes nas tabelas.     |
@@ -314,8 +314,20 @@ Abaixo estão melhor exemplificados os problemas encontrados e as justificativas
 - Falta título e chamada no texto da figura encontrada no documento referente ao termo de consetimento para pesquisa
 - Fonte da figura não segue norma ABNT.
 
+#### ID 01 - Os artefatos possuem introdução?
+- Há uma introdução porém não tem o subtítulo de introdução
+#### ID 04 - Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?
+- Falta título e chamada no texto da figura encontrada no documento referente ao termo de consetimento para pesquisa
+- Fonte da figura não segue norma ABNT.
+
 #### ID 38 - É solicitado permissão pra gravar a voz e a imagem da pessoa antes de começar a gravação?
 - Não há gravações.
+
+### Sugestões de Correção
+- Como não há gravações não foi preciso solicitar permissão pra gravar a voz e a imagem da pessoa. Entretanto caso futuramente seja adicionado, o grupo deve solicitar permissão para gravar.
+- Acrescetar subtítulo de introdução no começo do artefato.
+- Acrescentar título da figura e chamada anterior no texto.
+- Corrigir a fonte para seguir a norma ABNT.
 
 ### Sugestões de Correção
 - Como não há gravações não foi preciso solicitar permissão pra gravar a voz e a imagem da pessoa. Entretanto caso futuramente seja adicionado, o grupo deve solicitar permissão para gravar.
