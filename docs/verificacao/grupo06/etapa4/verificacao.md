@@ -100,8 +100,6 @@ A tabela 5 a seguir apresenta a checklist referente ao checklist do planejamento
 | 4   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |           |              |
 | 5   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |           |              |
 | 6   | As sugestões de melhoria para cada tarefa estão detalhadas?                                           |           |              |
-| 7   | Todas as referências bibliográficas são listadas de forma correta?                                        |           |              |
-| 8  | O histórico de versões do documento está presente e atualizado?                                           |           |              |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
@@ -119,8 +117,6 @@ A tabela 6 a seguir apresenta a checklist referente ao checklist do planejamento
 | 4   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |           |              |
 | 5   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |           |              |
 | 6   | As sugestões de melhoria para cada storyboard estão detalhadas?                                           |           |              |
-| 7   | Todas as referências bibliográficas são listadas de forma correta?                                        |           |              |
-| 8  | O histórico de versões do documento está presente e atualizado?                                           |           |              |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
