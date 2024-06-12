@@ -314,12 +314,6 @@ Abaixo estão melhor exemplificados os problemas encontrados e as justificativas
 - Falta título e chamada no texto da figura encontrada no documento referente ao termo de consetimento para pesquisa
 - Fonte da figura não segue norma ABNT.
 
-#### ID 01 - Os artefatos possuem introdução?
-- Há uma introdução porém não tem o subtítulo de introdução
-#### ID 04 - Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?
-- Falta título e chamada no texto da figura encontrada no documento referente ao termo de consetimento para pesquisa
-- Fonte da figura não segue norma ABNT.
-
 #### ID 38 - É solicitado permissão pra gravar a voz e a imagem da pessoa antes de começar a gravação?
 - Não há gravações.
 
