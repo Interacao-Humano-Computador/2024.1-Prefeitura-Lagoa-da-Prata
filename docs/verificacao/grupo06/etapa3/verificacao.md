@@ -163,7 +163,7 @@ A tabela 6 a seguir apresenta os dados obtidos na verificação de todos os arte
 O vídeo a seguir apresenta o avaliador [Augusto Duarte](https://github.com/Augcamp) fazendo a inspeção do artefato "Guia de Estilo" do projeto do [grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/):
 
 <center>
-**Vídeo** - Inpesção Cénarios e Aspectos Éticos.
+**Vídeo** - Inpesção Guia de Estilo
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=tGPOc9tzXjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 </center>
