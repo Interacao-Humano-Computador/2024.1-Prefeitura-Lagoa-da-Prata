@@ -2,7 +2,7 @@
 
 O objetivo deste documento é apresentar o planejamento para a verificação dos artefatos "Relato do Resultado - Análise de Tarefas", "Relato do Resultado - Storyboard", "Planejamento da Avaliação do Protótipo de Papel" e "Planejamento do Relato dos Resultados - Protótipo de Papel" produzidos na etapa 5 pelo [grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
 
-Os resultados da verificação de cada artefato serão reunidos e disponibilizados na página de [verificação da etapa](/verificacao/grupo06/etapa5/verificacao/).
+Os resultados da verificação de cada artefato serão reunidos e disponibilizados na página de [verificação da etapa](verificacao.md).
 
 ## Participantes
 
