@@ -79,6 +79,34 @@ A figura 02 abaixo permite uma visualização melhor quanto as respostas da aval
 - Resultado da análise apresentada está bastante genérica e superficial e também está faltando elementos de interação e de ação.
 
 
+## Metas de Usabilidade
+<center>
+**Tabela 4** - Verificação Metas de Usabilidade
+
+| ID  |                                            Descrição                                            | Avaliação  |                                                                                    Observações                                                                                     |
+| :-: | :---------------------------------------------------------------------------------------------: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  11 |                  As metas estão relacionadas ao perfil dos usuários?                            |    SIM     |                                                                                         -                                                                                          |
+|  12 |                  O documento define as metas a serem seguidas pelo grupo?                       |    SIM     |                                                                                         -                                                                                          |
+|  13 |                  Há links e chamadas dentro dos textos do artefato?                             |    NÃO     |                                                                           O artefato não apresenta figuras                                                                         |
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*</center>
+
+
+### Acompanhamento 
+
+A figura 03 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
+<center>
+**Figura 03** - Gráfico dos resultados das Metas de Usabilidade
+<iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_oMd0X-P5OCwy4RmPr6hT1TyZD4IbSfxbYN0hL-yXjV9ABGfnok7s07r2dCMCiAb8-ivjq-DV4ml/pubchart?oid=522684073&format=image"></iframe>
+*Fonte: DUARTE, Augusto. 2024.*
+</center>
+
+### Problemas Encontrados e Análise dos Dados
+
+#### ID 13 - Há links e chamadas dentro dos textos do artefato?
+- O artefato não apresenta figuras, a inclusão de imagens é essencial para melhorar a compreensão do leitor, como por exemplo imagens da interface.
+
+
 ## Princípios Gerais
 A tabela 5 a seguir apresenta os dados obtidos na verificação de todos os artefatos das Princípios Gerais:
 
@@ -138,4 +166,5 @@ A tabela 6 a seguir apresenta os dados obtidos na verificação de todos os arte
 | 11/06/2024 | `1.1`  |          Verificação Principios Gerais       | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
 | 11/06/2024 | `1.2`  |          Verificação Caracteristicas Gerais  | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
 | 12/06/2024 | `1.3`  |          Gravação da Verificação             | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
-| 11/06/2024 | `1.4`  |          Verificação Guia de Estilo          | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
+| 12/06/2024 | `1.4`  |          Verificação Guia de Estilo          | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
+| 12/06/2024 | `1.5`  |          Verificação Metas de Usabilidade    | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
