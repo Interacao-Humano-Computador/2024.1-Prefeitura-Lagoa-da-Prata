@@ -91,8 +91,6 @@ A tabela 4 a seguir apresenta a checklist referente ao artefato Relato do Result
 | 27  | Foram apresentados os feedbacks do usuário a respeito do storyboard?                          |     -     |      -      |
 | 28  | São apresentados comentários e/ou mudanças previstas para o storyboard após a apresentação?  |     -     |      -      |
 
-
-
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*</center>
 
 ### Planejamento da Avaliação do Protótipo de Papel
