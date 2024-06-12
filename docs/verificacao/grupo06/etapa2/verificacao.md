@@ -323,12 +323,6 @@ Abaixo estão melhor exemplificados os problemas encontrados e as justificativas
 - Acrescentar título da figura e chamada anterior no texto.
 - Corrigir a fonte para seguir a norma ABNT.
 
-### Sugestões de Correção
-- Como não há gravações não foi preciso solicitar permissão pra gravar a voz e a imagem da pessoa. Entretanto caso futuramente seja adicionado, o grupo deve solicitar permissão para gravar.
-- Acrescetar subtítulo de introdução no começo do artefato.
-- Acrescentar título da figura e chamada anterior no texto.
-- Corrigir a fonte para seguir a norma ABNT.
-
 ## **Análise de tarefas HTA** 
 A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_6 href="#REF6"><sup>6</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
 <center>
