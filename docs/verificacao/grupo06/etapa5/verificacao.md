@@ -249,9 +249,19 @@ A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do Pl
 | 39  |  Está previsto um roteiro de perguntas para o entrevistado? |   NÃO   |   -   |
 | 40  |  Há previsão de realização de teste piloto? |   INCOMPLETO   |   Há menção mas não especificação   |
 
-
-
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*</center>
+
+## Inspeção
+O vídeo 1 a seguir apresenta o avaliador [Lucas Meireles](https://github.com/Katuner) realizando e comentando a respeito da inspeção do artefato "Planejamento da Avaliação do Protótipo de Papel" do projeto do [grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/):
+
+<center>
+**Vídeo 1** - Inpesção Planejamento da Avaliação do Protótipo de Papel.
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/3qsmo6FYjsk" title="Verificação - Etapa 5 - Grupo 6 - Planejamento do Protótipo de Papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
+</center>
+
+O vídeo tambem pode ser acessado clicando [aqui](https://youtu.be/3qsmo6FYjsk)
 
 ### Acompanhamento 
 
