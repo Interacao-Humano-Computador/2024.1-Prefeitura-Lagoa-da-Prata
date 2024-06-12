@@ -4,14 +4,10 @@
 
 A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/) na Etapa 3.
 
-## Objetivos
-
-O objetivo deste documento é verificar se os artefatos produzidos na Etapa 3 do [Grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/) possuem os itens e o padrão exigidos para tais.
-
 
 ### Participantes
+O responsável pela realização do planejamento da etapa 3 é o integrante do Grupo 5 [Joyce Dionizio](https://github.com/joycejdm), realizando também a verificação junto do integrante [Augusto](https://github.com/Augcamp).
 
-O responsável por essa verificação é o integrante do Grupo 5 [Joyce Dionizio](https://github.com/joycejdm), que realiza tanto o planejamento quanto a inspeção do artefato. 
 
 
 ## Objetos de verificação
@@ -157,7 +153,7 @@ _Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm), 2024._
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                          | Autor(es)                                        | Revisor(es)                                    |
-| ------ | ---------- | -------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 10/06/2024 | Criação do documento.                                 | [Joyce Dionizio](https://github.com/joycejdm) |  |
-| `1.2`  | 10/06/2024 | Atualização checklists.                                 | [Joyce Dionizio](https://github.com/joycejdm) |  |
+| Versão | Data       | Descrição               | Autor(es)                                     | Revisor(es)                                 |
+| ------ | ---------- | ----------------------- | --------------------------------------------- | ------------------------------------------- |
+| `1.0`  | 10/06/2024 | Criação do documento.   | [Joyce Dionizio](https://github.com/joycejdm) | [Pedro Lucas](https://github.com/lucasdray) |
+| `1.2`  | 10/06/2024 | Atualização checklists. | [Joyce Dionizio](https://github.com/joycejdm) | [Pedro Lucas](https://github.com/lucasdray) |

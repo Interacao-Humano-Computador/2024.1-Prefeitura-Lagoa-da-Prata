@@ -92,12 +92,19 @@ A tabela 5 a seguir apresenta a checklist referente ao checklist do planejamento
 
 | ID  |                                                     Descrição                                                      | Avaliação | Observações |
 | :-: | :----------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
-| 1   | O método de avaliação utilizado está claramente explicado?                                               |     -     |      -      |
-| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                          |     -     |      -      |
-| 3   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                           |     -     |      -      |
-| 4   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |     -     |      -      |
-| 5   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?   |     -     |      -      |
-| 6   | As sugestões de melhoria para cada tarefa estão detalhadas?                                           |     -     |      -      |
+| 1   | O método de avaliação utilizado está claramente explicado?                                                             |     -     |      -      |
+| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                                        |     -     |      -      |
+|   3   | O planejamento define objetivo e escopo de avaliação dos resultados?                                                  |    -     |      -       |
+|   4   | O planejamento define método de avaliação dos resultados?                                                             |    -     |       -      |
+|   5   | O planejamento apresenta os participantes selecionados?                                                               |    -     |       -      |
+|   6   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                 |    -     |       -      |
+|  7   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                   |    -     |        -     |
+|  8   | O planejamento apresenta instruções com relação às sugestões de melhorias?                                            |    -     |       -      |
+|  9   | O planejamento apresenta uma seção para o feedback dos usuários?                                                      |    -     |      -       |
+|  10   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                           |    -     |      -       |
+|  11   | O planejamento define tópico para sumarizar os principais resultados?                                                 |    -     |     -        |
+|  12   | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?                         |    -     |     -        |
+|  13   | O planejamento considera no resultado um planejamento para o reprojeto do sistema?                                    |    -    |       -      |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
@@ -109,12 +116,19 @@ A tabela 6 a seguir apresenta a checklist referente ao checklist do planejamento
 
 | ID  |                                                     Descrição                                                      | Avaliação | Observações |
 | :-: | :----------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
-| 1   | O método de avaliação utilizado está claramente explicado?                                               |     -     |      -      |
-| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                          |     -     |      -      |
-| 3   | Os storyboards revisados pelos participantes estão descritas de forma detalhada?                         |     -     |      -      |
-| 4   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |     -     |      -      |
-| 5   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?     |     -     |      -      |
-| 6   | As sugestões de melhoria para cada storyboard estão detalhadas?                                          |     -     |      -      |
+| 1   | O método de avaliação utilizado está claramente explicado?                                                             |     -     |      -      |
+| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                                        |     -     |      -      |
+|   3   | O planejamento define objetivo e escopo de avaliação dos resultados?                                                  |    -     |     -        |
+|   4   | O planejamento define método de avaliação dos resultados?                                                             |    -     |     -        |
+|   5   | O planejamento apresenta os participantes selecionados?                                                               |    -     |     -        |
+|   6   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                 |    -     |      -       |
+|  7   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                   |    -     |       -      |
+|  8   | O planejamento apresenta instruções com relação às sugestões de melhorias?                                            |    -     |      -       |
+|  9   | O planejamento apresenta uma seção para o feedback dos usuários?                                                      |    -     |      -       |
+|  10   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                           |    -     |     -        |
+|  11   | O planejamento define tópico para sumarizar os principais resultados?                                                 |    -     |      -       |
+|  12   | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?                         |    -     |     -        |
+|  13   | O planejamento considera no resultado um planejamento para o reprojeto do sistema?                                    |     -    |     -        |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
