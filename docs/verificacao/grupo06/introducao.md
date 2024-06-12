@@ -4,24 +4,31 @@ A etapa de verificação de um projeto é de suma importância para garantir que
 
 ## Objetivo
 
-O objetivo desse artefato é analisar todas os artefatos confeccionadas pelo [grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/), sendo dividos de acordo com as etapas de entrega da disciplina. Como solicitado pelo professor os artefatos de planejamento e construção do projeto serão desconsiderados para essa análise, portanto pularemos a etapa 1.
+O objetivo desse artefato é verificar e validar diversos artefatos confeccionadas pelo [grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/), sendo dividos de acordo com as etapas de entrega da disciplina de Interação Humano Computador. Os artefatos de planejamento e construção do projeto do grupo em questão serão desconsiderados para os objetivos desta análise, portanto a etapa 1 de entregas será desconsiderada.
 
 ## Metodologia
 
-A metodologia escolhida pelo grupo é a de inspeção sendo essa baseada na proposta de Fagan, utilizando uma tabela de checklist montada no planejamento de cada etapa usando como base as tabelas de avaliação de critérios do plano de ensino bem como os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador) e sua bibliografia.
+A metodologia escolhida pelo grupo é a de inspeção sendo essa baseada na proposta de Fagan[1], utilizando uma tabela de checklist montada no planejamento de cada etapa usando como base as tabelas de avaliação de critérios do Plano de Ensino[2] bem como os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador) e sua bibliografia principal (BARBOSA, 2011)[3]. O estabelecido neste documento é válido para todos os itens de verificação e validação do [grupo avaliado](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
 
 ## Planejamento
 
-No planejamento deverá conter duas tabelas de checklist uma quanto a padronização e outra quanto ao conteúdo de cada artefato da etapa a ser analisada.
+No planejamento de cada verificação de etapa, a serem divididos os responsáveis conforme a tabela abaixo, deverá ser exibido uma tabela de checklist geral, com dados referentes ao artefato como um todo e que poderá ser repetido para diversos artefatos, tratando de verificações como a existência de referencial bibliográfico, padronização de escrita, entre outros, e também irão possuir tabelas de checklist específicas para cada um dos artefatos presentes na etapa. A validação dos checklists devem ser feitos por todos os integrantes do grupo presentes até o momento final da avaliação. Para melhor clarificação do método de verificação, em cada etapa estará disponibilizado ao mínimo 1 vídeo de um integrante da equipe levantando os pontos de verificação e então apresentando, quando cabível, o motivo de negação ou incomplitude presente na validação do item da checklist.
 
 ## Relato dos resultados
 
-Após ser feita a verificação deverá ser realizado um relato contendo os checklists preenchidos para cada artefato e os resultados da verificação, sendo disponibilizado um gráfico que demonstra o resultado.
+Os resultados da atividade de verificação serão apresentados com a utilização da checklist completa de cada artefato, isto é, a união entre os aspectos gerais de artefato e as características singulares. As checklists apresentadas deverão conter a resposta de validação, esta variando entre "sim", "incompleto" e "não", além de apresentar uma coluna adicional para eventuais comentários e justificativas quando necessários. Para visualização facilitada do resultado de cada artefato, também será exibido um gráfico no estilo "pizza" contendo os percentuais de respostas da checklist de cada artefato.
+
+## Referenciais Bibliográficos
+
+> <a id="REF1" href="#anchor_1">1.</a> FAGAN, M. E. 1986 “Advances in software inspections”. In Pioneers and Their Contributions to Software Engineering. Springer. pp. 335-360.
+> <a id="REF2" href="#anchor_2">2.</a> SALES, André Barros de. Plano de Ensino. 2024. Acesso em : 11/06/2024. Disponível em :<https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/51/Plano_de_Ensino%20FIHC%20012024%20Turma%201%20v2.pdf>
+> <a id="REF3" href="#anchor_3">3.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 09/06/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |     11/06/2024               |  [Joyce Dionizio](https://github.com/joycejdm)            |
+| 09/06/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)  |
+| 12/06/2024 | `1.1`  | Atualização de escrita | [Lucas Meireles](https://github.com/Katuner) |              |             |
 
 
