@@ -2,12 +2,14 @@
 
 O objetivo deste documento é apresentar o planejamento para a verificação dos artefatos "Perfil do Usuário", "Aspectos Éticos de Pesquisas Envolvendo Pessoas" e "Análise de Tarefas" produzidos na etapa 2 pelo [grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
 
+Os resultados da verificação de cada artefato serão reunidos e disponibilizados na página de [verificação da etapa](/verificacao/grupo06/etapa2/verificacao/).
+
 ## Participantes
 
-O responsável por esse planejamento foi o integrante [Pedro Lucas](https://github.com/lucasdray) sendo ele responsável pelo planejamento e verificação (inspeção e relato dos resultados).
+O responsável por esse planejamento foi o integrante [Pedro Lucas](https://github.com/lucasdray) sendo ele responsável pelo planejamento da verificação e consequente relato dos resultados.
 
 ## Objetos de verificação
-A Tabela 1 foi produzida para uma melhor visualização dos objetos que serão verificados e suas respectivas características. Ela é composta pelo artefato que foi verificado, versão verificada, data de produção, autores do artefato e revisores do artefato.
+A Tabela 1 foi produzida para uma melhor visualização dos objetos que serão verificados e suas respectivas características. Ela é composta pelo artefato que foi verificado, a versão verificada, data de produção, autores do artefato e revisores do artefato conforme presentes no próprio artefato, no dia da análise aqui realizada.
 
 <center>
 
@@ -24,13 +26,11 @@ A Tabela 1 foi produzida para uma melhor visualização dos objetos que serão v
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
 
-Os resultados de cada artefato serão reunidos e disponibilizados na página de [verificação da etapa](/verificacao/grupo06/etapa2/verificacao/).
-
 ## Checklists
 
-Os checklists abaixo foram feitos levando em conta os padrões esperados e as principais atividades realizadas em cada artefato, tendo como referência bibliográfica o livro "Interação Humano-Computador" de Bruno Silva e Simone Barbosa e as anotações referentes à entrega da etapa 2 feitas pelo monitor da disciplina [Gabriel Campello](https://github.com/G16C).
+Os checklists que serão apresentados abaixo foram produzidos levando em conta os padrões esperados e as principais atividades realizadas em cada artefato, tendo como referência bibliográfica o livro "Interação Humano-Computador" de Bruno Silva e Simone Barbosa [1] e as anotações referentes à entrega da etapa 2 feitas pelo monitor da disciplina [Gabriel Campello](https://github.com/G16C).
 
-A checklist será dividida em 5 tabelas, sendo 4 referentes a cada artefato produzido e 1 referente à padronização, que será usada em todos os artefatos. As avaliações podem ser respondidas com "Sim", "Não" e "Incompleto", tendo um campo para preencher com as observações de cada pergunta.
+Abaixo estão dispostas 7 tabelas que contém o conteúdo das checklists que serão utilizdas para a atividade anteriormente descrita, sendo 6 dessas tabelas referentes a cada artefato produzido e suas singularidades e 1 referente à padronização dos artefatos em geral, que será usada na avaliação de todos os artefatos tratados pela Tabela 1. As avaliações podem ser respondidas com "Sim", "Não" e "Incompleto", tendo também um campo para preencher com as observações de cada pergunta, quando necessário.
 
 ### Padronização
 A tabela 2 a seguir apresenta a checklist referente a padronização que os artefatos devem seguir.
@@ -56,26 +56,26 @@ A tabela 3 a seguir apresenta a checklist referente ao artefato Perfil do Usuár
 
 **Tabela 3** - Checklist Perfil do Usuário
 
-| ID  |                                            Descrição                                            | Avaliação | Observações |
-| :-: | :---------------------------------------------------------------------------------------------: | :-------: | :---------: |
-|  6  | Os dados para o perfil de usuário foram coletados a partir de duas técnicas para coletar dados? |     -     |      -      |
-|  7  |   O perfil do usuário possui os atributos de (Hackos e Redish, 1998; Courage e Baxter, 2005)?   |     -     |      -      |
-|  8  |       No perfil do usuário é definido a idade, experiência, atitudes e tarefas primárias?       |     -     |      -      |
-|  9  |           O perfil do usuário foi definido a partir dos dados coletados pela equipe?            |     -     |      -      |
-| 10  |             É disponibilizado uma proporção de usuários em cada perfil encontrado?              |     -     |      -      |
-| 11  |                         São priorizadas as características dos perfis?                          |     -     |      -      |
-| 12  |                          É identificado características de interesse?                           |     -     |      -      |
-| 13  |                                 É identificado a faixa etária?                                  |     -     |      -      |
-| 14  |                        É identificado grau de facilidade com tecnologia?                        |     -     |      -      |
-| 15  |                             É identificado o nível de escolaridade?                             |     -     |      -      |
-| 16  |                                     É identificado o sexo?                                      |     -     |      -      |
-| 17  |                                É identificado a ocupação atual?                                 |     -     |      -      |
+| ID  |                                                 Descrição                                                  | Avaliação | Observações |
+| :-: | :--------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
+|  6  | Os dados para o perfil de usuário foram coletados a partir de pelo menos duas técnicas para coletar dados? |     -     |      -      |
+|  7  |   O perfil do usuário possui os atributos de (Hackos e Redish, 1998; Courage e Baxter, 2005)?              |     -     |      -      |
+|  8  |       No perfil do usuário é definido a idade, experiência, atitudes e tarefas primárias?                  |     -     |      -      |
+|  9  |           O perfil do usuário foi definido a partir dos dados coletados pela equipe?                       |     -     |      -      |
+| 10  |             É disponibilizado uma proporção de usuários em cada perfil encontrado?                         |     -     |      -      |
+| 11  |                         São priorizadas as características dos perfis?                                     |     -     |      -      |
+| 12  |                          É identificado características de interesse?                                      |     -     |      -      |
+| 13  |                                 É identificado a faixa etária?                                             |     -     |      -      |
+| 14  |                        É identificado grau de facilidade com tecnologia?                                   |     -     |      -      |
+| 15  |                             É identificado o nível de escolaridade?                                        |     -     |      -      |
+| 16  |                                     É identificado o sexo?                                                 |     -     |      -      |
+| 17  |                                É identificado a ocupação atual?                                            |     -     |      -      |
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
 
 ### Personas
 
-A tabela 4 a seguir apresenta a checklist referente ao artefato Cénarios <a id=anchor_3 href="#REF3"><sup>3</sup></a>:
+A tabela 4 a seguir apresenta a checklist referente ao artefato Personas <a id=anchor_3 href="#REF3"><sup>3</sup></a>:
 
 <center>
 
@@ -102,7 +102,7 @@ A tabela 4 a seguir apresenta a checklist referente ao artefato Cénarios <a id=
 A tabela 5 a seguir apresenta a checklist referente ao artefato Cénarios <a id=anchor_4 href="#REF4"><sup>4</sup></a>:
 
 
-<center>;
+<center>
 
 **Tabela 5** - Checklist Cénarios
 
@@ -113,13 +113,13 @@ A tabela 5 a seguir apresenta a checklist referente ao artefato Cénarios <a id=
 | 32  |   Os cenários são associados à alguma tarefa de uso diário do ator?    |     -     |      -      |
 | 33  | Há Objetivo, Contexto, Recursos, Ator, Episódios, Restrições e Exções? |     -     |      -      |
 | 34  |                     Cada cenário possui um titulo?                     |     -     |      -      |
-| 35  |         Foi criado um cénario para cada integrante do grupo?          |     -     |      -      |
+| 35  |         Foi criado um cénario para cada integrante do grupo?           |     -     |      -      |
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
 
 ### Aspectos Éticos de Pesquisas Envolvendo Pessoas
 A tabela 6 a seguir apresenta a checklist referente ao artefato Aspectos Éticos de Pesquisas Envolvendo Pessoas <a id=anchor_5 href="#REF5"><sup>5</sup></a>:
-'
+
 
 <center>
 
@@ -143,14 +143,14 @@ A tabela 7 a seguir apresenta a checklist referente ao artefato Análise Hierár
 
 <center>
 
-**Tabela 7** - Checklist Análise de Tarefas HTA(Análise hierárquica de tarefas)
+**Tabela 7** - Checklist Análise de Tarefas - HTA(Análise hierárquica de tarefas)
 
 | ID  |                                Descrição                                | Avaliação | Observações |
 | :-: | :---------------------------------------------------------------------: | :-------: | :---------: |
 | 39  |             É apresentado os objetivos a serem alcançados?              |     -     |      -      |
-| 40  | As descrições das tarefas são claras, evitando confusão ou ambíguidade? |     -     |      -      |
+| 40  | As descrições das tarefas são claras, evitando confusão ou ambiguidade? |     -     |      -      |
 | 41  |            As tarefas apresentadas condizem com a realidade?            |     -     |      -      |
-| 42  |                       É apresentado as operações?                       |     -     |      -      |
+| 42  |                    São apresentadas as operações?                       |     -     |      -      |
 | 43  |       As relações dos objetivos estão corretamente específicadas?       |     -     |      -      |
 | 44  |                  As tarefas são apresentdas em tabela?                  |     -     |      -      |
 | 45  |    As tabelas apresentam as entradas, ações, feedbacks e os planos?     |     -     |      -      |
@@ -162,7 +162,7 @@ A tabela 7 a seguir apresenta a checklist referente ao artefato Análise Hierár
 
 ### Análise de tarefas GOMS
 
-A tabela 8 a seguir apresenta a checklist referente ao artefato Análise de Tarefas GOMS <a id=anchor_7 href="#REF7"><sup>7</sup></a>:
+A tabela 8 a seguir apresenta a checklist referente ao artefato Análise de Tarefas - GOMS <a id=anchor_7 href="#REF7"><sup>7</sup></a>:
 
 <center>
 
@@ -171,10 +171,10 @@ A tabela 8 a seguir apresenta a checklist referente ao artefato Análise de Tare
 | ID  |                         Descrição                          | Avaliação | Observações |
 | :-: | :--------------------------------------------------------: | :-------: | :---------: |
 | 49  | A análise é feita a partir das tarefas encontradas no HTA? |     -     |      -      |
-| 50  |                       Possue GOALS?                        |     -     |      -      |
-| 51  |                     Possue OPERATORS?                      |     -     |      -      |
-| 52  |                      Possue METHODS?                       |     -     |      -      |
-| 53  |                  Possue SELECTION RULES?                   |     -     |      -      |
+| 50  |                       Possui GOALS?                        |     -     |      -      |
+| 51  |                     Possui OPERATORS?                      |     -     |      -      |
+| 52  |                      Possui METHODS?                       |     -     |      -      |
+| 53  |                  Possui SELECTION RULES?                   |     -     |      -      |
 | 54  |      A representação de GOMS é feita em pseudocódigo?      |     -     |      -      |
 | 55  |     É feita uma análise para cada integrante do grupo?     |     -     |      -      |
 
@@ -202,5 +202,5 @@ A tabela 8 a seguir apresenta a checklist referente ao artefato Análise de Tare
 
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 09/06/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |    11/06/2024             |     [Joyce Dionizio](https://github.com/joycejdm)        |
-| 10/06/2024 | `1.1`  | Estruturação completa do documento | [Pedro Lucas](https://github.com/lucasdray) |     11/06/2024             |   [Joyce Dionizio](https://github.com/joycejdm)          |
+| 09/06/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) | 11/06/2024 | [Joyce Dionizio](https://github.com/joycejdm)  |
+| 10/06/2024 | `1.1`  | Estruturação completa do documento | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024 | [Lucas Meireles](https://github.com/Katuner)   |
