@@ -1,6 +1,12 @@
+# Planejamento da Verificação da Etapa 4 do Grupo 6
+
 ## Introdução
 
 O objetivo deste documento é apresentar o planejamento para a verificação do planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas produzidos na etapa 4 pelo [grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
+
+## Objetivos
+
+O objetivo deste documento é verificar se os artefatos produzidos na Etapa 4 do [Grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/) possuem os itens e o padrão exigidos para tais.
 
 ## Participantes
 
