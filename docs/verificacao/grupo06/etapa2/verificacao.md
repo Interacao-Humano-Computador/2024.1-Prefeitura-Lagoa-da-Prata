@@ -13,14 +13,14 @@ A tabela 1 a seguir resume os participantes que partiparam como avaliadores, det
 <center>
 **Tabela 1** - Avaliadores da Verificação
 
-| Artefato                    | Avaliador |
-| --------------------------- | --------- |
-| **PERFIL DO USUÁRIO**       |           |
-| **PERSONAS**                |           |
-| **CÉNARIOS**                |           |
-| **ASPECTOS ÉTICOS**         |           |
-| **ANÁLISE DE TAREFAS HTA**  |           |
-| **ANÁLISE DE TAREFAS GOMS** |           |
+| Artefato                    | Avaliador                                   |
+| --------------------------- | ------------------------------------------- |
+| **PERFIL DO USUÁRIO**       | [Pedro Lucas](https://github.com/lucasdray) |
+| **PERSONAS**                | [Pedro Lucas](https://github.com/lucasdray) |
+| **CÉNARIOS**                | [Pedro Lucas](https://github.com/lucasdray) |
+| **ASPECTOS ÉTICOS**         | [Pedro Lucas](https://github.com/lucasdray) |
+| **ANÁLISE DE TAREFAS HTA**  | [Pedro Lucas](https://github.com/lucasdray) |
+| **ANÁLISE DE TAREFAS GOMS** | [Pedro Lucas](https://github.com/lucasdray) |
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
@@ -46,6 +46,7 @@ A tabela 2 a seguir apresenta os dados obtidos na verificação de todos os arte
 A figura 01 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
 <center>
 **Figura 01** - Gráfico dos resultados de Padronização
+
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/padronizacao.png" >
 
 *Fonte: DOURADO, Pedro Lucas. 2024.*
@@ -80,6 +81,7 @@ A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Pe
 A figura 02 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
 <center>
 **Figura 02** - Gráfico dos resultados do Perfil de Usuário
+
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/perfil.png" >
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
@@ -166,7 +168,9 @@ A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do ar
 A figura 03 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
 <center>
 **Figura 03** - Gráfico dos resultados da Persona
+
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/persona.png" >
+
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
@@ -227,7 +231,9 @@ A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do ar
 A figura 04 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
 <center>
 **Figura 04** - Gráfico dos resultados da Cénarios
+
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/cenarios.png" >
+
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
@@ -283,7 +289,9 @@ A tabela 6 abaixo apresenta os dados obtidos na verificação da checklist do ar
 A figura 05 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
 <center>
 **Figura 05** - Gráfico dos resultados dos Aspectos Éticos
+
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/aspectos_eticos.png" >
+
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
@@ -296,7 +304,7 @@ A figura 05 abaixo permite uma visualização melhor quanto as respostas da aval
 - Como não há gravações não foi preciso solicitar permissão pra gravar a voz e a imagem da pessoa. Entretanto caso futuramente seja adicionado, o grupo deve solicitar permissão para gravar.
 
 ## **Análise de tarefas HTA** 
-A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_5 href="#REF5"><sup>5</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
+A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_6 href="#REF6"><sup>6</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 7** - Análise de tarefas HTA
 
@@ -359,6 +367,67 @@ A figura 06 abaixo permite uma visualização melhor quanto as respostas da aval
 
 
 ## **Análise de tarefas GOMS**
+A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_7 href="#REF7"><sup>7</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
+<center>
+**Tabela 7** - Verificação GOMS
+
+
+| ID  |                         Descrição                          | Avaliação  |                               Observações                                |
+| :-: | :--------------------------------------------------------: | :--------: | :----------------------------------------------------------------------: |
+| 49  | A análise é feita a partir das tarefas encontradas no HTA? | INCOMPLETO | "Emissão nada consta da CNH" tem títulos de GOALS e objetivos diferentes |
+| 50  |                       Possue GOALS?                        | INCOMPLETO |                                    -                                     |
+| 51  |                     Possue OPERATORS?                      | INCOMPLETO |                                    -                                     |
+| 52  |                      Possue METHODS?                       |    NÃO     |                                    -                                     |
+| 53  |                  Possue SELECTION RULES?                   | INCOMPLETO |                                    -                                     |
+| 54  |      A representação de GOMS é feita em pseudocódigo?      |    NÃO     |                                    -                                     |
+| 55  |     É feita uma análise para cada integrante do grupo?     |    NÃO     |             Há análises incompletas e/ou muito simplificadas             |
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
+
+### Acompanhamento
+
+A figura 07 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
+<center>
+**Figura 07** - Gráfico dos resultados da Análise GOMS
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/hta.png" >
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
+
+
+### Problemas Encontrados e Análise dos Dados
+#### ID 02 - Os artefatos possuem uma bibliografia/referência bibliográfica?
+- Não apresentado.
+
+#### ID 04 - Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?
+- A tabela apresentada não possui fonte nem título.
+#### ID 49 - A análise é feita a partir das tarefas encontradas no HTA?
+- "Emissão de Nada Consta da CNH" tem goals diferentes dos objetivos do HTA.
+- "Identificar condutor como real infrator" não é uma tarefa encontrada no HTA.
+#### ID 50 - Possue GOALS? 
+- Não apresentado em "Solicitação de CRLV-e" .
+#### ID 51 - Possue OPERATORS?  
+- Não apresentado em "Solicitação de CRLV-e" .
+#### ID 52 - Possue METHODS? 
+- Não apresentado no artefato mesmo sendo definido no documento que seria usado.
+#### ID 53 - Possue SELECTION RULES?   
+- Não apresentado em "Solicitação de CRLV-e" e "Identificar condutor como real infrator"
+- Estrutura da análise dificulta o entedimento das regras de seleção para cada objetivo
+#### ID 54 - A representação de GOMS é feita em pseudocódigo?
+- Não apresentado. Há uma estrutura definida mas ela dificulta o entendimento da representação de GOMS
+#### ID 55 - É feita uma análise para cada integrante do grupo?
+- Não apresentado.
+
+### Sugestões de correções
+- Padronizar a estrutura, sendo escrita de forma de pseucódigo.
+- Acrescentar métodos (methods).
+- Reestruturar a análise "Solicitação de CRLV-e".
+- Fazer a análise da mesma tarefa para HTA e GOMS.
+- Corrigir as goals da tarefa 'Emissão de nada consta da CNH" para serem iguais ao do HTA.
+
+
 
 ## Referências Bibliograficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -382,4 +451,5 @@ A figura 06 abaixo permite uma visualização melhor quanto as respostas da aval
 | 10/06/2024 | `1.1`  | Verificação Padronização e Perfil do Usuário | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
 | 10/06/2024 | `1.2`  |             Verificação Persona              | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
 | 10/06/2024 | `1.3`  |             Verificação Cénarios             | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 11/06/2024 | `1,4`  |               Verificação HTA                | [Pedro Lucas](https://github.com/lucasdray)                                            |                 |             |
+| 11/06/2024 | `1.4`  |               Verificação HTA                | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 12/06/2024 | `1.4`  |               Verificação GOMS               | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
