@@ -159,6 +159,17 @@ A tabela 6 a seguir apresenta os dados obtidos na verificação de todos os arte
 
 </center>
 
+
+O vídeo a seguir apresenta o avaliador [Augusto Duarte](https://github.com/Augcamp) fazendo a inspeção do artefato "Guia de Estilo" do projeto do [grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/):
+
+<center>
+**Vídeo** - Inpesção Guia de Estilo
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=tGPOc9tzXjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+</center>
+
+O vídeo tambem pode ser acessado clicando [aqui](https://www.youtube.com/watch?v=tGPOc9tzXjA)
+
 ## Historico de Versões
 |    Data    | Versão |                  Descrição                   |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
@@ -168,3 +179,4 @@ A tabela 6 a seguir apresenta os dados obtidos na verificação de todos os arte
 | 12/06/2024 | `1.3`  |          Gravação da Verificação             | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
 | 12/06/2024 | `1.4`  |          Verificação Guia de Estilo          | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
 | 12/06/2024 | `1.5`  |          Verificação Metas de Usabilidade    | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
+| 12/06/2024 | `1.6`  |          Gravação da Verificação Guia de Estilo   | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
