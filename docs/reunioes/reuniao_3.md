@@ -8,15 +8,19 @@
 
  
 Abaixo temos dois vídeos da reunião. A separação ocorreu devido à erro de hardware durante a primeira gravação que provocou a interrupção da mesma. Assim que o problema foi notado, uma segunda gravação foi iniciada. Os pontos discutidos em reunião, incluindo os momentos não gravados, estão disponibilizados no tópico 3.
-<center>Vídeo 1 - Parte 1 da reunião</center>
+<center>
+**Vídeo 1** - Parte 1 da reunião
 <iframe width="560" height="315" src="https://www.youtube.com/embed/leiXgZhA01s?si=IJ3d2P_NBtzv-XDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<center>Fonte: MEIRELES, Lucas O. 2024</center>
+Fonte: MEIRELES, Lucas O. 2024
+</center>
 
 Parte 2
 
-<center>Vídeo 2 - Parte 2 da reunião</center>
+<center>
+**Vídeo 2** - Parte 2 da reunião
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrKNR0fPBXQ?si=dH9Xu-OBM55AIjuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<center>Fonte: MEIRELES, Lucas O. 2024</center>
+Fonte: MEIRELES, Lucas O. 2024
+</center>
 
 ## 2. Participantes
 - Augusto
