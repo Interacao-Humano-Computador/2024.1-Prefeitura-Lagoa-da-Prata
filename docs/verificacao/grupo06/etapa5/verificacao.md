@@ -25,17 +25,6 @@ A tabela 1 a seguir resume os participantes que partiparam como avaliadores dest
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 </center>
 
-<!-- ## Inspeção
-O vídeo 1 a seguir apresenta o avaliador [Lucas Meireles](https://github.com/Katuner) fazendo a inspeção dos artefatos "Cénarios" e "aspectos Éticos" do projeto do [grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/):
-
-<center>
-**Vídeo 1** - Inpesção Cénarios e Aspectos Éticos.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PrH0HnmJmZc?si=X75mliyANvnn4WUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
-</center>
-
-O vídeo tambem pode ser acessado clicando [aqui](https://www.youtube.com/watch?v=PrH0HnmJmZc)
--->
 ## Padronização
 A tabela 2 a seguir apresenta os dados obtidos na verificação de todos os artefatos na questão padronização, também presente no documento de [planejamento](./planejamento.md) da atividade aqui realizada:
 
@@ -59,7 +48,7 @@ A figura 01 abaixo apresenta o gráfico "pizza" referente às respostas da verif
 <center>
 **Figura 01** - Gráfico dos resultados de Padronização
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/Resultados_Padronizacao_E5.png" >
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/graficos/Resultados_%20Padronizacao_E5.png?raw=true" >
 
 *Fonte: MEIRELES, Lucas O.. 2024.*
 </center>
@@ -92,9 +81,9 @@ A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Re
 
 A figura 02 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 3.
 <center>
-**Figura 02** - Gráfico dos resultados do Releto - Análise de Tarefas
+**Figura 02** - Gráfico dos resultados do Relato - Análise de Tarefas
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/Resultados_Analise_de_Tarefas_E5.png" >
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/graficos/Resultados_%20Analise_de_Tarefas_E5.png?raw=true" >
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 </center>
@@ -172,7 +161,7 @@ A figura 03 abaixo apresenta o gráfico "pizza" referente às respostas da verif
 <center>
 **Figura 03** - Gráfico dos resultados do Relato - Storyboard
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/Resultados_Storyboard_E5.png" >
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/graficos/Resultados_%20Storyboard_E5.png?raw=true" >
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 </center>
@@ -269,7 +258,7 @@ A figura 04 abaixo apresenta o gráfico "pizza" referente às respostas da verif
 <center>
 **Figura 04** - Gráfico dos resultados do Planejamento da Avaliação do Protótipo de Papel
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/Resultados_Planej_aval_prot_papel_E5.png" >
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/graficos/Resultados_Planej_aval_prot_papel_E5.png?raw=true" >
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 </center>
@@ -341,7 +330,7 @@ A figura 05 abaixo apresenta o gráfico "pizza" referente às respostas da verif
 <center>
 **Figura 05** - Gráfico dos resultados do Planejamento do Relato dos Resultados - Protótipo de Papel.
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/Result_Planej_relato_results_prot_papel_E5.png" >
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/graficos/Result_Planej_relato_results_prot_papel_E5.png?raw=true" >
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 </center>
