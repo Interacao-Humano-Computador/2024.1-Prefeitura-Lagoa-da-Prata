@@ -49,7 +49,32 @@ A figura 01 abaixo permite uma visualização melhor quanto as respostas da aval
 *Fonte: DUARTE, Augusto. 2024.*
 </center>
 
+## Princípios Gerais
+A tabela 5 a seguir apresenta os dados obtidos na verificação de todos os artefatos das Características Gerais:
+
+<center>
+
+**Tabela 5** - Princípios Gerais
+
+| ID  |                                                              Descrição                                                               | Avaliação  |                                                                                                                             Observações                                                                                                                             |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  14  |                                  Os princípios incluem os tópicos listados?                                  |    SIM     |   -                                                                                                                                                                         |
+|  15  |                                   Os princípios incluem correspondência com as expectativas dos usuários?                                      | SIM |    -                                                                                                                                                                                            |
+|  16  |                          Os princípios incluem simplicidade nas estruturas?                       | SIM |    -                                                                                                                                                                                                 |
+|  17  |                                  Os princípios incluem equilíbrio entre controle e liberdade?                                   |   SIM      |                                                                                                                                  -                                                                                                                                  |
+|  18  |                                       Os princípios incluem consistência e padronização?                                             |   SIM      |                                                                                                                                  -                                                                                                                                  |
+|  19  |                                       Os princípios incluem promoção da eficiência do usuário?                                             |  SIM       |                                                                                                                                  -                                                                                                                                  |
+|  20  |                                       Os princípios que serão usados no futuro estão definidos?                                             |    SIM     |                                                                                                                                  -                                                                                                                                  |
+|  21  |                                       Há chamadas e links para outros textos dentro do artefato?                                             |    NÃO     |                                                                                                                                  -                                                                                                                                  |
+|  22  |                                       As imagens possuem legendas?                                             |     SIM    |                                                                                                                                  -                                                                                                                                  |
+|  23  |                                       O artefato contém referências internas ao longo do texto?                                             |    SIM     |                                                                                                                                  -                                                                                                                                  |
+
+*Fonte: [DIONIZIO, Joyce](https://github.com/Augcamp). 2024.*
+</center>
+
+
 ## Historico de Versões
 |    Data    | Versão |                  Descrição                   |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
 | 11/06/2024 | `1.0`  |          Verificação Itens Gerais            | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
+| 11/06/2024 | `1.1`  |          Verificação Principios Gerais            | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
