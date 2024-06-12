@@ -26,11 +26,24 @@ A Tabela 1 foi produzida para uma melhor visualização dos objetos que serão v
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*</center>
 
+## Inspeção
+
+O avaliador disponibilizará um video gravado fazendo a inspeção de ao menos um artefato da etapa 2 projeto do [grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/) usando as checklists criadas nessa etapa do planejamento.
+
 ## Checklists
 
 Os checklists que serão apresentados abaixo foram produzidos levando em conta os padrões esperados e as principais atividades realizadas em cada artefato, tendo como referência bibliográfica o livro "Interação Humano-Computador" de Bruno Silva e Simone Barbosa [1] e as anotações referentes à entrega da etapa 2 feitas pelo monitor da disciplina [Gabriel Campello](https://github.com/G16C).
 
 Abaixo estão dispostas 7 tabelas que contém o conteúdo das checklists que serão utilizdas para a atividade anteriormente descrita, sendo 6 dessas tabelas referentes a cada artefato produzido e suas singularidades e 1 referente à padronização dos artefatos em geral, que será usada na avaliação de todos os artefatos tratados pela Tabela 1. As avaliações podem ser respondidas com "Sim", "Não" e "Incompleto", tendo também um campo para preencher com as observações de cada pergunta, quando necessário.
+
+## Acompanhamento
+Após a tabela de checklist do artefato estiver devidamente preenchida será apresentado um gráfico demosntrando o percentual de respostas que o artefato desempenhou na avaliação.
+
+## Problemas Encontrados e Análise dos Dados
+Após ser realizado a inspeção e verificação de cada artefato, o avaliador, deve anotar o "ID" e a descrição de uma pergunta que a avaliação foi "NÃO" ou "INCOMPLETO" e descrever qual foi o problema encontrado.
+
+## Sugestões de Correção
+Após ser feita a análise dos dados coletados e dos problemas encontrados o avaliador fará sugestões para o grupo que está sendo avaliado de melhorias e correções concluido assim o relato da verificação.
 
 ### Padronização
 A tabela 2 a seguir apresenta a checklist referente a padronização que os artefatos devem seguir.
@@ -43,7 +56,7 @@ A tabela 2 a seguir apresenta a checklist referente a padronização que os arte
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
 |  1  |                                                   Os artefatos possuem introdução?                                                   |     -     |      -      |
 |  2  |                                   Os artefatos possuem uma bibliografia/referência bibliográfica?                                    |     -     |      -      |
-|  3  |         Os artefatos possuem um histórico de versões com descrição, versões, data de criação, autores e revisores?         |     -     |      -      |
+|  3  |              Os artefatos possuem um histórico de versões com descrição, versões, data de criação, autores e revisores?              |     -     |      -      |
 |  4  |         Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?         |     -     |      -      |
 |  5  | Em cada artefato, todos os textos estão na norma padrão? Estão seguindo um padrão (centralizados, justificado, alinhado a esquerda)? |     -     |      -      |
 
@@ -200,7 +213,8 @@ A tabela 8 a seguir apresenta a checklist referente ao artefato Análise de Tare
 
 ## Histórico de Versões
 
-|    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 09/06/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) | 11/06/2024 | [Joyce Dionizio](https://github.com/joycejdm)  |
-| 10/06/2024 | `1.1`  | Estruturação completa do documento | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024 | [Lucas Meireles](https://github.com/Katuner)   |
+|    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão |                  Revisor(es)                  |
+| :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :-------------------------------------------: |
+| 09/06/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |   11/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
+| 10/06/2024 | `1.1`  | Estruturação completa do documento | [Pedro Lucas](https://github.com/lucasdray) |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner)  |
+| 12/06/2024 | `1.2`  |          Adição Inspeção           | [Pedro Lucas](https://github.com/lucasdray) |                 |                                               |

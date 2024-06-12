@@ -1,6 +1,12 @@
+# Planejamento da Verificação da Etapa 4 do Grupo 6
+
 ## Introdução
 
 O objetivo deste documento é apresentar o planejamento para a verificação do planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas produzidos na etapa 4 pelo [grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
+
+## Objetivos
+
+O objetivo deste documento é verificar se os artefatos produzidos na Etapa 4 do [Grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/) possuem os itens e o padrão exigidos para tais.
 
 ## Participantes
 
@@ -88,11 +94,11 @@ A tabela 5 a seguir apresenta a checklist referente ao checklist do planejamento
 
 <center>Tabela 5: Checklist do planejamento do relato dos resultados da avaliação do Análise de tarefas
 
-| ID  | Descrição    | Avaliação | Observações  |
-|-----|--------------|-----------|--------------|
-| 01   | O método de avaliação utilizado está claramente explicado?                                               |           |              |
-| 02   | A tabela de cronograma das entrevistas está presente e é clara?                                          |           |              |
-| 03   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                            |           |              |
+| ID  |                                                     Descrição                                                      | Avaliação | Observações |
+| :-: | :----------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
+| 1   | O método de avaliação utilizado está claramente explicado?                                               |           |              |
+| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                          |           |              |
+| 3   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                            |           |              |
 | 4   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |           |              |
 | 5   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |           |              |
 | 6   | As sugestões de melhoria para cada tarefa estão detalhadas?                                           |           |              |
@@ -107,11 +113,11 @@ A tabela 6 a seguir apresenta a checklist referente ao checklist do planejamento
 
 <center>Tabela 6: Checklist do planejamento do relato dos resultados da avaliação do Storyboard
 
-| ID  | Descrição    | Avaliação | Observações  |
-|-----|--------------|-----------|--------------|
-| 01   | O método de avaliação utilizado está claramente explicado?                                               |           |              |
-| 02   | A tabela de cronograma das entrevistas está presente e é clara?                                          |           |              |
-| 03   | Os storyboards revisados pelos participantes estão descritas de forma detalhada?                            |           |              |
+| ID  |                                                     Descrição                                                      | Avaliação | Observações |
+| :-: | :----------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
+| 1   | O método de avaliação utilizado está claramente explicado?                                               |           |              |
+| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                          |           |              |
+| 3   | Os storyboards revisados pelos participantes estão descritas de forma detalhada?                            |           |              |
 | 4   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |           |              |
 | 5   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |           |              |
 | 6   | As sugestões de melhoria para cada storyboard estão detalhadas?                                           |           |              |
@@ -133,10 +139,9 @@ A tabela 6 a seguir apresenta a checklist referente ao checklist do planejamento
 > <a id="REF5" href="#anchor_5">5.</a> VIERA, Vinicius. Planejamento do Relato dos Resultados (Storyboard). Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-relato-resultado-sb/>. Acesso em: 10 junho 2024.
 
 
-## Histórico de versões
-
 ## Histórico de Versões
 
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
 | 11/06/2024 | `1.0`  |        Criação do documento        | [Cainã Freitas](https://github.com/freitasc) |                 |             |
+| 12/06/2024 | `1.1`  |        Corrige tabelas do documento        | [Cainã Freitas](https://github.com/freitasc) |                 |             |
