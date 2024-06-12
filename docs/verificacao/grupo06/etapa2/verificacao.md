@@ -1,15 +1,17 @@
 ## Introdução
-Após ser realizado o planejamento é o momento de fazer a verificação fazendo a inspeção e apresentando os resultados de cada Artefato.
+
+Dado o planejamento da atividade, aqui serão exibidos os procedimentos realizados e os resultados encontrados pela atividade de verificação descrita no [planejamento de verificação](planejamento.md) referente à etapa 2 para o [grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/) da disciplina de IHC.
 
 ## Objetivo
-O objetivo desse documento é apresentar a metodologia adotada, os autores, os checklists de cada artefato produzido e seus respectivos resultados.
+
+O objetivo desse documento é apresentar a metodologia adotada, os autores, os checklists de cada artefato produzido e seus respectivos resultados, conforme descritos no [planejamento](planejamento.md). 
 
 ## Metodologia
-Para responder as perguntas dos checklists feitos anteriormente no [planejamento](planejamento.md), o avaliador usará o método de inspeção para responder as perguntas com as opções "SIM", "NÃO" e "INCOMPLETO". Assim podendo escrever observações em cada pergunta.
-Ao obter todas as respostas será apresentado um gráfico com as respostas para uma melhor visualização assim como os problemas encontrados e sugestões de correções.
+Para responder as perguntas dos checklists feitos anteriormente no [planejamento](planejamento.md), o avaliador usará o método de inspeção para responder as perguntas com as opções "SIM", "NÃO" e "INCOMPLETO". Também será gerado um espaço adicional para que possa escrever observações em cada pergunta.
+Ao completar a verificação da checklist do artefato, será apresentado um gráfico "pizza" com as respostas para uma melhor visualização assim como os problemas encontrados e sugestões de correções, quando cabível.
 
 ## Participantes
-A tabela 1 a seguir resume os participantes que partiparam como avaliadores, detalhes do que foi feito por cada um está nas fontes em cada artefato.
+A tabela 1 a seguir resume os participantes que partiparam como avaliadores desta verificação. 
 <center>
 **Tabela 1** - Avaliadores da Verificação
 
@@ -26,10 +28,10 @@ A tabela 1 a seguir resume os participantes que partiparam como avaliadores, det
 </center>
 
 ## Padronização
-A tabela 2 a seguir apresenta os dados obtidos na verificação de todos os artefatos na questão padronização, o mesmo foi elaborado no [planejamento](./planejamento.md):
+A tabela 2 a seguir apresenta os dados obtidos na verificação de todos os artefatos na questão padronização, também presente no documento de [planejamento](./planejamento.md) da atividade aqui realizada:
 
 <center>
-**Tabela 2** - Verificação padronização
+**Tabela 2** - Verificação da padronização
 
 | ID  |                                                              Descrição                                                               | Avaliação  |                                                                                                                             Observações                                                                                                                             |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -43,7 +45,7 @@ A tabela 2 a seguir apresenta os dados obtidos na verificação de todos os arte
 </center>
 
 ### Acompanhamento
-A figura 01 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
+A figura 01 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 2.
 <center>
 **Figura 01** - Gráfico dos resultados de Padronização
 
@@ -53,7 +55,7 @@ A figura 01 abaixo permite uma visualização melhor quanto as respostas da aval
 </center>
 
 ## **Perfil do Usuário**
-A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Perfil do Usuário <a id=anchor_2 href="#REF2"><sup>2</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
+A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Perfil do Usuário <a id=anchor_2 href="#REF2"><sup>2</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
 
 <center>
 **Tabela 3** - Verificação Perfil do Usuário
@@ -78,7 +80,7 @@ A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Pe
 
 ### Acompanhamento 
 
-A figura 02 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
+A figura 02 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 3.
 <center>
 **Figura 02** - Gráfico dos resultados do Perfil de Usuário
 
@@ -88,6 +90,8 @@ A figura 02 abaixo permite uma visualização melhor quanto as respostas da aval
 </center>
 
 ### Problemas Encontrados e Análise dos Dados
+
+Abaixo estão melhor exemplificados os problemas encontrados e as justificativas da resposta do resultado da verificação do artefato de Perfil do Usuário, além de também conter sugestões de correção para o grupo responsável. 
 
 #### ID 4 - Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?
 - Todas as figuras estão sem título e fonte e não são chamadas no texto.
@@ -141,7 +145,7 @@ Com base nos problemas encontrados e na análise dos dados encontrados, fica sug
 
 
 ## **Personas**
-A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do artefato Personas <a id=anchor_3 href="#REF3"><sup>3</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
+A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do artefato Personas <a id=anchor_3 href="#REF3"><sup>3</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 4** - Verificação Persona
 
@@ -165,7 +169,7 @@ A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do ar
 
 ### Acompanhamento
 
-A figura 03 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
+A figura 03 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 4.
 <center>
 **Figura 03** - Gráfico dos resultados da Persona
 
@@ -175,6 +179,8 @@ A figura 03 abaixo permite uma visualização melhor quanto as respostas da aval
 </center>
 
 ### Problemas Encontrados e Análise dos Dados
+
+Abaixo estão melhor exemplificados os problemas encontrados e as justificativas da resposta do resultado da verificação do artefato de Persona, além de também conter sugestões de correção para o grupo responsável.
 
 #### ID 4 - Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?
 - Fonte das imagens das personas e fonte das tabelas não estão padronizadas e também não seguem a norma ABNT.
@@ -209,7 +215,7 @@ A figura 03 abaixo permite uma visualização melhor quanto as respostas da aval
 
 ## **Cénarios**
 
-A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do artefato Cénarios <a id=anchor_4 href="#REF4"><sup>4</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
+A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do artefato Cénarios <a id=anchor_4 href="#REF4"><sup>4</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 5** - Verificação Cénarios
 
@@ -228,7 +234,7 @@ A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do ar
 
 ### Acompanhamento
 
-A figura 04 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
+A figura 04 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 5.
 <center>
 **Figura 04** - Gráfico dos resultados da Cénarios
 
@@ -238,6 +244,8 @@ A figura 04 abaixo permite uma visualização melhor quanto as respostas da aval
 </center>
 
 ### Problemas Encontrados e Análise dos Dados
+
+Abaixo estão melhor exemplificados os problemas encontrados e as justificativas da resposta do resultado da verificação do artefato de Cenários, além de também conter sugestões de correção para o grupo responsável.
 
 #### ID 01 - Os artefatos possuem introdução?
 - Não apresentado.
@@ -269,7 +277,7 @@ A figura 04 abaixo permite uma visualização melhor quanto as respostas da aval
 
 ## **Aspectos Éticos de Pesquisas Envolvendo Pessoas**
 
-A tabela 6 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_5 href="#REF5"><sup>5</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
+A tabela 6 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_5 href="#REF5"><sup>5</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 6** - Verificação Aspectos Éticos
 
@@ -286,7 +294,7 @@ A tabela 6 abaixo apresenta os dados obtidos na verificação da checklist do ar
 
 ### Acompanhamento
 
-A figura 05 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
+A figura 05 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 6.
 <center>
 **Figura 05** - Gráfico dos resultados dos Aspectos Éticos
 
@@ -297,8 +305,11 @@ A figura 05 abaixo permite uma visualização melhor quanto as respostas da aval
 
 ### Problemas Encontrados e Análise dos Dados
 
+Abaixo estão melhor exemplificados os problemas encontrados e as justificativas da resposta do resultado da verificação do artefato de Aspectos Éticos de Pesquisas Envolvendo Pessoas, além de também conter sugestões de correção para o grupo responsável.
+
 #### ID 01 - Os artefatos possuem introdução?
 - Há uma introdução porém não tem o subtítulo de introdução
+
 #### ID 04 - Em cada artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?
 - Falta título e chamada no texto da figura encontrada no documento referente ao termo de consetimento para pesquisa
 - Fonte da figura não segue norma ABNT.
@@ -312,11 +323,8 @@ A figura 05 abaixo permite uma visualização melhor quanto as respostas da aval
 - Acrescentar título da figura e chamada anterior no texto.
 - Corrigir a fonte para seguir a norma ABNT.
 
-### Sugestões de Correção
-- Como não há gravações não foi preciso solicitar permissão pra gravar a voz e a imagem da pessoa. Entretanto caso futuramente seja adicionado, o grupo deve solicitar permissão para gravar.
-
 ## **Análise de tarefas HTA** 
-A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_6 href="#REF6"><sup>6</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
+A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_6 href="#REF6"><sup>6</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 7** - Análise de tarefas HTA
 
@@ -338,7 +346,7 @@ A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do ar
 
 ### Acompanhamento
 
-A figura 06 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
+A figura 06 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 7.
 <center>
 **Figura 06** - Gráfico dos resultados da Análise de tarefas HTA
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/hta.png" >
@@ -348,6 +356,8 @@ A figura 06 abaixo permite uma visualização melhor quanto as respostas da aval
 
 
 ### Problemas Encontrados e Análise dos Dados
+
+Abaixo estão melhor exemplificados os problemas encontrados e as justificativas da resposta do resultado da verificação do artefato de Análise de tarefas HTA, além de também conter sugestões de correção para o grupo responsável.
 
 #### ID 2 -	Os artefatos possuem uma bibliografia/referência bibliográfica?
 - Não apresentado.
@@ -379,7 +389,7 @@ A figura 06 abaixo permite uma visualização melhor quanto as respostas da aval
 
 
 ## **Análise de tarefas GOMS**
-A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_7 href="#REF7"><sup>7</sup></a>, sendo esse checklist pensando e montado na etapa de [planejamento](planejamento.md) da verificação:
+A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_7 href="#REF7"><sup>7</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
 <center>
 **Tabela 7** - Verificação GOMS
 
@@ -399,7 +409,7 @@ A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do ar
 
 ### Acompanhamento
 
-A figura 07 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas a seguir.
+A figura 07 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 8.
 <center>
 **Figura 07** - Gráfico dos resultados da Análise GOMS
 
@@ -410,6 +420,9 @@ A figura 07 abaixo permite uma visualização melhor quanto as respostas da aval
 
 
 ### Problemas Encontrados e Análise dos Dados
+
+Abaixo estão melhor exemplificados os problemas encontrados e as justificativas da resposta do resultado da verificação do artefato de Análise de tarefas GOMS, além de também conter sugestões de correção para o grupo responsável.
+
 #### ID 02 - Os artefatos possuem uma bibliografia/referência bibliográfica?
 - Não apresentado.
 
@@ -459,9 +472,10 @@ A figura 07 abaixo permite uma visualização melhor quanto as respostas da aval
 ## Historico de Versões
 |    Data    | Versão |                  Descrição                   |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 10/06/2024 | `1.0`  |             Criação do documento             | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 10/06/2024 | `1.1`  | Verificação Padronização e Perfil do Usuário | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 10/06/2024 | `1.2`  |             Verificação Persona              | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 10/06/2024 | `1.3`  |             Verificação Cénarios             | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 11/06/2024 | `1.4`  |               Verificação HTA                | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 12/06/2024 | `1.4`  |               Verificação GOMS               | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 10/06/2024 | `1.0`  |             Criação do documento             | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
+| 10/06/2024 | `1.1`  | Verificação Padronização e Perfil do Usuário | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
+| 10/06/2024 | `1.2`  |             Verificação Persona              | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
+| 10/06/2024 | `1.3`  |             Verificação Cénarios             | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
+| 11/06/2024 | `1.4`  |               Verificação HTA                | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
+| 12/06/2024 | `1.4`  |               Verificação GOMS               | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
+| 12/06/2024 | `1.5`  |  Alterações textuais de resultados, introdução e metodologia | [Lucas Meireles](https://github.com/Katuner)|              |           | 
