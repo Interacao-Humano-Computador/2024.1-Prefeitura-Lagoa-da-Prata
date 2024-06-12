@@ -49,6 +49,36 @@ A figura 01 abaixo permite uma visualização melhor quanto as respostas da aval
 *Fonte: DUARTE, Augusto. 2024.*
 </center>
 
+## Guia de Estilo
+<center>
+**Tabela 3** - Verificação Guia de Estilo
+
+| ID  |                                            Descrição                                            | Avaliação  |                                                                                    Observações                                                                                     |
+| :-: | :---------------------------------------------------------------------------------------------: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  6  | O guia de estilo segue a estruturação recomendada (Introdução, resultados de análise, elementos de interface, elementos de interação, elementos de ação, vocabulário e padrões)? |    Incompleto     |  Resultado da análise apresentada está bastante genérica e superficial e também está faltando elementos de interação e de ação. |
+|  7  |                       O guia de estilo está associado ao site escolhido?                        |    SIM     |                                                                                         -                                                                                          |
+|  8  |                                 Há uma proposta de intervenção?                                 |    NÃO     |                                                                                         -                                                                                          |
+|  9  |                             As figuras e tabelas possuem legendas?                              |    SIM     |                                                                                         -                                                                                          |
+| 10  |             	O documento contém relação com os princípios gerais elicitados pelo grupo?      |    SIM     |                                                                                         -                                                                                          |
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*</center>
+
+
+### Acompanhamento 
+
+A figura 02 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
+<center>
+**Figura 02** - Gráfico dos resultados do Guia de Estilo
+<iframe width="605" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMwkKjVB3B5KP8sJljnyfuiE75CmR4iJEBJZHZ8LearHNwH9UOl800E0GQARGApFToqr_Vu5_VHeC6/pubchart?oid=1787541759&format=image"></iframe>
+*Fonte: DUARTE, Augusto. 2024.*
+</center>
+
+### Problemas Encontrados e Análise dos Dados
+
+#### ID 6 - O guia de estilo segue a estruturação recomendada (Introdução, resultados de análise, elementos de interface, elementos de interação, elementos de ação, vocabulário e padrões)?
+- Resultado da análise apresentada está bastante genérica e superficial e também está faltando elementos de interação e de ação.
+
+
 ## Princípios Gerais
 A tabela 5 a seguir apresenta os dados obtidos na verificação de todos os artefatos das Princípios Gerais:
 
@@ -105,6 +135,7 @@ A tabela 6 a seguir apresenta os dados obtidos na verificação de todos os arte
 |    Data    | Versão |                  Descrição                   |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
 | 11/06/2024 | `1.0`  |          Verificação Itens Gerais            | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
-| 11/06/2024 | `1.1`  |          Verificação Principios Gerais            | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
-| 11/06/2024 | `1.2`  |          Verificação Caracteristicas Gerais            | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
-| 12/06/2024 | `1.3`  |          Gravação da Verificação            | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
+| 11/06/2024 | `1.1`  |          Verificação Principios Gerais       | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
+| 11/06/2024 | `1.2`  |          Verificação Caracteristicas Gerais  | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
+| 12/06/2024 | `1.3`  |          Gravação da Verificação             | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
+| 11/06/2024 | `1.4`  |          Verificação Guia de Estilo          | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
