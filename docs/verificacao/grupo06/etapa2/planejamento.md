@@ -1,15 +1,17 @@
 ## Introdução
 
-O objetivo deste documento é apresentar o planejamento para a verificação dos artefatos  Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas e Análise de tarefas produzidos na etapa 2 pelo [grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
+O objetivo deste documento é apresentar o planejamento para a verificação dos artefatos "Perfil do Usuário", "Aspectos Éticos de Pesquisas Envolvendo Pessoas" e "Análise de Tarefas" produzidos na etapa 2 pelo [grupo 06](https://interacao-humano-computador.github.io/2024.1-DETRANDF/).
 
 ## Participantes
 
 O responsável por esse planejamento foi o integrante [Pedro Lucas](https://github.com/lucasdray) sendo ele responsável pelo planejamento e verificação (inspeção e relato dos resultados).
 
 ## Objetos de verificação
-A tabela 1 foi produzida para uma melhor visualização dos objetos que serão verificados e suas respectivas características, ela é composta por pelo Artefato que foi verificado, Versão verificada, Data que foi produzido, Autores do artefato e Revisões do artefato.
+A Tabela 1 foi produzida para uma melhor visualização dos objetos que serão verificados e suas respectivas características. Ela é composta pelo artefato que foi verificado, versão verificada, data de produção, autores do artefato e revisores do artefato.
 
-<center>**Tabela 1** - Objetos que serão verificados
+<center>
+
+**Tabela 1** - Objetos que serão verificados
 
 |                                                                       Artefato                                                                       | Versão | Data produzido |                                                                                            Produzido por                                                                                             |                                               Revisado por                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
@@ -26,14 +28,16 @@ Os resultados de cada artefato serão reunidos e disponibilizados na página de 
 
 ## Checklists
 
-Os checklists abaixo foram feitos levando em conta os padrões esperados e as principais atividades realizadas em cada artefato, tendo como referência bibliográfica o livro Interação Humano Computador de Bruno Silva e Simone Barbosa[1] e as anotações referentes a entrega da etapa 2 feitas pelo monitor da disciplina [Gabriel Campello](https://github.com/G16C).
-A checklist será divida em 5 tabelas, sendo 4 referentes a cada artefato produzido e 1 referente a padronização e que será usada em todos os artefatos.
-As avaliações podem ser respondidas com "Sim", "Não" e "Incompleto", tendo um campo para preencher com as observações de cada pergunta.
+Os checklists abaixo foram feitos levando em conta os padrões esperados e as principais atividades realizadas em cada artefato, tendo como referência bibliográfica o livro "Interação Humano-Computador" de Bruno Silva e Simone Barbosa e as anotações referentes à entrega da etapa 2 feitas pelo monitor da disciplina [Gabriel Campello](https://github.com/G16C).
+
+A checklist será dividida em 5 tabelas, sendo 4 referentes a cada artefato produzido e 1 referente à padronização, que será usada em todos os artefatos. As avaliações podem ser respondidas com "Sim", "Não" e "Incompleto", tendo um campo para preencher com as observações de cada pergunta.
 
 ### Padronização
 A tabela 2 a seguir apresenta a checklist referente a padronização que os artefatos devem seguir.
 
-<center>**Tabela 2** - Checklist de padronização
+<center>
+
+**Tabela 2** - Checklist de padronização
 
 | ID  |                                                              Descrição                                                               | Avaliação | Observações |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
@@ -48,7 +52,9 @@ A tabela 2 a seguir apresenta a checklist referente a padronização que os arte
 ### Perfil do usuário
 
 A tabela 3 a seguir apresenta a checklist referente ao artefato Perfil do Usuário <a id=anchor_2 href="#REF2"><sup>2</sup></a>:
-<center>**Tabela 3** - Checklist Perfil do Usuário
+<center>
+
+**Tabela 3** - Checklist Perfil do Usuário
 
 | ID  |                                            Descrição                                            | Avaliação | Observações |
 | :-: | :---------------------------------------------------------------------------------------------: | :-------: | :---------: |
@@ -71,7 +77,9 @@ A tabela 3 a seguir apresenta a checklist referente ao artefato Perfil do Usuár
 
 A tabela 4 a seguir apresenta a checklist referente ao artefato Cénarios <a id=anchor_3 href="#REF3"><sup>3</sup></a>:
 
-<center>**Tabela 4** - Checklist Persona
+<center>
+
+**Tabela 4** - Checklist Persona
 
 | ID  |                                           Descrição                                           | Avaliação | Observações |
 | :-: | :-------------------------------------------------------------------------------------------: | :-------: | :---------: |
@@ -94,7 +102,9 @@ A tabela 4 a seguir apresenta a checklist referente ao artefato Cénarios <a id=
 A tabela 5 a seguir apresenta a checklist referente ao artefato Cénarios <a id=anchor_4 href="#REF4"><sup>4</sup></a>:
 
 
-<center>**Tabela 5** - Checklist Cénarios
+<center>;
+
+**Tabela 5** - Checklist Cénarios
 
 | ID  |                               Descrição                                | Avaliação | Observações |
 | :-: | :--------------------------------------------------------------------: | :-------: | :---------: |
@@ -111,7 +121,9 @@ A tabela 5 a seguir apresenta a checklist referente ao artefato Cénarios <a id=
 A tabela 6 a seguir apresenta a checklist referente ao artefato Aspectos Éticos de Pesquisas Envolvendo Pessoas <a id=anchor_5 href="#REF5"><sup>5</sup></a>:
 '
 
-<center>**Tabela 6** - Checklist Aspectos Éticos
+<center>
+
+**Tabela 6** - Checklist Aspectos Éticos
 
 | ID  |                                              Descrição                                               | Avaliação | Observações |
 | :-: | :--------------------------------------------------------------------------------------------------: | :-------: | :---------: |
@@ -129,7 +141,9 @@ O grupo utilizou 2 técnicas para especificar as tarefas portanto decidimos sepa
 A tabela 7 a seguir apresenta a checklist referente ao artefato Análise Hierárquica de Tarefas (HTA) <a id=anchor_6 href="#REF6"><sup>6</sup></a>:
 
 
-<center>**Tabela 7** - Checklist Análise de Tarefas HTA(Análise hierárquica de tarefas)
+<center>
+
+**Tabela 7** - Checklist Análise de Tarefas HTA(Análise hierárquica de tarefas)
 
 | ID  |                                Descrição                                | Avaliação | Observações |
 | :-: | :---------------------------------------------------------------------: | :-------: | :---------: |
@@ -150,7 +164,9 @@ A tabela 7 a seguir apresenta a checklist referente ao artefato Análise Hierár
 
 A tabela 8 a seguir apresenta a checklist referente ao artefato Análise de Tarefas GOMS <a id=anchor_7 href="#REF7"><sup>7</sup></a>:
 
-<center>**Tabela 8** - Checklist Análise de Tarefas GOMS (Goals, Operators, Methods and Selection Rules) 
+<center>
+
+**Tabela 8** - Checklist Análise de Tarefas GOMS (Goals, Operators, Methods and Selection Rules) 
 
 | ID  |                         Descrição                          | Avaliação | Observações |
 | :-: | :--------------------------------------------------------: | :-------: | :---------: |
@@ -186,5 +202,5 @@ A tabela 8 a seguir apresenta a checklist referente ao artefato Análise de Tare
 
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 09/06/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 10/06/2024 | `1.1`  | Estruturação completa do documento | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 09/06/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |    11/06/2024             |     [Joyce Dionizio](https://github.com/joycejdm)        |
+| 10/06/2024 | `1.1`  | Estruturação completa do documento | [Pedro Lucas](https://github.com/lucasdray) |     11/06/2024             |   [Joyce Dionizio](https://github.com/joycejdm)          |

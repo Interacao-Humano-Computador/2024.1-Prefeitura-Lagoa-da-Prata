@@ -8,7 +8,7 @@ O objetivo desse artefato é analisar todas os artefatos confeccionadas pelo [gr
 
 ## Metodologia
 
-A metodologia escolhida pelo grupo é a de inspeção sendo essa baseada na proposta de Fagan[1], utilizando uma tabela de checklist montada no planejamento de cada etapa usando como base as tabelas de avaliação de critérios do plano de ensino[2] bem como os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador) e sua bibliografia[3].
+A metodologia escolhida pelo grupo é a de inspeção sendo essa baseada na proposta de Fagan, utilizando uma tabela de checklist montada no planejamento de cada etapa usando como base as tabelas de avaliação de critérios do plano de ensino bem como os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador) e sua bibliografia.
 
 ## Planejamento
 
@@ -22,6 +22,6 @@ Após ser feita a verificação deverá ser realizado um relato contendo os chec
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 09/06/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 09/06/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |     11/06/2024               |  [Joyce Dionizio](https://github.com/joycejdm)            |
 
 
