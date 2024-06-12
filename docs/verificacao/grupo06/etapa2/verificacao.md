@@ -28,10 +28,10 @@ A tabela 1 a seguir resume os participantes que partiparam como avaliadores dest
 </center>
 
 ## Inspeção
-O vídeo 1 a seguir apresenta o avaliador [Pedro Lucas](https://github.com/lucasdray) fazendo a inspeção dos artefatos "Cénarios" e "Áspectos Éticos" do projeto do [grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/):
+O vídeo 1 a seguir apresenta o avaliador [Pedro Lucas](https://github.com/lucasdray) fazendo a inspeção dos artefatos "Cénarios" e "aspectos Éticos" do projeto do [grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/):
 
 <center>
-**Vídeo 1** - Parte 1 da reunião
+**Vídeo 1** - Inpesção Cénarios e Aspectos Éticos.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH0HnmJmZc?si=X75mliyANvnn4WUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
