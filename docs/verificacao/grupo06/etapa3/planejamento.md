@@ -134,10 +134,9 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para a ve
 | ID  | Descrição     | Avaliação |
 | :---: | --------------------------------------------------------------------------------------------------------------- | :---------: | 
 | 24  | O documento descreve as características do site escolhido?                                    | -        |
-| 25  | As tecnologias pelas quais o site escolhido pode ser acessado estão mencionadas?                    | -        |
+| 25  | Os dispositivos ou navegadores que podem ser utilizados são identificados?                    | -        |
 | 26  | Os limites e entraves estão detalhados?                                                        | -        |
 | 27  | As funcionalidades da plataforma são identificadas?                                                        | -        |
-| 28  | Os dispositivos ou navegadores que podem ser utilizados são identificados?                                                        | -        |
 
 
 _Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm), 2024._
