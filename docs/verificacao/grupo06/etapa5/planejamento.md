@@ -26,12 +26,12 @@ A Tabela 1 foi produzida para uma melhor visualização dos objetos que serão v
 
 ## Checklists
 
-Os checklists que serão apresentados abaixo foram produzidos levando em conta os padrões esperados e as principais atividades realizadas em cada artefato, tendo como referência bibliográfica o livro "Interação Humano-Computador" de Bruno Silva e Simone Barbosa [1] e as anotações referentes à entrega da etapa 2 feitas pelo monitor da disciplina [Gabriel Campello](https://github.com/G16C).
+Os checklists que serão apresentados abaixo foram produzidos levando em conta os padrões esperados e as principais atividades realizadas em cada artefato, tendo como referência bibliográfica o livro "Interação Humano-Computador" de Bruno Silva e Simone Barbosa <a id=anchor_1 href="#REF1"><sup>1</sup></a> e as anotações referentes à entrega da etapa 2 feitas pelo monitor da disciplina [Gabriel Campello](https://github.com/G16C).
 
-Abaixo estão dispostas [NUMERO_DE_TABELAS] tabelas que contém o conteúdo das checklists que serão utilizdas para a atividade anteriormente descrita, sendo [NUM_TABELAS] dessas tabelas referentes a cada artefato produzido e suas singularidades e 1 referente à padronização dos artefatos em geral, que será usada na avaliação de todos os artefatos tratados pela Tabela 1. As avaliações podem ser respondidas com "Sim", "Não" e "Incompleto", tendo também um campo para preencher com as observações de cada pergunta, quando necessário.
+Abaixo estão dispostas 5 tabelas que contém o conteúdo das checklists que serão utilizdas para a atividade anteriormente descrita, sendo 4 dessas tabelas referentes a cada artefato produzido e suas singularidades e 1 referente à padronização dos artefatos em geral, que será usada na avaliação de todos os artefatos tratados pela Tabela 1. As avaliações podem ser respondidas com "Sim", "Não" e "Incompleto", tendo também um campo para preencher com as observações de cada pergunta, quando necessário.
 
 ### Padronização
-A tabela 2 a seguir apresenta a checklist referente a padronização que os artefatos devem seguir, sendo que as perguntas contidas no checklist foram baseadas nas presentes como sugestão de verificação pelo Plano de Ensino da disciplina de IHC [REFERENCIAR]
+A tabela 2 a seguir apresenta a checklist referente a padronização que os artefatos devem seguir, sendo que as perguntas contidas no checklist foram baseadas nas presentes como sugestão de verificação pelo Plano de Ensino da disciplina de IHC <a id=anchor_2 href="#REF2"><sup>2</sup></a>.
 
 <center>
 
@@ -51,22 +51,21 @@ A tabela 2 a seguir apresenta a checklist referente a padronização que os arte
 
 A tabela 3 a seguir apresenta a checklist referente ao artefato Relato do Resultado - Análise de Tarefas <a id=anchor_3 href="#REF3"><sup>3</sup></a>:
 <center>
-
 **Tabela 3** - Checklist Resultados - Análise de Tarefas
 
-| ID  |                                                 Descrição                                                  | Avaliação | Observações |
-| :-: | :--------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
-|  6  |   Há relato de resultados para todas as tarefas previstas?                           |     -     |      -      |
-|  7  |   Há pelo menos 1 resultado de tarefa para cada integrante do grupo?                        |     -     |      -      |
-|  8  |   O planejamento de relato de resultados está sendo respeitado?                                        |     -     |      -      |
-|  9  |   Há entrevista disponibilizada por um vídeo na categoria não listado?                       |     -     |      -      |
-| 10  |   O horário, local e duração da entrevista foram informados?                     |        -     |        -          |
-| 11  |   São apresentados os dados do entrevistado?                         |     -     |      -      |
-| 12  |   Há confirmação de autorização para registro audio-visual da entrevista por parte do entrevistado?   |     -     |      -      |
-| 13  |   As perguntas previstas no planejamento foram seguidas na entrevista?         |     -   |       -      |
-| 14  |   As respostas das perguntas da entrevista foram apresentadas no relato?  |   -   |   -   |
-| 15  |   Foram apresentados os feedbacks do usuário à respeito da tarefa?      |     -     |    -     |
-| 16  |   São apresentados comentários e/ou mudanças previstas para a tarefa após a apresentação?  |   -    |   -   |
+| ID  | Descrição | Avaliação | Observações |
+| :-: | :-------: | :-------: | :---------: |
+|  6  | Há relato de resultados para todas as tarefas previstas? | - | - |
+|  7  | Há pelo menos 1 resultado de tarefa para cada integrante do grupo? | - | - |
+|  8  | O planejamento de relato de resultados está sendo respeitado? | - | - |
+|  9  | Há entrevista disponibilizada por um vídeo na categoria não listado? | - | - |
+| 10  | O horário, local e duração da entrevista foram informados? | - | - |
+| 11  | São apresentados os dados do entrevistado? | - | - |
+| 12  | Há confirmação de autorização para registro audio-visual da entrevista por parte do entrevistado? | - | - |
+| 13  | As perguntas previstas no planejamento foram seguidas na entrevista? | - | - |
+| 14  | As respostas das perguntas da entrevista foram apresentadas no relato? | - | - |
+| 15  | Foram apresentados os feedbacks do usuário à respeito da tarefa? | - | - |
+| 16  | São apresentados comentários e/ou mudanças previstas para a tarefa após a apresentação? | - | - |
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*</center>
 
@@ -75,23 +74,22 @@ A tabela 3 a seguir apresenta a checklist referente ao artefato Relato do Result
 A tabela 4 a seguir apresenta a checklist referente ao artefato Relato do Resultado - Storyboard <a id=anchor_4 href="#REF4"><sup>4</sup></a>:
 
 <center>
-
 **Tabela 4** - Checklist Resultados - Storyboard
 
 | ID  |                                           Descrição                                           | Avaliação | Observações |
 | :-: | :-------------------------------------------------------------------------------------------: | :-------: | :---------: |
-| 17  | Há relato de resultados para todas as tarefas previstas?    |     -   |      -     |
-| 18  | Há pelo menos 1 resultado de storyboards para cada integrante do grupo?  |     -   |      -     |
-| 19  | O planejamento de relato de resultados está sendo respeitado?               |     -     |      -      |
-| 20  | Há identificação e exibição do storyboard sendo tratado em cada relato?  |   -   |   -   |
-| 21  | Há entrevista disponibilizada por um vídeo na categoria não listado?                       |     -     |      -      |
-| 22  | O horário, local e duração da entrevista foram informados?                     |        -     |        -          |
-| 23  | São apresentados os dados do entrevistado?                         |     -     |      -      |
-| 24  | Há confirmação de autorização para registro audio-visual da entrevista por parte do entrevistado?   |     -     |      -      |
-| 25  | As perguntas previstas no planejamento foram seguidas na entrevista?         |     -   |       -      |
-| 26  | As respostas das perguntas da entrevista foram apresentadas no relato?  |  -  |  -  |
-| 27  | Foram apresentados os feedbacks do usuário à respeito do storyboard?      |     -     |    -     |
-| 28  | São apresentados comentários e/ou mudanças previstas para o storyboard após a apresentação?  |   -    |   -   |
+| 17  | Há relato de resultados para todas as tarefas previstas?                                      |     -     |      -      |
+| 18  | Há pelo menos 1 resultado de storyboards para cada integrante do grupo?                       |     -     |      -      |
+| 19  | O planejamento de relato de resultados está sendo respeitado?                                |     -     |      -      |
+| 20  | Há identificação e exibição do storyboard sendo tratado em cada relato?                      |     -     |      -      |
+| 21  | Há entrevista disponibilizada por um vídeo na categoria não listado?                          |     -     |      -      |
+| 22  | O horário, local e duração da entrevista foram informados?                                    |     -     |      -      |
+| 23  | São apresentados os dados do entrevistado?                                                    |     -     |      -      |
+| 24  | Há confirmação de autorização para registro audio-visual da entrevista por parte do entrevistado? |     -     |      -      |
+| 25  | As perguntas previstas no planejamento foram seguidas na entrevista?                          |     -     |      -      |
+| 26  | As respostas das perguntas da entrevista foram apresentadas no relato?                        |     -     |      -      |
+| 27  | Foram apresentados os feedbacks do usuário a respeito do storyboard?                          |     -     |      -      |
+| 28  | São apresentados comentários e/ou mudanças previstas para o storyboard após a apresentação?  |     -     |      -      |
 
 
 
@@ -136,14 +134,16 @@ A tabela 6 a seguir apresenta a checklist referente ao artefato Planejamento do 
 | 42  | O planejamento de resultados coincide com o esperado na avaliação dos protótipos? |   -   |   -   |
 | 43  | Há previsão de registro das entrevistas realizadas no documento de resultados? |   -   |   -   |
 | 44  | Está previsto a identificação e demais dados do entrevistado no relato de resultados? |   -   |   -   |
-| 45  | Há previsão de como serão apresentados os dados? (forma puramente textual, gráficos, tabelas) |   -   |   -   |
+| 45  | Há previsão de como serão apresentados os dados das perguntas e das anotações dos entrevistadores? (forma puramente textual, gráficos, tabelas) |   -   |   -   |
 | 46  | Há previsão de como os dados serão utilizados para o projeto? |   -   |   -   |
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*</center>
 
 ## Referências bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+> <a id="REF2" href="#anchor_2">2.</a> SALES, André Barros de. Plano de Ensino. 2024. Acesso em : 11/06/2024. Disponível em :<https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/51/Plano_de_Ensino%20FIHC%20012024%20Turma%201%20v2.pdf>
 
 > <a id="REF3" href="#anchor_3">3.</a> VIEIRA, Vinicius. Relato do Resultado - Análise de Tarefas. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.1-DETRANDF/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/relato-resultado-at/>. Acesso em: 12 junho 2024.
 
