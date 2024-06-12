@@ -60,10 +60,9 @@ A tabela 3 a seguir apresenta a checklist referente ao checklist do planejamento
 |  3  | O planejamento descreve o(s) método(s) de avaliação a serem utilizados?  |     -     |      -      |
 |  4  | O planejamento descreve a(s) questões práticas da avaliação          |     -     |      -      |
 |  5  | O planejamento trata dos storyboards que serão analisados, tendo uma por membro do grupo e uma tarefa pra cada storyboard? |     -     |      -      |
-|  6  | Todos os textos estão na norma padrão? Estão seguindo um padrão (centralizados, justificado, alinhado a esquerda)? |     -     |      -      |
-|  7  | O planejamento trata das questões éticas? |     -     |      -      |
-|  8  | O planejamento possui um cronograma (data e horário) e local para realização da avaliação do StoryBoard? |     -     |      -      |
-|  9  | O planejamento trata do teste piloto? (cronograma, participantes, resultado) |     -     |      -      |
+|  6  | O planejamento trata das questões éticas? |     -     |      -      |
+|  7   | Uma tabela de cronograma das entrevistas foi propósta de forma clara?             |     -     |      -      |
+|  8  | O planejamento trata do teste piloto? (cronograma, participantes, resultado) |     -     |      -      |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
@@ -80,10 +79,9 @@ A tabela 4 a seguir apresenta a checklist referente ao checklist do planejamento
 |  3  | O planejamento descreve o(s) método(s) de avaliação a serem utilizados?  |     -     |      -      |
 |  4  | O planejamento descreve a(s) questões práticas da avaliação          |     -     |      -      |
 |  5  | O planejamento trata das tarefas que serão analisadas, tendo uma por membro do grupo? |     -     |      -      |
-|  6  | Todos os textos estão na norma padrão? Estão seguindo um padrão (centralizados, justificado, alinhado a esquerda)? |     -     |      -      |
-|  7  | O planejamento trata das questões éticas? |     -     |      -      |
-|  8  | O planejamento possui um cronograma (data e horário) e local para realização da avaliação da Análise das Tarefas? |     -     |      -      |
-|  9  | O planejamento trata do teste piloto? (cronograma, participantes, resultado) |     -     |      -      |
+|  6  | O planejamento trata das questões éticas? |     -     |      -      |
+|  7  | Uma tabela de cronograma das entrevistas foi propósta de forma clara?             |     -     |      -      |
+|  8  | O planejamento trata do teste piloto? (cronograma, participantes, resultado) |     -     |      -      |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
@@ -94,12 +92,12 @@ A tabela 5 a seguir apresenta a checklist referente ao checklist do planejamento
 
 | ID  |                                                     Descrição                                                      | Avaliação | Observações |
 | :-: | :----------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
-| 1   | O método de avaliação utilizado está claramente explicado?                                               |           |              |
-| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                          |           |              |
-| 3   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                            |           |              |
-| 4   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |           |              |
-| 5   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |           |              |
-| 6   | As sugestões de melhoria para cada tarefa estão detalhadas?                                           |           |              |
+| 1   | O método de avaliação utilizado está claramente explicado?                                               |     -     |      -      |
+| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                          |     -     |      -      |
+| 3   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                           |     -     |      -      |
+| 4   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |     -     |      -      |
+| 5   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?   |     -     |      -      |
+| 6   | As sugestões de melhoria para cada tarefa estão detalhadas?                                           |     -     |      -      |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
@@ -111,12 +109,12 @@ A tabela 6 a seguir apresenta a checklist referente ao checklist do planejamento
 
 | ID  |                                                     Descrição                                                      | Avaliação | Observações |
 | :-: | :----------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
-| 1   | O método de avaliação utilizado está claramente explicado?                                               |           |              |
-| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                          |           |              |
-| 3   | Os storyboards revisados pelos participantes estão descritas de forma detalhada?                            |           |              |
-| 4   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |           |              |
-| 5   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |           |              |
-| 6   | As sugestões de melhoria para cada storyboard estão detalhadas?                                           |           |              |
+| 1   | O método de avaliação utilizado está claramente explicado?                                               |     -     |      -      |
+| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                          |     -     |      -      |
+| 3   | Os storyboards revisados pelos participantes estão descritas de forma detalhada?                         |     -     |      -      |
+| 4   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |     -     |      -      |
+| 5   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?     |     -     |      -      |
+| 6   | As sugestões de melhoria para cada storyboard estão detalhadas?                                          |     -     |      -      |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
