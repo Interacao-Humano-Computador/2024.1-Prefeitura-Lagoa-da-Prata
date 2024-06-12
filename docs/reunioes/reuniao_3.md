@@ -9,13 +9,13 @@
  
 Abaixo temos dois vídeos da reunião. A separação ocorreu devido à erro de hardware durante a primeira gravação que provocou a interrupção da mesma. Assim que o problema foi notado, uma segunda gravação foi iniciada. Os pontos discutidos em reunião, incluindo os momentos não gravados, estão disponibilizados no tópico 3.
 <center>Vídeo 1 - Parte 1 da reunião</center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8nhkA2m-Um0?si=Gt1cWd3pgZWlabQW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/leiXgZhA01s?si=IJ3d2P_NBtzv-XDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <center>Fonte: MEIRELES, Lucas O. 2024</center>
 
 Parte 2
 
 <center>Vídeo 2 - Parte 2 da reunião</center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8nhkA2m-Um0?si=Gt1cWd3pgZWlabQW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrKNR0fPBXQ?si=dH9Xu-OBM55AIjuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <center>Fonte: MEIRELES, Lucas O. 2024</center>
 
 ## 2. Participantes
@@ -54,8 +54,8 @@ Com nada mais a ser tratado no momento, houve a declaração de fim da reunião.
 
 
 ## 4. Histórico de Versões
-|    Data    | Versão |          Descrição          |                      Autor(es)                      | Data de revisão | Revisor(es) |
-| :--------: | :----: | :-------------------------: | :-------------------------------------------------: | :-------------: | :---------: |
-| 15/04/2024 | `1.0`  | Versão inicial de documento | [Lucas Meireles](https://github.com/Katuner)        |                 |             |
-|            |        |                             |                                                     |                 |             |
+|    Data    | Versão |          Descrição          |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :-------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 15/04/2024 | `1.0`  | Versão inicial de documento | [Lucas Meireles](https://github.com/Katuner) |   12/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+
 
