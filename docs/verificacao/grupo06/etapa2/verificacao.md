@@ -27,6 +27,17 @@ A tabela 1 a seguir resume os participantes que partiparam como avaliadores dest
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
 
+## Inspeção
+O vídeo 1 a seguir apresenta o avaliador [Pedro Lucas](https://github.com/lucasdray) fazendo a inspeção dos artefatos "Cénarios" e "Áspectos Éticos" do projeto do [grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/):
+
+<center>
+**Vídeo 1** - Parte 1 da reunião
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PrH0HnmJmZc?si=X75mliyANvnn4WUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
+
+O vídeo tambem pode ser acessado clicando [aqui](https://www.youtube.com/watch?v=PrH0HnmJmZc)
+
 ## Padronização
 A tabela 2 a seguir apresenta os dados obtidos na verificação de todos os artefatos na questão padronização, também presente no documento de [planejamento](./planejamento.md) da atividade aqui realizada:
 
@@ -470,12 +481,13 @@ Abaixo estão melhor exemplificados os problemas encontrados e as justificativas
 > <a id="REF7" href="#anchor_7">7.</a> SENA, Pedro; VIEIRA, Vinicius; CARVALHO, Filipe. GOMS. Repositório do Grupo DETRAN-DF da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/goms/>. Acesso em: 10 junho 2024.
 
 ## Historico de Versões
-|    Data    | Versão |                  Descrição                   |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | :------------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 10/06/2024 | `1.0`  |             Criação do documento             | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
-| 10/06/2024 | `1.1`  | Verificação Padronização e Perfil do Usuário | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
-| 10/06/2024 | `1.2`  |             Verificação Persona              | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
-| 10/06/2024 | `1.3`  |             Verificação Cénarios             | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
-| 11/06/2024 | `1.4`  |               Verificação HTA                | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
-| 12/06/2024 | `1.4`  |               Verificação GOMS               | [Pedro Lucas](https://github.com/lucasdray) | 12/06/2024      | [Lucas Meireles](https://github.com/Katuner)|
-| 12/06/2024 | `1.5`  |  Alterações textuais de resultados, introdução e metodologia | [Lucas Meireles](https://github.com/Katuner)|              |           | 
+|    Data    | Versão |                          Descrição                          |                  Autor(es)                   | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :---------------------------------------------------------: | :------------------------------------------: | :-------------: | :------------------------------------------: |
+| 10/06/2024 | `1.0`  |                    Criação do documento                     | [Pedro Lucas](https://github.com/lucasdray)  |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
+| 10/06/2024 | `1.1`  |        Verificação Padronização e Perfil do Usuário         | [Pedro Lucas](https://github.com/lucasdray)  |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
+| 10/06/2024 | `1.2`  |                     Verificação Persona                     | [Pedro Lucas](https://github.com/lucasdray)  |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
+| 10/06/2024 | `1.3`  |                    Verificação Cénarios                     | [Pedro Lucas](https://github.com/lucasdray)  |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
+| 11/06/2024 | `1.4`  |                       Verificação HTA                       | [Pedro Lucas](https://github.com/lucasdray)  |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
+| 12/06/2024 | `1.4`  |                      Verificação GOMS                       | [Pedro Lucas](https://github.com/lucasdray)  |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
+| 12/06/2024 | `1.5`  | Alterações textuais de resultados, introdução e metodologia | [Lucas Meireles](https://github.com/Katuner) |   12/06/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 12/06/2024 | `1.6`  |                       Adição inspeção                       | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                              |
