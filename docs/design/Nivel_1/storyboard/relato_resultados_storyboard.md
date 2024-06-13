@@ -122,6 +122,21 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
     <center>
     Tabela 4: Respostas da entrevista para o Storyboard 1 </center>
 
+    - Terceira Entrevista
+    - Dados gerais da entrevista:
+
+        - Entrevistador: [Augusto Duarte](https://github.com/Augcamp)
+        - Nome do(a) entrevistado(a): Rute Oliveira
+        - Faixa etária do(a) entrevistado(a): 40 a 55 anos
+        - Profissão do(a) entrevistado(a): Funcionária Pública
+
+    - Storyboard a ser tratado:
+
+    <img title="a title" alt="StoryBoard Augusto Duarte" src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/StoryBoards/storyboard_augusto.png?raw=true" width="100%">
+    <div align="center">
+    <p> <b>Figura 3</b>: O storyboard da funcionalidade de Acessar o módulo de Contra Cheque e consultar os processos do servidor. (Fonte: DUARTE, Augusto. 2024).</p>
+    </div> 
+
 
 
 ## Histórico de Revisões
@@ -130,3 +145,4 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 03/06/2024 | `1.0`  |  Elaboração inicial do documento   |      [Lucas Meireles](https://github.com/Katuner) |      |  |
 | 03/06/2024 | `1.0`  |  Insere video   | [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 13/06/2024 | `1.3`  |  Adição StoryBoard e dados da Intrevista   |      [Augusto Duarte](https://github.com/Augcamp) |      |  |
