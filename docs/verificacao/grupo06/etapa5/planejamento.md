@@ -154,6 +154,6 @@ A tabela 6 a seguir apresenta a checklist referente ao artefato Planejamento do 
 
 ## Histórico de Versões
 
-|    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 12/06/2024 | `1.0`  |        Criação e elaboração do documento        | [Lucas Meireles](https://github.com/Katuner) |  |  |
+|    Data    | Versão |             Descrição             |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :-------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 12/06/2024 | `1.0`  | Criação e elaboração do documento | [Lucas Meireles](https://github.com/Katuner) |   12/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
