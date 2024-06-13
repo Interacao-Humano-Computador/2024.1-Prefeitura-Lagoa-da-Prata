@@ -151,6 +151,6 @@ A tabela 6 a seguir apresenta a checklist referente ao checklist do planejamento
 
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 11/06/2024 | `1.0`  |        Criação do documento        | [Cainã Freitas](https://github.com/freitasc) |                 |             |
-| 12/06/2024 | `1.1`  |        Corrige tabelas do documento        | [Cainã Freitas](https://github.com/freitasc) |                 |             |
-| 12/06/2024 | `1.2`  |        Corrige documento        | [Cainã Freitas](https://github.com/freitasc) |                 |             |
+| 11/06/2024 | `1.0`  |        Criação do documento        | [Cainã Freitas](https://github.com/freitasc) |  12/06/2024    | [Augusto Duarte](https://github.com/Augcamp)           |
+| 12/06/2024 | `1.1`  |        Corrige tabelas do documento| [Cainã Freitas](https://github.com/freitasc) |  12/06/2024    | [Augusto Duarte](https://github.com/Augcamp)            |
+| 12/06/2024 | `1.2`  |        Corrige documento        | [Cainã Freitas](https://github.com/freitasc)    |  12/06/2024    | [Augusto Duarte](https://github.com/Augcamp)            |
