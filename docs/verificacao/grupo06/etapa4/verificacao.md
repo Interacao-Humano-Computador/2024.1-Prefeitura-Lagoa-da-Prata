@@ -27,6 +27,18 @@ Tabela 1- Avaliadores da Verificação
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 </center>
 
+## Inspeção
+O vídeo 1 a seguir apresenta o avaliador [Cainã Freitas](https://github.com/freitasc) fazendo a inspeção dos artefatos "Planejamento da Avaliação do Storyboard", "Planejamento da Avaliação da Análise de Tarefas", "Planejamento do Relato dos Resultados da Avaliação (Análise de Tarefas)" e "Planejamento do Relato dos Resultados (Storyboard)" do projeto do [grupo 6](https://interacao-humano-computador.github.io/2024.1-DETRANDF/):
+
+<center>
+**Vídeo 1** - Inpesção Cénarios e Aspectos Éticos.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Fols84a_cQ?si=CLaZDr6lqoltdXW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+</center>
+
+O vídeo tambem pode ser acessado clicando [aqui](https://www.youtube.com/watch?v=PrH0HnmJmZc)
+
+
 ## Checklists
 
 Os checklists abaixo foram feitos levando em conta os padrões esperados e as principais atividades realizadas em cada artefato, tendo como referência bibliográfica o livro Interação Humano Computador de Bruno Silva e Simone Barbosa<a id=anchor_1 href="#REF1"><sup>1</sup></a> e as anotações referentes a entrega da etapa 4 feitas pelo monitor da disciplina Gabriel Campello. A checklist será divida em 5 tabelas, sendo 4 referentes a cada artefato produzido e 1 referente a padronização e que será usada em todos os artefatos.
@@ -47,6 +59,18 @@ A tabela 2 a seguir apresenta a checklist referente a padronização que os arte
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
 
+### Acompanhamento
+
+A figura 01 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 2.
+<center>
+**Figura 01** - Gráfico dos resultados da Padronização
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/etapa4/padronizacao.png" >
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+</center>
+
+
 ### Planejamento da Avaliação do Storyboard
 A tabela 3 a seguir apresenta a checklist referente ao checklist do planejamento da Avaliação do Storyboard. <a id=anchor_2 href="#REF2"><sup>2</sup></a>:
 
@@ -55,17 +79,27 @@ A tabela 3 a seguir apresenta a checklist referente ao checklist do planejamento
 
 | ID  |                                                     Descrição                                                      | Avaliação | Observações |
 | :-: | :----------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
-|  1  | O planejamento segue o framework DECIDE?                                            |     -     |    -  |
-|  2  |  O planejamento descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual)                            |     -     |      -      |
-|  3  | O planejamento descreve o(s) método(s) de avaliação a serem utilizados?  |     -     |      -      |
-|  4  | O planejamento descreve a(s) questões práticas da avaliação          |     -     |      -      |
-|  5  | O planejamento trata dos storyboards que serão analisados, tendo uma por membro do grupo e uma tarefa pra cada storyboard? |     -     |      -      |
-|  6  | O planejamento trata das questões éticas? |     -     |      -      |
-|  7   | Uma tabela de cronograma das entrevistas foi propósta de forma clara?             |     -     |      -      |
-|  8  | O planejamento trata do teste piloto? (cronograma, participantes, resultado) |     -     |      -      |
+|  1  | O planejamento segue o framework DECIDE?                                            |     INCOMPLETO     |    Os objetivos não são bem definidos, tendo relação com a tabela de perguntas  |
+|  2  |  O planejamento descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual)                             |     INCOMPLETO     |    Os objetivos não são bem definidos, tendo relação com a tabela de perguntas  |
+|  3  | O planejamento descreve o(s) método(s) de avaliação a serem utilizados?  |     SIM     |      -      |
+|  4  | O planejamento descreve a(s) questões práticas da avaliação          |     SIM     |      -      |
+|  5  | O planejamento trata dos storyboards que serão analisados, tendo uma por membro do grupo e uma tarefa pra cada storyboard? |     NÃO     |      Na tabela apesar de citar uma tarefa para cada membro, não mostra o storyboard de cada membro      |
+|  6  | O planejamento trata das questões éticas? |     SIM     |      -      |
+|  7   | Uma tabela de cronograma das entrevistas foi propósta de forma clara?             |     SIM     |      -      |
+|  8  | O planejamento trata do teste piloto? (cronograma, participantes, resultado) |     INCOMPLETO     |      Não mostra os membros responsáveis por cada entrevista |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
+### Acompanhamento
+
+A figura 02 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 3.
+<center>
+**Figura 02** - Gráfico dos resultados da Planejamento da Avaliação do Storyboard
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/etapa4/planej_ava_story.png" >
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+</center>
 
 ### Planejamento da Avaliação da Análise de tarefas
 A tabela 4 a seguir apresenta a checklist referente ao checklist do planejamento da Avaliação da Análise de tarefas. <a id=anchor_3 href="#REF3"><sup>3</sup></a>:
@@ -74,16 +108,29 @@ A tabela 4 a seguir apresenta a checklist referente ao checklist do planejamento
 
 | ID  |                                                     Descrição                                                      | Avaliação | Observações |
 | :-: | :----------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
-|  1  | O planejamento segue o framework DECIDE?                                            |     -     |    -  |
-|  2  |  O planejamento descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual)                            |     -     |      -      |
-|  3  | O planejamento descreve o(s) método(s) de avaliação a serem utilizados?  |     -     |      -      |
-|  4  | O planejamento descreve a(s) questões práticas da avaliação          |     -     |      -      |
-|  5  | O planejamento trata das tarefas que serão analisadas, tendo uma por membro do grupo? |     -     |      -      |
-|  6  | O planejamento trata das questões éticas? |     -     |      -      |
-|  7  | Uma tabela de cronograma das entrevistas foi propósta de forma clara?             |     -     |      -      |
-|  8  | O planejamento trata do teste piloto? (cronograma, participantes, resultado) |     -     |      -      |
+|  1  | O planejamento segue o framework DECIDE?                                            |     INCOMPLETO     |    Os objetivos não são bem definidos, tendo relação com a tabela de perguntas  |
+|  2  |  O planejamento descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual)                             |     INCOMPLETO     |    Os objetivos não são bem definidos, tendo relação com a tabela de perguntas  |
+|  3  | O planejamento descreve o(s) método(s) de avaliação a serem utilizados?  |     SIM     |      -      |
+|  4  | O planejamento descreve a(s) questões práticas da avaliação          |     SIM     |      -      |
+|  5  | O planejamento trata das tarefas que serão analisadas, tendo uma por membro do grupo? |     SIM     |      -      |
+|  6  | O planejamento trata das questões éticas? |     SIM     |      -      |
+|  7  | Uma tabela de cronograma das entrevistas foi propósta de forma clara?             |     SIM     |      -      |
+|  8  | O planejamento trata do teste piloto? (cronograma, participantes, resultado) |     SIM     |      -      |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
+
+
+### Acompanhamento
+
+A figura 03 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 4.
+<center>
+**Figura 03** - Gráfico dos resultados da Planejamento da Avaliação do Storyboard
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/etapa4/planej_ava_taref.png" >
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+</center>
+
 
 ### Planejamento do relato dos resultados da avaliação do Análise de tarefas
 A tabela 5 a seguir apresenta a checklist referente ao checklist do planejamento do relato dos resultados da avaliação do Análise de tarefas. <a id=anchor_4 href="#REF4"><sup>4</sup></a>:
@@ -92,22 +139,32 @@ A tabela 5 a seguir apresenta a checklist referente ao checklist do planejamento
 
 | ID  |                                                     Descrição                                                      | Avaliação | Observações |
 | :-: | :----------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
-| 1   | O método de avaliação utilizado está claramente explicado?                                                             |     -     |      -      |
-| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                                        |     -     |      -      |
-|   3   | O planejamento define objetivo e escopo de avaliação dos resultados?                                                  |    -     |      -       |
-|   4   | O planejamento define método de avaliação dos resultados?                                                             |    -     |       -      |
-|   5   | O planejamento apresenta os participantes selecionados?                                                               |    -     |       -      |
-|   6   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                 |    -     |       -      |
-|  7   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                   |    -     |        -     |
-|  8   | O planejamento apresenta instruções com relação às sugestões de melhorias?                                            |    -     |       -      |
-|  9   | O planejamento apresenta uma seção para o feedback dos usuários?                                                      |    -     |      -       |
-|  10   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                           |    -     |      -       |
-|  11   | O planejamento define tópico para sumarizar os principais resultados?                                                 |    -     |     -        |
-|  12   | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?                         |    -     |     -        |
-|  13   | O planejamento considera no resultado um planejamento para o reprojeto do sistema?                                    |    -    |       -      |
+| 1   | O método de avaliação utilizado está claramente explicado?                                                             |     SIM     |      -      |
+| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                                        |     SIM    |      -      |
+|   3   | O planejamento define objetivo e escopo de avaliação dos resultados?                                                  |    SIM     |      -       |
+|   4   | O planejamento define método de avaliação dos resultados?                                                             |    SIM     |       -      |
+|   5   | O planejamento apresenta os participantes selecionados?                                                               |    SIM     |       -      |
+|   6   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                 |    SIM     |       -      |
+|  7   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                   |    SIM     |        -     |
+|  8   | O planejamento apresenta instruções com relação às sugestões de melhorias?                                            |    SIM     |       -      |
+|  9   | O planejamento apresenta uma seção para o feedback dos usuários?                                                      |    SIM     |      -       |
+|  10   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                           |    SIM     |      -       |
+|  11   | O planejamento define tópico para sumarizar os principais resultados?                                                 |    NÃO     |     -        |
+|  12   | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?                         |    NÃO    |     -        |
+|  13   | O planejamento considera no resultado um planejamento para o reprojeto do sistema?                                    |    SIM    |       -      |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
 
+### Acompanhamento
+
+A figura 04 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 5.
+<center>
+**Figura 04** - Gráfico dos resultados do Planejamento do relato dos resultados da avaliação do Análise de tarefas
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/etapa4/planej_relato_taref.png" >
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+</center>
 
 ### Planejamento do relato dos resultados da avaliação do Storyboard
 A tabela 6 a seguir apresenta a checklist referente ao checklist do planejamento do relato dos resultados da avaliação do Storyboard. <a id=anchor_5 href="#REF5"><sup>5</sup></a>:
@@ -116,21 +173,33 @@ A tabela 6 a seguir apresenta a checklist referente ao checklist do planejamento
 
 | ID  |                                                     Descrição                                                      | Avaliação | Observações |
 | :-: | :----------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
-| 1   | O método de avaliação utilizado está claramente explicado?                                                             |     -     |      -      |
-| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                                        |     -     |      -      |
-|   3   | O planejamento define objetivo e escopo de avaliação dos resultados?                                                  |    -     |     -        |
-|   4   | O planejamento define método de avaliação dos resultados?                                                             |    -     |     -        |
-|   5   | O planejamento apresenta os participantes selecionados?                                                               |    -     |     -        |
-|   6   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                 |    -     |      -       |
-|  7   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                   |    -     |       -      |
-|  8   | O planejamento apresenta instruções com relação às sugestões de melhorias?                                            |    -     |      -       |
-|  9   | O planejamento apresenta uma seção para o feedback dos usuários?                                                      |    -     |      -       |
-|  10   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                           |    -     |     -        |
-|  11   | O planejamento define tópico para sumarizar os principais resultados?                                                 |    -     |      -       |
-|  12   | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?                         |    -     |     -        |
-|  13   | O planejamento considera no resultado um planejamento para o reprojeto do sistema?                                    |     -    |     -        |
+| 1   | O método de avaliação utilizado está claramente explicado?                                                             |     SIM     |      -      |
+| 2   | A tabela de cronograma das entrevistas está presente e é clara?                                                        |     SIM    |      -      |
+|   3   | O planejamento define objetivo e escopo de avaliação dos resultados?                                                  |    SIM     |      -       |
+|   4   | O planejamento define método de avaliação dos resultados?                                                             |    SIM     |       -      |
+|   5   | O planejamento apresenta os participantes selecionados?                                                               |    SIM     |       -      |
+|   6   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                 |    SIM     |       -      |
+|  7   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                   |    SIM     |        -     |
+|  8   | O planejamento apresenta instruções com relação às sugestões de melhorias?                                            |    SIM     |       -      |
+|  9   | O planejamento apresenta uma seção para o feedback dos usuários?                                                      |    SIM     |      -       |
+|  10   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                           |    SIM     |      -       |
+|  11   | O planejamento define tópico para sumarizar os principais resultados?                                                 |    NÃO     |     -        |
+|  12   | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?                         |    NÃO    |     -        |
+|  13   | O planejamento considera no resultado um planejamento para o reprojeto do sistema?                                    |    SIM    |       -      |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*</center>
+
+
+### Acompanhamento
+
+A figura 05 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 6.
+<center>
+**Figura 05** - Gráfico dos resultados do Planejamento do relato dos resultados da avaliação do Storyboard
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/etapa4/planej_relato_story.png" >
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+</center>
 
 ## Referências bibliográficas
 
