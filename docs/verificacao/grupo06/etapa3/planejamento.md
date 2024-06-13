@@ -153,7 +153,7 @@ _Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm), 2024._
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição               | Autor(es)                                     | Revisor(es)                                 |
-| ------ | ---------- | ----------------------- | --------------------------------------------- | ------------------------------------------- |
-| `1.0`  | 10/06/2024 | Criação do documento.   | [Joyce Dionizio](https://github.com/joycejdm) | [Pedro Lucas](https://github.com/lucasdray) |
-| `1.2`  | 10/06/2024 | Atualização checklists. | [Joyce Dionizio](https://github.com/joycejdm) | [Pedro Lucas](https://github.com/lucasdray) |
+| Versão | Data       | Descrição               | Autor(es)                                     |Data de Revisão      | Revisor(es)                                 |
+| ------ | ---------- | ----------------------- | --------------------------------------------- |:-------------:      | ------------------------------------------- |
+| `1.0`  | 10/06/2024 | Criação do documento.   | [Joyce Dionizio](https://github.com/joycejdm) |12/06/2024           | [Pedro Lucas](https://github.com/lucasdray) |
+| `1.2`  | 10/06/2024 | Atualização checklists. | [Joyce Dionizio](https://github.com/joycejdm) |12/06/2024           | [Pedro Lucas](https://github.com/lucasdray) |
