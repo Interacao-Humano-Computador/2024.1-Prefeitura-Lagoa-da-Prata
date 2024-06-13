@@ -132,15 +132,16 @@ A tabela 5 a seguir apresenta os dados obtidos na verificação de todos os arte
 
 ### Acompanhamento 
 
-A figura 04 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
+A figura 04 abaixo permite uma visualização melhor quanto às respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
 
 <center>
 
-![Figura 04 - Gráfico dos resultados dos Princípios Gerais](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/graficos/resultado_principios.jpeg)
+
+![Figura 04 - Resultados dos Princípios](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/resultado_principios.jpeg)
+
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
 </center>
-
 
 ### Problemas Encontrados e Análise dos Dados
 
@@ -173,10 +174,13 @@ A figura 05 abaixo permite uma visualização melhor quanto as respostas da aval
 
 <center>
 
-![Figura 05 - Gráfico dos resultados das Características Gerais](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/graficos/resultado_caracteristicas.jpeg)
+
+![Figura 05 - Resultados das Características](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/resultado_caracteristicas.jpeg)
+
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
 </center>
+
 
 ### Gravação da Verificação
 
