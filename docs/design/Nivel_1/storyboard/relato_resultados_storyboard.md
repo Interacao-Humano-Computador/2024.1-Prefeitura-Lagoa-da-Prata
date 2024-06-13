@@ -137,12 +137,32 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
     <p> <b>Figura 3</b>: O storyboard da funcionalidade de Acessar o módulo de Contra Cheque e consultar os processos do servidor. (Fonte: DUARTE, Augusto. 2024).</p>
     </div> 
 
+    <center>
     - Vídeo da entrevista: 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/FE9nz108ViE?si=40MqpU3CGj4xpTNn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <center>
     Disponível em : <https://youtu.be/FE9nz108ViE>
     </center>
 
+    - Respostas às perguntas:
+
+    | Enumeração de perguntas | Pergunta       |   Resposta |
+    | :-----------------: | :-----------------:|  :-----------------: |
+    | 1        | Os usuários envolvidos no storyboard condizem com a realidade?   |  Sim  |
+    | 2        | O cenário que o storyboard está inserido condiz com a realidade? |  Sim  |
+    | 3        | As ações realizadas pelo usuário no storyboard condizem com o esperado? |  Sim  |
+    | 4        | Você compreendeu o storyboard aqui passado e as pessoas envolvidas? |  Sim  |
+    | 5        | Foi possível compreender os passos realizados? Se não, por que?       |  Sim  |
+    | 6        | Foi possível identificar a vantagem e a satisfação final do storyboard?     |  Sim |
+    | 7        | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário?      |  Sim  |
+    | 8        | O storyboard demonstra os benefícios e as vantagens da ferramenta?      |  Sim  |
+    | 9        | Dados os aspectos apresentados, você vê a possibilidade desse cenário ocorrer na cidade?      |  Sim  |
+    | 10       | Dados os aspectos apresentados, você vê a população criando uma cultura para utilizar a proposta aqui descrita? Explique    |  Sim, muito importante para os usuários, para a população, com certeza é uma evolução, vai ajudar muito essa ferramenta.     | 
+    | 11       | Dados os aspectos apresentados, você acha que é viável a utilização da ferramenta e que isso trará benefícios para as partes interessadas? Explique. | Sim, haverá uma melhora nas respostas do orgão publico, além de que o servidor tem a possibilidade de realizar a tarefa no seu cotidiano, sem preisar se deslocar.      |
+    | 12       | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?    | Não   |
+
+    <center>
+    Tabela 5: Respostas da entrevista para o Storyboard 3 </center>
 
 ## Histórico de Revisões
 
@@ -152,3 +172,4 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
 | 03/06/2024 | `1.0`  |  Insere video   | [Cainã Freitas](https://github.com/freitasc) |      |  |
 | 13/06/2024 | `1.3`  |  Adição StoryBoard e dados da Entrevista   |      [Augusto Duarte](https://github.com/Augcamp) |      |  |
 | 13/06/2024 | `1.4`  |  Entrevista                                |      [Augusto Duarte](https://github.com/Augcamp) |      |  |
+| 13/06/2024 | `1.5`  |  Tabela de respostas da Entrevista         |      [Augusto Duarte](https://github.com/Augcamp) |      |  |
