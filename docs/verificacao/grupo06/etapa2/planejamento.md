@@ -217,4 +217,4 @@ A tabela 8 a seguir apresenta a checklist referente ao artefato Análise de Tare
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :-------------------------------------------: |
 | 09/06/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |   11/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
 | 10/06/2024 | `1.1`  | Estruturação completa do documento | [Pedro Lucas](https://github.com/lucasdray) |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner)  |
-| 12/06/2024 | `1.2`  |          Adição Inspeção           | [Pedro Lucas](https://github.com/lucasdray) |                 |                                               |
+| 12/06/2024 | `1.2`  |          Adição Inspeção           | [Pedro Lucas](https://github.com/lucasdray) |   12/06/2024    | [Augusto Duarte](https://github.com/Augcamp)  |

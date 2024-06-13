@@ -216,6 +216,6 @@ A figura 05 abaixo apresenta o gráfico "pizza" referente às respostas da verif
 
 ## Histórico de Versões
 
-|    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 12/06/2024 | `1.0`  |        Criação do documento        | [Cainã Freitas](https://github.com/freitasc) |                 |             |
+|    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão | Revisor(es) |
+| :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :---------: |
+| 12/06/2024 | `1.0`  | Criação do documento | [Cainã Freitas](https://github.com/freitasc) |    12/06/2024   |  [Augusto Duarte](https://github.com/Augcamp)   |
