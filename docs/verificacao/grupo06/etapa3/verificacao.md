@@ -116,11 +116,11 @@ A tabela 5 a seguir apresenta os dados obtidos na verificação de todos os arte
 
 | ID  |                                                              Descrição                                                               | Avaliação  |                                                                                                                             Observações                                                                                                                             |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  24  |                                  Os princípios incluem os tópicos listados?                                  |    SIM     |   -                                                                                                                                                                         |
-|  25  |                                   Os princípios incluem correspondência com as expectativas dos usuários?                                      | SIM |    -                                                                                                                                                                                            |
-|  26  |                          Os princípios incluem simplicidade nas estruturas?                       | SIM |    -                                                                                                                                                                                                 |
-|  27  |                                  Os princípios incluem equilíbrio entre controle e liberdade?                                   |   SIM      |                                                                                                                                  -                                                                                                                                  |
-|  28  |                                       Os princípios incluem consistência e padronização?                                             |   SIM      |                                                                                                                                  -                                                                                                                                  |
+|  14  |                                  Os princípios incluem os tópicos listados?                                  |    SIM     |   -                                                                                                                                                                         |
+|  15  |                                   Os princípios incluem correspondência com as expectativas dos usuários?                                      | SIM |    -                                                                                                                                                                                            |
+|  16  |                          Os princípios incluem simplicidade nas estruturas?                       | SIM |    -                                                                                                                                                                                                 |
+|  17  |                                  Os princípios incluem equilíbrio entre controle e liberdade?                                   |   SIM      |                                                                                                                                  -                                                                                                                                  |
+|  18  |                                       Os princípios incluem consistência e padronização?                                             |   SIM      |                                                                                                                                  -                                                                                                                                  |
 |  19  |                                       Os princípios incluem promoção da eficiência do usuário?                                             |  SIM       |                                                                                                                                  -                                                                                                                                  |
 |  20  |                                       Os princípios que serão usados no futuro estão definidos?                                             |    SIM     |                                                                                                                                  -                                                                                                                                  |
 |  21  |                                       Há chamadas e links para outros textos dentro do artefato?                                             |    NÃO     |                                                                                                                                  -                                                                                                                                  |
@@ -129,6 +129,23 @@ A tabela 5 a seguir apresenta os dados obtidos na verificação de todos os arte
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
 </center>
+
+### Acompanhamento 
+
+A figura 04 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
+
+<center>
+
+![Figura 04 - Gráfico dos resultados dos Princípios Gerais](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/graficos/resultado_principios.jpeg)
+
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
+</center>
+
+
+### Problemas Encontrados e Análise dos Dados
+
+#### ID 21 - Há links e chamadas dentro dos textos do artefato?
+- O artefato não apresenta links e chamadas, é interessante manter os links e chamadas dentro do documento para facilitar a leitura e melhorar a dinâmica.
 
 
 ## Características Gerais
@@ -150,6 +167,16 @@ A tabela 6 a seguir apresenta os dados obtidos na verificação de todos os arte
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
 </center>
 
+### Acompanhamento 
+
+A figura 05 abaixo permite uma visualização melhor quanto as respostas da avaliação, os problemas encontrados e sugestões de correção serão abordadas com mais detalhes em cada artefato especificamente.
+
+<center>
+
+![Figura 05 - Gráfico dos resultados das Características Gerais](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/graficos/resultado_caracteristicas.jpeg)
+
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
+</center>
 
 ### Gravação da Verificação
 
@@ -182,4 +209,5 @@ O vídeo tambem pode ser acessado clicando [aqui](https://www.youtube.com/watch?
 | 12/06/2024 | `1.4`  |          Verificação Guia de Estilo          | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
 | 12/06/2024 | `1.5`  |          Verificação Metas de Usabilidade    | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
 | 12/06/2024 | `1.6`  |          Gravação da Verificação Guia de Estilo   | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
-| 12/06/2024 | `1.6`  |          Adição Avaliador do Artefato        | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
+| 12/06/2024 | `1.7`  |          Adição Avaliador do Artefato        | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
+| 12/06/2024 | `1.8`  |          Adição Acompanhamento        | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
