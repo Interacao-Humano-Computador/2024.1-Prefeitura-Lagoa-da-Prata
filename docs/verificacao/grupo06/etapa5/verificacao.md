@@ -369,4 +369,4 @@ Com base nos problemas encontrados e na análise dos dados encontrados, fica sug
 
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 12/06/2024 | `1.0`  |        Criação e elaboração do documento        | [Lucas Meireles](https://github.com/Katuner) |  |  |
+| 12/06/2024 | `1.0`  |        Criação e elaboração do documento        | [Lucas Meireles](https://github.com/Katuner) | 12/06/2024 | [Cainã Freitas](https://github.com/freitasc) |
