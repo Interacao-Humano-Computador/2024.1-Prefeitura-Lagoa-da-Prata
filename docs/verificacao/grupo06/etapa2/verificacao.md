@@ -69,6 +69,7 @@ A figura 01 abaixo apresenta o gráfico "pizza" referente às respostas da verif
 A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Perfil do Usuário <a id=anchor_2 href="#REF2"><sup>2</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
 
 <center>
+
 **Tabela 3** - Verificação Perfil do Usuário
 
 | ID  |                                            Descrição                                            | Avaliação  |                                                                                    Observações                                                                                     |
@@ -92,7 +93,9 @@ A tabela 3 abaixo apresenta os dados obtidos na verificação da checklist do Pe
 ### Acompanhamento 
 
 A figura 02 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 3.
+
 <center>
+
 **Figura 02** - Gráfico dos resultados do Perfil de Usuário
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/perfil.png" >
@@ -157,7 +160,9 @@ Com base nos problemas encontrados e na análise dos dados encontrados, fica sug
 
 ## **Personas**
 A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do artefato Personas <a id=anchor_3 href="#REF3"><sup>3</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
+
 <center>
+
 **Tabela 4** - Verificação Persona
 
 | ID  |                                           Descrição                                           | Avaliação  |                           Observações                           |
@@ -181,12 +186,15 @@ A tabela 4 abaixo apresenta os dados obtidos na verificação da checklist do ar
 ### Acompanhamento
 
 A figura 03 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 4.
+
 <center>
+
 **Figura 03** - Gráfico dos resultados da Persona
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/persona.png" >
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
 </center>
 
 ### Problemas Encontrados e Análise dos Dados
@@ -227,7 +235,9 @@ Abaixo estão melhor exemplificados os problemas encontrados e as justificativas
 ## **Cénarios**
 
 A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do artefato Cénarios <a id=anchor_4 href="#REF4"><sup>4</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
+
 <center>
+
 **Tabela 5** - Verificação Cénarios
 
 | ID  |                               Descrição                                | Avaliação |                Observações                |
@@ -246,12 +256,15 @@ A tabela 5 abaixo apresenta os dados obtidos na verificação da checklist do ar
 ### Acompanhamento
 
 A figura 04 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 5.
+
 <center>
+
 **Figura 04** - Gráfico dos resultados da Cénarios
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/cenarios.png" >
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
 </center>
 
 ### Problemas Encontrados e Análise dos Dados
@@ -289,7 +302,9 @@ Abaixo estão melhor exemplificados os problemas encontrados e as justificativas
 ## **Aspectos Éticos de Pesquisas Envolvendo Pessoas**
 
 A tabela 6 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_5 href="#REF5"><sup>5</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
+
 <center>
+
 **Tabela 6** - Verificação Aspectos Éticos
 
 | ID  |                                              Descrição                                               | Avaliação |                Observações                |
@@ -306,12 +321,15 @@ A tabela 6 abaixo apresenta os dados obtidos na verificação da checklist do ar
 ### Acompanhamento
 
 A figura 05 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 6.
+
 <center>
+
 **Figura 05** - Gráfico dos resultados dos Aspectos Éticos
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/aspectos_eticos.png" >
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
 </center>
 
 ### Problemas Encontrados e Análise dos Dados
@@ -336,7 +354,9 @@ Abaixo estão melhor exemplificados os problemas encontrados e as justificativas
 
 ## **Análise de tarefas HTA** 
 A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_6 href="#REF6"><sup>6</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
+
 <center>
+
 **Tabela 7** - Análise de tarefas HTA
 
 | ID  |                                Descrição                                | Avaliação  |                                           Observações                                           |
@@ -358,11 +378,15 @@ A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do ar
 ### Acompanhamento
 
 A figura 06 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 7.
+
 <center>
+
 **Figura 06** - Gráfico dos resultados da Análise de tarefas HTA
+
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/hta.png" >
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
 </center>
 
 
@@ -401,7 +425,9 @@ Abaixo estão melhor exemplificados os problemas encontrados e as justificativas
 
 ## **Análise de tarefas GOMS**
 A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do artefato Aspectos Éticos <a id=anchor_7 href="#REF7"><sup>7</sup></a>, esse checklist estando presente na etapa de [planejamento](planejamento.md) da verificação:
+
 <center>
+
 **Tabela 7** - Verificação GOMS
 
 
@@ -416,17 +442,21 @@ A tabela 7 abaixo apresenta os dados obtidos na verificação da checklist do ar
 | 55  |     É feita uma análise para cada integrante do grupo?     |    NÃO     |             Há análises incompletas e/ou muito simplificadas             |
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
 </center>
 
 ### Acompanhamento
 
 A figura 07 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 8.
+
 <center>
+
 **Figura 07** - Gráfico dos resultados da Análise GOMS
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/graficos/hta.png" >
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
 </center>
 
 
@@ -490,4 +520,4 @@ Abaixo estão melhor exemplificados os problemas encontrados e as justificativas
 | 11/06/2024 | `1.4`  |                       Verificação HTA                       | [Pedro Lucas](https://github.com/lucasdray)  |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
 | 12/06/2024 | `1.4`  |                      Verificação GOMS                       | [Pedro Lucas](https://github.com/lucasdray)  |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
 | 12/06/2024 | `1.5`  | Alterações textuais de resultados, introdução e metodologia | [Lucas Meireles](https://github.com/Katuner) |   12/06/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 12/06/2024 | `1.6`  |                       Adição inspeção                       | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                              |
+| 12/06/2024 | `1.6`  |                       Adição inspeção                       | [Pedro Lucas](https://github.com/lucasdray)  |   12/06/2024              |    [Joyce Dionizio](https://github.com/joycejdm)                                          |
