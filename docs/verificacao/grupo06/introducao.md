@@ -12,7 +12,20 @@ Devido à natureza do projeto, em que não há execução de código em si, usar
 
 ## Planejamento
 
-No planejamento de cada verificação de etapa, a serem divididos os responsáveis conforme a tabela abaixo, deverá ser exibido uma tabela de checklist geral, com dados referentes ao artefato como um todo e que poderá ser repetido para diversos artefatos, tratando de verificações como a existência de referencial bibliográfico, padronização de escrita, entre outros, e também irão possuir tabelas de checklist específicas para cada um dos artefatos presentes na etapa. A validação dos checklists devem ser feitos por todos os integrantes do grupo presentes até o momento final da avaliação. Além disso, para melhor clarificação do método de verificação em cada etapa estará disponibilizado ao mínimo 1 vídeo de um integrante da equipe fazendo a inspeção e análise de no mínimo 1 artefato fazendo a verificação e relatando os resultados.
+No planejamento de cada verificação de etapa, a serem divididos os responsáveis conforme a tabela 1 abaixo, deverá ser exibido uma tabela de checklist geral, com dados referentes ao artefato como um todo e que poderá ser repetido para diversos artefatos, tratando de verificações como a existência de referencial bibliográfico, padronização de escrita, entre outros, e também irão possuir tabelas de checklist específicas para cada um dos artefatos presentes na etapa. A validação dos checklists devem ser feitos por todos os integrantes do grupo presentes até o momento final da avaliação. Além disso, para melhor clarificação do método de verificação em cada etapa estará disponibilizado ao mínimo 1 vídeo de um integrante da equipe fazendo a inspeção e análise de no mínimo 1 artefato fazendo a verificação e relatando os resultados.
+
+<center>
+
+**Tabela 1** - Relação de Etapa a ser verificada e responsáveis
+
+| Etapa | Responsáveis | 
+|:-----:| :-----------:|
+| 2     | [Pedro Lucas](https://github.com/lucasdray)|
+| 3     | [Joyce Dionizio](https://github.com/joycejdm) e [Augusto Campos](https://github.com/Augcamp)|
+| 4     | [Cainã Valença](https://github.com/freitasc)|
+| 5     | [Lucas Meireles](https://github.com/Katuner)|
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 
 ## Relato dos resultados
 
