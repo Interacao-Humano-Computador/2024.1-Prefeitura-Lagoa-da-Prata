@@ -13,12 +13,12 @@ A tabela 1 a seguir resume os participantes que partiparam como avaliadores, det
 <center>
 **Tabela 1** - Avaliadores da Verificação
 
-| Artefato                    | Avaliador |
-| --------------------------- | --------- |
-| **GUIA DE ESTILO**          |           |
-| **METAS DE USABILIDADE**    |           |
-| **PRINCÍPIOS GERAIS**       |           |
-| **CARACTERÍSTICAS GERAIS**  |           |
+| Artefato                    | Avaliador                                         |
+| --------------------------- | ------------------------------------------------- |
+| **GUIA DE ESTILO**          | [Augusto Duarte](https://github.com/Augcamp)      |
+| **METAS DE USABILIDADE**    | [Augusto Duarte](https://github.com/Augcamp)      |
+| **PRINCÍPIOS GERAIS**       | [Joyce Dionizio](https://github.com/joycejdm)     |
+| **CARACTERÍSTICAS GERAIS**  | [Joyce Dionizio](https://github.com/joycejdm)     |
 
 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
@@ -164,9 +164,11 @@ O vídeo a seguir apresenta o avaliador [Augusto Duarte](https://github.com/Augc
 
 <center>
 **Vídeo** - Inpesção Guia de Estilo
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=tGPOc9tzXjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tGPOc9tzXjA?si=v1BfkyRKaSIBGReT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 </center>
+
+
 
 O vídeo tambem pode ser acessado clicando [aqui](https://www.youtube.com/watch?v=tGPOc9tzXjA)
 
@@ -180,3 +182,4 @@ O vídeo tambem pode ser acessado clicando [aqui](https://www.youtube.com/watch?
 | 12/06/2024 | `1.4`  |          Verificação Guia de Estilo          | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
 | 12/06/2024 | `1.5`  |          Verificação Metas de Usabilidade    | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
 | 12/06/2024 | `1.6`  |          Gravação da Verificação Guia de Estilo   | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
+| 12/06/2024 | `1.6`  |          Adição Avaliador do Artefato        | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
