@@ -122,7 +122,7 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
     <center>
     Tabela 4: Respostas da entrevista para o Storyboard 1 </center>
 
-    - Terceira Entrevista
+- Terceira Entrevista
     - Dados gerais da entrevista:
 
         - Entrevistador: [Augusto Duarte](https://github.com/Augcamp)
@@ -137,6 +137,11 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
     <p> <b>Figura 3</b>: O storyboard da funcionalidade de Acessar o módulo de Contra Cheque e consultar os processos do servidor. (Fonte: DUARTE, Augusto. 2024).</p>
     </div> 
 
+    - Vídeo da entrevista: 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FE9nz108ViE?si=40MqpU3CGj4xpTNn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <center>
+    Disponível em : <https://youtu.be/FE9nz108ViE>
+    </center>
 
 
 ## Histórico de Revisões
@@ -145,4 +150,5 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 03/06/2024 | `1.0`  |  Elaboração inicial do documento   |      [Lucas Meireles](https://github.com/Katuner) |      |  |
 | 03/06/2024 | `1.0`  |  Insere video   | [Cainã Freitas](https://github.com/freitasc) |      |  |
-| 13/06/2024 | `1.3`  |  Adição StoryBoard e dados da Intrevista   |      [Augusto Duarte](https://github.com/Augcamp) |      |  |
+| 13/06/2024 | `1.3`  |  Adição StoryBoard e dados da Entrevista   |      [Augusto Duarte](https://github.com/Augcamp) |      |  |
+| 13/06/2024 | `1.4`  |  Entrevista                                |      [Augusto Duarte](https://github.com/Augcamp) |      |  |
