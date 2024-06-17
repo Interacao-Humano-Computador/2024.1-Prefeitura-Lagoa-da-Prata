@@ -195,7 +195,7 @@ Abaixo na tabela 5 se encontra as respostas às perguntas coletadas na entrevist
  *Fonte: [DUARTE, Augusto.](https://github.com/Augcamp) 2024.*   
 </center>
 
-## Histórico de Revisões
+## Histórico de Versões
 
 |    Data    | Versão |                Descrição                |                  Autor(es)                   | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :-------------------------------------: | :------------------------------------------: | :-------------: | :------------------------------------------: |
