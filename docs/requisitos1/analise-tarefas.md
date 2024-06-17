@@ -21,97 +21,74 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 &emsp;&emsp;Desenvolvida na década de 1960, a Análise Hierárquica de Tarefas (HTA) é uma ferramenta empregada para compreender as competências e habilidades necessárias para realizar tarefas complexas e não repetitivas. Além disso, é valiosa para identificar problemas de desempenho. A HTA facilita a compreensão das relações entre as ações das pessoas, os motivos que as impulsionam e as consequências caso essas ações não sejam executadas corretamente.
 
 
-&emsp;&emsp;A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
+&emsp;&emsp;A Tabela 1 abaixo apresenta os elementos de uma análise hierárquica de tarefas.
+<center>
+**Tabela 1** - Elementos de uma HTA
 
-| Elemento | Descrição | 
-| --                           | ---- | 
-| Tarefa: | Uma parte do trabalho que requer realização, frequentemente definida em termos de objetivos e subobjetivos. |
-| Objetivo: | Um estado específico, um estado final, determinado por eventos ou por valores observáveis de variáveis, que servem como critério para alcançar o objetivo. |
-| Subobjetivo:| Uma subdivisão de objetivos complexos, usada para identificar quais subobjetivos são mais difíceis de alcançar, já que limitam ou até mesmo impedem o alcance do objetivo principal. |
-| Plano: | Define os subobjetivos necessários para alcançar um objetivo maior e a ordem em que esses subobjetivos devem ser alcançados. |
-| Operação: | As circunstâncias em que o objetivo é ativado (entrada), as atividades ou ações que contribuem para alcançá-lo e as condições que indicam o seu alcance (feedback). |
+| Elemento     | Descrição                                                                                                                                                                            |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Tarefa:      | Uma parte do trabalho que requer realização, frequentemente definida em termos de objetivos e subobjetivos.                                                                          |
+| Objetivo:    | Um estado específico, um estado final, determinado por eventos ou por valores observáveis de variáveis, que servem como critério para alcançar o objetivo.                           |
+| Subobjetivo: | Uma subdivisão de objetivos complexos, usada para identificar quais subobjetivos são mais difíceis de alcançar, já que limitam ou até mesmo impedem o alcance do objetivo principal. |
+| Plano:       | Define os subobjetivos necessários para alcançar um objetivo maior e a ordem em que esses subobjetivos devem ser alcançados.                                                         |
+| Operação:    | As circunstâncias em que o objetivo é ativado (entrada), as atividades ou ações que contribuem para alcançá-lo e as condições que indicam o seu alcance (feedback).                  |
 
-<div align="center">
-<p> <b>Tabela 1</b>: Elementos de uma HTA (Fonte: FREITAS, Cainã. 2024). </p>
-</div>
+ *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+</center>
+Abaixo se encontra a Figura 1 que contém a legenda dos elementos encontrados em um diagrama HTA.
+<center>
+**Figura 1** - Elementos de um diagrama HTA
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/elementosHTA.png" width="100%">
 
-<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/elementosHTA.png" width="100%">
-
-<div align="center">
-<p> <b>Figura 1</b>: Elementos de um diagrama HTA </p>
-</div>
-
+ *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+</center>
 <p align="justify">
 
 &emsp;&emsp;Os planos podem possuir relações entre os subobjetivos, como: sequência fixa (um objetivo deve ser atingido antes do próximo); regra de seleção ou decisão (quais objetivos que deverão ser atin-gidos dependem das circunstâncias); ou em paralelo (mais de um objetivo deve ser atingido ao mesmo tempo). A Figura 1 apresenta a forma gráfica de representação dessas relações.
 </p>
 
 
-### Análise da Tarefa HTA 1: Informar luminária queimada no Município
 
-| Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
-|------------------------------------------------------|---------------|----------------------------------------------------------|
-| 0: Informar luminária queimada no Município | 1>2 | Input: Acesso a página de iluminação, preenchimento do formulário com as informações pedidas e passar pelo reCaptcha e o preenchimento do protocolo para acompanhar solicitação <br> Plano: Acessar página de iluminação pública, depois preencher o formulário de troca de lâmpadas, em seguida ver o protocolo de solicitação e por último acompanhar a solicitação <br> Feedback: Tela de acompanhamento de solicitação de iluminação pública   |
-|   1: Acessar a página sobre iluminação pública  | 1>2 | Plano: Selecionar uma das opções de acesso à pagina pelo MENU "hamburguer, aba de pesquisa ou acesso rápido <br> Feedback: Tela iluminação pública |
-|     1.1: Encontrar pelo MENU "hamburguer"  | 1/2 | Plano: Selecionar o MENU "hamburguer" por meio de uma das opções, clicando ou não |
-|     1.1.1: Encontrar pelo MENU "hamburguer" sem necessidade de clicar | |           |
-|     1.1.2: Encontrar pelo MENU "hamburguer" com necessidade de clicar | |           |
-|     1.2: Encontrar pela aba de pesquisa    | 1/2| Input: Preencher aba de pesquisa, realizar a pesquisa e filtrar resultados para "serviços" <br> Plano: Realizar a pesquisa por meio de uma das opções, clicando ou não no botão de pesquisa  |
-|     1.2.1: Realizar a pesquisa clicando sem clicar no botão de pesquisa   | |  |
-|     1.2.2: Realizar a pesquisa clicando no botão de pesquisa   | |  |
-|     1.3: Encontrar pelo acesso rápido disponível na página inicial | | Plano: Localizar na página inicial o botão |
-|   2: Preencher formulário "Iluminação Pública - Troca de Lâmpadas"  | 1>2 | Plano: Preencher dados, em seguida responder o reCaptcha e finalmente clicar no botão enviar <br> Feedback: Tela de protocolo de solicitação|
-|     2.1: Preencher informações requeridas |  |     |
-|     2.2: Responder o reCaptcha |  |     |
-|     2.3: Clicar no botão Enviar |  |     |
-|   3: Ver protocolo de solicitação  | | |
-|   4: Acompanhar protocolo de solicitação em "Acompanhe sua solicitação"  | 1>2 | Plano: Preencher número de protocolo e em seguida clicar em consultar <br> Feedback: Tela de acompanhamento de solicitação de iluminação pública  |
-|     4.1: Colocar protocolo no campo requerido | |    |
-|     4.2: Clicar em consultar | |      
-|     4.3: Visualizar a situação e atualizações do protocolo | |       
+### Análise da Tarefa HTA 1: Cadastrar e acompanhar uma reclamação na ouvidoria
+Abaixo se encontra a tabela 2 e figura 2 referentes a tarefa de Cadastrar e acompanhar uma reclamação na ouvidoria, ambas feitas pelo integrante do grupo [Cainã Freitas](https://github.com/freitasc):
+<center>
+**Tabela 2** - HTA da Tarefa: Cadastrar e uma reclamação na ouvidoria
 
-<div align="center">
-<p> <b>Tabela 2</b>: HTA da Tarefa: Informar luminária queimada no Município (Fonte: Heler, Lucas. 2024). </p>
-</div>
+| Objetivos / Operações                              | Relações | Problemas / Recomendações                                                                                                                                                                                                                                                              |
+| -------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Cadastrar e consultar uma reclamação cadastrada | 1 > 2    | Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar até a Ouvidoria, Cadastrar reclamação desejada, Acessar a reclamação na lista, Acompanhar status. <br> Feedback: Status da reclamação cadastrada emitido. |
+| 1. Realizar login no site                          | 1 > 2    | Plano: informar o cpf e depois a senha do gov.br. <br> Feedback: tela menu de Serviços Registrato.                                                                                                                                                                                     |
+| 1.1 Informar CPF                                   |          |                                                                                                                                                                                                                                                                                        |
+| 1.2 Informar senha do gov.br                       |          |                                                                                                                                                                                                                                                                                        |
+| 2. Navegar para a ouvidoria                        | 1 / 2    | Plano: selecionar uma das opções, entre ir até pagina da ouvidoria através do menu hamburguer e ir até a pagina da ouvidoria através da aba de pesquisa <br>Feedback: Tela da ouvidoria que mostra opção de cadastrar reclamação                                                       |
+| 2.1 Ir através do menu hamburguer                  |          |                                                                                                                                                                                                                                                                                        |
+| 2.2 Ir através da aba de pesquisa                  |          |                                                                                                                                                                                                                                                                                        |
+| 3. Cadastrar Reclamação                            | 1 > 2    | Plano: Cadastrar uma reclamação através do formulário  <br>Feedback: Caixa de aviso avisando que a reclamação foi cadastrada                                                                                                                                                           |
+| 3.1. Selecionar tipo, secretaria e assunto         |          |                                                                                                                                                                                                                                                                                        |
+| 3.2. Preencher texto de reclamação                 |          |                                                                                                                                                                                                                                                                                        |
+| 3.3. Preencher campos opcionais                    | 1 / 2    | Plano: Cadastrar (ou não) campos adicionais do formulário  <br>Feedback: Campo adicional presente na pagina de acompanhamento                                                                                                                                                          |
+| 3.3.1 Preencher endereço                           |          |                                                                                                                                                                                                                                                                                        |
+| 3.3.2 Solicitar Sigilo                             |          |                                                                                                                                                                                                                                                                                        |
+| 3.4. Resolver Captcha                              |          |                                                                                                                                                                                                                                                                                        |
+| 4. Consultar status da reclamação                  | 1 > 2    | Plano: Acompanhar status da reclamação recem registrada  <br>Feedback: Campo de status presente na pagina de acompanhamento                                                                                                                                                            |
+| 4.1. Selecionar "meus protocolos"                  |          |                                                                                                                                                                                                                                                                                        |
+| 4.2. Selecionar reclamação cadastrada              |          |                                                                                                                                                                                                                                                                                        |
+| 4.3. Conferir status                               |          |                                                                                                                                                                                                                                                                                        |
 
-<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA Poste.png" width="100%">
-<div align="center">
-<p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Informar luminária queimada no Município </p>
-</div>
+ *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 
-### Análise da Tarefa HTA 2: Cadastrar e acompanhar uma reclamação na ouvidoria
 
-| Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
-|------------------------------------------------------|---------------|----------------------------------------------------------|
-| 0. Cadastrar e consultar uma reclamação cadastrada |1 > 2|       Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar até a Ouvidoria, Cadastrar reclamação desejada, Acessar a reclamação na lista, Acompanhar status. <br> Feedback: Status da reclamação cadastrada emitido.|
-|   1. Realizar login no site   | 1 > 2|    Plano: informar o cpf e depois a senha do gov.br. <br> Feedback: tela menu de Serviços Registrato. |
-|       1.1 Informar CPF | |           |
-|       1.2 Informar senha do gov.br   | |  |
-|   2. Navegar para a ouvidoria | 1 / 2 |   Plano: selecionar uma das opções, entre ir até pagina da ouvidoria através do menu hamburguer e ir até a pagina da ouvidoria através da aba de pesquisa <br>Feedback: Tela da ouvidoria que mostra opção de cadastrar reclamação  |
-|   2.1 Ir através do menu hamburguer |  |     |
-|   2.2 Ir através da aba de pesquisa |  |     |
-|   3. Cadastrar Reclamação | 1 > 2 | Plano: Cadastrar uma reclamação através do formulário  <br>Feedback: Caixa de aviso avisando que a reclamação foi cadastrada |
-|     3.1. Selecionar tipo, secretaria e assunto | |  |
-|     3.2. Preencher texto de reclamação | |  |
-|     3.3. Preencher campos opcionais | 1 / 2 | Plano: Cadastrar (ou não) campos adicionais do formulário  <br>Feedback: Campo adicional presente na pagina de acompanhamento |
-|       3.3.1 Preencher endereço |  |  |
-|       3.3.2 Solicitar Sigilo |  |  |
-|     3.4. Resolver Captcha                    | |  |
-|   4. Consultar status da reclamação | 1 > 2 | Plano: Acompanhar status da reclamação recem registrada  <br>Feedback: Campo de status presente na pagina de acompanhamento   |
-|       4.1. Selecionar "meus protocolos" | |   |
-|       4.2. Selecionar reclamação cadastrada | |    |
-|       4.3. Conferir status | |    |
+**Figura 2** - Diagrama HTA da Tarefa: Cadastrar e acompanhar uma reclamação na ouvidoria
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_ouvidoria.png" width="100%">
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+</center>
 
-<div align="center">
-<p> <b>Tabela 3</b>: HTA da Tarefa: Cadastrar e uma reclamação na ouvidoria (Fonte: Freitas, Cainã. 2024). </p>
-</div>
 
-<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_ouvidoria.png" width="100%">
-<div align="center">
-<p> <b>Figura 2</b>: Diagrama HTA da Tarefa: Cadastrar e acompanhar uma reclamação na ouvidoria </p>
-</div>
+### Análise da Tarefa HTA 2: Cadastro Antecipado de Aluno
+Abaixo se encontra a tabela 3 e figura 3 referentes a tarefa de Cadastro Antecipado de Aluno, ambas feitas pelo integrante do grupo [Joyze Dionizio](https://github.com/joycejdm):
+<center>
+**Tabela 3** - HTA da Tarefa: Cadastro Antecipado de Aluno
 
-### Análise da Tarefa HTA 3: Cadastro Antecipado de Aluno
 
 | Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
 |------------------------------------------------------|---------------|----------------------------------------------------------|
@@ -140,16 +117,18 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 |     8.1 Verificar o balão de confirmação de dados | |Mensagem de confirmação deve ser clara e compreensível.     
 |     8.2 Clicar em "OK" no balão de confirmação de dados | | Botão "OK" deve ser funcional.      
 
-<div align="center">
-<p> <b>Tabela 4</b>: HTA da Tarefa: Cadastro Antecipado de Aluno (Fonte: Heler, Lucas. 2024). </p>
-</div>
+*Fonte: [DIONIZIO,Joyce](https://github.com/joycejdm). 2024.*
 
+**Figura 3** - Diagrama HTA da Tarefa: Cadastro Antecipado de Aluno
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/hta_matricula.jpg" width="100%">
-<div align="center">
-<p> <b>Figura 4</b>: Diagrama HTA da Tarefa: Cadastro Antecipado de Aluno </p>
-</div>
+*Fonte: [DIONIZIO,Joyce](https://github.com/joycejdm). 2024.*
+</center>
 
-### Análise da Tarefa HTA 4: Acessar o módulo de Contra Cheque e consultar processos do servidor 
+### Análise da Tarefa HTA 3: Acessar o módulo de Contra Cheque e consultar processos do servidor 
+Abaixo se encontra a tabela 4 e figura 4 referentes a tarefa de Acessar o módulo de Contra Cheque e consultar processos do servidor , ambas feitas pelo integrante do grupo [Augusto Duarte](https://github.com/Augcamp):
+
+<center>
+**Tabela 4** - HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor
 
 |    Objetivos/Operações    |    Relações    |    Problemas e recomendações    |
 | :-----------------------: | ------------------------------- | ------------------------------- | 
@@ -160,18 +139,20 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 | 4. Escolher o processo  |4>5 |  **input:** Seleção do processo desejado. |
 | 5. Acompanhar o status do processo | | **feedback:** Informação sobre o processo e resultados. |
  
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 
-<div align="center">
-<p> <b>Tabela 5</b>: HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor  (Fonte: Duarte, Augusto. 2024). </p>
-</div>
 
+**Figura 4** - Diagrama HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA2.png" width="100%">
-<div align="center">
-<p> <b>Figura 5</b>: Diagrama HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor </p>
-</div>
 
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+</center>
 
-### Análise da Tarefa HTA 5: Registrar e verificar o panorama de saúde da cidade
+### Análise da Tarefa HTA 4: Registrar e verificar o panorama de saúde da cidade
+Abaixo se encontra a tabela 5 e figura 5 referentes a tarefa de Registrar e verificar o panorama de saúde da cidade, ambas feitas pelo integrante do grupo [Lucas Meireles](https://github.com/Katuner):
+
+<center>
+**Tabela 5** - HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade
 
 
 | Objetivos / Operações                                          | Relações | Problemas / Recomendações                                                                                                                                                                                                                                                          |
@@ -198,18 +179,19 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 | 4.1.1 Visualizar as informações resumidas pelo mapa            |          |                                                                                                                                                                                                                                                                                    |
 | 4.1.2 Selecionar uma área do mapa e verificar dados detalhados |          |                                                                                                                                                                                                                                                                                    |
 
-<div align="center">
-<p> <b>Tabela 6</b>: HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024). </p>
-</div>
+*Fonte: [MEIRELES, Lucas](https://github.com/Katuner). 2024.*
 
-<div>
+**Figura 5** - Diagrama HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade
+
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_Saude.png" width="100%">
-<p> <b>Figura 6</b>: Diagrama HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade (Fonte: Freitas, Cainã. 2024).</p>
-</div>
+*Fonte: [MEIRELES, Lucas](https://github.com/Katuner). 2024.*
 
+</center>
 
-### Análise da Tarefa HTA 6: Solicitar vistoria de local com água parada
-Abaixo se encontra tanto a tabela e diagrama HTA relacionado a Solicitar vistoria de local com água parada, ambos foram elaborados levando em consideração a [persona Maria Arlete](/requisitos1/personas/#maria-arlete) e o [cenario C03](/requisitos1/cenarios/#c03-solicitar-vistoria-de-local-com-agua-parada).
+### Análise da Tarefa HTA 5: Solicitar vistoria de local com água parada
+Abaixo se encontra tanto a tabela 6 e imagem 6 representando o diagrama HTA relacionado a tarefa Solicitar vistoria de local com água parada, ambos foram elaborados levando em consideração a [persona Maria Arlete](/requisitos1/personas/#maria-arlete) e o [cenario C03](/requisitos1/cenarios/#c03-solicitar-vistoria-de-local-com-agua-parada).
+<center>
+**Tabela 6** - HTA da Tarefa: Solicitar vistoria de local com água parada
 
 | Objetivos / Operações                                                                                      | Relações | Problemas / Recomendações                                                                                                                                                                                                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -237,14 +219,13 @@ Abaixo se encontra tanto a tabela e diagrama HTA relacionado a Solicitar vistori
 | 5.1 Visualizar a confirmação da solicitação                                                                |          |                                                                                                                                                                                                                                                                                                                                         |
 | 5.2 Clicar no botão para baixar a solicitação                                                              |          |                                                                                                                                                                                                                                                                                                                                         |
 
-<div align="center">
-<p> <b>Tabela 7</b>: HTA da Tarefa: Solicitar vistoria de local com água parada (Fonte: DOURADO, Pedro Lucas. 2024). </p>
-</div>
+*Fonte: [DOURAOD, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
-<div>
+
+**Figura 6** - Diagrama HTA da Tarefa: Solicitar vistoria de local com água parada
 <img   src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_solicitacao.png" >
-<p> <b>Figura 7</b>: Diagrama HTA da Tarefa: Solicitar vistoria de local com água parada (Fonte: DOURADO, Pedro Lucas. 2024).</p>
-</div>
+*Fonte: [DOURAOD, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
 
 ## CNM-GOMS
 
@@ -399,23 +380,6 @@ Goal 0: Registrar e verificar o panorama de saúde da cidade
     
 ```
 
-### Análise da Tarefa CNM-GOMS 5: Gerar relatório de licitações em aberto em CSV
-```
-Goal 0: Gerar relatório de licitações em aberto
-  OP. 0.1: Abrir o site da prefeitura municipal da Lagoa da Prata em um navegador web.
-  Goal 1: Abrir buscador
-    Op. 1.1: Mover cursor até o menu suspenso na aba "EDITAIS"
-    Op. 1.2: Clicar na opção "Licitações"
-  Goal 2: fazer busca
-    Op. 2.1: Mover o cursor na até a busca detalhada na aba "Situação"
-    Op. 2.2: Clicar com o botão esquerdo para abrir as opções
-    Op. 2.3: Clicar na opção "Aberto"
-    Op. 2.4: Mover cursor até o botão "Buscar"
-    Op. 2.5: Clicar com o botão esquerdo no botão "Buscar"
-  Goal 3: Baixar arquivo CSV
-    Op. 3.1: Mover cursor até botão "CSV"
-    Op. 3.2: CLicar no botão "CSV"
-```
 
 ### Análise da Tarefa CNM-GOMS 6: Cadastrar e acompanhar status de uma reclamação no conselho municipal de educação sobre uma escola do municipio da lagoa da prata
 ```
@@ -755,16 +719,16 @@ Goal 0: Informar luminária queimada no Município
 
 ## Historico de Versões
 
-|    Data    | Versão |                               Descrição                                |                   Autor(es)                   | Data de revisão |                                        Revisor(es)                                        |
-| :--------: | :----: | :--------------------------------------------------------------------: | :-------------------------------------------: | :-------------: | :---------------------------------------------------------------------------------------: |
-| 06/05/2024 | `1.0`  |                          Criação do documento                          | [Cainã Freitas](https://github.com/freitasc)  |   07/05/2024    |                       [Lucas Meireles](https://github.com/Katuner)                        |
-| 06/05/2024 | `1.1`  |                      Adição de Análise de Tarefas                      | [Joyce Dionizio](https://github.com/joycejdm) |   07/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
-| 06/05/2024 | `1.2`  |                     Adição de Análise de Tarefas 3                     | [Augusto Duarte](https://github.com/Augcamp)  |   07/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
-| 06/05/2024 | `1.3`  |                     Adição de Análise de Tarefas 4                     | [Lucas Meireles](https://github.com/Katuner)  |   07/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
-| 07/05/2024 | `1.4`  |                     Adição de Análise de Tarefas 5                     |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    |                        [Lucas Heler](https://github.com/akaeboshi)                        |
-| 07/05/2024 | `1.5`  |                   Adição de Análise de Tarefas HTA 1                   |  [Lucas Heler](https://github.com/akaeboshi)  |   07/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
-| 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    |                        [Pedro Lucas](https://github.com/lucasdray)                        |
-| 22/05/2024 | `1.7`  |                  Adição de Análise de Tarefas 6 e HTA                  |  [Lucas Heler](https://github.com/Akaeboshi)  |   22/05/2024    |                       [Cainã Freitas](https://github.com/freitasc)                        |
-| 22/05/2024 | `1.8`  |                            Adição de tarefa                            | [Joyce Dionizio](https://github.com/joycejdm) |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc), [Pedro Lucas](https://github.com/lucasdray) |
-| 06/06/2024 | `2.0`  |                            Adição de HTA 6                             |  [Pedro Lucas](https://github.com/lucasdray)  |   11/06/2024    |                       [Augusto Duarte](https://github.com/Augcamp)                        |
-| 07/06/2024 | `2.1`  |                           Adição CNM-GOMS 8                            |  [Pedro Lucas](https://github.com/lucasdray)  |   11/06/2024    |                       [Augusto Duarte](https://github.com/Augcamp)                        |
+|    Data    | Versão |                               Descrição                                |                   Autor(es)                   |    Data de revisão     |                                        Revisor(es)                                        |
+| :--------: | :----: | :--------------------------------------------------------------------: | :-------------------------------------------: | :--------------------: | :---------------------------------------------------------------------------------------: |
+| 06/05/2024 | `1.0`  |                          Criação do documento                          | [Cainã Freitas](https://github.com/freitasc)  |       07/05/2024       |                       [Lucas Meireles](https://github.com/Katuner)                        |
+| 06/05/2024 | `1.1`  |                      Adição de Análise de Tarefas                      | [Joyce Dionizio](https://github.com/joycejdm) |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 06/05/2024 | `1.2`  |                     Adição de Análise de Tarefas 3                     | [Augusto Duarte](https://github.com/Augcamp)  |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 06/05/2024 | `1.3`  |                     Adição de Análise de Tarefas 4                     | [Lucas Meireles](https://github.com/Katuner)  |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 07/05/2024 | `1.4`  |                     Adição de Análise de Tarefas 5                     |  [Pedro Lucas](https://github.com/lucasdray)  |       07/05/2024       |                        [Lucas Heler](https://github.com/akaeboshi)                        |
+| 07/05/2024 | `1.5`  |                   Adição de Análise de Tarefas HTA 1                   |  [Lucas Heler](https://github.com/akaeboshi)  |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |       13/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 22/05/2024 | `1.7`  |                  Adição de Análise de Tarefas 6 e HTA                  |  [Lucas Heler](https://github.com/Akaeboshi)  |       22/05/2024       |                       [Cainã Freitas](https://github.com/freitasc)                        |
+| 22/05/2024 | `1.8`  |                            Adição de tarefa                            | [Joyce Dionizio](https://github.com/joycejdm) |       22/05/2024       | [Cainã Freitas](https://github.com/freitasc), [Pedro Lucas](https://github.com/lucasdray) |
+| 06/06/2024 | `2.0`  |                            Adição de HTA 6                             |  [Pedro Lucas](https://github.com/lucasdray)  |       11/06/2024       |                       [Augusto Duarte](https://github.com/Augcamp)                        |
+| 07/06/2024 | `2.1`  |                           Adição CNM-GOMS 8                            |  [Pedro Lucas](https://github.com/lucasdray)  | 11/06/2024, 17/06/2024 | [Augusto Duarte](https://github.com/Augcamp), [Pedro Lucas](https://github.com/lucasdray) |
