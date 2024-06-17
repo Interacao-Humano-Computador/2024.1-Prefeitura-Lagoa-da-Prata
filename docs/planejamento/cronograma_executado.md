@@ -120,7 +120,7 @@ Segue abaixo a Tabela 05 contendo as Atividades que serão realizadas, a data da
 
 Segue abaixo a Tabela 06 contendo as Atividades que serão realizadas, a data da realização,a data da revisão e os revisores do ponto de controle 5.
 
-<center>**Tabela 06 - Ponto de Controle 6.1**</center>
+<center>**Tabela 06 - Ponto de Controle 6.1**
 
 | <center>Atividade </center>                | <center>Período de desenvolvimento</center> |                                                                                                   <center>Responsável</center>                                                                                                   | <center>Revisão </center> |                                                                                                    <center>Revisores</center>                                                                                                    |
 | ------------------------------------------ | :-----------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -133,7 +133,27 @@ Segue abaixo a Tabela 06 contendo as Atividades que serão realizadas, a data da
 | Gravação da apresentação                   |                 12/06/2024                  | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner) e [Pedro Lucas](https://github.com/lucasdray) |        16/06/2024         |                                                                                           [Pedro Lucas](https://github.com/lucasdray)                                                                                            |
 | Cronograma Executado                       |                 12/06/2024                  |                                                                   [Pedro Lucas](https://github.com/lucasdray)   e [Lucas Meireles](https://github.com/Katuner)                                                                   |                           |                                                                                                                                                                                                                                  |
 
-<center>Fonte: DOURADO, Pedro Lucas. 2024.</center>
+Fonte: DOURADO, Pedro Lucas. 2024.</center>
+
+## Cronograma Ponto de Controle 7
+
+ - Entrega: 19/06/2024
+ - Apresentação: 20/06/2024
+ 
+Segue abaixo a Tabela 07 contendo as Atividades que serão realizadas, a data da realização,a data da revisão e os revisores do ponto de controle 7.
+
+<center>**Tabela 07 - Ponto de Controle 7**
+
+| <center>Atividade </center>                                                        | <center>Período de desenvolvimento</center> |        <center>Responsável</center>         | <center>Revisão </center> | <center>Revisores</center> |
+| ---------------------------------------------------------------------------------- | :-----------------------------------------: | :-----------------------------------------: | :-----------------------: | :------------------------: |
+| Relato dos resultados do Protótipo de Papel                                        |                                             |                                             |                           |                            |
+| Planejamento da Avaliação do protótipo de alta fidelidade                          |                                             | [Pedro Lucas](https://github.com/lucasdray) |                           |                            |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |                                             |                                             |                           |                            |
+| Atualização Git Pages                                                              |                                             | [Pedro Lucas](https://github.com/lucasdray) |                           |                            |
+| Gravação da apresentação                                                           |                                             |                                             |                           |                            |
+| Cronograma Executado                                                               |                                             | [Pedro Lucas](https://github.com/lucasdray) |                           |                            |
+
+Fonte: DOURADO, Pedro Lucas. 2024.</center>
 
 ## Bibliografia
 
@@ -154,3 +174,4 @@ Segue abaixo a Tabela 06 contendo as Atividades que serão realizadas, a data da
 | 03/06/2024 | `5.0`  |      Criação e registro do ponto de controle 5       |                        [Pedro Lucas](https://github.com/lucasdray)                         |   12/06/2024    | [Lucas Meireles](https://github.com/Katuner)  |
 | 03/06/2024 | `5.1`  |            Ajuste do ponto de controle 5             |                        [Lucas Meireles](https://github.com/Katuner)                        |                 |                                               |
 | 12/06/2024 | `6.1`  |            Criação ponto de controle 6.1             | [Pedro Lucas](https://github.com/lucasdray) e [Lucas Meireles](https://github.com/Katuner) |                 |                                               |
+| 16/06/2024 | `7.0`  |              Criação ponto de controle 7              |                        [Pedro Lucas](https://github.com/lucasdray)                         |                 |                                               |
