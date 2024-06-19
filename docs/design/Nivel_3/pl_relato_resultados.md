@@ -79,4 +79,4 @@ Para que a equipe possa realizar as avaliações e registros de modo seguro e ta
 
 |         Data          | Versão |            Descrição            |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :-------------------: | :----: | :-----------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 19/06/2024 | `1.0` | Elaboração inicial e descrição | [Lucas Meireles](https://github.com/Katuner)             |                 |             |
+| 19/06/2024 | `1.0` | Elaboração inicial e descrição | [Lucas Meireles](https://github.com/Katuner)             |      19/06/2024          |    [Cainã Valença](https://github.com/freitasc)         |
