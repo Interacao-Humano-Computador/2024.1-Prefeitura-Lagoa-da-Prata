@@ -119,7 +119,7 @@ Vídeo 2: Primeira Entrevista
 
 | Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
-| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Sim, na primeira tela fiquei confuso em relação aos servições, pois acabou não sendo meu foco inicial                 |
+| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Sim, na primeira tela fiquei confuso em relação aos serviços, pois acabou não sendo meu foco inicial                 |
 | 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Sim, acho que a parte do serviços do cidadão poderia ser simplificada                 |
 | 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim, caso a pessoa tenha o mínimo de conhecimento de sistemas.                 |
 | 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim. |
@@ -213,7 +213,7 @@ Tabela 12: Perguntas respondidas 4º entrevista (Fonte: DUARTE, Augusto. 2024).
 | ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
 |     5°     | 17/06/2024 | 15:55 - 16:25 | FGA - LDTEA, sala 309 | Lucas Meireles e Augusto Duarte | Vitor Costa Gomes | Registrar e verificar o panorama de saúde da cidade. |
 
-Tabela 13: Cronograma 4ª entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 13: Cronograma 5ª entrevista (Fonte: DUARTE, Augusto. 2024).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nWSeUhDUXiY?si=q0fXeGtmled1r0XC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -234,10 +234,182 @@ Vídeo 6: Quinta Entrevista
 Tabela 14: Perguntas respondidas 5º entrevista (Fonte: DUARTE, Augusto. 2024).
 
 
+### Sexta Entrevista
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
+| ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
+|     6°     | 17/06/2024 | 16:05 - 16:15 | FGA - Container 15  | Joyce Dionizio     | Maria| Cadastro Antecipado de Aluno. |
+
+Tabela 15: Cronograma 6ª entrevista (Fonte: DUARTE, Augusto. 2024).
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t_RkonIc7UA?si=LVx_N8JP8w_ycXjv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+Vídeo 7: Sexta Entrevista
+
+#### Perguntas respondidas 
+
+| Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
+| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Não, estava bem esquematizado.               |
+| 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Não.             |
+| 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim, mas PCDs não conseguiriam, é necessário acessibilidade.     |
+| 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
+| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
+
+Tabela 16: Perguntas respondidas 6º entrevista (Fonte: DUARTE, Augusto. 2024).
 
 
+### Setima Entrevista
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
+| ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
+|     7°     | 17/06/2024 | 16:20 - 16:30 | FGA - Container 15  | Joyce Dionizio     | Debora | Cadastro Antecipado de Aluno.  |
+
+Tabela 17: Cronograma 7ª entrevista (Fonte: DUARTE, Augusto. 2024).
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cFISDOasbXs?si=cOaZwUz-2JiIKjEB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+Vídeo 8: Setima Entrevista
+
+#### Perguntas respondidas 
+
+| Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
+| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Não.               |
+| 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Não.             |
+| 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim.     |
+| 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
+| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
+
+Tabela 18: Perguntas respondidas 7º entrevista (Fonte: DUARTE, Augusto. 2024).
 
 
+### Oitava Entrevista
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
+| ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
+|     8°     | 17/06/2024 | 16:30 - 16:45 | FGA - LDTEA, sala 309 | Augusto Duarte e Lucas Meireles | Vitor Costa Gomes | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
+
+Tabela 19: Cronograma 8ª entrevista (Fonte: DUARTE, Augusto. 2024).
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6mMZysIp_dI?si=vgfmXze185VfqqDe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+Vídeo 9: Oitava Entrevista
+
+#### Perguntas respondidas 
+
+| Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
+| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Não, todas bem faceis de prosseguir               |
+| 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Não, todos os passos são necessários.            |
+| 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim, mas acredito que pessoas que não tenham tanta familiarização com tecnologia talvez tivessem alguma dificuldade.     |
+| 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
+| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
+
+Tabela 20: Perguntas respondidas 8º entrevista (Fonte: DUARTE, Augusto. 2024).
+
+### Nona Entrevista
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
+| ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
+|     9°     | 17/06/2024 | 16:50 - 17:00 | FGA - LDTEA, sala 309 | Augusto Duarte e Lucas Meireles | Victor Andreozzi  | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
+
+Tabela 21: Cronograma 9ª entrevista (Fonte: DUARTE, Augusto. 2024).
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s-QWV6KkwFk?si=7wd71tfe3qVh7PyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+Vídeo 10: Nona Entrevista
+
+#### Perguntas respondidas 
+
+| Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
+| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Não.              |
+| 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Não.            |
+| 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim, processo bem dinamico.     |
+| 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
+| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
+
+Tabela 22: Perguntas respondidas 9º entrevista (Fonte: DUARTE, Augusto. 2024).
+
+
+### Decima Entrevista
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
+| ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
+|     10°    | 17/06/2024 | 17:00 - 17:10 | FGA - LDTEA, sala 309 | Cainã Freitas e Pedro Lucas | Vitor Costa Gomes | Cadastrar e acompanhar uma reclamação na ouvidoria. |
+
+Tabela 23: Cronograma 10ª entrevista (Fonte: DUARTE, Augusto. 2024).
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uE_t6IoQpfA?si=gQzebdXHIv3NEH5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+Vídeo 11: Decima Entrevista
+
+#### Perguntas respondidas 
+
+| Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
+| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Não, passos bem intuitivos.              |
+| 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Não, achei bem simples de serem visualizados            |
+| 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim, processo bem dinamico.     |
+| 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
+| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
+
+Tabela 24: Perguntas respondidas 10º entrevista (Fonte: DUARTE, Augusto. 2024).
+
+
+### Decima Primeira Entrevista
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
+| ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
+|     11°    | 17/06/2024 | 17:20 - 17:30 | FGA - LDTEA, sala 309 | Cainã Freitas e Pedro Lucas | Victor Andreozzi  | Cadastrar e acompanhar uma reclamação na ouvidoria. |
+
+Tabela 25: Cronograma 11ª entrevista (Fonte: DUARTE, Augusto. 2024).
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ryA8wyUZY1s?si=ER3rSYU2deP8pAIB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+Vídeo 12: Decima Primeira Entrevista
+
+#### Perguntas respondidas 
+
+| Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
+| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Não.              |
+| 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Não, bastante intuitivo            |
+| 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim.     |
+| 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
+| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
+
+Tabela 26: Perguntas respondidas 11º entrevista (Fonte: DUARTE, Augusto. 2024).
+
+
+## Ajustes Recomendados
+
+Abaixo será listados alguns ajustes que podem ser feitos para o protótipo de alta fidelidade, de acordo com os dados analisados na avalição do protótipo de papel:
+
+- Simplificar a tela de serviços do cidadão, criando sessões para o serviços
+- Adição de acessibilidade para o Cadastro Antecipado de Aluno
+- Opção de Login mais visivel 
+- Adicionar botões no login da funcionalidade de acessar o contra cheque para escolher o acesso entre CPF e Matrícula.
+  
+
+## Conclusão 
+
+De modo geral, pudemos perceber que a interface da tela principal contribuiu significativamente para a rapidez e simplicidade no acesso às atividades. No entanto, notamos que os usuários ainda enfrentam dificuldades para localizar as atividades necessárias, diante das várias opções disponíveis.
+
+É importante destacar que todas essas observações e feedbacks serão levados em consideração para o desenvolvimento do protótipo de alta fidelidade. Estamos comprometidos em continuar melhorando a usabilidade e a eficiência da interface, garantindo que a experiência do usuário seja cada vez mais intuitiva e satisfatória. Dessa forma, o próximo estágio do protótipo refletirá essas melhorias, visando atender melhor às necessidades e expectativas dos usuários.
 
 ## Histórico de Versões
 |         Data          | Versão |            Descrição            |                  Autor(es)                  | Data de revisão | Revisor(es) |
@@ -245,4 +417,5 @@ Tabela 14: Perguntas respondidas 5º entrevista (Fonte: DUARTE, Augusto. 2024).
 |      19/06/2024       | `1.0`  | Introdução e adição das tarefas | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
 |      19/06/2024       | `1.1`  | Teste Piloto e Cronograma das Entrevistas | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
 |      19/06/2024       | `1.2`  | Adicação das entrevista 1 a 5 | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
+|      19/06/2024       | `1.3`  | Finalização do Documento      | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
 
