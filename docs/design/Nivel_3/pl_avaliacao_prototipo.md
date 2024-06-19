@@ -85,7 +85,8 @@ Para a realização da avaliação o avaliado receberá um script com específic
 Será utilizado a técnica *think aloud* (“pensar em voz alta”) (Ericsson e Simon, 1993)<a id=anchor_6 href="#REF6"><sup>6</sup></a>, que consiste no avaliado relatar em voz alta tudo que está pensando e fazendo.
 
 
-##### Cadastrar e acompanhar uma reclamação na ouvidoria
+##### Cadastrar e acompanhar uma reclamação na ouvidoria - Cainã Freitas
+
 Nessa atividade o usuário deve realizar o cadastro e em seguida acessar o página de acompanhamento de uma reclamação na ouvidoria.
 O objetivo da tarefa consiste em verificar se o avaliado consegue realizar o cadastro e acompanhamento sem problemas e com uma certa facilidade demonstrando a intuitividade do sistema.
 
@@ -93,12 +94,12 @@ O objetivo da tarefa consiste em verificar se o avaliado consegue realizar o cad
 ##### Acessar o módulo de Contra Cheque e consultar processos do servidor
 -->
 
-##### Registrar e verificar o panorama de saúde da cidade
+##### Registrar e verificar o panorama de saúde da cidade - Lucas Meireles
 Nessa atividade, o usuário deverá registrar seu estado de saúde, simulando tanto uma pessoa em um estado bom quanto mal. O usuário também deverá interagir com o mapa panorâmico de saúde da cidade.
 O objetivo consiste em verificar se o entrevistado é capaz de realizar as tarefas descritas anteriormente sem erros e sem apresentar confusão.
 O voluntário irá acessar a página de saúde, registrar seu estado de saúde e as devidas ações consequentes deste e, por final, analisar o mapa geral.
 
-##### Solicitar vistoria de local com água parada
+##### Solicitar vistoria de local com água parada - Pedro Lucas
 Nessa atividade o usuário deve solicitar a vistoria de um local com água parada na cidade de Lagoa da prata.
 O objetivo da tarefa consiste em verificar se o avaliado consegue realizar a solicitação de forma intuitiva e sem falhas
 O participante realizará a busca da página do serviço de solicitação de vistoria de água parada, assim como o login e solicitação descritos no script. O participante terá 3 opções para realizar essa busca, buscar por "solicitar vistoria de local com água parada" na aba de pequisa e clicando no serviço correto, acessar a página de solicitação pelo "menu hamburguer", selecionar o serviço após clicar em "serviços para o cidadão", ficando a críterio do avaliado escolher por onde seguir. Após acessar a página o usuário irá fazer o login ou solicitar a vistoria anonimamente, preenchendo o formulário de solicitação e fazendo o reCaptcha e por fim baixando a solicitação enviada.
