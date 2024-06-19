@@ -418,9 +418,50 @@ Abaixo será listados alguns ajustes que podem ser feitos para o protótipo de a
 
 (Fonte: MEIRELES, Lucas O. 2024).
 
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/K9TjP_CCRY8" title="Entrevista 2   Matheus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </center>
 
+#### Perguntas respondidas 
 
+Encontra-se abaixo a tabela 28, a qual contém as respostas do entrevistado Matheus Antônio referente ao protótipo de papel realizado na 12ª entrevista (tabela 27).
+
+<center>
+
+**Tabela 28: Perguntas respondidas pelo entrevistado da 12ª entrevista.**
+
+| Ordem das perguntas | Pergunta       | Tipo de pergunta    | Resposta        |
+| :-----------------: | :-----------: | :-----------------: | :-------------------------------------: |
+| 1   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?   | Objetiva/Discursiva | Não.    |
+| 2   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.      | Objetiva/Discursiva | Não, bastante intuitivo       |
+| 3   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?  | Objetiva/Discursiva | Sim.  |
+| 4   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
+| 5   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?   | Objetiva/Discursiva | Não.       |
+
+(Fonte: MEIRELES, Lucas O. 2024).
+
+</center>
+
+#### Dados observados pelo avaliador
+
+Encontra-se abaixo a tabela 29, a qual contém as anotações feitas pelo integrante do grupo que agiu como observador durante a 12ª entrevista.
+Consideram-se caminhos ideais para a atividade, os descritos pela referente [Análise de Tarefas](../../../requisitos1/analise-tarefas.md#análise-da-tarefa-cnm-goms-6-cadastrar-e-acompanhar-status-de-uma-reclamação-no-conselho-municipal-de-educação-sobre-uma-escola-do-municipio-da-lagoa-da-prata). Ações que não seguissem o descrito, seriam considerados erros de navegação do usuário.
+
+<center>
+
+**Tabela 29: Anotações do observador**
+
+| Elementos a serem registrados | Tipo de informação a ser registrada | Registro da atividade |
+| :---------------------------: | :---------------------------------: | :-------------------: |
+| Número de erros do usuário    | Valor númerico                      |          0            |
+| Páginas que causaram confusão | Anotação da página com a área de confusão |                 |
+| Ações inesperadas             | Anotações das ações do usuário      |                       |
+| Comentários do usuário durante a atividade | Anotações gerais       |                       |
+
+(Fonte: MEIRELES, Lucas O. 2024).
+
+</center>
 
 ### Décima Terceira Entrevista
 
