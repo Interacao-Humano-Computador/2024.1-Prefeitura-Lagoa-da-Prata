@@ -76,13 +76,15 @@ A Tabela 3 apresenta a ordem de realização das entrevistas, com data, horário
 |     9°     | 17/06/2024 | 16:50 - 17:00 | FGA - LDTEA, sala 309 | Augusto Duarte e Lucas Meireles | Victor Andreozzi  | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
 |     10°    | 17/06/2024 | 17:00 - 17:10 | FGA - LDTEA, sala 309 | Cainã Freitas e Pedro Lucas | Vitor Costa Gomes | Cadastrar e acompanhar uma reclamação na ouvidoria. |
 |     11°    | 17/06/2024 | 17:20 - 17:30 | FGA - LDTEA, sala 309 | Cainã Freitas e Pedro Lucas | Victor Andreozzi  | Cadastrar e acompanhar uma reclamação na ouvidoria. |
+|     12°    | 18/06/2024 | 14:35 - 14:45 | FGA - UED, área aberta | Lucas Meireles e Augusto Duarte | Matheus Antônio  | Registrar e verificar o panorama de saúde da cidade. |
+|     13°    | 18/06/2024 | 17:30 - 17:40 | FGA - UAC, área aberta | Lucas Meireles e Augusto Duarte | Samuel  | Registrar e verificar o panorama de saúde da cidade. |
 
 Tabela 3: Cronograma da Execução das Entrevistas (Fonte: DUARTE, Augusto. 2024).
 
 
 ## Desenvolvimento da Avaliação 
 
-Foram realizadas 11 simulações de uso, cada uma com 2 entrevistadores. Este tipo de avalição requer dois entrevistadores, um fica responsável por simular o comportamento do sistema e o outro por observar a experiência de uso. O avaliador responsável por observar, deve ficar atento com os seguintes aspectos que foram trazidos no [Planejamento da avaliação do protótipo de papel](Pl_avaliacao.md):
+Foram realizadas 13 simulações de uso, cada uma com 2 entrevistadores. Este tipo de avalição requer dois entrevistadores, um fica responsável por simular o comportamento do sistema e o outro por observar a experiência de uso. O avaliador responsável por observar, deve ficar atento com os seguintes aspectos que foram trazidos no [Planejamento da avaliação do protótipo de papel](Pl_avaliacao.md):
 
 - Número de erros do usuário
 - Páginas que causaram confusão
@@ -403,6 +405,36 @@ Abaixo será listados alguns ajustes que podem ser feitos para o protótipo de a
 - Adição de acessibilidade para o Cadastro Antecipado de Aluno
 - Opção de Login mais visivel 
 - Adicionar botões no login da funcionalidade de acessar o contra cheque para escolher o acesso entre CPF e Matrícula.
+
+
+### Décima Segunda Entrevista
+<center>
+
+**Tabela 27: Cronograma 12ª entrevista**
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
+| ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
+|     12°    | 18/06/2024 | 14:35 - 14:45 | FGA - UED, área aberta | Lucas Meireles e Augusto Duarte | Matheus Antônio  | Registrar e verificar o panorama de saúde da cidade. |
+
+(Fonte: MEIRELES, Lucas O. 2024).
+
+</center>
+
+
+
+### Décima Terceira Entrevista
+
+<center>
+
+**Tabela 2X: Cronograma 13ª entrevista**
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
+| ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
+|     13°    | 18/06/2024 | 17:30 - 17:40 | FGA - UAC, área aberta | Lucas Meireles e Augusto Duarte | Samuel  | Registrar e verificar o panorama de saúde da cidade. |
+
+(Fonte: MEIRELES, Lucas O. 2024).
+
+</center>
   
 
 ## Conclusão 
