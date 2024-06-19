@@ -69,7 +69,7 @@ A Tabela 3 apresenta a ordem de realização das entrevistas, com data, horário
 |     2°     | 17/06/2024 | 15:20 - 15:30 | FGA - LDTEA, sala 309 | Cainã Freitas e Pedro Lucas | Will | Cadastrar e acompanhar uma reclamação na ouvidoria. |
 |     3°     | 17/06/2024 | 15:35 - 15:50 | FGA - LDTEA, sala 309 | Pedro Lucas e Cainã Freitas | Will | Solicitar vistoria de local com água parada. |
 |     4°     | 17/06/2024 | 15:50 - 16:00 | FGA - LDTEA, sala  ?  | Joyce Dionizio e      ?     | Oscar| Cadastro Antecipado de Aluno. |
-|     5°     | 17/06/2024 | 15:55 - 16:25 | FGA - LDTEA, sala 309 | Lucas Meireles e Augusto Duarte | Vitor Costa Gomes | Registrar e verificar o panorama de saúde da cidade. |
+|     5°     | 17/06/2024 | 16:00 - 16:15 | FGA - LDTEA, sala 309 | Lucas Meireles e Augusto Duarte | Vitor Costa Gomes | Registrar e verificar o panorama de saúde da cidade. |
 |     6°     | 17/06/2024 | 16:05 - 16:15 | FGA - LDTEA, sala  ?  | Joyce Dionizio e      ?     | Maria| Cadastro Antecipado de Aluno. |
 |     7°     | 17/06/2024 | 16:20 - 16:30 | FGA - LDTEA, sala  ?  | Joyce Dionizio e      ?     | Debora | Cadastro Antecipado de Aluno.  |
 |     8°     | 17/06/2024 | 16:30 - 16:45 | FGA - LDTEA, sala 309 | Augusto Duarte e Lucas Meireles | Vitor Costa Gomes | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
@@ -211,30 +211,71 @@ Tabela 12: Perguntas respondidas 4º entrevista (Fonte: DUARTE, Augusto. 2024).
 
 ### Quinta Entrevista
 
-|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
-| ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
-|     5°     | 17/06/2024 | 15:55 - 16:25 | FGA - LDTEA, sala 309 | Lucas Meireles e Augusto Duarte | Vitor Costa Gomes | Registrar e verificar o panorama de saúde da cidade. |
-
-Tabela 13: Cronograma 5ª entrevista (Fonte: DUARTE, Augusto. 2024).
+Abaixo se encontra a tabela 13, que diz respeito às informações gerais da 5ª entrevista realizada.
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWSeUhDUXiY?si=q0fXeGtmled1r0XC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Tabela 13: Cronograma 5ª entrevista**
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
+| ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
+|     5°     | 17/06/2024 | 16:00 - 16:15 | FGA - LDTEA, sala 309 | Lucas Meireles e Augusto Duarte | Vitor Costa Gomes | Registrar e verificar o panorama de saúde da cidade. |
+
+(Fonte: Meireles, Lucas O. 2024).
+
 </center>
 
-Vídeo 6: Quinta Entrevista
+<center>
+
+**Vídeo 5**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWSeUhDUXiY?si=q0fXeGtmled1r0XC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 #### Perguntas respondidas 
 
-| Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
-| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Não.                |
-| 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Não, bem simples as etapas.                |
-| 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim.                |
-| 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
-| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não, possui muitas informações precisas.                |
+Encontra-se abaixo a tabela 14, a qual contém as respostas do entrevistado Vitor Costa Gomes referente ao protótipo de papel realizado na 5ª entrevista (tabela 13).
 
-Tabela 14: Perguntas respondidas 5º entrevista (Fonte: DUARTE, Augusto. 2024).
+<center>
 
+**Tabela 14: Perguntas respondidas pelo entrevistado da 5ª entrevista.**
+
+| Ordem das perguntas | Pergunta       | Tipo de pergunta    | Resposta        |
+| :-----------------: | :-----------: | :-----------------: | :-------------------------------------: |
+| 1   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?   | Objetiva/Discursiva | Não.   |
+| 2   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.      | Objetiva/Discursiva | Acho que foi tudo bem simples e fácil.       |
+| 3   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?  | Objetiva/Discursiva | Acredito que sim.  |
+| 4   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          |   Clicava no registro, tinha um caminho para caso estivesse bem de saúde, e outro para caso estivesse mal. Caso mal, tinha áreas de sintomas, de endereços.                |
+| 5   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?   | Objetiva/Discursiva | Acredito que não precise de alterações.      |
+
+(Fonte: MEIRELES, Lucas O. 2024).
+
+</center>
+
+#### Dados observados pelo avaliador
+
+Encontra-se abaixo a tabela 15, a qual contém as anotações feitas pelo integrante do grupo que agiu como observador durante a 5ª entrevista.
+Consideram-se caminhos ideais para a atividade, os descritos pela referente [Análise de Tarefas](../../../requisitos1/analise-tarefas.md#análise-da-tarefa-cnm-goms-6-cadastrar-e-acompanhar-status-de-uma-reclamação-no-conselho-municipal-de-educação-sobre-uma-escola-do-municipio-da-lagoa-da-prata). Ações que não seguissem o descrito, seriam considerados erros de navegação do usuário.
+
+<center>
+
+**Tabela 15: Anotações do observador**
+
+| Elementos a serem registrados | Tipo de informação a ser registrada | Registro da atividade |
+| :---------------------------: | :---------------------------------: | :-------------------: |
+| Número de erros do usuário    | Valor númerico                      |          0            |
+| Páginas que causaram confusão | Anotação da página com a área de confusão |    Não aparentou nenhuma confusão         |
+| Ações inesperadas             | Anotações das ações do usuário      |    Durante a explicação de como tinha sido a execução de tarefa por memória, o entrevistado errou ao dizer serviços em lugar de saúde.                   |
+| Comentários do usuário durante a atividade | Anotações gerais       |    Acredito que esteja bem enxuto e não está apresentando informações demais e desnecessárias ao usuário.       |
+
+(Fonte: MEIRELES, Lucas O. 2024).
+
+</center>
+
+#### Ajustes Recomendados
+
+- Pelo feedback da entrevista acima, não há ajuste a ser realizado.
 
 ### Sexta Entrevista
 
@@ -242,7 +283,7 @@ Tabela 14: Perguntas respondidas 5º entrevista (Fonte: DUARTE, Augusto. 2024).
 | ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
 |     6°     | 17/06/2024 | 16:05 - 16:15 | FGA - Container 15  | Joyce Dionizio     | Maria| Cadastro Antecipado de Aluno. |
 
-Tabela 15: Cronograma 6ª entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 16: Cronograma 6ª entrevista (Fonte: DUARTE, Augusto. 2024).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t_RkonIc7UA?si=LVx_N8JP8w_ycXjv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -260,7 +301,7 @@ Vídeo 7: Sexta Entrevista
 | 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
 
-Tabela 16: Perguntas respondidas 6º entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 17: Perguntas respondidas 6º entrevista (Fonte: DUARTE, Augusto. 2024).
 
 
 ### Setima Entrevista
@@ -269,7 +310,7 @@ Tabela 16: Perguntas respondidas 6º entrevista (Fonte: DUARTE, Augusto. 2024).
 | ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
 |     7°     | 17/06/2024 | 16:20 - 16:30 | FGA - Container 15  | Joyce Dionizio     | Debora | Cadastro Antecipado de Aluno.  |
 
-Tabela 17: Cronograma 7ª entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 18: Cronograma 7ª entrevista (Fonte: DUARTE, Augusto. 2024).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cFISDOasbXs?si=cOaZwUz-2JiIKjEB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -287,7 +328,7 @@ Vídeo 8: Setima Entrevista
 | 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
 
-Tabela 18: Perguntas respondidas 7º entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 19: Perguntas respondidas 7º entrevista (Fonte: DUARTE, Augusto. 2024).
 
 
 ### Oitava Entrevista
@@ -296,7 +337,7 @@ Tabela 18: Perguntas respondidas 7º entrevista (Fonte: DUARTE, Augusto. 2024).
 | ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
 |     8°     | 17/06/2024 | 16:30 - 16:45 | FGA - LDTEA, sala 309 | Augusto Duarte e Lucas Meireles | Vitor Costa Gomes | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
 
-Tabela 19: Cronograma 8ª entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 20: Cronograma 8ª entrevista (Fonte: DUARTE, Augusto. 2024).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6mMZysIp_dI?si=vgfmXze185VfqqDe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -314,7 +355,7 @@ Vídeo 9: Oitava Entrevista
 | 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
 
-Tabela 20: Perguntas respondidas 8º entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 21: Perguntas respondidas 8º entrevista (Fonte: DUARTE, Augusto. 2024).
 
 ### Nona Entrevista
 
@@ -322,7 +363,7 @@ Tabela 20: Perguntas respondidas 8º entrevista (Fonte: DUARTE, Augusto. 2024).
 | ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
 |     9°     | 17/06/2024 | 16:50 - 17:00 | FGA - LDTEA, sala 309 | Augusto Duarte e Lucas Meireles | Victor Andreozzi  | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
 
-Tabela 21: Cronograma 9ª entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 22: Cronograma 9ª entrevista (Fonte: DUARTE, Augusto. 2024).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s-QWV6KkwFk?si=7wd71tfe3qVh7PyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -340,7 +381,7 @@ Vídeo 10: Nona Entrevista
 | 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
 
-Tabela 22: Perguntas respondidas 9º entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 23: Perguntas respondidas 9º entrevista (Fonte: DUARTE, Augusto. 2024).
 
 
 ### Decima Entrevista
@@ -349,7 +390,7 @@ Tabela 22: Perguntas respondidas 9º entrevista (Fonte: DUARTE, Augusto. 2024).
 | ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
 |     10°    | 17/06/2024 | 17:00 - 17:10 | FGA - LDTEA, sala 309 | Cainã Freitas e Pedro Lucas | Vitor Costa Gomes | Cadastrar e acompanhar uma reclamação na ouvidoria. |
 
-Tabela 23: Cronograma 10ª entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 24: Cronograma 10ª entrevista (Fonte: DUARTE, Augusto. 2024).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uE_t6IoQpfA?si=gQzebdXHIv3NEH5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -367,7 +408,7 @@ Vídeo 11: Decima Entrevista
 | 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
 
-Tabela 24: Perguntas respondidas 10º entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 25: Perguntas respondidas 10º entrevista (Fonte: DUARTE, Augusto. 2024).
 
 
 ### Decima Primeira Entrevista
@@ -376,7 +417,7 @@ Tabela 24: Perguntas respondidas 10º entrevista (Fonte: DUARTE, Augusto. 2024).
 | ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
 |     11°    | 17/06/2024 | 17:20 - 17:30 | FGA - LDTEA, sala 309 | Cainã Freitas e Pedro Lucas | Victor Andreozzi  | Cadastrar e acompanhar uma reclamação na ouvidoria. |
 
-Tabela 25: Cronograma 11ª entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 26: Cronograma 11ª entrevista (Fonte: DUARTE, Augusto. 2024).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ryA8wyUZY1s?si=ER3rSYU2deP8pAIB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -394,7 +435,7 @@ Vídeo 12: Decima Primeira Entrevista
 | 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                |
 
-Tabela 26: Perguntas respondidas 11º entrevista (Fonte: DUARTE, Augusto. 2024).
+Tabela 27: Perguntas respondidas 11º entrevista (Fonte: DUARTE, Augusto. 2024).
 
 
 ## Ajustes Recomendados
@@ -408,9 +449,12 @@ Abaixo será listados alguns ajustes que podem ser feitos para o protótipo de a
 
 
 ### Décima Segunda Entrevista
+
+Abaixo se encontra a tabela 28, que diz respeito às informações gerais da 12ª entrevista realizada.
+
 <center>
 
-**Tabela 27: Cronograma 12ª entrevista**
+**Tabela 28: Cronograma 12ª entrevista**
 
 |    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
 | ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
@@ -418,6 +462,7 @@ Abaixo será listados alguns ajustes que podem ser feitos para o protótipo de a
 
 (Fonte: MEIRELES, Lucas O. 2024).
 
+**Vídeo 12**
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/K9TjP_CCRY8" title="Entrevista 2   Matheus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -425,18 +470,18 @@ Abaixo será listados alguns ajustes que podem ser feitos para o protótipo de a
 
 #### Perguntas respondidas 
 
-Encontra-se abaixo a tabela 28, a qual contém as respostas do entrevistado Matheus Antônio referente ao protótipo de papel realizado na 12ª entrevista (tabela 27).
+Encontra-se abaixo a tabela 29, a qual contém as respostas do entrevistado Matheus Antônio referente ao protótipo de papel realizado na 12ª entrevista (tabela 28).
 
 <center>
 
-**Tabela 28: Perguntas respondidas pelo entrevistado da 12ª entrevista.**
+**Tabela 29: Perguntas respondidas pelo entrevistado da 12ª entrevista.**
 
 | Ordem das perguntas | Pergunta       | Tipo de pergunta    | Resposta        |
 | :-----------------: | :-----------: | :-----------------: | :-------------------------------------: |
-| 1   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?   | Objetiva/Discursiva | Não.    |
-| 2   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.      | Objetiva/Discursiva | Não, bastante intuitivo       |
-| 3   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?  | Objetiva/Discursiva | Sim.  |
-| 4   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim.                |
+| 1   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?   | Objetiva/Discursiva | Não, não tive nenhuma confusão    |
+| 2   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.      | Objetiva/Discursiva | Não, não vi nenhum excesso ou falta.       |
+| 3   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?  | Objetiva/Discursiva | Acredito que sim.  |
+| 4   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          |   Dentro do site, pedi que fizesse um registro e sempre deixava claro as opções do que selecionar. Com isso, eu registrava os sintomas que tinha, os locais que passei que podem indicar locais de risco na cidade.                |
 | 5   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?   | Objetiva/Discursiva | Não.       |
 
 (Fonte: MEIRELES, Lucas O. 2024).
@@ -445,29 +490,35 @@ Encontra-se abaixo a tabela 28, a qual contém as respostas do entrevistado Math
 
 #### Dados observados pelo avaliador
 
-Encontra-se abaixo a tabela 29, a qual contém as anotações feitas pelo integrante do grupo que agiu como observador durante a 12ª entrevista.
+Encontra-se abaixo a tabela 30, a qual contém as anotações feitas pelo integrante do grupo que agiu como observador durante a 12ª entrevista.
 Consideram-se caminhos ideais para a atividade, os descritos pela referente [Análise de Tarefas](../../../requisitos1/analise-tarefas.md#análise-da-tarefa-cnm-goms-6-cadastrar-e-acompanhar-status-de-uma-reclamação-no-conselho-municipal-de-educação-sobre-uma-escola-do-municipio-da-lagoa-da-prata). Ações que não seguissem o descrito, seriam considerados erros de navegação do usuário.
 
 <center>
 
-**Tabela 29: Anotações do observador**
+**Tabela 30: Anotações do observador**
 
 | Elementos a serem registrados | Tipo de informação a ser registrada | Registro da atividade |
 | :---------------------------: | :---------------------------------: | :-------------------: |
 | Número de erros do usuário    | Valor númerico                      |          0            |
-| Páginas que causaram confusão | Anotação da página com a área de confusão |                 |
-| Ações inesperadas             | Anotações das ações do usuário      |                       |
-| Comentários do usuário durante a atividade | Anotações gerais       |                       |
+| Páginas que causaram confusão | Anotação da página com a área de confusão |    O entrevistado não demonstrou nenhuma confusão.         |
+| Ações inesperadas             | Anotações das ações do usuário      |    Não houveram ações inesperadas do entrevistado durante a entrevista.                   |
+| Comentários do usuário durante a atividade | Anotações gerais       |    Não houveram comentários extras durante a interação do entrevistado com o protótipo             |
 
 (Fonte: MEIRELES, Lucas O. 2024).
 
 </center>
 
+#### Ajustes Recomendados
+
+- Pode ser necessário conferir a necessidade ou não do usuário com login atualizado no site.
+
 ### Décima Terceira Entrevista
+
+Abaixo se encontra a tabela 31, que diz respeito às informações gerais da 13ª entrevista realizada.
 
 <center>
 
-**Tabela 2X: Cronograma 13ª entrevista**
+**Tabela 31: Cronograma 13ª entrevista**
 
 |    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
 | ---------- | ---------- | ----------------------- | ---------------- | ---------------------- | ----------------- | -------- |
@@ -475,8 +526,56 @@ Consideram-se caminhos ideais para a atividade, os descritos pela referente [An�
 
 (Fonte: MEIRELES, Lucas O. 2024).
 
-</center>
+**Vídeo 13**
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/6_oaTwOaOh8" title="Entrevista 3   Samuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
+</center>
+
+#### Perguntas respondidas 
+
+Encontra-se abaixo a tabela 32, a qual contém as respostas do entrevistado Samuel referente ao protótipo de papel realizado na 13ª entrevista (tabela 31).
+
+<center>
+
+**Tabela 32: Perguntas respondidas pelo entrevistado da 13ª entrevista.**
+
+| Ordem das perguntas | Pergunta       | Tipo de pergunta    | Resposta        |
+| :-----------------: | :-----------: | :-----------------: | :-------------------------------------: |
+| 1   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?   | Objetiva/Discursiva | Não, foi tudo muito intuitivo.    |
+| 2   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.      | Objetiva/Discursiva | Achei tudo bem tranquilo e faz sentido, então creio estar tudo bem.       |
+| 3   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?  | Objetiva/Discursiva | Acredito que sim, basta ler as informações na tela que fica claro como prosseguir.  |
+| 4   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          |   Fui na área de saúde, disse que tinha um problema, marquei que queria uma consulta e registrei os lugares que passei.                |
+| 5   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?   | Objetiva/Discursiva | Não.      |
+
+(Fonte: MEIRELES, Lucas O. 2024).
+
+</center>
+
+#### Dados observados pelo avaliador
+
+Encontra-se abaixo a tabela 33, a qual contém as anotações feitas pelo integrante do grupo que agiu como observador durante a 13ª entrevista.
+Consideram-se caminhos ideais para a atividade, os descritos pela referente [Análise de Tarefas](../../../requisitos1/analise-tarefas.md#análise-da-tarefa-cnm-goms-6-cadastrar-e-acompanhar-status-de-uma-reclamação-no-conselho-municipal-de-educação-sobre-uma-escola-do-municipio-da-lagoa-da-prata). Ações que não seguissem o descrito, seriam considerados erros de navegação do usuário.
+
+<center>
+
+**Tabela 33: Anotações do observador**
+
+| Elementos a serem registrados | Tipo de informação a ser registrada | Registro da atividade |
+| :---------------------------: | :---------------------------------: | :-------------------: |
+| Número de erros do usuário    | Valor númerico                      |          1            |
+| Páginas que causaram confusão | Anotação da página com a área de confusão |    A home page não aparenta ter ficado clara ao entrevistado para lhe indicar como prosseguir à função de saúde         |
+| Ações inesperadas             | Anotações das ações do usuário      |    O entrevistado buscou a realização da tarefa na área de serviços.                   |
+| Comentários do usuário durante a atividade | Anotações gerais       |    Pode ser interessante buscar a idade do usuário       |
+
+(Fonte: MEIRELES, Lucas O. 2024).
+
+</center>
+
+#### Ajustes Recomendados
+
+- Analisar se o usuário necessita estar logado em uma conta.
+- Por ser uma função de uso comum se incentivado, propor um acesso rápido pela home page.
 
 ## Conclusão 
 
@@ -491,4 +590,5 @@ De modo geral, pudemos perceber que a interface da tela principal contribuiu sig
 |      19/06/2024       | `1.1`  | Teste Piloto e Cronograma das Entrevistas | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
 |      19/06/2024       | `1.2`  | Adicação das entrevista 1 a 5 | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
 |      19/06/2024       | `1.3`  | Finalização do Documento      | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
+| 19/06/2024 | `1.4` | Alteração entrevistas 5, 12 e 13 | [Lucas Meireles](https://github.com/Katuner) |          |           |
 
