@@ -26,6 +26,7 @@ As metodologias elencaveis foram:
 
 A Tabela 1 apresenta as tarefas que foram prototipadas e utilizadas durante a avaliação.
 
+<center>
 **Tabela 1** - Tarefas executadas 
 
 | Número | Tarefas executadas                                                   |
@@ -37,13 +38,14 @@ A Tabela 1 apresenta as tarefas que foram prototipadas e utilizadas durante a av
 | 5      | Cadastro Antecipado de Aluno.                                        |
 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 ## Teste Piloto
 
  O teste piloto oferece uma oportunidade valiosa para aperfeiçoar a experiência do usuário e assegurar que o protótipo esteja em conformidade com as expectativas e necessidades do público-alvo. Esta fase possibilita validar o protótipo, detectar eventuais problemas e ajustar detalhes antes da apresentação aos usuários finais.
 
  A tabela 2 apresenta a realização do teste piloto, com data, horário, entrevistadores, entrevistados e tarefas selecionadas. Essa tabela foi baseada na Ficha de modelo para documentação das entrevistas, previamente elaborada no documento de [Planejamento do Relato de Resultados do Protótipo de Papel](Pl_relato_resultados.md).
+<center>
 
 **Tabela 2** - Cronograma da Execução do Teste Piloto 
 
@@ -52,22 +54,22 @@ A Tabela 1 apresenta as tarefas que foram prototipadas e utilizadas durante a av
 | 1°    | 17/06/2024 | 12:00 - 12:10           | FGA - LDTEA, sala 309 | Augusto Duarte  | Pedro Lucas  | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 A seguir se encontra o vídeo 1 com a entrevista referente ao Teste Piloto:
 
 <center>
+**Vídeo 1** - Entrevista Teste Piloto
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S4nzM5V4CoQ?si=LEzchkpfq8Zc9Lwh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </center>
-
-Vídeo 1: Entrevista Teste Piloto
-
 
 
 
 ## Entrevistas 
 
 A Tabela 3 apresenta a ordem de realização das entrevistas, com data, horário, entrevistadores, entrevistados e tarefas selecionadas na Tabela 1. Essa tabela foi baseada na Ficha de modelo para documentação das entrevistas, previamente elaborada no documento de [Planejamento do Relato de Resultados do Protótipo de Papel](Pl_relato_resultados.md).
+<center>
 
 **Tabela 3** - Cronograma da Execução das Entrevistas 
 
@@ -88,7 +90,7 @@ A Tabela 3 apresenta a ordem de realização das entrevistas, com data, horário
 | 13°   | 18/06/2024 | 17:30 - 17:40           | FGA - UAC, área aberta | Lucas Meireles                  | Samuel            | Registrar e verificar o panorama de saúde da cidade.                 |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 
 ## Desenvolvimento da Avaliação 
@@ -101,6 +103,7 @@ Foram realizadas 13 simulações de uso, cada uma com 2 entrevistadores. Este ti
 - Comentários do usuário durante a atividade
 
 Ao final da avalição foram feitas algumas perguntas ao úsuario sobre sua experiência com o prótotipo. A tabela 4 descreve as perguntas a realizadas. 
+<center>
 
 **Tabela 4** - Ficha modelo para documentação das perguntas 
 
@@ -113,9 +116,10 @@ Ao final da avalição foram feitas algumas perguntas ao úsuario sobre sua expe
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Sim e justificativa/Não                 |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 ### Primeira Entrevista
+<center>
 
 **Tabela 5** - Cronograma 1ª entrevista 
 
@@ -126,13 +130,14 @@ Ao final da avalição foram feitas algumas perguntas ao úsuario sobre sua expe
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 
 
-<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dNHhd2k8IZ0?si=fBlXSi5fPpGmyKX6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 Vídeo 2: Primeira Entrevista
 
 #### Perguntas respondidas 
+<center>
 
 **Tabela 6** - Perguntas respondidas 1º entrevista 
 
@@ -145,9 +150,10 @@ Vídeo 2: Primeira Entrevista
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                                                                                                 |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 ### Segunda Entrevista
+<center>
 
 **Tabela 7** - Cronograma 2ª entrevista 
 
@@ -156,7 +162,7 @@ Vídeo 2: Primeira Entrevista
 | 2°    | 17/06/2024 | 15:20 - 15:30           | FGA - LDTEA, sala 309 | Cainã Freitas e Pedro Lucas | Will         | Cadastrar e acompanhar uma reclamação na ouvidoria. |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BKHiAfcys4g?si=iSzrO3zMallNBIBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -165,6 +171,7 @@ Vídeo 2: Primeira Entrevista
 Vídeo 3: Segunda Entrevista
 
 #### Perguntas respondidas 
+<center>
 
 **Tabela 8** - Perguntas respondidas 2º entrevista 
 
@@ -177,9 +184,10 @@ Vídeo 3: Segunda Entrevista
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.     |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 ### Terceira Entrevista
+<center>
 
 **Tabela 9** - Cronograma 3ª entrevista 
 
@@ -188,7 +196,7 @@ Vídeo 3: Segunda Entrevista
 | 3°    | 17/06/2024 | 15:35 - 15:50           | FGA - LDTEA, sala 309 | Pedro Lucas e Cainã Freitas | Will         | Solicitar vistoria de local com água parada. |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P4JycI0-YD0?si=mh1G1r6ye4y3lc5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -197,6 +205,7 @@ Vídeo 3: Segunda Entrevista
 Vídeo 4: Terceira Entrevista
 
 #### Perguntas respondidas 
+<center>
 
 **Tabela 10** - Perguntas respondidas 3º entrevista 
 
@@ -209,10 +218,11 @@ Vídeo 4: Terceira Entrevista
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.     |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 
 ### Quarta Entrevista
+<center>
 
 **Tabela 11** - Cronograma 4ª entrevista 
 
@@ -221,7 +231,7 @@ Vídeo 4: Terceira Entrevista
 | 4°    | 17/06/2024 | 15:50 - 16:00           | FGA - Container 15 | Joyce Dionizio  | Oscar        | Cadastro Antecipado de Aluno. |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xflcJRBDdww?si=SIov3MvMEqLCmjxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -230,6 +240,7 @@ Vídeo 4: Terceira Entrevista
 Vídeo 5: Quarta Entrevista
 
 #### Perguntas respondidas 
+<center>
 
 **Tabela 12** - Perguntas respondidas 4º entrevista 
 
@@ -243,7 +254,7 @@ Vídeo 5: Quarta Entrevista
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 
-
+</center>
 
 ### Quinta Entrevista
 
@@ -314,6 +325,7 @@ Consideram-se caminhos ideais para a atividade, os descritos pela referente [An�
 - Pelo feedback da entrevista acima, não há ajuste a ser realizado.
 
 ### Sexta Entrevista
+<center>
 
 **Tabela 16** - Cronograma 6ª entrevista 
 
@@ -322,7 +334,7 @@ Consideram-se caminhos ideais para a atividade, os descritos pela referente [An�
 | 6°    | 17/06/2024 | 16:05 - 16:15           | FGA - Container 15 | Joyce Dionizio  | Maria        | Cadastro Antecipado de Aluno. |
 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+<center>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t_RkonIc7UA?si=LVx_N8JP8w_ycXjv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -331,6 +343,7 @@ Consideram-se caminhos ideais para a atividade, os descritos pela referente [An�
 Vídeo 7: Sexta Entrevista
 
 #### Perguntas respondidas 
+<center>
 
 **Tabela 17** - Perguntas respondidas 6º entrevista 
 
@@ -343,18 +356,20 @@ Vídeo 7: Sexta Entrevista
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                                                         |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 
 ### Setima Entrevista
+<center>
 
-**Tabela 18** - Cronograma 7ª entrevista (Fonte: DUARTE, Augusto. 2024).
+**Tabela 18** - Cronograma 7ª entrevista 
 
 | Ordem | Data       | Horário de início e fim | Local              | Entrevistadores | Entrevistado | Tarefas                       |
 | ----- | ---------- | ----------------------- | ------------------ | --------------- | ------------ | ----------------------------- |
 | 7°    | 17/06/2024 | 16:20 - 16:30           | FGA - Container 15 | Joyce Dionizio  | Debora       | Cadastro Antecipado de Aluno. |
 
-
+ *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+</center>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cFISDOasbXs?si=cOaZwUz-2JiIKjEB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -363,6 +378,7 @@ Vídeo 7: Sexta Entrevista
 Vídeo 8: Setima Entrevista
 
 #### Perguntas respondidas 
+<center>
 
 **Tabela 19** - Perguntas respondidas 7º entrevista 
 
@@ -375,10 +391,11 @@ Vídeo 8: Setima Entrevista
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.     |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 
 ### Oitava Entrevista
+<center>
 
 **Tabela 20** - Cronograma 8ª entrevista (Fonte: DUARTE, Augusto. 2024).
 
@@ -387,7 +404,7 @@ Vídeo 8: Setima Entrevista
 | 8°    | 17/06/2024 | 16:30 - 16:45           | FGA - LDTEA, sala 309 | Augusto Duarte e Lucas Meireles | Vitor Costa Gomes | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6mMZysIp_dI?si=vgfmXze185VfqqDe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -398,6 +415,7 @@ Vídeo 9: Oitava Entrevista
 #### Perguntas respondidas 
 
 **Tabela 21** - Perguntas respondidas 8º entrevista 
+<center>
 
 | Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                                                                                             |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -408,9 +426,10 @@ Vídeo 9: Oitava Entrevista
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                                                                                                                 |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 ### Nona Entrevista
+<center>
 
 **Tabela 22** - Cronograma 9ª entrevista 
 
@@ -419,7 +438,7 @@ Vídeo 9: Oitava Entrevista
 | 9°    | 17/06/2024 | 16:50 - 17:00           | FGA - LDTEA, sala 309 | Augusto Duarte e Lucas Meireles | Victor Andreozzi | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s-QWV6KkwFk?si=7wd71tfe3qVh7PyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -428,6 +447,7 @@ Vídeo 9: Oitava Entrevista
 Vídeo 10: Nona Entrevista
 
 #### Perguntas respondidas 
+<center>
 
 **Tabela 23** - Perguntas respondidas 9º entrevista 
 
@@ -440,10 +460,11 @@ Vídeo 10: Nona Entrevista
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                        |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 
 ### Decima Entrevista
+<center>
 
 **Tabela 24** - Cronograma 10ª entrevista 
 
@@ -453,6 +474,7 @@ Vídeo 10: Nona Entrevista
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 
+</center>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uE_t6IoQpfA?si=gQzebdXHIv3NEH5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -461,6 +483,7 @@ Vídeo 10: Nona Entrevista
 Vídeo 11: Decima Entrevista
 
 #### Perguntas respondidas 
+<center>
 
 **Tabela 25** - Perguntas respondidas 10º entrevista 
 
@@ -473,10 +496,12 @@ Vídeo 11: Decima Entrevista
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                                         |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 
 ### Decima Primeira Entrevista
+<center>
+
 **Tabela 26** - Cronograma 11ª entrevista
 
 | Ordem | Data       | Horário de início e fim | Local                 | Entrevistadores             | Entrevistado     | Tarefas                                             |
@@ -484,6 +509,7 @@ Vídeo 11: Decima Entrevista
 | 11°   | 17/06/2024 | 17:20 - 17:30           | FGA - LDTEA, sala 309 | Cainã Freitas e Pedro Lucas | Victor Andreozzi | Cadastrar e acompanhar uma reclamação na ouvidoria. |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+</center>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ryA8wyUZY1s?si=ER3rSYU2deP8pAIB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -492,6 +518,7 @@ Vídeo 11: Decima Entrevista
 Vídeo 12: Decima Primeira Entrevista
 
 #### Perguntas respondidas 
+<center>
 
 **Tabela 27** - Perguntas respondidas 11º entrevista (Fonte: DUARTE, Augusto. 2024).
 
@@ -504,7 +531,7 @@ Vídeo 12: Decima Primeira Entrevista
 | 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Não.                    |
 
  *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
+</center>
 
 
 ## Ajustes Recomendados
