@@ -101,7 +101,7 @@ Já para os dados provenientes da avaliação heurística, será seguido o model
 | :--------: | :----: | :------------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 22/05/2024 | `1.0`  |       Elaboração inicial do documento        | [Lucas Meireles](https://github.com/Katuner) |   22/05/2024    | [Lucas Heler](https://github.com/akaeboshi) |
 | 03/06/2024 | `1.1`  | Adiciona tabela de perguntas para entrevista | [Cainã Freitas](https://github.com/freitasc) |   11/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 11/06/2024 | `2.0`  |         Reestruturação no documento          | [Pedro Lucas](https://github.com/lucasdray) |                 |                                             |
+| 11/06/2024 | `2.0`  |         Reestruturação no documento          | [Pedro Lucas](https://github.com/lucasdray) |    19/06/2024              |   [Joyce Dionizio](https://github.com/joycejdm)                                          |
 
 ## Referencial Bibliográfico
 

@@ -140,4 +140,4 @@ Ao fim de cada entrevista, a ultima pergunta será sobre sugestões de correçõ
 
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
-| 22/05/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 22/05/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |  19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |

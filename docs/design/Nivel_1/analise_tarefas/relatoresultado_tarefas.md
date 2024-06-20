@@ -87,4 +87,4 @@ Tabela 2: Ficha de entrevista - perguntas (Fonte: FREITAS, Cainã. 2024)
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 03/06/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |  03/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
-| 03/06/2024 | `1.1`  |  Adiciona entrevista   |      [Cainã Freitas](https://github.com/freitasc) |  | |
+| 03/06/2024 | `1.1`  |  Adiciona entrevista   |      [Cainã Freitas](https://github.com/freitasc) | 19/06/2024  |  [Joyce Dionizio](https://github.com/joycejdm)|
