@@ -16,7 +16,7 @@ A tabela 1 apresenta as tarefas que serão avaliadas pelo uso da técnica de pro
 | 2      | Acessar o módulo de Contra Cheque e consultar processos do servidor | [Augusto Duarte](https://github.com/Augcamp) |
 | 3      | Registrar e verificar o panorama de saúde da cidade                 | [Lucas Meireles](https://github.com/Katuner) |
 | 4      | Solicitar vistoria de local com água parada                         | [Pedro Lucas](https://github.com/lucasdray)  |
-
+| 5      | Cadastro Antecipado de Aluno                       | [Joyce Dionizio](https://github.com/joycejdm)  |
 
 <center>Tabela 1: Tarefas a serem avaliadas no protótipo de papel (Fonte: FREITAS, Cainã. 2024). </center>
 
