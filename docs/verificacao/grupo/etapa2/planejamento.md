@@ -61,9 +61,10 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 
 ### Análise de Tarefas
 
-## Referências Bibliográficas
-
 ## Bibliografia
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+> https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata
 
 ## Histórico de Versões
 
