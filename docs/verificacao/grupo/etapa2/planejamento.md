@@ -17,6 +17,8 @@ A metodologia adotada para esta verificação é a inspeção, que consiste em u
 Os artefatos alvos dessa verificação são:
 
 - O [**Aspectos Éticos**](../../../requisitos1/aspectos-eticos.md);
+- O [**Questionário**](../../../requisitos1/questionario.md);
+- O [**Entrevista**](../../../requisitos1/estrevista.md);
 - O [**Perfil de Usuário**](../../../requisitos1/perfil-usuario.md);
 - O [**Cenários**](../../../requisitos1/cenarios.md);
 - O [**Personas**](../../../requisitos1/personas.md);
@@ -53,7 +55,56 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 
 ### Aspectos Éticos
 
+### Questionário
+
+<center>
+
+**Tabela 3 - Cheklist Questionário**
+
+</center>
+
+| ID | Descrição | Avaliação | Referência | Imagem |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | As perguntas demográficas estão presentes no questionário? | - | "5.5.2 Questionários" | [Página 152]() |
+| 2 | O questionário inclui perguntas fechadas para facilitar a análise? | - | "5.5.2 Questionários" | [Página 151]() |
+| 3 | Há perguntas com respostas neutras ou alternativas, como 'não sei' ou 'não quero responder'? | - |"5.5.2 Questionários" | [Página 151]() |
+| 4 | As perguntas estão ordenadas de forma lógica, começando com questões gerais e progredindo para questões específicas? | - | "5.5.2 Questionários"  |[Página 152]() |
+| 5 | O questionário inclui instruções claras sobre como responder cada pergunta? | - |"5.5.2 Questionários" | [Página 151]() |
+| 6 | As perguntas de múltipla escolha estão claramente marcadas para diferenciar entre opções únicas e múltiplas? |  - | "5.5.2 Questionários" | [Página 153]() |
+| 7 | As escalas de Likert são utilizadas para medir opiniões e atitudes? |  - | "5.5.2 Questionários" | [Página 153]() |
+| 8 |O questionário evita a inclusão excessiva de perguntas abertas? |  - | "5.5.2 Questionários" | [Página 154]() |
+| 9 | Há espaço suficiente para respostas em perguntas abertas? |  - | "5.5.2 Questionários"  |[Página 153]() |
+| 10 | As perguntas são formuladas de maneira a evitar induzir certas respostas?  |  - | "5.5.2 Questionários" | [Página 150]() |
+
+  <center> <p>Fonte: <a href="https://github.com/joycejdm">Joyce Dionizio</a>, 2024</p>
+</center>
+
+### Entrevista
+
 ### Perfil de Usuário
+
+<center>
+
+**Tabela 5 - Cheklist Perfil do Usuário**
+
+</center>
+
+| ID | Descrição | Avaliação | Referência | Imagem |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | O perfil do usuário identifica claramente quem são os usuários? | - | "6.1 Perfi l de Usuário" | [Página 175]() |
+| 2 | Os objetivos dos usuários estão claramente definidos no perfil? | - | "6.1 Perfi l de Usuário" | [Página 175]() |
+| 3 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | [Página 175]() |
+| 4 | Foi conduzido um estudo para coletar os dados dos usuários através de entrevistas ou questionários? | - | "6.1 Perfi l de Usuário"  |[Página 175]() |
+| 5 | Os dados coletados foram agregados em grupos e faixas nos quais os usuários se encaixam, por exemplo, idade, experiência, atitudes e tarefas primárias? | - |"6.1 Perfi l de Usuário" | [Página 175, 176]() |
+| 6 |O perfil de usuário é atualizado de forma iterativa, refinando as informações conforme novas descobertas são feitas? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
+| 7 | O perfil inclui dados sobre a relação dos usuários com tecnologia e seu conhecimento do domínio do produto e das tarefas? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
+| 8 |As características de um perfil de usuário foram priorizadas conforme o produto e projeto em questão? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
+| 9 | O perfil de usuário foi utilizado para auxiliar no recrutamento de participantes para futuras atividades de análise e avaliação? |  - | "6.1 Perfi l de Usuário"  |[Página 175]() |
+| 10 | Os grupos de usuários foram categorizados com base em suas semelhanças, como idade, experiência, atitudes e tarefas primárias?  |  - | "6.1 Perfi l de Usuário" | [Página 175, 176]() |
+
+  <center> <p>Fonte: <a href="https://github.com/joycejdm">Joyce Dionizio</a>, 2024</p>
+</center>
+
 
 ### Cenários
 
@@ -71,3 +122,4 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 | Versão | Data       | Descrição                                                                          | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 23/06/2024 | Criação do Documento| [Joyce Dionizio](https://github.com/joycejdm) | -    |
+| `1.1`  | 23/06/2024 | Adiciona Checklist Questionário e Perfil do Usuário| [Joyce Dionizio](https://github.com/joycejdm) | -    |
