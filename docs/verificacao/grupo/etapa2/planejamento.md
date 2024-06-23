@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A verificação é uma etapa crucial no desenvolvimento de um projeto, onde os artefatos gerados são avaliados para assegurar que atendem aos requisitos especificados. Portanto, este documento apresenta o plano de verificação dos artefatos produzidos pelo [grupo](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata) na etapa 2.
+A verificação é uma etapa crucial no desenvolvimento de um projeto, onde os artefatos gerados são avaliados para assegurar que atendem aos requisitos especificados. Portanto, este documento apresenta o plano de verificação dos artefatos produzidos pelo [grupo 5](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata) na etapa 2.
 
 ## Objetivos
 
