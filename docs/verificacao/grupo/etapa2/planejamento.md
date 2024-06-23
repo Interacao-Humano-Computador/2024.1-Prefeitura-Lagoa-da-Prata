@@ -6,7 +6,7 @@ A verificação é uma etapa crucial no desenvolvimento de um projeto, onde os a
 
 ## Objetivos
 
-Este documento visa delinear o plano de verificação dos artefatos desenvolvidos durante a segunda etapa pelo [grupo](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata). Nele, serão descritos a metodologia adotada, os envolvidos no processo, os itens a serem verificados, o cronograma previsto e as checklists que serão utilizadas para garantir a conformidade dos artefatos com os requisitos especificados.
+Este documento visa delinear o plano de verificação dos artefatos desenvolvidos durante a segunda etapa pelo [grupo 5](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata). Nele, serão descritos a metodologia adotada, os envolvidos no processo, os itens a serem verificados, o cronograma previsto e as checklists que serão utilizadas para garantir a conformidade dos artefatos com os requisitos especificados.
 
 ## Metodologia
 
@@ -16,34 +16,34 @@ A metodologia adotada para esta verificação é a inspeção, que consiste em u
 
 Os artefatos alvos dessa verificação são:
 
-- O [**Aspectos Éticos**](../../../requisitos1/aspectos-eticos.md);
-- O [**Questionário**](../../../requisitos1/questionario.md);
-- O [**Entrevista**](../../../requisitos1/estrevista.md);
-- O [**Perfil de Usuário**](../../../requisitos1/perfil-usuario.md);
-- O [**Cenários**](../../../requisitos1/cenarios.md);
-- O [**Personas**](../../../requisitos1/personas.md);
-- O [**Análise de Tarefas**](../../../requisitos1/analise-tarefas.md) ;
+- [**Aspectos Éticos**](../../../requisitos1/aspectos-eticos.md);
+- [**Questionário**](../../../requisitos1/questionario.md);
+- [**Entrevista**](../../../requisitos1/estrevista.md);
+- [**Perfil de Usuário**](../../../requisitos1/perfil-usuario.md);
+- [**Cenários**](../../../requisitos1/cenarios.md);
+- [**Personas**](../../../requisitos1/personas.md);
+- [**Análise de Tarefas**](../../../requisitos1/analise-tarefas.md) ;
 
 ### Participantes e Cronograma
 
-Os responsáveis por essa verificação foram os integrantes do grupo [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray), [Augusto Duarte](https://github.com/Augcamp) e [Cainã Valença](https://github.com/freitasc), que realizaram o planejamento, a inspeção, o relato dos resultados e a correção. Em relação a validação dos artefatos produzidos por essa verificação, fica a cargo dos integrantes do mesmo grupo.
+A realização do planejamento foi realizado de uma forma que os integrantes do grupo Todos os integrantes do grupo [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm) e [Lucas Meireles](https://github.com/Katuner) ficaram responsáveis por fazer a planejamento dessa etapa. Já na parte de verificação todos os integrantes do grupo irão participar
 
 <center>
 
-**Tabela 1 - Participantes da Inspeção e Cronograma**
+**Tabela 1** - Participantes da Inspeção e Cronograma
 
-| Artefato       | Versão | Responsável pelo Artefato                  | Responsável pela Verificação                  | Data da Verificação | Resultado |
-|----------------|--------|--------------------------------------------|-----------------------------------------------|---------------------|-----------|
-| [Aspectos Éticos](../../../requisitos1/aspectos-eticos.md) | 2.0    | [Cainã Freitas](https://github.com/freitasc) e [Pedro Lucas](https://github.com/lucasdray)  | [Joyce Dionizio](https://github.com/joycejdm)         |  25/06/2024 | Resultado da Verificação
-| [Questionário](../../../requisitos1/questionario.md) | 1.1    |  [Lucas Meireles](https://github.com/Katuner) |   [Lucas Meireles](https://github.com/Katuner)  | 25/06/2024          | Resultado da Verificação |
-| [Entrevista](../../../requisitos1/entrevista.md) | 1.1    | [Lucas Meireles](https://github.com/Katuner)  | [Lucas Meireles](https://github.com/Katuner)  | 25/06/2024          | Resultado da Verificação |
-| [Perfil do Usuário](../../../requisitos1/perfil-do-usuario.md) | 1.1    | [Pedro Lucas](https://github.com/lucasdray)  | [Lucas Meireles](https://github.com/Katuner)  | 25/06/2024          | Resultado da Verificação |
-| [Personas](../../../requisitos1/personas.md) | 2.0    | [Pedro Lucas](https://github.com/lucasdray)  | [Joyce Dionizio](https://github.com/joycejdm), [Cainã Freitas](https://github.com/freitasc), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) e [Augusto Duarte](https://github.com/Augcamp) | 25/06/2024  | Resultado da Verificação |
-| [Cenários](../../../requisitos1/cenarios.md) | 2.0    | [Pedro Lucas](https://github.com/lucasdray) | [Joyce Dionizio](https://github.com/joycejdm), [Cainã Freitas](https://github.com/freitasc), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) e [Augusto Duarte](https://github.com/Augcamp)  | 25/06/2024          | Resultado da Verificação |
-| [Análise de Tarefas](../../../requisitos1/analise-tarefas.md) | 2.1    |  [Pedro Lucas](https://github.com/lucasdray)  |[Joyce Dionizio](https://github.com/joycejdm), [Cainã Freitas](https://github.com/freitasc), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) e [Augusto Duarte](https://github.com/Augcamp) | 25/06/2024          | Resultado da Verificação |
+| Artefato                                                       | Versão | Responsável pelo Artefato                                                                  | Responsável pela Verificação                                                                                                                                                                                                          | Data da Verificação | Resultado                |
+| -------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------ |
+| [Aspectos Éticos](../../../requisitos1/aspectos-eticos.md)     | 2.0    | [Cainã Freitas](https://github.com/freitasc) e [Pedro Lucas](https://github.com/lucasdray) | [Joyce Dionizio](https://github.com/joycejdm)                                                                                                                                                                                         | ???                 | Resultado da Verificação |
+| [Questionário](../../../requisitos1/questionario.md)           | 1.1    | [Lucas Meireles](https://github.com/Katuner)                                               | [Lucas Meireles](https://github.com/Katuner)                                                                                                                                                                                          | ???                 | Resultado da Verificação |
+| [Entrevista](../../../requisitos1/entrevista.md)               | 1.1    | [Lucas Meireles](https://github.com/Katuner)                                               | [Lucas Meireles](https://github.com/Katuner)                                                                                                                                                                                          | ???                 | Resultado da Verificação |
+| [Perfil do Usuário](../../../requisitos1/perfil-do-usuario.md) | 1.1    | [Pedro Lucas](https://github.com/lucasdray)                                                | [Lucas Meireles](https://github.com/Katuner)                                                                                                                                                                                          | ???                 | Resultado da Verificação |
+| [Personas](../../../requisitos1/personas.md)                   | 2.0    | [Pedro Lucas](https://github.com/lucasdray)                                                | [Joyce Dionizio](https://github.com/joycejdm), [Cainã Freitas](https://github.com/freitasc), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) e [Augusto Duarte](https://github.com/Augcamp) | ???                 | Resultado da Verificação |
+| [Cenários](../../../requisitos1/cenarios.md)                   | 2.0    | [Pedro Lucas](https://github.com/lucasdray)                                                | [Joyce Dionizio](https://github.com/joycejdm), [Cainã Freitas](https://github.com/freitasc), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) e [Augusto Duarte](https://github.com/Augcamp) | ???                 | Resultado da Verificação |
+| [Análise de Tarefas](../../../requisitos1/analise-tarefas.md)  | 2.1    | [Pedro Lucas](https://github.com/lucasdray)                                                | [Joyce Dionizio](https://github.com/joycejdm), [Cainã Freitas](https://github.com/freitasc), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) e [Augusto Duarte](https://github.com/Augcamp) | ???                 | Resultado da Verificação |
 
 
-_Fonte: [Joyce Dionizio](https://github.com/joycejdm), 2024._
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 
 </center>
 
@@ -59,24 +59,24 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 
 <center>
 
-**Tabela 3 - Cheklist Questionário**
+**Tabela 3** - Cheklist Questionário
 
-</center>
 
-| ID | Descrição | Avaliação | Referência | Imagem |
-| :----: | --------- | ---------- | ----------- | ------- |
-| 1 | As perguntas demográficas estão presentes no questionário? | - | "5.5.2 Questionários" | [Página 152]() |
-| 2 | O questionário inclui perguntas fechadas para facilitar a análise? | - | "5.5.2 Questionários" | [Página 151]() |
-| 3 | Há perguntas com respostas neutras ou alternativas, como 'não sei' ou 'não quero responder'? | - |"5.5.2 Questionários" | [Página 151]() |
-| 4 | As perguntas estão ordenadas de forma lógica, começando com questões gerais e progredindo para questões específicas? | - | "5.5.2 Questionários"  |[Página 152]() |
-| 5 | O questionário inclui instruções claras sobre como responder cada pergunta? | - |"5.5.2 Questionários" | [Página 151]() |
-| 6 | As perguntas de múltipla escolha estão claramente marcadas para diferenciar entre opções únicas e múltiplas? |  - | "5.5.2 Questionários" | [Página 153]() |
-| 7 | As escalas de Likert são utilizadas para medir opiniões e atitudes? |  - | "5.5.2 Questionários" | [Página 153]() |
-| 8 |O questionário evita a inclusão excessiva de perguntas abertas? |  - | "5.5.2 Questionários" | [Página 154]() |
-| 9 | Há espaço suficiente para respostas em perguntas abertas? |  - | "5.5.2 Questionários"  |[Página 153]() |
-| 10 | As perguntas são formuladas de maneira a evitar induzir certas respostas?  |  - | "5.5.2 Questionários" | [Página 150]() |
 
-  <center> <p>Fonte: <a href="https://github.com/joycejdm">Joyce Dionizio</a>, 2024</p>
+| ID  | Descrição                                                                                                            | Avaliação | Referência            | Imagem         |
+| :-: | -------------------------------------------------------------------------------------------------------------------- | --------- | --------------------- | -------------- |
+|  1  | As perguntas demográficas estão presentes no questionário?                                                           | -         | "5.5.2 Questionários" | [Página 152]() |
+|  2  | O questionário inclui perguntas fechadas para facilitar a análise?                                                   | -         | "5.5.2 Questionários" | [Página 151]() |
+|  3  | Há perguntas com respostas neutras ou alternativas, como 'não sei' ou 'não quero responder'?                         | -         | "5.5.2 Questionários" | [Página 151]() |
+|  4  | As perguntas estão ordenadas de forma lógica, começando com questões gerais e progredindo para questões específicas? | -         | "5.5.2 Questionários" | [Página 152]() |
+|  5  | O questionário inclui instruções claras sobre como responder cada pergunta?                                          | -         | "5.5.2 Questionários" | [Página 151]() |
+|  6  | As perguntas de múltipla escolha estão claramente marcadas para diferenciar entre opções únicas e múltiplas?         | -         | "5.5.2 Questionários" | [Página 153]() |
+|  7  | As escalas de Likert são utilizadas para medir opiniões e atitudes?                                                  | -         | "5.5.2 Questionários" | [Página 153]() |
+|  8  | O questionário evita a inclusão excessiva de perguntas abertas?                                                      | -         | "5.5.2 Questionários" | [Página 154]() |
+|  9  | Há espaço suficiente para respostas em perguntas abertas?                                                            | -         | "5.5.2 Questionários" | [Página 153]() |
+| 10  | As perguntas são formuladas de maneira a evitar induzir certas respostas?                                            | -         | "5.5.2 Questionários" | [Página 150]() |
+
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
 
 ### Entrevista
@@ -85,9 +85,9 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 
 <center>
 
-**Tabela 5 - Cheklist Perfil do Usuário**
+**Tabela 5** - Cheklist Perfil do Usuário
 
-</center>
+
 
 | ID | Descrição | Avaliação | Referência | Imagem |
 | :----: | --------- | ---------- | ----------- | ------- |
@@ -102,7 +102,7 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 | 9 | O perfil de usuário foi utilizado para auxiliar no recrutamento de participantes para futuras atividades de análise e avaliação? |  - | "6.1 Perfi l de Usuário"  |[Página 175]() |
 | 10 | Os grupos de usuários foram categorizados com base em suas semelhanças, como idade, experiência, atitudes e tarefas primárias?  |  - | "6.1 Perfi l de Usuário" | [Página 175, 176]() |
 
-  <center> <p>Fonte: <a href="https://github.com/joycejdm">Joyce Dionizio</a>, 2024</p>
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
 
 
@@ -110,9 +110,9 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 
 <center>
 
-**Tabela 5 - Cheklist Cenários**
+**Tabela 5** - Cheklist Cenários
 
-</center>
+
 
 | ID | Descrição | Avaliação | Referência | Imagem |
 | :----: | --------- | ---------- | ----------- | ------- |
@@ -127,7 +127,7 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 | 9 | O cenário aborda variáveis importantes de uma classe de situações de tarefa? |  - | "6.3 Cenários"  |[Página 189]() |
 | 10 | O cenário considera métodos diferentes para realizar uma tarefa?  |  - | "6.3 Cenários" | [Página 189]() |
 
-  <center> <p>Fonte: <a href="https://github.com/joycejdm">Joyce Dionizio</a>, 2024</p>
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
 
 
@@ -135,9 +135,9 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 
 <center>
 
-**Tabela 5 - Cheklist Personas**
+**Tabela 5** - Cheklist Personas
 
-</center>
+
 
 | ID | Descrição | Avaliação | Referência | Imagem |
 | :----: | --------- | ---------- | ----------- | ------- |
@@ -158,7 +158,7 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 | 15 |A organização das informações no domínio ou trabalho da persona é descrita?  |  - | "6.2 Personas" | [Página 178]() |
 
 
-  <center> <p>Fonte: <a href="https://github.com/joycejdm">Joyce Dionizio</a>, 2024</p>
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
 
 
@@ -168,12 +168,11 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
-> https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                                          | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 23/06/2024 | Criação do Documento| [Joyce Dionizio](https://github.com/joycejdm) | -    |
-| `1.1`  | 23/06/2024 | Adiciona Checklist Questionário e Perfil do Usuário| [Joyce Dionizio](https://github.com/joycejdm) | -    |
-| `1.2`  | 23/06/2024 | Adiciona Checklist Cenários e Personas| [Joyce Dionizio](https://github.com/joycejdm) | -    |
+| Versão | Data       | Descrição                                           | Autor(es)                                     | aa         | Revisor(es)                                 |
+| ------ | ---------- | --------------------------------------------------- | --------------------------------------------- | ---------- | ------------------------------------------- |
+| `1.0`  | 23/06/2024 | Criação do Documento                                | [Joyce Dionizio](https://github.com/joycejdm) | 23/06/2024 | [Pedro Lucas](https://github.com/lucasdray) |
+| `1.1`  | 23/06/2024 | Adiciona Checklist Questionário e Perfil do Usuário | [Joyce Dionizio](https://github.com/joycejdm) | 23/06/2024 | [Pedro Lucas](https://github.com/lucasdray) |
+| `1.2`  | 23/06/2024 | Adiciona Checklist Cenários e Personas              | [Joyce Dionizio](https://github.com/joycejdm) | 23/06/2024 | [Pedro Lucas](https://github.com/lucasdray) |
