@@ -75,6 +75,24 @@ A tabela 3 a seguir apresenta a checklist referente ao artefato Planejamento do 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*</center>
 
 
+### Planejamento do relato de resultados do StoryBoard
+
+A tabela 4 a seguir apresenta a checklist referente ao artefato Planejamento do relato de resultados do StoryBoard:
+<center>
+
+**Tabela 4** - Checklist Planejamento do relato de resultados do StoryBoard 
+
+| ID  |                                                 Descrição                                                  | Avaliação | Observações |
+| :-: | :--------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
+| 12  |                    As questões éticas, são descritas e tratadas adequadamente?                             |     -     |      -      |
+| 13  |                    Os objetivos do artefato estão claramente definidos?                                    |     -     |      -      |
+| 14  |      É descrito o método que será utilizado, assim como o motivo de terem o escolhido?                     |     -     |      -      |
+| 15  |       É apresentado uma análise e interpretação dos dados coletados?                                       |     -     |      -      |
+| 16  | Recrutamento dos participantes, equipamentos que serão utilizados, prazos e, orçamentos estão definidos?   |     -     |      -      |
+| 17  |                O artefato foi construído com base no planejamento da avaliação?                            |     -     |      -      |
+
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*</center>
 
 
 
@@ -83,4 +101,6 @@ A tabela 3 a seguir apresenta a checklist referente ao artefato Planejamento do 
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão |                  Revisor(es)                  |
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :-------------------------------------------: |
 | 23/06/2024 | `1.0`  |        Criação do documento        | [Augusto Duarte](https://github.com/Augcamp)|                 |                                               |
+| 23/06/2024 | `1.1`  |     Adicao verificação StoryBoard  | [Augusto Duarte](https://github.com/Augcamp)|                 |                                               |
+
 
