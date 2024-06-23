@@ -93,7 +93,7 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 | :----: | --------- | ---------- | ----------- | ------- |
 | 1 | O perfil do usuário identifica claramente quem são os usuários? | - | "6.1 Perfi l de Usuário" | [Página 175]() |
 | 2 | Os objetivos dos usuários estão claramente definidos no perfil? | - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 3 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | [Página 175]() |
+| 3 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | - |  "6.1 Perfi l de Usuário" | [Página 175]() |
 | 4 | Foi conduzido um estudo para coletar os dados dos usuários através de entrevistas ou questionários? | - | "6.1 Perfi l de Usuário"  |[Página 175]() |
 | 5 | Os dados coletados foram agregados em grupos e faixas nos quais os usuários se encaixam, por exemplo, idade, experiência, atitudes e tarefas primárias? | - |"6.1 Perfi l de Usuário" | [Página 175, 176]() |
 | 6 |O perfil de usuário é atualizado de forma iterativa, refinando as informações conforme novas descobertas são feitas? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
@@ -108,7 +108,60 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 
 ### Cenários
 
+<center>
+
+**Tabela 5 - Cheklist Cenários**
+
+</center>
+
+| ID | Descrição | Avaliação | Referência | Imagem |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | O cenário descreve claramente o ambiente ou contexto? | - | "6.3 Cenários" | [Página 184]() |
+| 2 | Os atores estão claramente identificados e suas características pessoais são relevantes para o cenário? | - | "6.3 Cenários" | [Página 184]() |
+| 3 | Os objetivos dos atores são claramente definidos? | - |  "6.3 Cenários" | [Página 184]() |
+| 4 | O planejamento das ações dos atores está bem descrito? | - | "6.3 Cenários"  |[Página 184]() |
+| 5 | As ações dos atores são observáveis e bem detalhadas? | - |"6.3 Cenários" | [Página 184]() |
+| 6 | Os eventos externos e reações do sistema são descritos claramente? |  - | "6.3 Cenários" | [Página 184]() |
+| 7 | Há uma seção de avaliação que interpreta a situação apresentada no cenário? |  - | "6.3 Cenários" | [Página 184]() |
+| 8 | O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)? |  - | "6.3 Cenários" | [Página 184]() |
+| 9 | O cenário aborda variáveis importantes de uma classe de situações de tarefa? |  - | "6.3 Cenários"  |[Página 189]() |
+| 10 | O cenário considera métodos diferentes para realizar uma tarefa?  |  - | "6.3 Cenários" | [Página 189]() |
+
+  <center> <p>Fonte: <a href="https://github.com/joycejdm">Joyce Dionizio</a>, 2024</p>
+</center>
+
+
 ### Personas
+
+<center>
+
+**Tabela 5 - Cheklist Personas**
+
+</center>
+
+| ID | Descrição | Avaliação | Referência | Imagem |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | A persona tem um nome e sobrenome representativo do perfil do usuário? | - | "6.2 Personas" | [Página 178]() |
+| 2 | São fornecidas a idade e outras informações demográficas da persona?  | - | "6.2 Personas" | [Página 178]() |
+| 3 | A persona inclui uma foto para tornar sua representação mais realista? | - |  "6.2 Personas" | [Página 178]() |
+| 4 | A persona é definida como primária, secundária, outro stakeholder ou antiusuário? | - | "6.2 Personas"  |[Página 178]() |
+| 5 | Está claro qual é o papel da persona no sistema? | - |"6.2 Personas" | [Página 180]() |
+| 6 | Os objetivos da persona são claramente definidos? |  - | "6.2 Personas" | [Página 180]() |
+| 7 | Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais? |  - | "6.2 Personas" | [Página 180]() |
+| 8 |As habilidades da persona, incluindo educação, treinamento e competências específicas, são descritas? |  - | "6.2 Personas" | [Página 178]() |
+| 9 | Essas habilidades são relevantes para a interação com o produto? |  - | "6.2 Personas"  |[Página 178]() |
+| 10 | As tarefas básicas ou críticas que a persona realiza são claramente descritas?  |  - | "6.2 Personas" | [Página 178]() |
+| 11 | A frequência, importância e duração dessas tarefas são especificadas?  |  - | "6.2 Personas" | [Página 178]() |
+| 12 | Os relacionamentos da persona com outros stakeholders são identificados?  |  - | "6.2 Personas" | [Página 178]() |
+| 13 | As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?  |  - | "6.2 Personas" | [Página 178]() |
+| 14 | As expectativas da persona sobre como o produto deve funcionar estão claramente definidas?  |  - | "6.2 Personas" | [Página 178]() |
+| 15 |A organização das informações no domínio ou trabalho da persona é descrita?  |  - | "6.2 Personas" | [Página 178]() |
+
+
+  <center> <p>Fonte: <a href="https://github.com/joycejdm">Joyce Dionizio</a>, 2024</p>
+</center>
+
+
 
 ### Análise de Tarefas
 
@@ -123,3 +176,4 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 | ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 23/06/2024 | Criação do Documento| [Joyce Dionizio](https://github.com/joycejdm) | -    |
 | `1.1`  | 23/06/2024 | Adiciona Checklist Questionário e Perfil do Usuário| [Joyce Dionizio](https://github.com/joycejdm) | -    |
+| `1.2`  | 23/06/2024 | Adiciona Checklist Cenários e Personas| [Joyce Dionizio](https://github.com/joycejdm) | -    |
