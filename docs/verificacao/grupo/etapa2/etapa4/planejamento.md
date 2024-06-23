@@ -75,6 +75,9 @@ A tabela 3 a seguir apresenta a checklist referente ao artefato Planejamento do 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*</center>
 
 
+
+
+
 ## Histórico de Versões
 
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão |                  Revisor(es)                  |
