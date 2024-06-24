@@ -118,16 +118,16 @@ A tabela 05 a seguir apresenta a checklist referente ao artefato Metas de Usabil
 
 | ID | Descrição | Avaliação | Observações | Fonte |
 | :----: | :---------: | :----------: | :-----------: | :-------: |
-|22| O documento inclui uma descrição das metas de usabilidade a serem alcançadas? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/principios1.png?raw=true)|
-|23| O motivo da escolha dessas metas está explicado? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/principios1.png?raw=true)|
-|24| A meta de segurança no uso está adequadamente apresentada? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/principios1.png?raw=true)|
-|25| A meta de segurança no uso está adequadamente apresentada, incluindo como é no sistema? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/principios1.png?raw=true)|
-|26| A meta de eficiência está apresentada? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/principios1.png?raw=true)|
-|27| A meta de eficiência está adequadamente apresentada, incluindo como é no sistema? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/principios1.png?raw=true)|
-|28| A meta de facilidade de aprendizado está apresentada? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/principios1.png?raw=true)|
-|29| A meta de facilidade de aprendizado está adequadamente apresentada, incluindo como é no sistema? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/principios1.png?raw=true)|
-|30| A meta de facilidade de recordação está apresentada? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/principios1.png?raw=true)|
-|31| A meta de facilidade de recordação está adequadamente apresentada, incluindo como é no sistema? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/principios1.png?raw=true)|
+|22| O documento inclui uma descrição das metas de usabilidade a serem alcançadas? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/metas.png?raw=true)|
+|23| O motivo da escolha dessas metas está explicado? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/metas.png?raw=true)|
+|24| A meta de segurança no uso está adequadamente apresentada? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/metas.png?raw=true)|
+|25| A meta de segurança no uso está adequadamente apresentada, incluindo como é no sistema? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/metas.png?raw=true)|
+|26| A meta de eficiência está apresentada? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/metas.png?raw=true)|
+|27| A meta de eficiência está adequadamente apresentada, incluindo como é no sistema? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/metas.png?raw=true)|
+|28| A meta de facilidade de aprendizado está apresentada? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/metas.png?raw=true)|
+|29| A meta de facilidade de aprendizado está adequadamente apresentada, incluindo como é no sistema? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/metas.png?raw=true)|
+|30| A meta de facilidade de recordação está apresentada? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/metas.png?raw=true)|
+|31| A meta de facilidade de recordação está adequadamente apresentada, incluindo como é no sistema? |-|-|Capítulo 8 - [página 265](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/etapa3/metas.png?raw=true)|
 
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
@@ -188,4 +188,6 @@ A tabela 07 a seguir apresenta a checklist referente ao artefato Característica
 |    Data    | Versão |            Descrição             |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 24/06/2024 | `1.0`  |       Criação do documento       | [Cainã Freitas](https://github.com/freitasc) |    |  |
+| 24/06/2024 | `1.1`  |       Corrige Links      | [Cainã Freitas](https://github.com/freitasc) |    |  |
+
 
