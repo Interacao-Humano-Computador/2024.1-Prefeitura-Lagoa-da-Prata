@@ -55,6 +55,32 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 
 ### Aspectos Éticos
 
+A tabela 02 a seguir apresenta a checklist referente ao artefato Aspectos Éticos:
+
+<center>
+
+**Tabela 04** - Checklist dos Aspectos Éticos
+
+| ID  |     Descrição      | Avaliação | Observações | Fonte                     |
+| :-: | :----------------: | :-------: | :---------: | ------------------------- |
+|  1  |  Há presença de um Termo de Consentimento Livre e Esclarecido (TCLE)?    |     -     |      -      | Capítulo 7 - [página 141](link_id1)   |
+|  2  |  Há previsão para como lidar caso o participante seja menor de idade (abaixo de 18 anos)?  |   -   |   -   |  Capítulo 7 - [página 141](link_id1)  |
+|  3  |  Os objetivos da pesquisa estão explícitos ao participante?              |     -     |      -      | Capítulo 7 - [página 141](link_id2)   |
+|  4  |  A forma com a qual o participante irá realizar a pesquisa está clara?   |     -     |      -      | Capítulo 7 - [página 141](link_id2)   |
+|  5  |  O participante está ciente de como irá ocorrer a coleta de dados?       |     -     |      -      | Capítulo 7 - [página 141](link_id2)   |
+|  6  |  O participante foi informado do tempo médio de duração da coleta de dados?       |     -     |      -      | Capítulo 7 - [página 141](link_id2)   |
+|  7  |  O participante foi informado quais tipos de dados serão coletados?       |     -     |      -      | Capítulo 7 - [página 141](link_id2)   |
+|  8  |  O participante está ciente de como os dados serão analisados e utilizados?       |     -     |      -      | Capítulo 7 - [página 141](link_id2)   |
+|  9  |  Há ênfase realizada para certificar ao participante de que a avaliação está voltada ao produto e não à sua pessoa?  |  -  |  -  | Capítulo 7 - [página 141 - 142](link_id6)  |
+| 10  |  O participante é informado de seu direito à não participação e remoção de seu consentimento à qualquer momento da pesquisa?  |  -  |  -  | Capítulo 7 - [página 142](link_id7) |
+| 11  |  Está previsto e garantido a confidencialidade e privacidade dos dados coletados dos usuários? Apenas os pesquisadores possuirão acesso aos dados brutos?   |     -     |      -     | Capítulo 7 - [página 141](link_id3)   |
+| 12  |  Quando aplicável (pesquisas por questionários, por exemplo), é garantido o anonimato dos participantes no momento de divulgação dos resultados?  |     -    |     -    |  Capítulo 7 - [página 141](id_04)   | 
+| 13  |  Quando aplicável (entrevistas, por exemplo), é pedida permissão para o registro áudio, visual e/ou uma junção de ambos?  |    -    |    -   | Capítulo 7 - [página 141](id_05)  |
+
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
+</center>
+
 ### Questionário
 
 <center>
@@ -65,16 +91,16 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 
 | ID  | Descrição                                                                                                            | Avaliação | Referência            | Imagem         |
 | :-: | -------------------------------------------------------------------------------------------------------------------- | --------- | --------------------- | -------------- |
-|  1  | As perguntas demográficas estão presentes no questionário?                                                           | -         | "5.5.2 Questionários" | [Página 152]() |
-|  2  | O questionário inclui perguntas fechadas para facilitar a análise?                                                   | -         | "5.5.2 Questionários" | [Página 151]() |
-|  3  | Há perguntas com respostas neutras ou alternativas, como 'não sei' ou 'não quero responder'?                         | -         | "5.5.2 Questionários" | [Página 151]() |
-|  4  | As perguntas estão ordenadas de forma lógica, começando com questões gerais e progredindo para questões específicas? | -         | "5.5.2 Questionários" | [Página 152]() |
-|  5  | O questionário inclui instruções claras sobre como responder cada pergunta?                                          | -         | "5.5.2 Questionários" | [Página 151]() |
-|  6  | As perguntas de múltipla escolha estão claramente marcadas para diferenciar entre opções únicas e múltiplas?         | -         | "5.5.2 Questionários" | [Página 153]() |
-|  7  | As escalas de Likert são utilizadas para medir opiniões e atitudes?                                                  | -         | "5.5.2 Questionários" | [Página 153]() |
-|  8  | O questionário evita a inclusão excessiva de perguntas abertas?                                                      | -         | "5.5.2 Questionários" | [Página 154]() |
-|  9  | Há espaço suficiente para respostas em perguntas abertas?                                                            | -         | "5.5.2 Questionários" | [Página 153]() |
-| 10  | As perguntas são formuladas de maneira a evitar induzir certas respostas?                                            | -         | "5.5.2 Questionários" | [Página 150]() |
+|  14  | As perguntas demográficas estão presentes no questionário?                                                           | -         | "5.5.2 Questionários" | [Página 152]() |
+|  15  | O questionário inclui perguntas fechadas para facilitar a análise?                                                   | -         | "5.5.2 Questionários" | [Página 151]() |
+|  16  | Há perguntas com respostas neutras ou alternativas, como 'não sei' ou 'não quero responder'?                         | -         | "5.5.2 Questionários" | [Página 151]() |
+|  17  | As perguntas estão ordenadas de forma lógica, começando com questões gerais e progredindo para questões específicas? | -         | "5.5.2 Questionários" | [Página 152]() |
+|  18  | O questionário inclui instruções claras sobre como responder cada pergunta?                                          | -         | "5.5.2 Questionários" | [Página 151]() |
+|  19  | As perguntas de múltipla escolha estão claramente marcadas para diferenciar entre opções únicas e múltiplas?         | -         | "5.5.2 Questionários" | [Página 153]() |
+|  20  | As escalas de Likert são utilizadas para medir opiniões e atitudes?                                                  | -         | "5.5.2 Questionários" | [Página 153]() |
+|  21  | O questionário evita a inclusão excessiva de perguntas abertas?                                                      | -         | "5.5.2 Questionários" | [Página 154]() |
+|  22  | Há espaço suficiente para respostas em perguntas abertas?                                                            | -         | "5.5.2 Questionários" | [Página 153]() |
+|  23  | As perguntas são formuladas de maneira a evitar induzir certas respostas?                                            | -         | "5.5.2 Questionários" | [Página 150]() |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
@@ -166,13 +192,15 @@ Para uma melhor organização da verificação, as checklists foram divididas em
 ### Análise de Tarefas
 
 ## Bibliografia
+
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                           | Autor(es)                                     | aa         | Revisor(es)                                 |
+| Versão | Data       | Descrição                                           | Autor(es)                                     | Data de revisão         | Revisor(es)                    |
 | ------ | ---------- | --------------------------------------------------- | --------------------------------------------- | ---------- | ------------------------------------------- |
 | `1.0`  | 23/06/2024 | Criação do Documento                                | [Joyce Dionizio](https://github.com/joycejdm) | 23/06/2024 | [Pedro Lucas](https://github.com/lucasdray) |
 | `1.1`  | 23/06/2024 | Adiciona Checklist Questionário e Perfil do Usuário | [Joyce Dionizio](https://github.com/joycejdm) | 23/06/2024 | [Pedro Lucas](https://github.com/lucasdray) |
 | `1.2`  | 23/06/2024 | Adiciona Checklist Cenários e Personas              | [Joyce Dionizio](https://github.com/joycejdm) | 23/06/2024 | [Pedro Lucas](https://github.com/lucasdray) |
+| `1.3`  | 24/06/2024 | Adiciona Checklist Aspectos Éticos                  | [Lucas Meireles](https://github.com/Katuner)  |            |                                             |

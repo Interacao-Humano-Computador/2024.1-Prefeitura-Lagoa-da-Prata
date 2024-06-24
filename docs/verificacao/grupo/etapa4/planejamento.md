@@ -132,6 +132,24 @@ A tabela 05 a seguir apresenta a checklist referente ao artefato Planejamento do
 ### Relato de resultados da Análise de Tarefas
 A tabela 06 a seguir apresenta a checklist referente ao artefato Relato de resultados da Análise de Tarefas:
 
+<center>
+
+**Tabela 06** - Checklist do Relato de Resultados da Análise de Tarefas
+
+| ID  |     Descrição      | Avaliação | Observações | Fonte                     |
+| :-: | :----------------: | :-------: | :---------: | ------------------------- |
+|  23  |  Foram informados os objetivos e escopo da avaliação da qual se originou os resultados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  24  |  Foi informado a metodologia adotada para a avaliação?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  25  |  Foi informado o número de participantes, os perfis de usuário e os avaliadores que participaram da avaliação?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  26  |  Foi exibido um sumário geral dos dados coletados (inclui tabelas e gráficos)?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  27  |  Foi realizado um relato da interpretação e análise dos dados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  28  |  Foi exibida uma lista de problemas encontrados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  29  |  Há planejamento de reprojeto com os dados coletados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
+</center>
+
 ### Planejamento da Avaliação da Análise do StoryBoard
 A tabela 07 a seguir apresenta a checklist referente ao artefato Planejamento da Avaliação da Análise do StoryBoard:
 
@@ -141,17 +159,17 @@ A tabela 07 a seguir apresenta a checklist referente ao artefato Planejamento da
 
 | ID  |                                                                          Descrição                                                                           | Avaliação | Observações | Fonte                                                                                                                                         |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | --------------------------------------------------------------------------------------------------------------------------------------------- |
-|  6  |                                                   O framework DECIDE foi usado para fazer o planejamento?                                                    |     -     |      -      | Capítulo 11 - [página 279-280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id6.png)                                                                |
-|  7  |                                                                Os objetivos são determinados?                                                                |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id7.png)                                                                    |
-|  8  |                                                As perguntas a serem respondidas com avaliação são exploradas?                                                |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id8.png)                                                                    |
-|  9  | Foram estabelecidas perguntas para detalhar os objetivos da avaliação? Caso Sim elas consideram os usuários-alvo, suas atividades e os artefatos utilizados? |     -     |      -      | Capítulo 11 - [página 265-266](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id9.png)                                                                |
-| 10  |                                    Os métodos de como a avaliação será feita são apresentados? E o motivo da sua escolha?                                    |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id10.png) e [página 272](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id10_2.png) |
-| 11  |                     São apresentado os prazos, orçamento, equipamentos disponíveis, grau de conhecimento e experiência dos avaliadores?                      |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id11.png)                                                                   |
-| 12  |                                                               É lidado com as questões éticas?                                                               |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id12.png)                                                                   |
-| 13  |                                     É apresentado como será avaliado, interpretado e apresentado os dados da avaliação?                                      |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id13.png)                                                                   |
-| 14  |     Foram apresentadas as atividades básicas dos métodos de avaliação: preparação, coleta de dados, interpretação, consolidação e relato dos resultados?     |     -     |      -      | Capítulo 11 - [página 273](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id14.png)                                                                   |
-| 15  |                                                                O teste piloto foi realizado?                                                                 |     -     |      -      | Capítulo 11 - [página 276](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/teste-piloto.png)                                                                  |
-| 16  |                                 Há planejamento para reprojeto, caso seja encontrado problemas ou oportunidades de melhoria?                                 |     -     |      -      | Capítulo 11 - [página 273](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id14.png)                                                                   |
+|  30  |                                                   O framework DECIDE foi usado para fazer o planejamento?                                                    |     -     |      -      | Capítulo 11 - [página 279-280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id6.png)                                                                |
+|  31  |                                                                Os objetivos são determinados?                                                                |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id7.png)                                                                    |
+|  32  |                                                As perguntas a serem respondidas com avaliação são exploradas?                                                |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id8.png)                                                                    |
+|  33  | Foram estabelecidas perguntas para detalhar os objetivos da avaliação? Caso Sim elas consideram os usuários-alvo, suas atividades e os artefatos utilizados? |     -     |      -      | Capítulo 11 - [página 265-266](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id9.png)                                                                |
+|  34  |                                    Os métodos de como a avaliação será feita são apresentados? E o motivo da sua escolha?                                    |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id10.png) e [página 272](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id10_2.png) |
+|  35  |                     São apresentado os prazos, orçamento, equipamentos disponíveis, grau de conhecimento e experiência dos avaliadores?                      |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id11.png)                                                                   |
+| 36   |                                                               É lidado com as questões éticas?                                                               |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id12.png)                                                                   |
+| 37   |                                     É apresentado como será avaliado, interpretado e apresentado os dados da avaliação?                                      |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id13.png)                                                                   |
+| 38   |     Foram apresentadas as atividades básicas dos métodos de avaliação: preparação, coleta de dados, interpretação, consolidação e relato dos resultados?     |     -     |      -      | Capítulo 11 - [página 273](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id14.png)                                                                   |
+| 39   |                                                                O teste piloto foi realizado?                                                                 |     -     |      -      | Capítulo 11 - [página 276](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/teste-piloto.png)                                                                  |
+| 40   |                                 Há planejamento para reprojeto, caso seja encontrado problemas ou oportunidades de melhoria?                                 |     -     |      -      | Capítulo 11 - [página 273](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id14.png)                                                                   |
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 </center>
@@ -165,12 +183,12 @@ A tabela 08 a seguir apresenta a checklist referente ao artefato Planejamento do
 
 | ID  |                                                Descrição                                                 | Avaliação | Observações | Fonte |
 | :-: | :------------------------------------------------------------------------------------------------------: | :-------: | :---------: | ----- |
-|  6  |                       As questões éticas, são descritas e tratadas adequadamente?                        |     -     |      -      |       |
-|  7  |                           Os objetivos do artefato estão claramente definidos?                           |     -     |      -      |       |
-|  8  |            É descrito o método que será utilizado, assim como o motivo de terem o escolhido?             |     -     |      -      |       |
-|  9  |                      É apresentado uma análise e interpretação dos dados coletados?                      |     -     |      -      |       |
-| 10  | Recrutamento dos participantes, equipamentos que serão utilizados, prazos e, orçamentos estão definidos? |     -     |      -      |       |
-| 11  |                     O artefato foi construído com base no planejamento da avaliação?                     |     -     |      -      |       |
+|  41  |                       As questões éticas, são descritas e tratadas adequadamente?                        |     -     |      -      |       |
+|  42  |                           Os objetivos do artefato estão claramente definidos?                           |     -     |      -      |       |
+|  43  |            É descrito o método que será utilizado, assim como o motivo de terem o escolhido?             |     -     |      -      |       |
+|  44  |                      É apresentado uma análise e interpretação dos dados coletados?                      |     -     |      -      |       |
+|  45  | Recrutamento dos participantes, equipamentos que serão utilizados, prazos e, orçamentos estão definidos? |     -     |      -      |       |
+|  46  |                     O artefato foi construído com base no planejamento da avaliação?                     |     -     |      -      |       |
 
 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
@@ -179,8 +197,25 @@ A tabela 08 a seguir apresenta a checklist referente ao artefato Planejamento do
 ### Relato de resultados do StoryBoard
 A tabela 09 a seguir apresenta a checklist referente ao artefato Relato de resultados do StoryBoard:
 
+<center>
 
-## Referências
+**Tabela 09** - Checklist do Relato de Resultados do Storyboard
+
+| ID  |     Descrição      | Avaliação | Observações | Fonte                     |
+| :-: | :----------------: | :-------: | :---------: | ------------------------- |
+|  47  |  Foram informados os objetivos e escopo da avaliação da qual se originou os resultados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  48  |  Foi informado a metodologia adotada para a avaliação?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  49  |  Foi informado o número de participantes, os perfis de usuário e os avaliadores que participaram da avaliação?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  50  |  Foi exibido um sumário geral dos dados coletados (inclui tabelas e gráficos)?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  51  |  Foi realizado um relato da interpretação e análise dos dados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  52  |  Foi exibida uma lista de problemas encontrados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  53  |  Há planejamento de reprojeto com os dados coletados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
+</center>
+
+## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J., & Diniz, B. (2010). Interação Humano-Computador. Elsevier Brasil.
 
@@ -191,6 +226,7 @@ A tabela 09 a seguir apresenta a checklist referente ao artefato Relato de resul
 | :--------: | :----: | :-----------------------------------------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 23/06/2024 | `1.0`  |                           Criação do documento                            | [Augusto Duarte](https://github.com/Augcamp) |   23/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 23/06/2024 | `1.1`  |                       Adicao verificação StoryBoard                       | [Augusto Duarte](https://github.com/Augcamp) |   23/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 23/06/2024 | `1.2`  | Reestruturação documento, adição planejamento de avaliação e bibliográfia | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
+| 23/06/2024 | `1.2`  | Reestruturação documento, adição planejamento de avaliação e bibliográfia | [Pedro Lucas](https://github.com/lucasdray)  |   24/06/2024    | [Lucas Meireles](https://github.com/Katuner)   |
+| 24/06/2024 | `1.3`  |  Adição checklist relato dos resultados                                   | [Lucas Meireles](https://github.com/Katuner) |                 |                  |    
 
 
