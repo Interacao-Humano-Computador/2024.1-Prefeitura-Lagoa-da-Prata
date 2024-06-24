@@ -1,24 +1,42 @@
+# Planejamento da Verificação da Etapa 7 do Grupo
+
 ## Introdução
 
-O objetivo deste documento é apresentar o planejamento para a verificação do artefato "Planejamento do relato de resultados do Prototipo de alta fidelidade", produzido na etapa 4 pelo [grupo 05](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/).
+O objetivo deste documento é apresentar o planejamento para a verificação dos artefatos produzido na etapa 7 pelo [grupo 05](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/), sendo esses artefatos melhore descritos na tabela 01 mais abaixo.
 
-## Participantes
-
-O responsável por esse planejamento foi o integrante [Augusto Duarte](https://github.com/Augcamp) sendo ele responsável pelo planejamento da verificação.
 
 ## Objetos de verificação
 A Tabela 1 foi produzida para uma melhor visualização dos objetos que serão verificados e suas respectivas características. Ela é composta pelo artefato que foi verificado, a versão verificada, data de produção, autores do artefato e revisores do artefato conforme presentes no próprio artefato, no dia da análise aqui realizada.
 
 <center>
 
-**Tabela 1** - Objetos que serão verificados
+**Tabela 1** - Artefatos que serão verificados
 
-|                                                                       Artefato                                                                                                                                          | Versão | Data produzido |                                                                                            Produzido por                                                                                             |                                               Revisado por                                                |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-|[Planejamento do relato de resultados do Prototipo de alta fidelidade](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_3/pl_relato_resultados/)                              | `1.0`  |   22/05/2024   |                                                                           [Cainã Freitas](https://github.com/freitasc)                                                                               |                              [Joyce Dionizio](https://github.com/joycejdm)                                |
+|                                                      Artefato                                                       | Versão | Data produzido |                                        Produzido por                                        |                 Revisado por                  |
+| :-----------------------------------------------------------------------------------------------------------------: | :----: | :------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------: |
+|      [Relato de resultado do Protótipo de Papel](../../../design/Nivel_2/prototipo_papel/relato_resultados.md)      | `1.4`  |   19/06/2024   | [Augusto Duarte](https://github.com/Augcamp) e [Lucas Meireles](https://github.com/Katuner) |  [Pedro Lucas](https://github.com/lucasdray)  |
+|     [Planejamento da avaliação do Protótipo de alta fidelidade](../../../design/Nivel_3/pl_relato_resultados/)      | `1.0`  |   17/06/2024   |                         [Pedro Lucas](https://github.com/lucasdray)                         | [Lucas Meireles](https://github.com/Katuner)  |
+| [Planejamento do relato dos resultados do Protótipo Alta fidelidade](../../../design/Nivel_3/pl_relato_resultados/) | `1.0`  |   19/06/2024   |                        [Lucas Meireles](https://github.com/Katuner)                         | [Cainã Freitas](https://github.com/freitasc)    |
 
-*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*</center>
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/Augcamp). 2024.*
+</center>
 
+## Participantes
+
+Os responsáveis por esse planejamento foram os integrantes [Augusto Duarte](https://github.com/Augcamp), [Pedro Lucas](https://github.com/lucasdray) e [Lucas Meireles](https://github.com/Katuner). Já os integrantes responsáveis pela verificação dos checklists estão devidamente descritos na tabela 02 abaixo, tal como o artefato que será verificado.
+<center>
+
+**Tabela 02** - Responsáveis por planejamento e verificação
+
+| Artefato                                                                                                            | Responsável pelo planejamento                | Responsável pela verificação                  |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------- |
+| [Relato de resultado do Protótipo de Papel](../../../design/Nivel_2/prototipo_papel/relato_resultados.md)           | [Lucas Meireles](https://github.com/Katuner) | [Joyce Dionizio](https://github.com/joycejdm) |
+| [Planejamento da avaliação do Protótipo de alta fidelidade](../../../design/Nivel_3/pl_relato_resultados/)          | [Pedro Lucas](https://github.com/lucasdray)  | [Cainã Freitas](https://github.com/freitasc)  |
+| [Planejamento do relato dos resultados do Protótipo Alta fidelidade](../../../design/Nivel_3/pl_relato_resultados/) | [Augusto Duarte](https://github.com/Augcamp) | [Pedro Lucas](https://github.com/lucasdray)   |
+
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
 
 ## Inspeção
 
@@ -26,9 +44,14 @@ O avaliador disponibilizará um video gravado fazendo a inspeção do artefato, 
 
 ## Checklists
 
-Os checklists que serão apresentados abaixo foram produzidos levando em conta os padrões esperados e as principais atividades realizadas no artefato, tendo como referência bibliográfica o livro "Interação Humano-Computador" de Bruno Silva e Simone Barbosa [1].
+Os checklists que serão apresentados abaixo foram produzidos levando em conta os padrões esperados e as principais atividades realizadas no artefato, tendo como referência bibliográfica o livro "Interação Humano-Computador" de Bruno Silva e Simone Barbosa <a id=anchor_1 href="#REF1"><sup>1</sup></a>.
 
-Abaixo estão dispostas duas tabelas que contém o conteúdo das checklists que serão utilizdas para a atividade anteriormente descrita, sendo uma dessas tabelas referentes ao artefato produzido e suas singularidades e uma referente à padronização do artefato em geral. As avaliações podem ser respondidas com "Sim", "Não" e "Incompleto", tendo também um campo para preencher com as observações de cada pergunta, quando necessário.
+Abaixo estão dispostas 4 tabelas que contém o conteúdo das checklists que serão utilizdas para as atividades anteriormente descritas, sendo a primeira referente à padronização dos artefatos em geral (tabela 03) e as tabelas restantes referentes ao artefato produzido e suas singularidades. 
+
+As checklists específicas de cada artefato contará com: um ID identificando a pergunta; "Descrição" com a pergunta; "Avaliação" que pode ser preenchida com "SIM", "NÃO", "INCOMPLETEO"; Observações caso seja necessário algum comentário adicional; e Fonte que será de qual página do livro "Interação Humano-Computador" de Bruno Silva e Simone Barbosa <a id=anchor_1 href="#REF1"><sup>1</sup></a> a pergunta foi tirada e clicando será redirecionado para a imagem da pergunta. 
+
+## Acompanhamento   
+Após a tabela de checklist do artefato estiver devidamente preenchida será apresentado um gráfico demosntrando o percentual de respostas que o artefato desempenhou na avaliação.
 
 ## Problemas Encontrados e Análise dos Dados
 Após ser realizado a inspeção e verificação de cada artefato, o avaliador, deve anotar o "ID" e a descrição de uma pergunta que a avaliação foi "NÃO" ou "INCOMPLETO" e descrever qual foi o problema encontrado.
@@ -38,11 +61,11 @@ Após ser feita a análise dos dados coletados e dos problemas encontrados o ava
 
 
 ### Padronização
-A tabela 2 a seguir apresenta a checklist referente a padronização que os artefatos devem seguir.
+A tabela 03 a seguir apresenta a checklist referente a padronização que os artefatos devem seguir.
 
 <center>
 
-**Tabela 2** - Checklist de padronização
+**Tabela 03** - Checklist de padronização
 
 | ID  |                                                              Descrição                                                          | Avaliação | Observações |
 | :-: | :-----------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
@@ -54,13 +77,39 @@ A tabela 2 a seguir apresenta a checklist referente a padronização que os arte
 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*</center>
 
+### Relato de resultado do Protótipo de Papel
+A tabela 04 a seguir apresenta a checklist referente ao artefato Relato de resultado do Protótipo de Papel:
+
+### Planejamento da avaliação do Protótipo de alta fidelidade
+A tabela 05 a seguir apresenta a checklist referente ao artefato Planejamento da avaliação do Protótipo de alta fidelidade:
+
+<center>
+
+**Tabela 05** - Checklist do Planejamento da avaliação do Protótipo de alta fidelidade
+
+| ID  |                                                                          Descrição                                                                           | Avaliação | Observações | Fonte                                                                                                                                                                                                                                                                                                                                               |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  6  |                                                   O framework DECIDE foi usado para fazer o planejamento?                                                    |     -     |      -      | Capítulo 11 - [página 279-280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id6.png)                                                                                                                                                                   |
+|  7  |                                                                Os objetivos são determinados?                                                                |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id7.png)                                                                                                                                                                       |
+|  8  |                                                As perguntas a serem respondidas com avaliação são exploradas?                                                |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id8.png)                                                                                                                                                                       |
+|  9  | Foram estabelecidas perguntas para detalhar os objetivos da avaliação? Caso Sim elas consideram os usuários-alvo, suas atividades e os artefatos utilizados? |     -     |      -      | Capítulo 11 - [página 265-266](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id9.png)                                                                                                                                                                   |
+| 10  |                                    Os métodos de como a avaliação será feita são apresentados? E o motivo da sua escolha?                                    |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id10.png) e [página 272](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id10_2.png) |
+| 11  |                     São apresentado os prazos, orçamento, equipamentos disponíveis, grau de conhecimento e experiência dos avaliadores?                      |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id11.png)                                                                                                                                                                      |
+| 12  |                                                               É lidado com as questões éticas?                                                               |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id12.png)                                                                                                                                                                      |
+| 13  |                                     É apresentado como será avaliado, interpretado e apresentado os dados da avaliação?                                      |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id13.png)                                                                                                                                                                      |
+| 14  |     Foram apresentadas as atividades básicas dos métodos de avaliação: preparação, coleta de dados, interpretação, consolidação e relato dos resultados?     |     -     |      -      | Capítulo 11 - [página 273](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id14.png)                                                                                                                                                                      |
+| 15  |                                                                O teste piloto foi realizado?                                                                 |     -     |      -      | Capítulo 11 - [página 276](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/teste-piloto.png)                                                                                                                                                                                                                                                                        |
+| 16  |                                 Há planejamento para reprojeto, caso seja encontrado problemas ou oportunidades de melhoria?                                 |     -     |      -      | Capítulo 11 - [página 273](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id14.png)                                                                                                                                                                      |
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+</center>
 
 ### Planejamento do relato de resultados do Prototipo de alta fidelidade
 
-A tabela 3 a seguir apresenta a checklist referente ao artefato Planejamento do relato de resultados do Prototipo de alta fidelidade:
+A tabela 06 a seguir apresenta a checklist referente ao artefato Planejamento do relato de resultados do Prototipo de alta fidelidade:
 <center>
 
-**Tabela 3** - Checklist Planejamento do relato de resultados do Prototipo de alta fidelidade 
+**Tabela 06** - Checklist Planejamento do relato de resultados do Prototipo de alta fidelidade 
 
 | ID  |                                                 Descrição                                                  | Avaliação | Observações |
 | :-: | :--------------------------------------------------------------------------------------------------------: | :-------: | :---------: |
@@ -80,7 +129,8 @@ A tabela 3 a seguir apresenta a checklist referente ao artefato Planejamento do 
 
 ## Histórico de Versões
 
-|    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão |                  Revisor(es)                  |
-| :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :-------------------------------------------: |
-| 23/06/2024 | `1.0`  |        Criação do documento        | [Augusto Duarte](https://github.com/Augcamp)|                 |                                               |
+|    Data    | Versão |                        Descrição                         |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :------------------------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 23/06/2024 | `1.0`  |                   Criação do documento                   | [Augusto Duarte](https://github.com/Augcamp) |   23/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 23/06/2024 | `1.1`  | Adição planejamento avaliação e reestruturação documento | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
 
