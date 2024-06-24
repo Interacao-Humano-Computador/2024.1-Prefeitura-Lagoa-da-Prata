@@ -51,11 +51,12 @@ nav:
       - Caracteristicas da Plataforma Para o Projeto: requisitos2/caracteristicas.md
   - Design Nível 1: 
     - Analise de Tarefas:
-      - Planejamento para Analise de Tarefas: design/Nivel_1/analise_tarefas/Pl_avaliacao_tarefas.md
-      - Planejamento do Relato dos Resultados: design/Nivel_1/analise_tarefas/Pl_relatoresultado_tarefas.md
-      - Relato de Resultados: design/Nivel_1/analise_tarefas/relatoresultado_tarefas.md
+      - Planejamento da Avaliação da Analise de Tarefas: design/Nivel_1/analise_tarefas/Pl_avaliacao_tarefas.md
+      - Planejamento do Relato dos Resultados da Analise de Tarefas: design/Nivel_1/analise_tarefas/Pl_relatoresultado_tarefas.md
+      - Relato de Resultados da Analise de Tarefas: design/Nivel_1/analise_tarefas/relatoresultado_tarefas.md
     - Storyboard:
-      - Planejamento para Storyboards: design/Nivel_1/storyboard/Pl_storyboard.md
+      - Planejamento da Avaliação do Storyboard: design/Nivel_1/storyboard/Pl_avalicao_storyboard.md
+      - Planejamento do Relato dos Resultados do Storyboard: design/Nivel_1/storyboard/Pl_relato_storyboard.md
       - Relato de Resultados para Storyboards: design/Nivel_1/storyboard/relato_resultados_storyboard.md
   - Design Nível 2:
     - Planejamento da Avaliação de Prototipação de Papel: design/Nivel_2/prototipo_papel/Pl_avaliacao.md
@@ -79,9 +80,17 @@ nav:
       - Etapa 5: 
         - Planejamento: verificacao/grupo06/etapa5/planejamento.md
         - Verificação:  verificacao/grupo06/etapa5/verificacao.md
-    - Verificacão do Grupo:
+    - Verificacão do Grupo 05:
       - Etapa 2:
         - Planejamento: verificacao/grupo/etapa2/planejamento.md
+      - Etapa 3:
+        - Planejamento: verificacao/grupo/etapa3/planejamento.md
+      - Etapa 4:
+        - Planejamento: verificacao/grupo/etapa4/planejamento.md
+      - Etapa 5:
+        - Planejamento: verificacao/grupo/etapa5/planejamento.md
+      - Etapa 7:
+        - Planejamento: verificacao/grupo/etapa7/planejamento.md
 
 
 
