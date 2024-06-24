@@ -138,13 +138,13 @@ A tabela 06 a seguir apresenta a checklist referente ao artefato Relato de resul
 
 | ID  |     Descrição      | Avaliação | Observações | Fonte                     |
 | :-: | :----------------: | :-------: | :---------: | ------------------------- |
-|  23  |  Foram informados os objetivos e escopo da avaliação da qual se originou os resultados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  24  |  Foi informado a metodologia adotada para a avaliação?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  25  |  Foi informado o número de participantes, os perfis de usuário e os avaliadores que participaram da avaliação?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  26  |  Foi exibido um sumário geral dos dados coletados (inclui tabelas e gráficos)?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  27  |  Foi realizado um relato da interpretação e análise dos dados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  28  |  Foi exibida uma lista de problemas encontrados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  29  |  Há planejamento de reprojeto com os dados coletados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  23  |  Foram informados os objetivos e escopo da avaliação da qual se originou os resultados?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  24  |  Foi informado a metodologia adotada para a avaliação?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  25  |  Foi informado o número de participantes, os perfis de usuário e os avaliadores que participaram da avaliação?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  26  |  Foi exibido um sumário geral dos dados coletados (inclui tabelas e gráficos)?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  27  |  Foi realizado um relato da interpretação e análise dos dados?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  28  |  Foi exibida uma lista de problemas encontrados?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  29  |  Há planejamento de reprojeto com os dados coletados?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
 
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
@@ -203,13 +203,13 @@ A tabela 09 a seguir apresenta a checklist referente ao artefato Relato de resul
 
 | ID  |     Descrição      | Avaliação | Observações | Fonte                     |
 | :-: | :----------------: | :-------: | :---------: | ------------------------- |
-|  47  |  Foram informados os objetivos e escopo da avaliação da qual se originou os resultados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  48  |  Foi informado a metodologia adotada para a avaliação?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  49  |  Foi informado o número de participantes, os perfis de usuário e os avaliadores que participaram da avaliação?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  50  |  Foi exibido um sumário geral dos dados coletados (inclui tabelas e gráficos)?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  51  |  Foi realizado um relato da interpretação e análise dos dados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  52  |  Foi exibida uma lista de problemas encontrados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
-|  53  |  Há planejamento de reprojeto com os dados coletados?    |     -     |      -      | Capítulo 11 - [página 279](link_id1)   |
+|  47  |  Foram informados os objetivos e escopo da avaliação da qual se originou os resultados?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  48  |  Foi informado a metodologia adotada para a avaliação?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  49  |  Foi informado o número de participantes, os perfis de usuário e os avaliadores que participaram da avaliação?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  50  |  Foi exibido um sumário geral dos dados coletados (inclui tabelas e gráficos)?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  51  |  Foi realizado um relato da interpretação e análise dos dados?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  52  |  Foi exibida uma lista de problemas encontrados?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
+|  53  |  Há planejamento de reprojeto com os dados coletados?    |     -     |      -      | Capítulo 11 - [página 279](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/Relato%20de%20resultados/id_01.png?raw=true)   |
 
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
