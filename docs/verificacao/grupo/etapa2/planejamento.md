@@ -117,16 +117,16 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Aspectos Ético
 
 | ID | Descrição | Avaliação | Referência | Imagem |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | O perfil do usuário identifica claramente quem são os usuários? | - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 2 | Os objetivos dos usuários estão claramente definidos no perfil? | - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 3 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | - |  "6.1 Perfi l de Usuário" | [Página 175]() |
-| 4 | Foi conduzido um estudo para coletar os dados dos usuários através de entrevistas ou questionários? | - | "6.1 Perfi l de Usuário"  |[Página 175]() |
-| 5 | Os dados coletados foram agregados em grupos e faixas nos quais os usuários se encaixam, por exemplo, idade, experiência, atitudes e tarefas primárias? | - |"6.1 Perfi l de Usuário" | [Página 175, 176]() |
-| 6 |O perfil de usuário é atualizado de forma iterativa, refinando as informações conforme novas descobertas são feitas? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 7 | O perfil inclui dados sobre a relação dos usuários com tecnologia e seu conhecimento do domínio do produto e das tarefas? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 8 |As características de um perfil de usuário foram priorizadas conforme o produto e projeto em questão? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 9 | O perfil de usuário foi utilizado para auxiliar no recrutamento de participantes para futuras atividades de análise e avaliação? |  - | "6.1 Perfi l de Usuário"  |[Página 175]() |
-| 10 | Os grupos de usuários foram categorizados com base em suas semelhanças, como idade, experiência, atitudes e tarefas primárias?  |  - | "6.1 Perfi l de Usuário" | [Página 175, 176]() |
+| 24 | O perfil do usuário identifica claramente quem são os usuários? | - | "6.1 Perfi l de Usuário" | [Página 175]() |
+| 25 | Os objetivos dos usuários estão claramente definidos no perfil? | - | "6.1 Perfi l de Usuário" | [Página 175]() |
+| 26 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | - |  "6.1 Perfi l de Usuário" | [Página 175]() |
+| 27 | Foi conduzido um estudo para coletar os dados dos usuários através de entrevistas ou questionários? | - | "6.1 Perfi l de Usuário"  |[Página 175]() |
+| 28 | Os dados coletados foram agregados em grupos e faixas nos quais os usuários se encaixam, por exemplo, idade, experiência, atitudes e tarefas primárias? | - |"6.1 Perfi l de Usuário" | [Página 175, 176]() |
+| 29 |O perfil de usuário é atualizado de forma iterativa, refinando as informações conforme novas descobertas são feitas? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
+| 30 | O perfil inclui dados sobre a relação dos usuários com tecnologia e seu conhecimento do domínio do produto e das tarefas? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
+| 31 |As características de um perfil de usuário foram priorizadas conforme o produto e projeto em questão? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
+| 32 | O perfil de usuário foi utilizado para auxiliar no recrutamento de participantes para futuras atividades de análise e avaliação? |  - | "6.1 Perfi l de Usuário"  |[Página 175]() |
+| 33 | Os grupos de usuários foram categorizados com base em suas semelhanças, como idade, experiência, atitudes e tarefas primárias?  |  - | "6.1 Perfi l de Usuário" | [Página 175, 176]() |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
@@ -142,16 +142,16 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Aspectos Ético
 
 | ID | Descrição | Avaliação | Referência | Imagem |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | O cenário descreve claramente o ambiente ou contexto? | - | "6.3 Cenários" | [Página 184]() |
-| 2 | Os atores estão claramente identificados e suas características pessoais são relevantes para o cenário? | - | "6.3 Cenários" | [Página 184]() |
-| 3 | Os objetivos dos atores são claramente definidos? | - |  "6.3 Cenários" | [Página 184]() |
-| 4 | O planejamento das ações dos atores está bem descrito? | - | "6.3 Cenários"  |[Página 184]() |
-| 5 | As ações dos atores são observáveis e bem detalhadas? | - |"6.3 Cenários" | [Página 184]() |
-| 6 | Os eventos externos e reações do sistema são descritos claramente? |  - | "6.3 Cenários" | [Página 184]() |
-| 7 | Há uma seção de avaliação que interpreta a situação apresentada no cenário? |  - | "6.3 Cenários" | [Página 184]() |
-| 8 | O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)? |  - | "6.3 Cenários" | [Página 184]() |
-| 9 | O cenário aborda variáveis importantes de uma classe de situações de tarefa? |  - | "6.3 Cenários"  |[Página 189]() |
-| 10 | O cenário considera métodos diferentes para realizar uma tarefa?  |  - | "6.3 Cenários" | [Página 189]() |
+| 34 | O cenário descreve claramente o ambiente ou contexto? | - | "6.3 Cenários" | [Página 184]() |
+| 35 | Os atores estão claramente identificados e suas características pessoais são relevantes para o cenário? | - | "6.3 Cenários" | [Página 184]() |
+| 36 | Os objetivos dos atores são claramente definidos? | - |  "6.3 Cenários" | [Página 184]() |
+| 37 | O planejamento das ações dos atores está bem descrito? | - | "6.3 Cenários"  |[Página 184]() |
+| 38 | As ações dos atores são observáveis e bem detalhadas? | - |"6.3 Cenários" | [Página 184]() |
+| 39 | Os eventos externos e reações do sistema são descritos claramente? |  - | "6.3 Cenários" | [Página 184]() |
+| 40 | Há uma seção de avaliação que interpreta a situação apresentada no cenário? |  - | "6.3 Cenários" | [Página 184]() |
+| 41 | O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)? |  - | "6.3 Cenários" | [Página 184]() |
+| 42 | O cenário aborda variáveis importantes de uma classe de situações de tarefa? |  - | "6.3 Cenários"  |[Página 189]() |
+| 43 | O cenário considera métodos diferentes para realizar uma tarefa?  |  - | "6.3 Cenários" | [Página 189]() |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
@@ -167,21 +167,21 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Aspectos Ético
 
 | ID | Descrição | Avaliação | Referência | Imagem |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | A persona tem um nome e sobrenome representativo do perfil do usuário? | - | "6.2 Personas" | [Página 178]() |
-| 2 | São fornecidas a idade e outras informações demográficas da persona?  | - | "6.2 Personas" | [Página 178]() |
-| 3 | A persona inclui uma foto para tornar sua representação mais realista? | - |  "6.2 Personas" | [Página 178]() |
-| 4 | A persona é definida como primária, secundária, outro stakeholder ou antiusuário? | - | "6.2 Personas"  |[Página 178]() |
-| 5 | Está claro qual é o papel da persona no sistema? | - |"6.2 Personas" | [Página 180]() |
-| 6 | Os objetivos da persona são claramente definidos? |  - | "6.2 Personas" | [Página 180]() |
-| 7 | Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais? |  - | "6.2 Personas" | [Página 180]() |
-| 8 |As habilidades da persona, incluindo educação, treinamento e competências específicas, são descritas? |  - | "6.2 Personas" | [Página 178]() |
-| 9 | Essas habilidades são relevantes para a interação com o produto? |  - | "6.2 Personas"  |[Página 178]() |
-| 10 | As tarefas básicas ou críticas que a persona realiza são claramente descritas?  |  - | "6.2 Personas" | [Página 178]() |
-| 11 | A frequência, importância e duração dessas tarefas são especificadas?  |  - | "6.2 Personas" | [Página 178]() |
-| 12 | Os relacionamentos da persona com outros stakeholders são identificados?  |  - | "6.2 Personas" | [Página 178]() |
-| 13 | As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?  |  - | "6.2 Personas" | [Página 178]() |
-| 14 | As expectativas da persona sobre como o produto deve funcionar estão claramente definidas?  |  - | "6.2 Personas" | [Página 178]() |
-| 15 |A organização das informações no domínio ou trabalho da persona é descrita?  |  - | "6.2 Personas" | [Página 178]() |
+| 44 | A persona tem um nome e sobrenome representativo do perfil do usuário? | - | "6.2 Personas" | [Página 178]() |
+| 45 | São fornecidas a idade e outras informações demográficas da persona?  | - | "6.2 Personas" | [Página 178]() |
+| 46 | A persona inclui uma foto para tornar sua representação mais realista? | - |  "6.2 Personas" | [Página 178]() |
+| 47 | A persona é definida como primária, secundária, outro stakeholder ou antiusuário? | - | "6.2 Personas"  |[Página 178]() |
+| 48 | Está claro qual é o papel da persona no sistema? | - |"6.2 Personas" | [Página 180]() |
+| 49 | Os objetivos da persona são claramente definidos? |  - | "6.2 Personas" | [Página 180]() |
+| 50 | Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais? |  - | "6.2 Personas" | [Página 180]() |
+| 51 |As habilidades da persona, incluindo educação, treinamento e competências específicas, são descritas? |  - | "6.2 Personas" | [Página 178]() |
+| 52 | Essas habilidades são relevantes para a interação com o produto? |  - | "6.2 Personas"  |[Página 178]() |
+| 53 | As tarefas básicas ou críticas que a persona realiza são claramente descritas?  |  - | "6.2 Personas" | [Página 178]() |
+| 54 | A frequência, importância e duração dessas tarefas são especificadas?  |  - | "6.2 Personas" | [Página 178]() |
+| 55 | Os relacionamentos da persona com outros stakeholders são identificados?  |  - | "6.2 Personas" | [Página 178]() |
+| 56 | As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?  |  - | "6.2 Personas" | [Página 178]() |
+| 57 | As expectativas da persona sobre como o produto deve funcionar estão claramente definidas?  |  - | "6.2 Personas" | [Página 178]() |
+| 58 |A organização das informações no domínio ou trabalho da persona é descrita?  |  - | "6.2 Personas" | [Página 178]() |
 
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
