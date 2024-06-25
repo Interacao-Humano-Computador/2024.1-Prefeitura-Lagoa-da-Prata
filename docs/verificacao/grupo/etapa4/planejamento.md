@@ -118,12 +118,12 @@ A tabela 05 a seguir apresenta a checklist referente ao artefato Planejamento do
 
 | ID  |                                                Descrição                                                 | Avaliação | Observações | Fonte |
 | :-: | :------------------------------------------------------------------------------------------------------: | :-------: | :---------: | ----- |
-|  17  |                       As questões éticas, são descritas e tratadas adequadamente?                        |     -     |      -      |       |
-|  18  |                           Os objetivos do artefato estão claramente definidos?                           |     -     |      -      |       |
-|  19  |            É descrito o método que será utilizado, assim como o motivo de terem o escolhido?             |     -     |      -      |       |
-|  20  |             A seleção de usuarios para a entrevista é compatível com o perfil dos usuários?              |     -     |      -      |       |
-|  21  | Recrutamento dos participantes, equipamentos que serão utilizados, prazos e, orçamentos estão definidos? |     -     |      -      |       |
-|  22  |  A avaliação, interpretação e apresentação dos dados foram planejadas considerando o método escolhido?   |     -     |      -      |       |
+|  17  |                       As questões éticas, são descritas e tratadas adequadamente?                        |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id15.png)      |
+|  18  |                           Os objetivos do artefato estão claramente definidos?                           |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id15.png)      |
+|  19  |            É descrito o método que será utilizado, assim como o motivo de terem o escolhido?             |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id15.png)      |
+|  20  |             A seleção de usuarios para a entrevista é compatível com o perfil dos usuários?              |     -     |      -      | Capítulo 11 - [página 274](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id17.png)      |
+|  21  | Recrutamento dos participantes, equipamentos que serão utilizados, prazos e, orçamentos estão definidos? |     -     |      -      | Capítulo 11 - [página 273](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id18.png)      |
+|  22  |  A avaliação, interpretação e apresentação dos dados foram planejadas considerando o método escolhido?   |     -     |      -      | Capítulo 11 - [página 279 - 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id16.png)      |
 
 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
@@ -183,12 +183,12 @@ A tabela 08 a seguir apresenta a checklist referente ao artefato Planejamento do
 
 | ID  |                                                Descrição                                                 | Avaliação | Observações | Fonte |
 | :-: | :------------------------------------------------------------------------------------------------------: | :-------: | :---------: | ----- |
-|  41  |                       As questões éticas, são descritas e tratadas adequadamente?                        |     -     |      -      |       |
-|  42  |                           Os objetivos do artefato estão claramente definidos?                           |     -     |      -      |       |
-|  43  |            É descrito o método que será utilizado, assim como o motivo de terem o escolhido?             |     -     |      -      |       |
-|  44  |                      É apresentado uma análise e interpretação dos dados coletados?                      |     -     |      -      |       |
-|  45  | Recrutamento dos participantes, equipamentos que serão utilizados, prazos e, orçamentos estão definidos? |     -     |      -      |       |
-|  46  |                     O artefato foi construído com base no planejamento da avaliação?                     |     -     |      -      |       |
+|  41  |                       As questões éticas, são descritas e tratadas adequadamente?                        |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id15.png)      |
+|  42  |                           Os objetivos do artefato estão claramente definidos?                           |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id15.png)      |
+|  43  |            É descrito o método que será utilizado, assim como o motivo de terem o escolhido?             |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id15.png)      |
+|  44  |                      É apresentado uma análise e interpretação dos dados coletados?                      |     -     |      -      | Capítulo 11 - [página 279](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id16.png)      |
+|  45  | Recrutamento dos participantes, equipamentos que serão utilizados, prazos e, orçamentos estão definidos? |     -     |      -      | Capítulo 11 - [página 273](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id18.png)      |
+|  46  |                     O artefato foi construído com base no planejamento da avaliação?                     |     -     |      -      | Capítulo 11 - [página 280](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/etapa4/id15.png)      |
 
 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
@@ -227,6 +227,7 @@ A tabela 09 a seguir apresenta a checklist referente ao artefato Relato de resul
 | 23/06/2024 | `1.0`  |                           Criação do documento                            | [Augusto Duarte](https://github.com/Augcamp) |   23/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 23/06/2024 | `1.1`  |                       Adicao verificação StoryBoard                       | [Augusto Duarte](https://github.com/Augcamp) |   23/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 23/06/2024 | `1.2`  | Reestruturação documento, adição planejamento de avaliação e bibliográfia | [Pedro Lucas](https://github.com/lucasdray)  |   24/06/2024    | [Lucas Meireles](https://github.com/Katuner)   |
-| 24/06/2024 | `1.3`  |  Adição checklist relato dos resultados                                   | [Lucas Meireles](https://github.com/Katuner) |                 |                  |    
+| 24/06/2024 | `1.3`  |  Adição checklist relato dos resultados                                   | [Lucas Meireles](https://github.com/Katuner) |                 |                  | 
+| 24/06/2024 | `1.4`  |  Adição referencias                                                       | [Augusto Duarte](https://github.com/Augcamp) |                 |                  |       
 
 
