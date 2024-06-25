@@ -89,18 +89,18 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Aspectos Ético
 
 
 
-| ID  | Descrição                                                                                                            | Avaliação | Referência            | Imagem         |
+| ID  | Descrição                                                                                                            | Avaliação | Observações            | Fonte         |
 | :-: | -------------------------------------------------------------------------------------------------------------------- | --------- | --------------------- | -------------- |
-|  14  | As perguntas demográficas estão presentes no questionário?                                                           | -         | "5.5.2 Questionários" | [Página 152]() |
-|  15  | O questionário inclui perguntas fechadas para facilitar a análise?                                                   | -         | "5.5.2 Questionários" | [Página 151]() |
-|  16  | Há perguntas com respostas neutras ou alternativas, como 'não sei' ou 'não quero responder'?                         | -         | "5.5.2 Questionários" | [Página 151]() |
-|  17  | As perguntas estão ordenadas de forma lógica, começando com questões gerais e progredindo para questões específicas? | -         | "5.5.2 Questionários" | [Página 152]() |
-|  18  | O questionário inclui instruções claras sobre como responder cada pergunta?                                          | -         | "5.5.2 Questionários" | [Página 151]() |
-|  19  | As perguntas de múltipla escolha estão claramente marcadas para diferenciar entre opções únicas e múltiplas?         | -         | "5.5.2 Questionários" | [Página 153]() |
-|  20  | As escalas de Likert são utilizadas para medir opiniões e atitudes?                                                  | -         | "5.5.2 Questionários" | [Página 153]() |
-|  21  | O questionário evita a inclusão excessiva de perguntas abertas?                                                      | -         | "5.5.2 Questionários" | [Página 154]() |
-|  22  | Há espaço suficiente para respostas em perguntas abertas?                                                            | -         | "5.5.2 Questionários" | [Página 153]() |
-|  23  | As perguntas são formuladas de maneira a evitar induzir certas respostas?                                            | -         | "5.5.2 Questionários" | [Página 150]() |
+|  14  | As perguntas demográficas estão presentes no questionário?                                                           | -         | - | [Página 149](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id14.png?raw=true) |
+|  15  | O questionário inclui perguntas fechadas para facilitar a análise?                                                   | -         | - | [Página 144-145](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id15.png?raw=true) |
+|  16  | Há perguntas com respostas neutras ou alternativas, como 'não sei' ou 'não quero responder'?                         | -         | - | [Página 149](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id16.png?raw=true) |
+|  17  | As perguntas estão ordenadas de forma lógica, começando com questões gerais e progredindo para questões específicas? | -         | - | [Página 149](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id17.png?raw=true) |
+|  18  | O questionário inclui instruções claras sobre como responder cada pergunta?                                          | -         | - | [Página 150](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id18.png?raw=true) |
+|  19  | As perguntas de múltipla escolha estão claramente marcadas para diferenciar entre opções únicas e múltiplas?         | -         | - | [Página 150](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id19.png?raw=true) |
+|  20  | As escalas de Likert são utilizadas para medir opiniões e atitudes?                                                  | -         | - | [Página 150](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id20.png?raw=true) |
+|  21  | O questionário evita a inclusão excessiva de perguntas abertas?                                                      | -         | - | [Página 151](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id21.png?raw=true) |
+|  22  | Há espaço suficiente para respostas em perguntas abertas?                                                            | -         | - | [Página 153](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id22.png?raw=true) |
+|  23  | As perguntas são formuladas de maneira a evitar induzir certas respostas?                                            | -         | - | [Página 150](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id23.png?raw=true) |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
@@ -115,18 +115,18 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Aspectos Ético
 
 
 
-| ID | Descrição | Avaliação | Referência | Imagem |
+| ID | Descrição | Avaliação | Observações | Fonte |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 24 | O perfil do usuário identifica claramente quem são os usuários? | - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 25 | Os objetivos dos usuários estão claramente definidos no perfil? | - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 26 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | - |  "6.1 Perfi l de Usuário" | [Página 175]() |
-| 27 | Foi conduzido um estudo para coletar os dados dos usuários através de entrevistas ou questionários? | - | "6.1 Perfi l de Usuário"  |[Página 175]() |
-| 28 | Os dados coletados foram agregados em grupos e faixas nos quais os usuários se encaixam, por exemplo, idade, experiência, atitudes e tarefas primárias? | - |"6.1 Perfi l de Usuário" | [Página 175, 176]() |
-| 29 |O perfil de usuário é atualizado de forma iterativa, refinando as informações conforme novas descobertas são feitas? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 30 | O perfil inclui dados sobre a relação dos usuários com tecnologia e seu conhecimento do domínio do produto e das tarefas? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 31 |As características de um perfil de usuário foram priorizadas conforme o produto e projeto em questão? |  - | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 32 | O perfil de usuário foi utilizado para auxiliar no recrutamento de participantes para futuras atividades de análise e avaliação? |  - | "6.1 Perfi l de Usuário"  |[Página 175]() |
-| 33 | Os grupos de usuários foram categorizados com base em suas semelhanças, como idade, experiência, atitudes e tarefas primárias?  |  - | "6.1 Perfi l de Usuário" | [Página 175, 176]() |
+| 24 | O perfil do usuário identifica claramente quem são os usuários? | - | - | [Página 165](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id24.png?raw=true) |
+| 25 | Os objetivos dos usuários estão claramente definidos no perfil? | - | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 26 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | - |  - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 27 | Foi conduzido um estudo para coletar os dados dos usuários através de entrevistas ou questionários? | - | -  |[Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 28 | Os dados coletados foram agregados em grupos e faixas nos quais os usuários se encaixam, por exemplo, idade, experiência, atitudes e tarefas primárias? | - |- | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 29 |O perfil de usuário é atualizado de forma iterativa, refinando as informações conforme novas descobertas são feitas? |  - | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 30 | O perfil inclui dados sobre a relação dos usuários com tecnologia e seu conhecimento do domínio do produto e das tarefas? |  - | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id30.png?raw=true) |
+| 31 |As características de um perfil de usuário foram priorizadas conforme o produto e projeto em questão? |  - | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id30.png?raw=true) |
+| 32 | O perfil de usuário foi utilizado para auxiliar no recrutamento de participantes para futuras atividades de análise e avaliação? |  - | -  |[Página 165](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id24.png?raw=true) |
+| 33 | Os grupos de usuários foram categorizados com base em suas semelhanças, como idade, experiência, atitudes e tarefas primárias?  |  - | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id33.png?raw=true) |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
@@ -140,18 +140,18 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Aspectos Ético
 
 
 
-| ID | Descrição | Avaliação | Referência | Imagem |
+| ID | Descrição | Avaliação | Observações | Fonte |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 34 | O cenário descreve claramente o ambiente ou contexto? | - | "6.3 Cenários" | [Página 184]() |
-| 35 | Os atores estão claramente identificados e suas características pessoais são relevantes para o cenário? | - | "6.3 Cenários" | [Página 184]() |
-| 36 | Os objetivos dos atores são claramente definidos? | - |  "6.3 Cenários" | [Página 184]() |
-| 37 | O planejamento das ações dos atores está bem descrito? | - | "6.3 Cenários"  |[Página 184]() |
-| 38 | As ações dos atores são observáveis e bem detalhadas? | - |"6.3 Cenários" | [Página 184]() |
-| 39 | Os eventos externos e reações do sistema são descritos claramente? |  - | "6.3 Cenários" | [Página 184]() |
-| 40 | Há uma seção de avaliação que interpreta a situação apresentada no cenário? |  - | "6.3 Cenários" | [Página 184]() |
-| 41 | O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)? |  - | "6.3 Cenários" | [Página 184]() |
-| 42 | O cenário aborda variáveis importantes de uma classe de situações de tarefa? |  - | "6.3 Cenários"  |[Página 189]() |
-| 43 | O cenário considera métodos diferentes para realizar uma tarefa?  |  - | "6.3 Cenários" | [Página 189]() |
+| 34 | O cenário descreve claramente o ambiente ou contexto? | - | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 35 | Os atores estão claramente identificados e suas características pessoais são relevantes para o cenário? | - | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 36 | Os objetivos dos atores são claramente definidos? | - |  - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 37 | O planejamento das ações dos atores está bem descrito? | - | -  |[Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 38 | As ações dos atores são observáveis e bem detalhadas? | - |- | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 39 | Os eventos externos e reações do sistema são descritos claramente? |  - | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 40 | Há uma seção de avaliação que interpreta a situação apresentada no cenário? |  - | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 41 | O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)? |  - | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 42 | O cenário aborda variáveis importantes de uma classe de situações de tarefa? |  - | -  |[Página 174](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id48.png?raw=true) |
+| 43 | O cenário considera métodos diferentes para realizar uma tarefa?  |  - | - | [Página 174](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id48.png?raw=true) |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
@@ -165,23 +165,23 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Aspectos Ético
 
 
 
-| ID | Descrição | Avaliação | Referência | Imagem |
+| ID | Descrição | Avaliação | Observações | Fonte |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 44 | A persona tem um nome e sobrenome representativo do perfil do usuário? | - | "6.2 Personas" | [Página 178]() |
-| 45 | São fornecidas a idade e outras informações demográficas da persona?  | - | "6.2 Personas" | [Página 178]() |
-| 46 | A persona inclui uma foto para tornar sua representação mais realista? | - |  "6.2 Personas" | [Página 178]() |
-| 47 | A persona é definida como primária, secundária, outro stakeholder ou antiusuário? | - | "6.2 Personas"  |[Página 178]() |
-| 48 | Está claro qual é o papel da persona no sistema? | - |"6.2 Personas" | [Página 180]() |
-| 49 | Os objetivos da persona são claramente definidos? |  - | "6.2 Personas" | [Página 180]() |
-| 50 | Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais? |  - | "6.2 Personas" | [Página 180]() |
-| 51 |As habilidades da persona, incluindo educação, treinamento e competências específicas, são descritas? |  - | "6.2 Personas" | [Página 178]() |
-| 52 | Essas habilidades são relevantes para a interação com o produto? |  - | "6.2 Personas"  |[Página 178]() |
-| 53 | As tarefas básicas ou críticas que a persona realiza são claramente descritas?  |  - | "6.2 Personas" | [Página 178]() |
-| 54 | A frequência, importância e duração dessas tarefas são especificadas?  |  - | "6.2 Personas" | [Página 178]() |
-| 55 | Os relacionamentos da persona com outros stakeholders são identificados?  |  - | "6.2 Personas" | [Página 178]() |
-| 56 | As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?  |  - | "6.2 Personas" | [Página 178]() |
-| 57 | As expectativas da persona sobre como o produto deve funcionar estão claramente definidas?  |  - | "6.2 Personas" | [Página 178]() |
-| 58 |A organização das informações no domínio ou trabalho da persona é descrita?  |  - | "6.2 Personas" | [Página 178]() |
+| 44 | A persona tem um nome e sobrenome representativo do perfil do usuário? | - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 45 | São fornecidas a idade e outras informações demográficas da persona?  | - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 46 | A persona inclui uma foto para tornar sua representação mais realista? | - |  - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 47 | A persona é definida como primária, secundária, outro stakeholder ou antiusuário? | - | -  |[Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 48 | Está claro qual é o papel da persona no sistema? | - |- | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 49 | Os objetivos da persona são claramente definidos? |  - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 50 | Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais? |  - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 51 |As habilidades da persona, incluindo educação, treinamento e competências específicas, são descritas? |  - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 52 | Essas habilidades são relevantes para a interação com o produto? |  - | -  |[Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 53 | As tarefas básicas ou críticas que a persona realiza são claramente descritas?  |  - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 54 | A frequência, importância e duração dessas tarefas são especificadas?  |  - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 55 | Os relacionamentos da persona com outros stakeholders são identificados?  |  - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 56 | As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?  |  - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 57 | As expectativas da persona sobre como o produto deve funcionar estão claramente definidas?  |  - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 58 |A organização das informações no domínio ou trabalho da persona é descrita?  |  - | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
 
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
