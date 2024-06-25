@@ -294,3 +294,13 @@ Para a correção do artefato, sugerem-se os itens a seguir:
 - Revisar os dados recolhidos e buscar agrupar por características semelhantes e analisar se há discrepância nas respostas;
 - Apresentar demais perfis de usuário que utilizem o site avaliado;
 - Confirmar que o perfil de usuário dos entrevistados em demais etapas condizem com o usuário do site avaliado.
+
+## Bibliografia
+
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                           | Autor(es)                                     | Data de revisão | Revisor(es)                            |
+| :----: | :--------: | :-------------------------------------------------: | :-------------------------------------------: | :--------: | :-----------------------------------------: |
+| `1.0`  | 25/06/2024 | Criação do Documento e adição das inspeções 2 e 4   | [Lucas Meireles](https://github.com/Katuner)  |            |                                             |
