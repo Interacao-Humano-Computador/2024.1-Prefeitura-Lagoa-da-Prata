@@ -92,23 +92,24 @@ A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio
 
 <center>
 
-**Tabela 03** - Checklist "Questionário"
+**Tabela 3** - Cheklist Questionário
 
-| ID  | Descrição                                                                                                            | Avaliação | Referência            | Imagem         |
+
+
+| ID  | Descrição                                                                                                            | Avaliação | Observações            | Fonte         |
 | :-: | -------------------------------------------------------------------------------------------------------------------- | --------- | --------------------- | -------------- |
-|  14  | As perguntas demográficas estão presentes no questionário?                                                           | Sim       | "5.5.2 Questionários" | [Página 152]() |
-|  15  | O questionário inclui perguntas fechadas para facilitar a análise?                                                   | Sim         | "5.5.2 Questionários" | [Página 151]() |
-|  16  | Há perguntas com respostas neutras ou alternativas, como 'não sei' ou 'não quero responder'?                         | Sim         | "5.5.2 Questionários" | [Página 151]() |
-|  17  | As perguntas estão ordenadas de forma lógica, começando com questões gerais e progredindo para questões específicas? | Sim         | "5.5.2 Questionários" | [Página 152]() |
-|  18  | O questionário inclui instruções claras sobre como responder cada pergunta?                                          | Não         | "5.5.2 Questionários" | [Página 151]() |
-|  19  | As perguntas de múltipla escolha estão claramente marcadas para diferenciar entre opções únicas e múltiplas?         | Não         | "5.5.2 Questionários" | [Página 153]() |
-|  20  | As escalas de Likert são utilizadas para medir opiniões e atitudes?                                                  | Incompleto  | "5.5.2 Questionários" | [Página 153]() |
-|  21  | O questionário evita a inclusão excessiva de perguntas abertas?                                                      | Sim         | "5.5.2 Questionários" | [Página 154]() |
-|  22  | Há espaço suficiente para respostas em perguntas abertas?                                                            | Sim         | "5.5.2 Questionários" | [Página 153]() |
-|  23  | As perguntas são formuladas de maneira a evitar induzir certas respostas?                                            | Sim         | "5.5.2 Questionários" | [Página 150]() |
+|  14  | As perguntas demográficas estão presentes no questionário?                                                           | -         | - | [Página 149](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id14.png?raw=true) |
+|  15  | O questionário inclui perguntas fechadas para facilitar a análise?                                                   | -         | - | [Página 144-145](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id15.png?raw=true) |
+|  16  | Há perguntas com respostas neutras ou alternativas, como 'não sei' ou 'não quero responder'?                         | -         | - | [Página 149](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id16.png?raw=true) |
+|  17  | As perguntas estão ordenadas de forma lógica, começando com questões gerais e progredindo para questões específicas? | -         | - | [Página 149](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id17.png?raw=true) |
+|  18  | O questionário inclui instruções claras sobre como responder cada pergunta?                                          | -         | - | [Página 150](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id18.png?raw=true) |
+|  19  | As perguntas de múltipla escolha estão claramente marcadas para diferenciar entre opções únicas e múltiplas?         | -         | - | [Página 150](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id19.png?raw=true) |
+|  20  | As escalas de Likert são utilizadas para medir opiniões e atitudes?                                                  | -         | - | [Página 150](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id20.png?raw=true) |
+|  21  | O questionário evita a inclusão excessiva de perguntas abertas?                                                      | -         | - | [Página 151](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id21.png?raw=true) |
+|  22  | Há espaço suficiente para respostas em perguntas abertas?                                                            | -         | - | [Página 153](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id22.png?raw=true) |
+|  23  | As perguntas são formuladas de maneira a evitar induzir certas respostas?                                            | -         | - | [Página 150](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id23.png?raw=true) |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
-
 </center>
 
 #### Problemas encontrados
@@ -220,23 +221,24 @@ A tabela 5 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio
 
 <center>
 
-**Tabela 04** - Checklist "Perfil do Usuário"
+**Tabela 5** - Cheklist Perfil do Usuário
 
-| ID | Descrição | Avaliação | Referência | Imagem |
+
+
+| ID | Descrição | Avaliação | Observações | Fonte |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 24 | O perfil do usuário identifica claramente quem são os usuários? | Sim | "6.1 Perfil de Usuário" | [Página 175]() |
-| 25 | Os objetivos dos usuários estão claramente definidos no perfil? | Não | "6.1 Perfil de Usuário" | [Página 175]() |
-| 26 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | Não |  "6.1 Perfil de Usuário" | [Página 175]() |
-| 27 | Foi conduzido um estudo para coletar os dados dos usuários através de entrevistas ou questionários? | Sim | "6.1 Perfil de Usuário"  |[Página 175]() |
-| 28 | Os dados coletados foram agregados em grupos e faixas nos quais os usuários se encaixam, por exemplo, idade, experiência, atitudes e tarefas primárias? | Não |"6.1 Perfil de Usuário" | [Página 175, 176]() |
-| 29 |O perfil de usuário é atualizado de forma iterativa, refinando as informações conforme novas descobertas são feitas? |  Não | "6.1 Perfil de Usuário" | [Página 175]() |
-| 30 | O perfil inclui dados sobre a relação dos usuários com tecnologia e seu conhecimento do domínio do produto e das tarefas? |  Sim | "6.1 Perfil de Usuário" | [Página 175]() |
-| 31 | As características de um perfil de usuário foram priorizadas conforme o produto e projeto em questão? | Sim | "6.1 Perfi l de Usuário" | [Página 175]() |
-| 32 | O perfil de usuário foi utilizado para auxiliar no recrutamento de participantes para futuras atividades de análise e avaliação? | Não | "6.1 Perfil de Usuário"  |[Página 175]() |
-| 33 | Os grupos de usuários foram categorizados com base em suas semelhanças, como idade, experiência, atitudes e tarefas primárias?  |  Não | "6.1 Perfil de Usuário" | [Página 175, 176]() |
+| 24 | O perfil do usuário identifica claramente quem são os usuários? | - | - | [Página 165](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id24.png?raw=true) |
+| 25 | Os objetivos dos usuários estão claramente definidos no perfil? | - | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 26 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | - |  - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 27 | Foi conduzido um estudo para coletar os dados dos usuários através de entrevistas ou questionários? | - | -  |[Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 28 | Os dados coletados foram agregados em grupos e faixas nos quais os usuários se encaixam, por exemplo, idade, experiência, atitudes e tarefas primárias? | - |- | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 29 |O perfil de usuário é atualizado de forma iterativa, refinando as informações conforme novas descobertas são feitas? |  - | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 30 | O perfil inclui dados sobre a relação dos usuários com tecnologia e seu conhecimento do domínio do produto e das tarefas? |  - | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id30.png?raw=true) |
+| 31 |As características de um perfil de usuário foram priorizadas conforme o produto e projeto em questão? |  - | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id30.png?raw=true) |
+| 32 | O perfil de usuário foi utilizado para auxiliar no recrutamento de participantes para futuras atividades de análise e avaliação? |  - | -  |[Página 165](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id24.png?raw=true) |
+| 33 | Os grupos de usuários foram categorizados com base em suas semelhanças, como idade, experiência, atitudes e tarefas primárias?  |  - | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id33.png?raw=true) |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
-
 </center>
 
 #### Problemas encontrados
@@ -303,4 +305,4 @@ Para a correção do artefato, sugerem-se os itens a seguir:
 
 | Versão | Data       | Descrição                                           | Autor(es)                                     | Data de revisão | Revisor(es)                            |
 | :----: | :--------: | :-------------------------------------------------: | :-------------------------------------------: | :--------: | :-----------------------------------------: |
-| `1.0`  | 25/06/2024 | Criação do Documento e adição das inspeções 2 e 4   | [Lucas Meireles](https://github.com/Katuner)  |            |                                             |
+| `1.0`  | 25/06/2024 | Criação do Documento e adição das inspeções 2 e 4   | [Lucas Meireles](https://github.com/Katuner)  |  26/06/2023          |       [Joyce Dionizio](https://github.com/joycejdm)                                       |
