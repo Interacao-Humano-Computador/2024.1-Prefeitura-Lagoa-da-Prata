@@ -190,6 +190,24 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Aspectos Ético
 
 
 ### Análise de Tarefas
+A tabela 07 a seguir apresenta a checklist referente ao artefato Análise de Tarefas:
+<center>
+
+| ID | Descrição | Avaliação | Observações | Fonte |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 59 | A análise inicia com a definição dos objetivos dos usuários? |-|-| [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_1.png?raw=true) |
+| 60 | Os objetivos são divididos em subobjetivos hierárquicos? |-|-| [Página 178](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_2.png?raw=true) |
+| 61 | Os diagramas HTA contêm entradas, ações e feedback? |-|-| [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_3.png?raw=true) |
+| 62 | A HTA considera diferentes formas de atingir um objetivo dependendo das circunstâncias? |-|-| [Página 180](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_4.png?raw=true) |
+| 63 | A HTA inclui todos os passos conforme Diaper (2003), como objetivos, esboço dos dados em tabelas ou diagramas e identificação de operadores significativos? |-|-| [Página 181](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_5.png?raw=true) |
+| 64 | Os objetivos do usuário estão claramente definidos no diagrama? |-|-| [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 65 | Os operadores no diagrama são bem definidos, internos ou externos? |-|-| [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 66 | Os métodos para alcançar os objetivos estão corretamente sequenciados? |-|-| [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 67 | O diagrama utiliza um nível de detalhe adequado, considerando os objetivos da análise? |-|-| [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_7.png?raw=true) |
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+</center>
+
 
 ## Bibliografia
 
@@ -204,3 +222,4 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Aspectos Ético
 | `1.1`  | 23/06/2024 | Adiciona Checklist Questionário e Perfil do Usuário | [Joyce Dionizio](https://github.com/joycejdm) | 23/06/2024 | [Pedro Lucas](https://github.com/lucasdray) |
 | `1.2`  | 23/06/2024 | Adiciona Checklist Cenários e Personas              | [Joyce Dionizio](https://github.com/joycejdm) | 23/06/2024 | [Pedro Lucas](https://github.com/lucasdray) |
 | `1.3`  | 24/06/2024 | Adiciona Checklist Aspectos Éticos                  | [Lucas Meireles](https://github.com/Katuner)  |            |                                             |
+| `1.4`  | 24/06/2024|        adiciona analise de tarefas      | [Cainã Freitas](https://github.com/freitasc) |    |  |
