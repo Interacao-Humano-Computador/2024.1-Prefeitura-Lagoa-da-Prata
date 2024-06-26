@@ -393,6 +393,293 @@ Para a correção do artefato, sugerem-se os itens a seguir:
 - Apresentar demais perfis de usuário que utilizem o site avaliado;
 - Confirmar que o perfil de usuário dos entrevistados em demais etapas condizem com o usuário do site avaliado.
 
+
+## Cenários
+
+<details>
+<summary>Inspeção realizada pela integrante Joyce Dionizio</summary>
+
+<p>Aqui serão dispostos os resultados da verificação do artefato <a href="../../../requisitos1/cenarios.md">"Cenários"</a> do integrante <a href="https://github.com/Katuner">Lucas Meireles</a>, feitos pela integrante <a href="https://github.com/joycejdm">Joyce Dionizio</a> conforme o <a href="planejamento.md">planejamento da verificação</a>.</p>
+
+<h3>Inspeção</h3>
+
+<p>Abaixo se encontra o Vídeo 3, referente à inspeção realizada ao artefato <a href="../../../requisitos1/perfil-do-usuario.md">"Cenários"</a> do integrante <a href="https://github.com/Katuner">Lucas Meireles</a>.</p>
+
+<p><strong>Vídeo 3</strong> - Gravação da inspeção de "Cenários" do integrante <a href="https://github.com/Katuner">Lucas Meireles</a>.</p>
+
+<p>EMBED</p>
+
+<p>Acesso disponível em: <LINK></p>
+
+<h3>Checklists</h3>
+
+<p>A tabela 5 abaixo apresenta a checklist proposta pela integrante <a href="https://github.com/joycejdm">Joyce Dionizio</a> durante o <a href="planejamento.md">planejamento da verificação</a> com suas verificações e observações feitas pela inspeção também da integrante <a href="https://github.com/joycejdm">Joyce Dionizio</a> sobre o artefato "Cenários" do integrante <a href="https://github.com/Katuner">Lucas Meireles</a>.</p>
+
+<p style="text-align: center;"><strong>Tabela 5</strong> - Checklist Cenários</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+      <th>Observações</th>
+      <th>Fonte</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>34</td>
+      <td>O cenário descreve claramente o ambiente ou contexto?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true">Página 173</a></td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>Os atores estão claramente identificados e suas características pessoais são relevantes para o cenário?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true">Página 173</a></td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Os objetivos dos atores são claramente definidos?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true">Página 173</a></td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>O planejamento das ações dos atores está bem descrito?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true">Página 173</a></td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>As ações dos atores são observáveis e bem detalhadas?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true">Página 173</a></td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>Os eventos externos e reações do sistema são descritos claramente?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true">Página 173</a></td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>Há uma seção de avaliação que interpreta a situação apresentada no cenário?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true">Página 173</a></td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)?</td>
+      <td>INCOMPLETO</td>
+      <td>O cenário não apresenta todos elementos característicos.</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true">Página 173</a></td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>O cenário aborda variáveis importantes de uma classe de situações de tarefa?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id48.png?raw=true">Página 174</a></td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>O cenário considera métodos diferentes para realizar uma tarefa?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id48.png?raw=true">Página 174</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/joycejdm">DIONIZIO, Joyce</a>. 2024</font></p></p>
+
+<h3>Acompanhamento</h3>
+
+<p>A figura 01 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 3.</p>
+
+<center>
+  <p><strong>Figura 02</strong> - Gráfico dos resultados de Cenários</p>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/cenarios/cenarios_lucas.png" alt="Gráfico dos resultados dos Cenários">
+  <p><font size="2">Fonte: <a href="https://github.com/joycejdm">DIONIZIO, Joyce Dionizio</a>. 2024.</font></p>
+</center>
+
+<h3>Problemas encontrados</h3>
+
+<h3>Sugestões de correção</h3>
+
+</details>
+
+
+## Personas
+
+<details>
+<summary>Inspeção realizada pela integrante Joyce Dionizio</summary>
+
+<p>Aqui serão dispostos os resultados da verificação do artefato <a href="../../../requisitos1/personas.md">"Personas"</a> do integrante <a href="https://github.com/Katuner">Lucas Meireles</a>, feitos pela integrante <a href="https://github.com/joycejdm">Joyce Dionizio</a> conforme o <a href="planejamento.md">planejamento da verificação</a>.</p>
+
+<h3>Inspeção</h3>
+
+<p>Abaixo se encontra o Vídeo 3, referente à inspeção realizada ao artefato <a href="../../../requisitos1/personas.md">"Personas"</a> do integrante <a href="https://github.com/Katuner">Lucas Meireles</a>.</p>
+
+<p><strong>Vídeo 3</strong> - Gravação da inspeção de "Personas"
+
+<p>Acesso disponível em: <LINK></p>
+
+<h3>Checklists</h3>
+
+<p>A tabela 5 abaixo apresenta a checklist proposta pela integrante <a href="https://github.com/joycejdm">Joyce Dionizio</a> durante o <a href="planejamento.md">planejamento da verificação</a> com suas verificações e observações feitas pela inspeção também da integrante <a href="https://github.com/joycejdm">Joyce Dionizio</a> sobre o artefato "Personas" do integrante <a href="https://github.com/Katuner">Lucas Meireles</a>.</p>
+
+<p style="text-align: center;"><strong>Tabela 5</strong> - Checklist Personas</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+      <th>Observações</th>
+      <th>Fonte</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>44</td>
+      <td>A persona tem um nome e sobrenome representativo do perfil do usuário?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>São fornecidas a idade e outras informações demográficas da persona?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>A persona inclui uma foto para tornar sua representação mais realista?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>A persona é definida como primária, secundária, outro stakeholder ou antiusuário?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>Está claro qual é o papel da persona no sistema?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>Os objetivos da persona são claramente definidos?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>As habilidades da persona, incluindo educação, treinamento e competências específicas, são descritas?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>Essas habilidades são relevantes para a interação com o produto?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>As tarefas básicas ou críticas que a persona realiza são claramente descritas?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>A frequência, importância e duração dessas tarefas são especificadas?</td>
+      <td>INCOMPLETO</td>
+      <td>As tarefas não tem a duração especificada.</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>Os relacionamentos da persona com outros stakeholders são identificados?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>As expectativas da persona sobre como o produto deve funcionar estão claramente definidas?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>A organização das informações no domínio ou trabalho da persona é descrita?</td>
+      <td>SIM</td>
+      <td>-</td>
+      <td><a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true">Página 168</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/joycejdm">DIONIZIO, Joyce</a>. 2024</font></p></p>
+
+<h3>Acompanhamento</h3>
+
+<p>A figura 01 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 3.</p>
+
+<center>
+  <p><strong>Figura 02</strong> - Gráfico dos resultados de Personas</p>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/cenarios/personas_lucas.png" alt="Gráfico dos resultados de Personas">
+  <p><font size="2">Fonte: <a href="https://github.com/joycejdm">DIONIZIO, Joyce Dionizio</a>. 2024.</font></p>
+</center>
+
+
+<h3>Problemas encontrados</h3>
+
+<h3>Sugestões de correção</h3>
+
+</details>
+
+
 ## Bibliografia
 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -403,3 +690,4 @@ Para a correção do artefato, sugerem-se os itens a seguir:
 | :----: | :--------: | :-------------------------------------------------: | :-------------------------------------------: | :--------: | :-----------------------------------------: |
 | `1.0`  | 25/06/2024 | Criação do Documento e adição das inspeções 2 e 4   | [Lucas Meireles](https://github.com/Katuner)  |  26/06/2023          |       [Joyce Dionizio](https://github.com/joycejdm)                                       |
 | `1.1`  | 26/06/2024 | Adição da Inspeção de Aspectos Éticos   | [Joyce Dionizio](https://github.com/joycejdm)  ||                                            |
+| `1.2`  | 26/06/2024 | Adição da Inspeção de Cenários e Personas  | [Joyce Dionizio](https://github.com/joycejdm)  ||                                            |
