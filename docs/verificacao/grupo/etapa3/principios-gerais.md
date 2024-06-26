@@ -4,27 +4,19 @@ Dado o planejamento da atividade, aqui serão exibidos os procedimentos realizad
 
 ## Objetivo
 
-O objetivo desse documento é apresentar a metodologia adotada, os autores, os checklists de cada artefato produzido e seus respectivos resultados, conforme descritos no [planejamento](planejamento.md). 
+O objetivo desse documento é apresentar a metodologia adotada, os autores, os checklists de cada artefato produzido e seus respectivos resultados, conforme descritos no [planejamento](planejamento.md). Essa verificação foi feito pelo integrante do grupo [Augusto Duarte](https://github.com/Augcamp) e seu objetivo principal é detalhar os problemas encontrados no artefato para uma refatoração do mesmo.
 
 ## Metodologia
 Para responder as perguntas dos checklists feitos anteriormente no [planejamento](planejamento.md), o avaliador usará o método de inspeção para responder as perguntas com as opções "SIM", "NÃO" e "INCOMPLETO". Também será gerado um espaço adicional para que possa escrever observações em cada pergunta.
 Ao completar a verificação da checklist do artefato, será apresentado um gráfico "pizza" com as respostas para uma melhor visualização assim como os problemas encontrados e sugestões de correções, quando cabível.
 
-## Participantes
-A tabela 1 a seguir resume os participantes que partiparam como avaliadores desta verificação. 
-<center>
-**Tabela 1** - Avaliadores da Verificação
-
-| Artefato                    | Avaliador                                   |
-| --------------------------- | ------------------------------------------- |
-| **Princípios Gerais**       | [Augusto Duarte](https://github.com/Augcamp)|
 
 
 ### Princípios Gerais
-A tabela 02 a seguir apresenta a checklist referente ao artefato Princípios Gerais:
+A tabela 01 a seguir apresenta a checklist referente ao artefato Princípios Gerais:
 <center>
 
-**Tabela 02** - Checklist do Princípios Gerais
+**Tabela 01** - Checklist do Princípios Gerais
 
 
 | ID | Descrição | Avaliação | Observações | Fonte |
@@ -58,7 +50,7 @@ A figura 01 abaixo permite uma visualização melhor quanto as respostas da aval
 
 Abaixo estão melhor exemplificados os problemas encontrados e as justificativas da resposta do resultado da verificação do artefato de Princípios Gerais, além de também conter sugestões de correção para o grupo.
 
-Durante a análise dos princípios gerais do projeto, nenhum problema crítico foi encontrado. A ausência de problemas nesta área pode refletir a aplicação adequada de boas práticas de design, a consideração cuidadosa dos requisitos do usuário e a adesão aos padrões estabelecidos.
+- Durante a análise dos princípios gerais do projeto, nenhum problema crítico foi encontrado. A ausência de problemas nesta área pode refletir a aplicação adequada de boas práticas de design, a consideração cuidadosa dos requisitos do usuário e a adesão aos padrões estabelecidos.
 
 ## Referências
 
