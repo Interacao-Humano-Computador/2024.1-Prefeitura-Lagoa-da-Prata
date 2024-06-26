@@ -222,4 +222,4 @@ A tabela 07 a seguir apresenta a checklist referente ao artefato Análise de Tar
 | `1.1`  | 23/06/2024 | Adiciona Checklist Questionário e Perfil do Usuário | [Joyce Dionizio](https://github.com/joycejdm) | 23/06/2024 | [Pedro Lucas](https://github.com/lucasdray) |
 | `1.2`  | 23/06/2024 | Adiciona Checklist Cenários e Personas              | [Joyce Dionizio](https://github.com/joycejdm) | 23/06/2024 | [Pedro Lucas](https://github.com/lucasdray) |
 | `1.3`  | 24/06/2024 | Adiciona Checklist Aspectos Éticos                  | [Lucas Meireles](https://github.com/Katuner)  |            |                                             |
-| `1.1`  | 24/06/2024|        adiciona analise de tarefas      | [Cainã Freitas](https://github.com/freitasc) |    |  |
+| `1.4`  | 24/06/2024|        adiciona analise de tarefas      | [Cainã Freitas](https://github.com/freitasc) |    |  |
