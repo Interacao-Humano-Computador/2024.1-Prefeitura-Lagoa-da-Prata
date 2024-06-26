@@ -95,6 +95,17 @@ A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
 
+Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist prevista pela tabela 3.
+
+**Figura 1** - Gráfico "pizza" - Questionário
+
+<center>
+
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/Verifica%C3%A7%C3%A3o%20-%20Question%C3%A1rio.png?raw=true">
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024*
+</center>
+
 #### Problemas encontrados
 
 Abaixo se encontra a lista de problemas encontrados no artefato, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.

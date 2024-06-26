@@ -80,7 +80,7 @@ A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio
 | ID | Descrição | Avaliação | Observações | Fonte |
 | :----: | --------- | ---------- | ----------- | ------- |
 | 24 | O perfil do usuário identifica claramente quem são os usuários? | Sim | - | [Página 165](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id24.png?raw=true) |
-| 25 | Os objetivos dos usuários estão claramente definidos no perfil? | Não | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 25 | Os objetivos dos usuários estão claramente definidos no perfil? | 6 | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
 | 26 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | Não |  - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
 | 27 | Foi conduzido um estudo para coletar os dados dos usuários através de entrevistas ou questionários? | Sim | -  |[Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
 | 28 | Os dados coletados foram agregados em grupos e faixas nos quais os usuários se encaixam, por exemplo, idade, experiência, atitudes e tarefas primárias? | Não |- | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
@@ -93,6 +93,18 @@ A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
 </center>
+
+Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist prevista pela tabela 3.
+
+**Figura 1** - Gráfico "pizza" - Perfil do Usuário
+
+<center>
+
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/Verifica%C3%A7%C3%A3o%20-%20Perfil%20do%20Usu%C3%A1rio.png?raw=true">
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024*
+</center>
+
 
 #### Problemas encontrados
 
