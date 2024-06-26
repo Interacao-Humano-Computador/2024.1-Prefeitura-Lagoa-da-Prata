@@ -44,6 +44,16 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Metas de Usabil
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 </center>
 
+### Acompanhamento 
+
+A figura 01 abaixo permite uma visualização melhor quanto as respostas da avaliação.
+<center>
+**Figura 1** - Gráfico dos resultados das Metas de Usabilidade
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_oMd0X-P5OCwy4RmPr6hT1TyZD4IbSfxbYN0hL-yXjV9ABGfnok7s07r2dCMCiAb8-ivjq-DV4ml/pubchart?oid=522684073&amp;format=image"></iframe>
+*Fonte: DUARTE, Augusto. 2024.*
+</center>
+
+
 ### Problemas Encontrados e Análise dos Dados
 
 Abaixo estão melhor exemplificados os problemas encontrados e as justificativas da resposta do resultado da verificação do artefato de Metas de Usabilidade, além de também conter sugestões de correção.
@@ -71,6 +81,7 @@ Com base nos problemas encontrados e na análise dos dados encontrados, fica sug
 |    Data    | Versão |            Descrição             |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 26/06/2024 | `1.0`  |       Criação do documento       | [Augusto Duarte](https://github.com/Augcamp) |                 |                                             |
+| 26/06/2024 | `1.1`  |       Adição acompanhamento      | [Augusto Duarte](https://github.com/Augcamp) |                 |                                             |
 
 
 
