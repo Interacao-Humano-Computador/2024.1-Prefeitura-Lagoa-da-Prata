@@ -11,6 +11,16 @@ Para responder as perguntas dos checklists feitos anteriormente no [planejamento
 Ao completar a verificação da checklist do artefato, será apresentado um gráfico "pizza" com as respostas para uma melhor visualização assim como os problemas encontrados e sugestões de correções, quando cabível.
 
 
+## Inspeção
+Abaixo se encontra o vídeo 01 com a inspeção do integrante do grupo [Augusto Duarte](https://github.com/Augcamp) deste artefato, o mesmo pode ser acessado [clicando aqui](https://www.youtube.com/watch?v=5kHN9-v7HsM).
+
+<center>
+Vídeo 01 - Inspeção e Verificação Artefato Caracteristicas Gerais
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5kHN9-v7HsM?si=I0HO_lnzgFNvfxdD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Fonte: https://www.youtube.com/watch?v=5kHN9-v7HsM* .
+</center>
+
+
 ### Características Gerais
 A tabela 01 a seguir apresenta a checklist referente ao artefato Características Gerais:
 <center>
