@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Dado o planejamento da atividade, aqui será exibido o procedimento realizado e os evemtiaos resultados encontrados pela atividade de verificação descrita no [planejamento de verificação da etapa](planejamento.md) referente à etapa 2 para o [grupo 5](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata) da disciplina de IHC.
+Dado o planejamento da atividade, aqui será exibido o procedimento realizado e os eventuais resultados encontrados pela atividade de verificação descrita no [planejamento de verificação da etapa](planejamento.md) referente à etapa 2 para o [grupo 5](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata) da disciplina de IHC.
 
 ## Objetivo
 
@@ -93,6 +93,17 @@ A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio
 |  23  | As perguntas são formuladas de maneira a evitar induzir certas respostas?                                            | Sim         | - | [Página 150](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/id23.png?raw=true) |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
+</center>
+
+Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist prevista pela tabela 3.
+
+**Figura 1** - Gráfico "pizza" - Questionário
+
+<center>
+
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/questionarios/Verifica%C3%A7%C3%A3o%20-%20Question%C3%A1rio.png?raw=true">
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024*
 </center>
 
 #### Problemas encontrados

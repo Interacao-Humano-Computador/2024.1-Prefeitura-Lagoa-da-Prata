@@ -1,11 +1,20 @@
 ## Introdução
-Dado o planejamento da atividade, aqui serão exibidos os procedimentos realizados e os resultados encontrados pela atividade de verificação descrita no planejamento de verificação referente à etapa 4 para o grupo 6 da disciplina de IHC.
+Dado o planejamento da atividade, aqui serão exibidos os procedimentos realizados e os resultados encontrados pela atividade de verificação descrita no planejamento de verificação referente à etapa 4 para o grupo 5 da disciplina de IHC.
 
 ## Objetivos
 O objetivo desse documento será relatar a verificação do artefato Planejamento do relato da análise de tarefas. Essa verificação foi feito pelo integrante do grupo [Pedro Lucas](https://github.com/lucasdray) e seu objetivo principal é detalhar os problemas encontrados no artefato para uma refatoração do mesmo.
 
 ## Metodologia
 Para responder as perguntas dos checklists feitos anteriormente no planejamento, o avaliador usará o método de inspeção para responder as perguntas com as opções "SIM", "NÃO" e "INCOMPLETO". Também será gerado um espaço adicional para que possa escrever observações em cada pergunta. Ao completar a verificação da checklist do artefato, será apresentado um gráfico "pizza" com as respostas para uma melhor visualização assim como os problemas encontrados e sugestões de correções, quando cabível.
+
+## Inspeção
+Abaixo se encontra o vídeo 01 com a inspeção do integrante do grupo [Pedro Lucas](https://github.com/lucasdray) deste artefato, o mesmo pode ser acessado [clicando aqui](https://www.youtube.com/watch?v=w9Gyxfc3APg).
+
+<center>
+Vídeo 01 - Inspeção e Verificação Artefato Planejamento do relato de resultados da Análise de tarefas
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w9Gyxfc3APg?si=C2Qr-QBdjW_pt1Xq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Fonte: https://www.youtube.com/watch?v=w9Gyxfc3APg* .
+</center>
 
 ## Checklist
 A checklist está separada em duas etapas, quanto a padronização do documento e quanto aos elementos do artefato. Abaixo se encontra as perguntas referentes aos elementos do artefato com a imagem da fonte, logo após se encontra a tabela 01 com as respostas da avaliação e observações da verificação.
@@ -71,7 +80,7 @@ A checklist está separada em duas etapas, quanto a padronização do documento 
 | ID  |                                                              Descrição                                                               | Avaliação  |              Observações               | Fonte                                                                                                                                                                          |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------: | :------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  1  |                                                    O artefatos possui introdução?                                                    |    SIM     |                   -                    |                                                                                                                                                                                |
-|  2  |                                     O artefato possui uma bibliografia/referência bibliográfica?                                     | INCOMPLETO | Provalvemente não estão todos listados |                                                                                                                                                                                |
+|  2  |                                     O artefato possui uma bibliografia/referência bibliográfica?                                     | INCOMPLETO | Provavelmente não estão todos listados |                                                                                                                                                                                |
 |  3  |               O artefato possui um histórico de versões com descrição, versões, data de criação, autores e revisores?                |    SIM     |                   -                    |                                                                                                                                                                                |
 |  4  |           No artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?            |    NÃO     |         Possue apenas tabelas          |                                                                                                                                                                                |
 |  5  |   No artefato, todos os textos estão na norma padrão? Estão seguindo um padrão (centralizados, justificado, alinhado a esquerda)?    |    SIM     |                   -                    |                                                                                                                                                                                |
@@ -125,7 +134,7 @@ A figura 07 abaixo apresenta o gráfico "pizza" referente às respostas da verif
 *Fonte: DOURADO, Pedro Lucas. 2024.*
 </center>
 
-## ID 18 - O planejamento possui uma seção para dizer como foi realizada a avaliação? E qual método de avaliação foi empregado?
+### ID 18 - O planejamento possui uma seção para dizer como foi realizada a avaliação? E qual método de avaliação foi empregado?
 - Método não específicado corretamente.
 <center>
 
@@ -136,10 +145,10 @@ A figura 07 abaixo apresenta o gráfico "pizza" referente às respostas da verif
 *Fonte: DOURADO, Pedro Lucas. 2024.*
 </center>
 
-## ID 19 - O planejamento possui uma seção para dizer quantos e quais foram os perfis dos usuários e avaliadores que participaram da avaliação?
+### ID 19 - O planejamento possui uma seção para dizer quantos e quais foram os perfis dos usuários e avaliadores que participaram da avaliação?
 - Não consta.
 
-## ID 22 - O planejamento possui uma seção para dizer quais foram os principais problemas encontrados durante a avaliação?
+### ID 22 - O planejamento possui uma seção para dizer quais foram os principais problemas encontrados durante a avaliação?
 - Não consta.
 
 ## Sugestões de correções
