@@ -4,27 +4,18 @@ Dado o planejamento da atividade, aqui serão exibidos os procedimentos realizad
 
 ## Objetivo
 
-O objetivo desse documento é apresentar a metodologia adotada, os autores, os checklists de cada artefato produzido e seus respectivos resultados, conforme descritos no [planejamento](planejamento.md). 
+O objetivo desse documento é apresentar a metodologia adotada, os autores, os checklists de cada artefato produzido e seus respectivos resultados, conforme descritos no [planejamento](planejamento.md). Essa verificação foi feito pelo integrante do grupo [Augusto Duarte](https://github.com/Augcamp) e seu objetivo principal é detalhar os problemas encontrados no artefato para uma refatoração do mesmo.
 
 ## Metodologia
 Para responder as perguntas dos checklists feitos anteriormente no [planejamento](planejamento.md), o avaliador usará o método de inspeção para responder as perguntas com as opções "SIM", "NÃO" e "INCOMPLETO". Também será gerado um espaço adicional para que possa escrever observações em cada pergunta.
 Ao completar a verificação da checklist do artefato, será apresentado um gráfico "pizza" com as respostas para uma melhor visualização assim como os problemas encontrados e sugestões de correções, quando cabível.
 
-## Participantes
-A tabela 1 a seguir resume os participantes que partiparam como avaliadores desta verificação. 
-<center>
-**Tabela 1** - Avaliadores da Verificação
-
-| Artefato                    | Avaliador                                   |
-| --------------------------- | ------------------------------------------- |
-| **Metas de Usabilidade**    | [Augusto Duarte](https://github.com/Augcamp)|
-
 
 ### Metas de Usabilidade
-A tabela 02 a seguir apresenta a checklist referente ao artefato Metas de Usabilidade:
+A tabela 01 a seguir apresenta a checklist referente ao artefato Metas de Usabilidade:
 <center>
 
-**Tabela 02** - Checklist do Metas de Usabilidade
+**Tabela 01** - Checklist do Metas de Usabilidade
 
 | ID | Descrição | Avaliação | Observações | Fonte |
 | :----: | :---------: | :----------: | :-----------: | :-------: |
