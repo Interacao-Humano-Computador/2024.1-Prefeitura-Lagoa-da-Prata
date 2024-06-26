@@ -1,5 +1,5 @@
 ## Introdução
-Dado o planejamento da atividade, aqui serão exibidos os procedimentos realizados e os resultados encontrados pela atividade de verificação descrita no planejamento de verificação referente à etapa 4 para o grupo 5 da disciplina de IHC.
+Dado o planejamento da atividade, aqui serão exibidos os procedimentos realizados e os resultados encontrados pela atividade de verificação descrita no planejamento de verificação referente à etapa 5 para o grupo 5 da disciplina de IHC.
 
 ## Objetivos
 O objetivo desse documento será relatar a verificação do artefato Planejamento do relato do protótipo de papel. Essa verificação foi feito pelo integrante do grupo [Pedro Lucas](https://github.com/lucasdray) e os checklists foram feitos pelo integrante do grupo [Augusto Duarte]() e seu objetivo principal é detalhar os problemas encontrados no artefato para uma refatoração do mesmo.
