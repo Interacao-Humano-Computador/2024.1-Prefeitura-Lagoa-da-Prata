@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Dado o planejamento da atividade, aqui será exibido o procedimento realizado e os evemtiaos resultados encontrados pela atividade de verificação descrita no [planejamento de verificação da etapa](planejamento.md) referente à etapa 2 para o [grupo 5](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata) da disciplina de IHC.
+Dado o planejamento da atividade, aqui será exibido o procedimento realizado e os eventuais resultados encontrados pela atividade de verificação descrita no [planejamento de verificação da etapa](planejamento.md) referente à etapa 2 para o [grupo 5](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata) da disciplina de IHC.
 
 ## Objetivo
 
