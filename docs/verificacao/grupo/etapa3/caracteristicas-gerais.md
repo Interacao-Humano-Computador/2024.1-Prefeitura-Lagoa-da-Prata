@@ -40,6 +40,16 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Característica
 </center>
 
 
+### Acompanhamento 
+
+A figura 01 abaixo permite uma visualização melhor quanto as respostas da avaliação.
+<center>
+**Figura 1** - Gráfico dos resultados das Caracteristicas Gerais
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRycfvNF4qPgIrX7lClklf94SLyz9frhr9wh82SCA2CLMcLA3m3K5oTC3lQPjEuuWkrtXTypvRrDM9/pubchart?oid=807087747&amp;format=image"></iframe>
+*Fonte: DUARTE, Augusto. 2024.*
+</center>
+
+
 ### Problemas Encontrados e Análise dos Dados
 
 Abaixo estão melhor exemplificados os problemas encontrados e as justificativas da resposta do resultado da verificação do artefato de Perfil do Usuário, além de também conter sugestões de correção. 
@@ -67,4 +77,4 @@ Com base nos problemas encontrados e na análise dos dados encontrados, fica sug
 |    Data    | Versão |            Descrição             |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 26/06/2024 | `1.0`  |       Criação do documento       | [Augusto Duarte](https://github.com/Augcamp) |                 |                                             |
-
+| 26/06/2024 | `1.1`  |       Adição acompanhamento      | [Augusto Duarte](https://github.com/Augcamp) |                 |                                             |

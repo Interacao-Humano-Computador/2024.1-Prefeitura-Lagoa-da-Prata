@@ -43,6 +43,17 @@ A tabela 02 a seguir apresenta a checklist referente ao artefato Princípios Ger
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 </center>
 
+
+### Acompanhamento 
+
+A figura 01 abaixo permite uma visualização melhor quanto as respostas da avaliação.
+<center>
+**Figura 1** - Gráfico dos resultados dos Principios Gerais
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQY3lIRQdWozaVJDqIeIAhRNrMeP93xjYIAP-YARVqFNJWmcoyFcl9N-VEPPDgBfkzuOLjPNmJzEttW/pubchart?oid=1090887287&amp;format=image"></iframe>
+*Fonte: DUARTE, Augusto. 2024.*
+</center>
+
+
 ### Problemas Encontrados e Análise dos Dados
 
 Abaixo estão melhor exemplificados os problemas encontrados e as justificativas da resposta do resultado da verificação do artefato de Princípios Gerais, além de também conter sugestões de correção para o grupo.
@@ -58,4 +69,4 @@ Durante a análise dos princípios gerais do projeto, nenhum problema crítico f
 |    Data    | Versão |            Descrição             |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 26/06/2024 | `1.0`  |       Criação do documento       | [Augusto Duarte](https://github.com/Augcamp) |                 |                                             |
-
+| 26/06/2024 | `1.1`  |       Adição acompanhamento      | [Augusto Duarte](https://github.com/Augcamp) |                 |                                             |
