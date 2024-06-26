@@ -100,13 +100,41 @@ A figura 07 abaixo apresenta o gráfico "pizza" referente às respostas da verif
 
 ### ID 2 - O artefato possui uma bibliografia/referência bibliográfica? 
 - Acredita-se que não estão todos listados.
+<center>
+**Figura 08** - Bibliografia do Artefato
+
+![ID2](../../../assets/images/verificacao/etapa4/problemas/id2.png)
+
+*Fonte: DOURADO, Pedro Lucas. 2024.*
+</center>
 
 ### ID 4 - No artefato, todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes seguindo a norma ABNT?
 - Título e fonte das tabelas 1 e 2 não estão padronizadas.
 - Tabela 2 não é citada no texto.
+<center>
+**Figura 09** - Tabela 1 do Artefato
+
+![ID2](../../../assets/images/verificacao/etapa4/problemas/id4.png)
+
+*Fonte: DOURADO, Pedro Lucas. 2024.*
+
+**Figura 10** - Tabela 2 do Artefato
+
+![ID2](../../../assets/images/verificacao/etapa4/problemas/id4_2.png)
+
+*Fonte: DOURADO, Pedro Lucas. 2024.*
+</center>
 
 ## ID 18 - O planejamento possui uma seção para dizer como foi realizada a avaliação? E qual método de avaliação foi empregado?
 - Método não específicado corretamente.
+<center>
+
+**Figura 11** - Método do Artefato
+
+![ID2](../../../assets/images/verificacao/etapa4/problemas/id18.png)
+
+*Fonte: DOURADO, Pedro Lucas. 2024.*
+</center>
 
 ## ID 19 - O planejamento possui uma seção para dizer quantos e quais foram os perfis dos usuários e avaliadores que participaram da avaliação?
 - Não consta.
