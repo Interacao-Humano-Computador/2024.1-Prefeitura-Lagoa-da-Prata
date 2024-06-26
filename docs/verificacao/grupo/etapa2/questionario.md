@@ -21,7 +21,7 @@ A Tabela 1 foi produzida para uma melhor visualização do objeto que será aqui
 
 |                                                      Artefato                                                       | Versão | Data produzido |                                        Produzido por                                        |                 Revisado por                  |
 | :-----------------------------------------------------------------------------------------------------------------: | :----: | :------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-|     [Questionário](../../../requisitos1/questionario.md)      | `1.1`  |   10/05/2024   |    [Lucas Meireles](https://github.com/Katuner)  | --  |   --  |
+|     [Questionário](../../../requisitos1/questionario.md)      | `1.1`  |   10/05/2024   |    [Lucas Meireles](https://github.com/Katuner)  | --  |
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 </center>
