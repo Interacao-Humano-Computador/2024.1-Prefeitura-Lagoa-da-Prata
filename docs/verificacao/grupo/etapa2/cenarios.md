@@ -118,7 +118,7 @@ Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist pre
 
 
 
-### Cenário Registrar e verificar o panorama de saúde da cidade - Lucas Meirelles
+### Cenário Registrar e verificar o panorama de saúde da cidade - Lucas Meireles
 
 Aqui serão dispostos os resultados da verificação do artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "Registrar e verificar o panorama de saúde da cidade", proposta pelo membro [Lucas Meireles](https://github.com/Katuner), feitos pelo integrante [Joyce Dionizio](https://github.com/joycejdm) conforme o [planejamento da verificação](planejamento.md).
 
@@ -253,6 +253,109 @@ Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist pre
 
 - Explorar "caminhos" diferentes para completar o cenário
 - Adicionar uma aba de avaliação para interpretar a situação apresentada no cenário.
+
+### Cenário "Solicitar vistoria de local com água parada" - Pedro Augusto Dourado
+
+Aqui serão dispostos os resultados da verificação do artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "Solicitar vistoria de local com água parada", proposta pelo membro [Pedro Lucas](https://github.com/lucasdray), feitos pelo integrante [Lucas Meireles](https://github.com/Katuner) conforme o [planejamento da verificação](planejamento.md).
+
+#### Inspeção
+
+Abaixo se encontra o Vídeo 5, referente à inspeção realizada ao artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "Solicitar vistoria de local com água parada".
+
+<center>
+
+**Vídeo 5** - Gravação da inspeção do "Cenário" - Solicitar vistoria de local com água parada.
+
+<iframe width="1864" height="793" src="https://www.youtube.com/embed/ufkgo7otInI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Acesso disponível em: <https://www.youtube.com/watch?v=ufkgo7otInI>
+
+</center>
+
+#### Checklists
+
+A tabela 7 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio](https://github.com/joycejdm) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Lucas Meireles](https://github.com/Katuner).
+
+<center>
+
+**Tabela 7** - Cheklist Cenários
+
+
+| ID | Descrição | Avaliação | Observações | Fonte |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 34 | O cenário descreve claramente o ambiente ou contexto? | Sim | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 35 | Os atores estão claramente identificados e suas características pessoais são relevantes para o cenário? | Não | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 36 | Os objetivos dos atores são claramente definidos? | Sim |  - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 37 | O planejamento das ações dos atores está bem descrito? | Sim | -  |[Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 38 | As ações dos atores são observáveis e bem detalhadas? | Sim |- | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 39 | Os eventos externos e reações do sistema são descritos claramente? | Não | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 40 | Há uma seção de avaliação que interpreta a situação apresentada no cenário? | Não | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 41 | O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)? | Não | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 42 | O cenário aborda variáveis importantes de uma classe de situações de tarefa? | Não | -  |[Página 174](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id48.png?raw=true) |
+| 43 | O cenário considera métodos diferentes para realizar uma tarefa?  | Não | - | [Página 174](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id48.png?raw=true) |
+
+
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
+</center>
+
+Segue abaixo, pela Figura 5, o gráfico referente às respostas da checklist prevista pela tabela 3.
+
+**Figura 5** - Gráfico "pizza" - Cenários - Solicitar vistoria de local com água parada
+
+<center>
+
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/Verifica%C3%A7%C3%A3o%20-%20Cen%C3%A1rio%20-%20Solicitar%20vistoria%20de%20local%20com%20%C3%A1gua%20parada.png?raw=true">
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024*
+</center>
+
+#### Problemas encontrados
+
+Abaixo se encontra a lista de problemas encontrados na persona avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
+
+- **ID 35** - Os atores estão claramente identificados e suas características pessoais são relevantes para o cenário?
+
+<p>
+    Não é possível encontrar as características do autor para definir se são relevantes.
+</p>
+
+- **ID 39** - Os eventos externos e reações do sistema são descritos claramente?
+
+<p>
+    Não há presença dos eventos externos e ações do sistema.
+</p>
+
+- **ID 40** - Há uma seção de avaliação que interpreta a situação apresentada no cenário?
+
+<p>
+    Não é possível localizar uma seção de avaliação do cenário.
+</p>
+
+- **ID 41** - O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)?
+
+<p>
+    Não existe uma área de eventos e avaliação.
+</p>
+
+- **ID 42** - O cenário aborda variáveis importantes de uma classe de situações de tarefa?
+
+<p>
+    Não é possível avaliar visto que não há uma descrição e/ou explicação do que se trata o item pedido.
+</p>
+
+- **ID 43** - O cenário considera métodos diferentes para realizar uma tarefa?
+
+<p>
+    É apresentado apenas 1 forma de alcançar o objetivo principal.
+</p>
+
+#### Sugestões de correção
+
+Para a correção do cenário avaliado, sugerem-se os itens a seguir:
+
+- Ajustar as características do cenário com os itens pendentes encontrados na listagem de problemas;
+- Trazer as características da persona para o cenário;
+- Apresentar formas e/ou momentos distintos para a realização do cenário.
 
 ## Bibliografia
 

@@ -298,6 +298,113 @@ Para a correção da persona avaliada, sugerem-se os itens a seguir:
 
 - Adicionar a duração das tarefas realizadas pela persona. Isso ajudará a entender melhor a carga de trabalho e a importância de cada tarefa no contexto da interação com o produto. Detalhar a frequência e a importância das tarefas realizadas para proporcionar uma visão mais completa das atividades da persona.
 
+### Persona Maria Arlete - Pedro Lucas Dourado
+
+Aqui serão dispostos os resultados da verificação do artefato ["Personas"](../../../requisitos1/personas.md), com direcionamento à persona "Maria Arlete", proposta pelo membro [Pedro Lucas](https://github.com/lucasdray), feitos pelo integrante [Lucas Meireles](https://github.com/Katuner) conforme o [planejamento da verificação](planejamento.md).
+
+#### Inspeção
+
+Abaixo se encontra o Vídeo 5, referente à inspeção realizada ao artefato ["Personas"](../../../requisitos1/personas.md), com direcionamento à persona "Maria Arlete".
+
+<center>
+
+**Vídeo 5** - Gravação da inspeção da "Persona" - Maria Arlete.
+
+<iframe width="1864" height="793" src="https://www.youtube.com/embed/Mw3E4-ecpAU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Acesso disponível em: <https://www.youtube.com/watch?v=Mw3E4-ecpAU>
+
+</center>
+
+#### Checklists
+
+A tabela 7 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio](https://github.com/joycejdm) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [NOME](https://github.com).
+
+<center>
+
+**Tabela 7** - Cheklist Persona
+
+| ID | Descrição | Avaliação | Observações | Fonte |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 44 | A persona tem um nome e sobrenome representativo do perfil do usuário? | Sim | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 45 | São fornecidas a idade e outras informações demográficas da persona?  | Incompleto | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 46 | A persona inclui uma foto para tornar sua representação mais realista? | Sim |  - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 47 | A persona é definida como primária, secundária, outro stakeholder ou antiusuário? | Sim | -  |[Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 48 | Está claro qual é o papel da persona no sistema? | Não | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 49 | Os objetivos da persona são claramente definidos? |  Sim | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 50 | Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais? | Incompleto | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 51 |As habilidades da persona, incluindo educação, treinamento e competências específicas, são descritas? | Sim | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 52 | Essas habilidades são relevantes para a interação com o produto? |  Sim | -  |[Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 53 | As tarefas básicas ou críticas que a persona realiza são claramente descritas?  | Sim | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 54 | A frequência, importância e duração dessas tarefas são especificadas?  | Sim | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 55 | Os relacionamentos da persona com outros stakeholders são identificados?  |  Não | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 56 | As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?  |  Incompleto | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 57 | As expectativas da persona sobre como o produto deve funcionar estão claramente definidas?  |  Sim | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+| 58 |A organização das informações no domínio ou trabalho da persona é descrita?  | Não | - | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true) |
+
+
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
+</center>
+
+Segue abaixo, pela Figura 5, o gráfico referente às respostas da checklist prevista pela tabela 3.
+
+**Figura 5** - Gráfico "pizza" - Personas - Maria Arlete
+
+<center>
+
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/Verifica%C3%A7%C3%A3o%20-%20Personas%20-%20Maria%20Arlete.png?raw=true">
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024*
+</center>
+
+#### Problemas encontrados
+
+Abaixo se encontra a lista de problemas encontrados na persona avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
+
+- **ID 45** - São fornecidas a idade e outras informações demográficas da persona?
+
+<p>
+    Não há confirmação de quais são os dados necessários na checklist.
+</p>
+
+- **ID 48** - Está claro qual é o papel da persona no sistema?
+
+<p>
+    Não há menção de como a pessoa usa ou como o sistema trata a persona (cidadão comum, funcionário, etc).    
+</p>
+
+- **ID 50** - Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais?
+
+<p>
+    Não há presença de objetivos relacionados ao produto do site.
+</p>
+
+- **ID 55** - Os relacionamentos da persona com outros stakeholders são identificados?
+
+<p>
+    Há relacionamentos com outras pessoas mas não existe uma interação com stakeholders em si.
+</p>
+
+- **ID 56** - As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?
+
+<p>
+    As necessidades estão implícitas porém não existem citações para melhor entendimento.
+</p>
+
+- **ID 58** - A organização das informações no domínio ou trabalho da persona é descrita?
+
+<p>
+    Os aspectos não estão presentes na descrição da persona.
+</p>
+
+#### Sugestões de correção
+
+Para a correção da persona avaliada, sugerem-se os itens a seguir:
+
+- Revisar quais são os dados demográficos necessários;
+- Revisar as tarefas e objetivos para que estejam de acordo tanto com uma pessoa geral mas também com os stakeholders.
+- Garantir que haja uma identificação da relação da persona com o sistema.
+
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
