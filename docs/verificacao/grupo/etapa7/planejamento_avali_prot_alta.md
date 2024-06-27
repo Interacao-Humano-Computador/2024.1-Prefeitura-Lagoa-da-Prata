@@ -8,12 +8,12 @@ O objetivo desse documento será relatar a verificação do artefato Planejament
 Para responder as perguntas dos checklists feitos anteriormente no planejamento, o avaliador usará o método de inspeção para responder as perguntas com as opções "SIM", "NÃO" e "INCOMPLETO". Também será gerado um espaço adicional para que possa escrever observações em cada pergunta. Ao completar a verificação da checklist do artefato, será apresentado um gráfico "pizza" com as respostas para uma melhor visualização assim como os problemas encontrados e sugestões de correções, quando cabível.
 
 ## Inspeção
-Abaixo se encontra o vídeo 01 com a inspeção do integrante do grupo [Cainã Freitas](https://github.com/freitasc) deste artefato, o mesmo pode ser acessado [clicando aqui](https://www.youtube.com/watch?v=w9Gyxfc3APg).
+Abaixo se encontra o vídeo 01 com a inspeção do integrante do grupo [Cainã Freitas](https://github.com/freitasc) deste artefato, o mesmo pode ser acessado [clicando aqui](https://www.youtube.com/watch?v=E_n3kQg2gkg).
 
 <center>
 Vídeo 01 - Inspeção e Verificação do Artefato Planejamento da avaliação do Protótipo de alta fidelidade
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PtediD40PcA?si=0Pa0y6388LPR--og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*Fonte: https://www.youtube.com/watch?v=PtediD40PcA* .
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E_n3kQg2gkg?si=nSsDJK6ROph1fHg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Fonte: https://www.youtube.com/watch?v=E_n3kQg2gkg* .
 </center>
 
 ## Checklist
