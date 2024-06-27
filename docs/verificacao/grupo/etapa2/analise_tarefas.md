@@ -347,9 +347,9 @@ Abaixo se encontra o Vídeo 2, referente à inspeção realizada ao artefato ["A
 
 **Vídeo 2** - Gravação da inspeção da "Análise de Tarefas" - Cadastro Antecipado de Aluno.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BHwo29D1cvg?si=N4j014H2PSDhqPZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIjY_Lp2O10?si=Ukb8tLbdBi--csOb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Acesso disponível em: https://www.youtube.com/watch?v=BHwo29D1cvg
+Acesso disponível em: https://youtu.be/zIjY_Lp2O10
 
 </center>
 
