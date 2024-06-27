@@ -49,78 +49,105 @@ Os integrantes responsáveis pela verificação da checklist estão devidamente 
 Abaixo se encontram os resultados da inspeção do artefato tratado pela tabela 2 com a utilização da checklist proposta, seus comentários, o vídeo de inspeção, um gráfico "pizza" que apresentará o percentual de respostas da checklist, uma listagem de problemas encontrados e suas explicações e/ou observações e, por fim, sugestões de correção.
 A cada tópico será apresentado uma análise distinta de cada membro conforme planejado.
 
-### Tarefa X - Responsável da tarefa
+### Tarefa 01 - Acessar o módulo de Contra Cheque e consultar processos do servidor - Responsável [Augusto Duarte](https://github.com/Augcamp)
 
-Aqui serão dispostos os resultados da verificação do artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "NOME TAREFA", proposta pelo membro [NOME](github), feitos pelo integrante [NOME](https://github.com/) conforme o [planejamento da verificação](planejamento.md).
+Aqui serão dispostos os resultados da verificação do artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "Acessar o módulo de Contra Cheque e consultar processos do servidor", proposta pelo membro [Augusto Duarte](https://github.com/Augcamp), feitos pelo integrante [Pedro Lucas](https://github.com/lucasdray) conforme o [planejamento da verificação](planejamento.md).
 
 #### Inspeção
 
-Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "NOME TAREFA".
+Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "Acessar o módulo de Contra Cheque e consultar processos do servidor".
 
 <center>
 
-**Vídeo 1** - Gravação da inspeção da "Análise de Tarefas" - NOME TAREFA.
+**Vídeo 1** - Gravação da inspeção da "Análise de Tarefas" - Acessar o módulo de Contra Cheque e consultar processos do servidor.
 
-<!--
-EMBED
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QR1r5TPynsQ?si=muAbv-wuI9lYAH_d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Acesso disponível em: <LINK>
+Acesso disponível em: https://www.youtube.com/watch?v=QR1r5TPynsQ
 
 </center>
 
 #### Checklists
 
-A tabela 3 abaixo apresenta a checklist proposta pelo integrante [Cainã Freitas](https://github.com/freitasc) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [NOME](https://github.com).
+A tabela 3 abaixo apresenta a checklist proposta pelo integrante [Cainã Freitas](https://github.com/freitasc) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Pedro Lucas](https://github.com/lucasdray).
 
 <center>
 
-**Tabela 3** - Cheklist Análise de Tarefas
+**Tabela 3** - Verificação: Acessar o módulo de Contra Cheque e consultar processos do servidor
 
+| ID  | Descrição                                                                                                                                                   | Avaliação  | Observações                  | Fonte                                                                                                                                                                        |
+| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 59  | A análise inicia com a definição dos objetivos dos usuários?                                                                                                | SIM        | -                            | [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_1.png?raw=true) |
+| 60  | Os objetivos são divididos em subobjetivos hierárquicos?                                                                                                    | NÃO        | Só há objetivos em sequencia | [Página 178](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_2.png?raw=true) |
+| 61  | Os diagramas HTA contêm entradas, ações e feedback?                                                                                                         | INCOMPLETO | Não possui entradas e ações  | [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_3.png?raw=true) |
+| 62  | A HTA considera diferentes formas de atingir um objetivo dependendo das circunstâncias?                                                                     | NÃO        | -                            | [Página 180](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_4.png?raw=true) |
+| 63  | A HTA inclui todos os passos conforme Diaper (2003), como objetivos, esboço dos dados em tabelas ou diagramas e identificação de operadores significativos? | NÃO        | -                            | [Página 181](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_5.png?raw=true) |
+| 64  | Utilizando o CNM-GOMS, os objetivos do usuário estão claramente definidos no diagrama?                                                                      | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 65  | Utilizando o CNM-GOMS, os operadores no diagrama são bem definidos, internos ou externos?                                                                   | NÃO        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 66  | Utilizando o CNM-GOMS, os métodos para alcançar os objetivos estão corretamente sequenciados?                                                               | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 67  | Utilizando o CNM-GOMS, o diagrama utiliza um nível de detalhe adequado, considerando os objetivos da análise?                                               | NÃO        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_7.png?raw=true) |
 
-
-| ID  | Descrição                                                                                                            | Avaliação | Observações            | Fonte         |
-| :-: | -------------------------------------------------------------------------------------------------------------------- | --------- | --------------------- | -------------- |
 
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024*
 </center>
 
 Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist prevista pela tabela 3.
-
-**Figura 1** - Gráfico "pizza" - Análise de Tarefas - NOME TAREFA
-
 <center>
 
-<img src="imagem">
+**Figura 1** - Gráfico "pizza" Análise de Tarefas Acessar o módulo de Contra Cheque e consultar processos do servidor
 
-*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024*
+![tarefa 1](../../../assets/images/verificacao/etapa2/analise_tarefas1.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024*
 </center>
 
 #### Problemas encontrados
 
-Abaixo se encontra a lista de problemas encontrados na persona avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
+Abaixo se encontra a lista de problemas encontrados na tarefa avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
 
-- **ID NN** - PERGUNTA?
+**ID 60** - Os objetivos são divididos em subobjetivos hierárquicos?
 
-<p>
-    OBSERVAÇÃO 
-</p>
+- Não consta.
+
+**ID 62** - A HTA considera diferentes formas de atingir um objetivo dependendo das circunstâncias?
+
+- Não possui entradas.
+- Não possui ações.
+
+**ID 63** - A HTA inclui todos os passos conforme Diaper (2003), como objetivos, esboço dos dados em tabelas ou diagramas e identificação de operadores significativos?
+
+- Não consta.
+
+**ID 65** - Utilizando o CNM-GOMS, os operadores no diagrama são bem definidos, internos ou externos?
+
+- Não consta.
+
+**ID 67** - Utilizando o CNM-GOMS, o diagrama utiliza um nível de detalhe adequado, considerando os objetivos da análise?
+
+- Não consta.
 
 #### Sugestões de correção
 
-Para a correção da persona avaliada, sugerem-se os itens a seguir:
+Para a correção da tarefa avaliada, sugerem-se os itens a seguir:
 
--
--
--
+- Detalhar corretamente os objetivos do diagrama HTA.
+- Adição de entradas e ações na tabela.
+- Detalhar corretamente as operações no diagrama e na tabela.
+- Detalhar as relações entre os subojetivos no diagrama e na tabela.
+- Realizar a análise CNM-GOMS de acordo com a tabela feita no HTA.
+- Adição no HTA alternativas de chegar no mesmo objetivo (methods).
+- Trazer mais detalhamento para o CNM-GOMS.
+
 
 ## Bibliografia
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF2" href="#anchor_1">2.</a> DUARTE, Augusto; FREITAS, Cainã; DIONIZIO, Joyce; MEIRELES, Lucas; DOURADO, Pedro Lucas.  Análise de Tarefas. Repositório do Grupo 5 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/Pl_relatoresultado_tarefas/>. Acesso em: 26 junho 2024.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                           | Autor(es)                                     | Data de revisão | Revisor(es)                            |
-| :----: | :--------: | :-------------------------------------------------: | :-------------------------------------------: | :--------: | :-----------------------------------------: |
-| `1.0`  | 26/06/2024 | Criação do Documento e adição da inspeção   | [Lucas Meireles](https://github.com/Katuner)  |  26/06/2023   |          |
+| Versão |    Data    |                 Descrição                 |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :----: | :--------: | :---------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
+| `1.0`  | 26/06/2024 | Criação do Documento e adição da inspeção | [Lucas Meireles](https://github.com/Katuner) |   26/06/2023    | [Pedro Lucas](https://github.com/lucasdray) |
+| `1.1`  | 26/06/2023 |           Adição Verificação 01           | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
