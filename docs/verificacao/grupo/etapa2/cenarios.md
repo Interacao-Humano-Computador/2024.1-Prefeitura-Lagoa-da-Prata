@@ -199,4 +199,4 @@ Para a correção da persona avaliada, sugerem-se os itens a seguir:
 | :----: | :--------: | :-------------------------------------------------: | :-------------------------------------------: | :--------: | :-----------------------------------------: |
 | `1.0`  | 26/06/2024 | Criação do Documento e adição da inspeção   | [Lucas Meireles](https://github.com/Katuner)  |  26/06/2023   |          |
 | `1.1`  | 26/06/2024 | Adição da inspeção                          | [Augusto Duarte](https://github.com/Augcamp)  |     |          |
-| `1.2`  | 26/06/2024 | Adição da inspeção Persona                       | [Augusto Duarte](https://github.com/Augcamp)  |     |          |
+| `1.2`  | 26/06/2024 | Adição da inspeção Persona                       | [Joyce Dionizio](https://github.com/Augcamp)  |     |          |
