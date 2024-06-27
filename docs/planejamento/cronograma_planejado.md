@@ -171,8 +171,8 @@ Segue abaixo a Tabela 07 contendo as Atividades que serão realizadas, a data da
 
 ## Cronograma Ponto de Controle 6.2
 
- - Entrega: 24/06/2024
- - Apresentação: 25/06/2024
+ - Entrega: 26/06/2024
+ - Apresentação: 27/06/2024
  
 Segue abaixo a Tabela 08 contendo as Atividades que serão realizadas, a data da realização,a data da revisão e os revisores do ponto de controle 6.2.
 
