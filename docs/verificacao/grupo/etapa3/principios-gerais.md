@@ -10,6 +10,14 @@ O objetivo desse documento é apresentar a metodologia adotada, os autores, os c
 Para responder as perguntas dos checklists feitos anteriormente no [planejamento](planejamento.md), o avaliador usará o método de inspeção para responder as perguntas com as opções "SIM", "NÃO" e "INCOMPLETO". Também será gerado um espaço adicional para que possa escrever observações em cada pergunta.
 Ao completar a verificação da checklist do artefato, será apresentado um gráfico "pizza" com as respostas para uma melhor visualização assim como os problemas encontrados e sugestões de correções, quando cabível.
 
+## Inspeção
+Abaixo se encontra o vídeo 01 com a inspeção do integrante do grupo [Augusto Duarte](https://github.com/Augcamp) deste artefato, o mesmo pode ser acessado [clicando aqui](https://youtu.be/Qrf0q45utcA?si=nObNnVDg_ahvBIRb).
+
+<center>
+Vídeo 01 - Inspeção e Verificação Artefato Principios Gerais
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qrf0q45utcA?si=BctQF4jWBpzH9ZIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Fonte: https://youtu.be/Qrf0q45utcA?si=nObNnVDg_ahvBIRb* .
+</center>
 
 
 ### Princípios Gerais

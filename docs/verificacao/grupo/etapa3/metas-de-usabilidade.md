@@ -10,6 +10,14 @@ O objetivo desse documento é apresentar a metodologia adotada, os autores, os c
 Para responder as perguntas dos checklists feitos anteriormente no [planejamento](planejamento.md), o avaliador usará o método de inspeção para responder as perguntas com as opções "SIM", "NÃO" e "INCOMPLETO". Também será gerado um espaço adicional para que possa escrever observações em cada pergunta.
 Ao completar a verificação da checklist do artefato, será apresentado um gráfico "pizza" com as respostas para uma melhor visualização assim como os problemas encontrados e sugestões de correções, quando cabível.
 
+## Inspeção
+Abaixo se encontra o vídeo 01 com a inspeção do integrante do grupo [Augusto Duarte](https://github.com/Augcamp) deste artefato, o mesmo pode ser acessado [clicando aqui](https://youtu.be/b0zzZ6uOHYs?si=M7dalCZDzvl-Q6rJ).
+<center>
+Vídeo 01 - Inspeção e Verificação Artefato Metas de Usabilidade
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0zzZ6uOHYs?si=BhjmgpSod7UQ06uP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Fonte: https://youtu.be/b0zzZ6uOHYs?si=M7dalCZDzvl-Q6rJ* .
+</center>
+
 
 ### Metas de Usabilidade
 A tabela 01 a seguir apresenta a checklist referente ao artefato Metas de Usabilidade:
