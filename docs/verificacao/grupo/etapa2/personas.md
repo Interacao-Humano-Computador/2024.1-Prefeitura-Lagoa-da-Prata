@@ -169,7 +169,7 @@ A figura 01 abaixo apresenta o gráfico "pizza" referente às respostas da verif
 
 **Figura 01** - Gráfico dos resultados de Persona
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/personas/personas_lucas.png" >
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/personas/personas.png" >
 
 *Fonte: [DIONIZIO, Joyce Dionizio](https://github.com/joycejdm). 2024.*
 
