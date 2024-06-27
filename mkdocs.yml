@@ -83,7 +83,13 @@ nav:
     - Verificacão do Grupo 05:
       - Etapa 2:
         - Planejamento: verificacao/grupo/etapa2/planejamento.md
+        - Verificação Aspectos Éticos: verificacao/grupo/etapa2/aspectos_eticos.md
+        - Verificação Questionário: verificacao/grupo/etapa2/questionario.md
+        - Verificação Entrevista: verificacao/grupo/etapa2/entrevista.md
+        - Verificação Perfil do Usuário: verificacao/grupo/etapa2/perfil_do_usuario.md
+        - Verificação Personas: verificacao/grupo/etapa2/personas.md
         - Verificação Cenários: verificacao/grupo/etapa2/cenarios.md
+        - Verificação Análise de Tarefas: verificacao/grupo/etapa2/analise_tarefas.md
       - Etapa 3:
         - Planejamento: verificacao/grupo/etapa3/planejamento.md
         - Verificação Metas: verificacao/grupo/etapa3/metas-de-usabilidade.md
@@ -104,6 +110,8 @@ nav:
         - Planejamento: verificacao/grupo/etapa7/planejamento.md
         - Verificação Planejamento da avaliação do Prototipação de Alta Fidelidade: verificacao/grupo/etapa7/planejamento_avali_prot_alta.md
         - Verificação Planejamento do Relato de Resultados da Prototipação de Alta Fidelidade: verificacao/grupo/etapa7/planejamento_relato_prototipo_alta.md
+      - Etapa 8:
+        - Planejamento: verificacao/grupo/etapa8/planejamento.md 
 
 
 

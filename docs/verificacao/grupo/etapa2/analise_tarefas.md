@@ -335,6 +335,75 @@ Para a correção da tarefa avaliada, sugerem-se os itens a seguir:
 
 - Nenhuma correção sugerida.
 
+### Tarefa 02 - Cadastro Antecipado de Aluno - Responsável [Lucas Meireles](https://github.com/Katuner)
+
+Aqui serão dispostos os resultados da verificação do artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "Cadastro Antecipado de Aluno", proposta pelo membro [Joyce Dionizio](https://github.com/joycejdm), feitos pelo integrante [Cainã Freitas](https://github.com/freitasc) conforme o [planejamento da verificação](planejamento.md).
+
+#### Inspeção
+
+Abaixo se encontra o Vídeo 2, referente à inspeção realizada ao artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "Cadastro Antecipado de Aluno".
+
+<center>
+
+**Vídeo 2** - Gravação da inspeção da "Análise de Tarefas" - Cadastro Antecipado de Aluno.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BHwo29D1cvg?si=N4j014H2PSDhqPZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Acesso disponível em: https://www.youtube.com/watch?v=BHwo29D1cvg
+
+</center>
+
+#### Checklists
+
+A tabela 4 abaixo apresenta a checklist proposta pelo integrante [Cainã Freitas](https://github.com/freitasc) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Cainã Freitas](https://github.com/freitasc).
+
+<center>
+
+**Tabela 4** - Verificação: Acessar o módulo de Contra Cheque e consultar processos do servidor
+
+| ID  | Descrição                                                                                                                                                   | Avaliação  | Observações                  | Fonte                                                                                                                                                                        |
+| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 59  | A análise inicia com a definição dos objetivos dos usuários?                                                                                                | SIM        | -                            | [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_1.png?raw=true) |
+| 60  | Os objetivos são divididos em subobjetivos hierárquicos?                                                                                                    | SIM        | | [Página 178](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_2.png?raw=true) |
+| 61  | Os diagramas HTA contêm entradas, ações e feedback?                                                                                                         | SIM | | [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_3.png?raw=true) |
+| 62  | A HTA considera diferentes formas de atingir um objetivo dependendo das circunstâncias?                                                                     | SIM        | -                            | [Página 180](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_4.png?raw=true) |
+| 63  | A HTA inclui todos os passos conforme Diaper (2003), como objetivos, esboço dos dados em tabelas ou diagramas e identificação de operadores significativos? | SIM        | -                            | [Página 181](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_5.png?raw=true) |
+| 64  | Utilizando o CNM-GOMS, os objetivos do usuário estão claramente definidos no diagrama?                                                                      | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 65  | Utilizando o CNM-GOMS, os operadores no diagrama são bem definidos, internos ou externos?                                                                   | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 66  | Utilizando o CNM-GOMS, os métodos para alcançar os objetivos estão corretamente sequenciados?                                                               | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 67  | Utilizando o CNM-GOMS, o diagrama utiliza um nível de detalhe adequado, considerando os objetivos da análise?                                               | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_7.png?raw=true) |
+
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024*
+
+</center>
+
+### Acompanhamento
+
+Segue abaixo, pela Figura 2, o gráfico referente às respostas da checklist prevista pela tabela 3.
+<center>
+
+**Figura 2** - Gráfico "pizza" Cadastro Antecipado de Aluno
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/analise_tarefa/analise_joyce.png" >
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024*
+
+</center>
+
+#### Problemas encontrados
+
+Abaixo se encontra a lista de problemas encontrados na tarefa avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
+
+- Nenhum problema encontrado.
+
+#### Sugestões de correção
+
+Para a correção da tarefa avaliada, sugerem-se os itens a seguir:
+
+- Nenhuma correção sugerida.
+
+
 ## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
