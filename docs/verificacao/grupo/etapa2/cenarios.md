@@ -49,13 +49,13 @@ Os integrantes responsáveis pela verificação da checklist estão devidamente 
 Abaixo se encontram os resultados da inspeção do artefato tratado pela tabela 2 com a utilização da checklist proposta, seus comentários, o vídeo de inspeção, um gráfico "pizza" que apresentará o percentual de respostas da checklist, uma listagem de problemas encontrados e suas explicações e/ou observações e, por fim, sugestões de correção.
 A cada tópico será apresentado uma análise distinta de cada membro conforme planejado.
 
-### Cenário X - Responsável da tarefa
+### Cenário Cadastrar e acompanhar reclamação no conselho municipal de educação.
 
-Aqui serão dispostos os resultados da verificação do artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "IDENTIFICAÇÃO", proposta pelo membro [NOME](github), feitos pelo integrante [NOME](https://github.com/) conforme o [planejamento da verificação](planejamento.md).
+Aqui serão dispostos os resultados da verificação do artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "Cadastrar e acompanhar reclamação no conselho municipal de educação.", proposta pelo membro [Cainã Freitas](https://github.com/freitasc), feitos pelo integrante [Augusto Duarte](https://github.com/Augcamp) conforme o [planejamento da verificação](planejamento.md).
 
 #### Inspeção
 
-Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "IDENTIFICAÇÃO".
+Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "Cadastrar e acompanhar reclamação no conselho municipal de educação".
 
 <center>
 
@@ -99,7 +99,7 @@ A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio
 
 Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist prevista pela tabela 3.
 
-**Figura 1** - Gráfico "pizza" - Cenários - Cadastrar e acompanhar reclamação no conselho municipal de educação
+**Figura 1** - Gráfico "pizza" - Cenários - Cadastrar e acompanhar reclamação no conselho municipal de educação.
 
 <center>
 
