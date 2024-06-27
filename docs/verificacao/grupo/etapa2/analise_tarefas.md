@@ -139,6 +139,73 @@ Para a correção da tarefa avaliada, sugerem-se os itens a seguir:
 - Adição no HTA alternativas de chegar no mesmo objetivo (methods).
 - Trazer mais detalhamento para o CNM-GOMS.
 
+### Tarefa 02 - Registrar e verificar o panorama de saúde da cidade - Responsável [Lucas Meireles](https://github.com/Katuner)
+
+Aqui serão dispostos os resultados da verificação do artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "Registrar e verificar o panorama de saúde da cidade", proposta pelo membro [Lucas Meireles](https://github.com/Katuner), feitos pelo integrante [Joyce Dionizio](https://github.com/joycejdm) conforme o [planejamento da verificação](planejamento.md).
+
+#### Inspeção
+
+Abaixo se encontra o Vídeo 2, referente à inspeção realizada ao artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "Registrar e verificar o panorama de saúde da cidade".
+
+<center>
+
+**Vídeo 2** - Gravação da inspeção da "Análise de Tarefas" - Registrar e verificar o panorama de saúde da cidade.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BHwo29D1cvg?si=N4j014H2PSDhqPZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Acesso disponível em: https://www.youtube.com/watch?v=BHwo29D1cvg
+
+</center>
+
+#### Checklists
+
+A tabela 4 abaixo apresenta a checklist proposta pelo integrante [Cainã Freitas](https://github.com/freitasc) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Joyce Dionizio](https://github.com/joycejdm).
+
+<center>
+
+**Tabela 4** - Verificação: Acessar o módulo de Contra Cheque e consultar processos do servidor
+
+| ID  | Descrição                                                                                                                                                   | Avaliação  | Observações                  | Fonte                                                                                                                                                                        |
+| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 59  | A análise inicia com a definição dos objetivos dos usuários?                                                                                                | SIM        | -                            | [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_1.png?raw=true) |
+| 60  | Os objetivos são divididos em subobjetivos hierárquicos?                                                                                                    | SIM        | | [Página 178](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_2.png?raw=true) |
+| 61  | Os diagramas HTA contêm entradas, ações e feedback?                                                                                                         | SIM | | [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_3.png?raw=true) |
+| 62  | A HTA considera diferentes formas de atingir um objetivo dependendo das circunstâncias?                                                                     | SIM        | -                            | [Página 180](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_4.png?raw=true) |
+| 63  | A HTA inclui todos os passos conforme Diaper (2003), como objetivos, esboço dos dados em tabelas ou diagramas e identificação de operadores significativos? | SIM        | -                            | [Página 181](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_5.png?raw=true) |
+| 64  | Utilizando o CNM-GOMS, os objetivos do usuário estão claramente definidos no diagrama?                                                                      | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 65  | Utilizando o CNM-GOMS, os operadores no diagrama são bem definidos, internos ou externos?                                                                   | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 66  | Utilizando o CNM-GOMS, os métodos para alcançar os objetivos estão corretamente sequenciados?                                                               | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 67  | Utilizando o CNM-GOMS, o diagrama utiliza um nível de detalhe adequado, considerando os objetivos da análise?                                               | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_7.png?raw=true) |
+
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024*
+
+</center>
+
+### Acompanhamento
+
+Segue abaixo, pela Figura 2, o gráfico referente às respostas da checklist prevista pela tabela 3.
+<center>
+
+**Figura 2** - Gráfico "pizza" Registrar e verificar o panorama de saúde da cidade
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/analise_tarefa/analise_joyce.png" >
+
+*Fonte: [Dionizio, Joyce](https://github.com/joycejdm). 2024*
+
+</center>
+
+#### Problemas encontrados
+
+Abaixo se encontra a lista de problemas encontrados na tarefa avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
+
+- Nenhum problema encontrado.
+
+#### Sugestões de correção
+
+Para a correção da tarefa avaliada, sugerem-se os itens a seguir:
+
+- Nenhuma correção sugerida.
 
 ### Tarefa 02 - Cadastrar e acompanhar uma reclamação na ouvidoria - Responsável [Cainã Freitas](https://github.com/freitasc)
 
@@ -200,7 +267,73 @@ Segue abaixo, pela Figura 2, o gráfico referente às respostas da checklist pre
 #### Sugestões de correção
 - Não há necessidade de sugerir correções. A integridade da tarefa fora cuidadosamente avaliadaa para assegurar que atendam aos padrões esperados pela Checklist.
 
+### Tarefa 03 - Registrar e verificar o panorama de saúde da cidade - Responsável [Lucas Meireles](https://github.com/Katuner)
 
+Aqui serão dispostos os resultados da verificação do artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "Registrar e verificar o panorama de saúde da cidade", proposta pelo membro [Lucas Meireles](https://github.com/Katuner), feitos pelo integrante [Joyce Dionizio](https://github.com/joycejdm) conforme o [planejamento da verificação](planejamento.md).
+
+#### Inspeção
+
+Abaixo se encontra o Vídeo 3, referente à inspeção realizada ao artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "Registrar e verificar o panorama de saúde da cidade".
+
+<center>
+
+**Vídeo 3** - Gravação da inspeção da "Análise de Tarefas" - Registrar e verificar o panorama de saúde da cidade.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BHwo29D1cvg?si=N4j014H2PSDhqPZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Acesso disponível em: https://www.youtube.com/watch?v=BHwo29D1cvg
+
+</center>
+
+#### Checklists
+
+A tabela 5 abaixo apresenta a checklist proposta pelo integrante [Cainã Freitas](https://github.com/freitasc) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Joyce Dionizio](https://github.com/joycejdm).
+
+<center>
+
+**Tabela 5** - Verificação: Acessar o módulo de Contra Cheque e consultar processos do servidor
+
+| ID  | Descrição                                                                                                                                                   | Avaliação  | Observações                  | Fonte                                                                                                                                                                        |
+| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 59  | A análise inicia com a definição dos objetivos dos usuários?                                                                                                | SIM        | -                            | [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_1.png?raw=true) |
+| 60  | Os objetivos são divididos em subobjetivos hierárquicos?                                                                                                    | SIM        | | [Página 178](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_2.png?raw=true) |
+| 61  | Os diagramas HTA contêm entradas, ações e feedback?                                                                                                         | SIM | | [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_3.png?raw=true) |
+| 62  | A HTA considera diferentes formas de atingir um objetivo dependendo das circunstâncias?                                                                     | SIM        | -                            | [Página 180](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_4.png?raw=true) |
+| 63  | A HTA inclui todos os passos conforme Diaper (2003), como objetivos, esboço dos dados em tabelas ou diagramas e identificação de operadores significativos? | SIM        | -                            | [Página 181](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_5.png?raw=true) |
+| 64  | Utilizando o CNM-GOMS, os objetivos do usuário estão claramente definidos no diagrama?                                                                      | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 65  | Utilizando o CNM-GOMS, os operadores no diagrama são bem definidos, internos ou externos?                                                                   | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 66  | Utilizando o CNM-GOMS, os métodos para alcançar os objetivos estão corretamente sequenciados?                                                               | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 67  | Utilizando o CNM-GOMS, o diagrama utiliza um nível de detalhe adequado, considerando os objetivos da análise?                                               | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_7.png?raw=true) |
+
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024*
+
+</center>
+
+### Acompanhamento
+
+Segue abaixo, pela Figura 4, o gráfico referente às respostas da checklist prevista pela tabela 3.
+<center>
+
+**Figura 4** - Gráfico "pizza" Registrar e verificar o panorama de saúde da cidade
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/analise_tarefa/analise_joyce.png" >
+
+*Fonte: [Dionizio, Joyce](https://github.com/joycejdm). 2024*
+
+</center>
+
+#### Problemas encontrados
+
+Abaixo se encontra a lista de problemas encontrados na tarefa avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
+
+- Nenhum problema encontrado.
+
+#### Sugestões de correção
+
+Para a correção da tarefa avaliada, sugerem-se os itens a seguir:
+
+- Nenhuma correção sugerida.
 
 ## Bibliografia
 
@@ -213,4 +346,5 @@ Segue abaixo, pela Figura 2, o gráfico referente às respostas da checklist pre
 | :----: | :--------: | :---------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | `1.0`  | 26/06/2024 | Criação do Documento e adição da inspeção | [Lucas Meireles](https://github.com/Katuner) |   26/06/2023    | [Pedro Lucas](https://github.com/lucasdray) |
 | `1.1`  | 26/06/2023 |           Adição Verificação 01           | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
-| `1.2`  | 26/06/2023 |           Adição Verificação 02           | [Augusto Duarte](https://github.com/Augcamp) |                 |                                             |
+| `1.2`  | 26/06/2023 |           Adição Verificação 02           | [Augusto Duarte](https://github.com/Augcamp) |                 |  
+| `1.3`  | 26/06/2023 |           Adição Verificação 03           | [Joyce Dionizio](https://github.com/joycejdm) |                 |                                            |
