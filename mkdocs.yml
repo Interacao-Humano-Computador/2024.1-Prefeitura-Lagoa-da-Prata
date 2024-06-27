@@ -81,7 +81,7 @@ nav:
         - Planejamento: verificacao/grupo06/etapa5/planejamento.md
         - Verificação:  verificacao/grupo06/etapa5/verificacao.md
     - Verificacão do Grupo 05:
-      - Introdução: verificacao/grupo05/introducao.md
+      - Introdução: verificacao/grupo/introducao.md
       - Etapa 2:
         - Planejamento: verificacao/grupo/etapa2/planejamento.md
         - Verificação Aspectos Éticos: verificacao/grupo/etapa2/aspectos_eticos.md
@@ -96,6 +96,7 @@ nav:
         - Verificação Metas: verificacao/grupo/etapa3/metas-de-usabilidade.md
         - Verificação Caracteristicas: verificacao/grupo/etapa3/caracteristicas-gerais.md
         - Verificação Principios: verificacao/grupo/etapa3/principios-gerais.md
+        - Guia de Estilo: verificacao/grupo/etapa3/guia_estilo.md
       - Etapa 4:
         - Planejamento: verificacao/grupo/etapa4/planejamento.md
         - Verificação Planejamento da Avaliação da Análise de Tarefas: verificacao/grupo/etapa4/planejamento_avali_analise_tarefas copy.md
