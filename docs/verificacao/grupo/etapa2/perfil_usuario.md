@@ -79,8 +79,8 @@ A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio
 
 | ID | Descrição | Avaliação | Observações | Fonte |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 24 | O perfil do usuário identifica claramente quem são os usuários? | Sim | - | [Página 165](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id24.png?raw=true) |
-| 25 | Os objetivos dos usuários estão claramente definidos no perfil? | 6 | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
+| 24 | O perfil do usuário identifica claramente quem são os usuários? | Não | - | [Página 165](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id24.png?raw=true) |
+| 25 | Os objetivos dos usuários estão claramente definidos no perfil? | Não | - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
 | 26 | O perfil inclui características detalhadas dos usuários, como cargo, função, experiência, nível de instrução, atividades principais e faixa etária? | Não |  - | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
 | 27 | Foi conduzido um estudo para coletar os dados dos usuários através de entrevistas ou questionários? | Sim | -  |[Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
 | 28 | Os dados coletados foram agregados em grupos e faixas nos quais os usuários se encaixam, por exemplo, idade, experiência, atitudes e tarefas primárias? | Não |- | [Página 166](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/perfil_usuario/id25.png?raw=true) |
@@ -113,7 +113,7 @@ Abaixo se encontra a lista de problemas encontrados no artefato, utilizando tamb
 - **ID 24** - O perfil do usuário identifica claramente quem são os usuários?
 
 <p>
-    Apesar de sim, existir uma descrição do perfil do usuário a partir da análise dos dados coletados, essa informação não está em destaque no texto ou de acesso rápido e prático.
+    Apesar de existir uma generalização dos usuários, não está presente uma listagem ou identificação dos demais usuários.
 </p>
 
 - **ID 25** - Os objetivos dos usuários estão claramente definidos no perfil?
