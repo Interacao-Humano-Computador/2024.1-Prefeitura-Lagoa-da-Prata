@@ -219,9 +219,9 @@ Abaixo se encontra o Vídeo 3, referente à inspeção realizada ao artefato ["A
 
 **Vídeo 3** - Gravação da inspeção da "Análise de Tarefas" - Cadastrar e acompanhar uma reclamação na ouvidoria.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QR1r5TPynsQ?si=muAbv-wuI9lYAH_d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/egUr1oOzhmM?si=ECq6z7mkLlBAv0cR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Acesso disponível em: https://www.youtube.com/watch?v=QR1r5TPynsQ
+Acesso disponível em: https://youtu.be/egUr1oOzhm
 
 </center>
 
