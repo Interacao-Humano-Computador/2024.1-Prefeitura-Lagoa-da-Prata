@@ -140,6 +140,68 @@ Para a correção da tarefa avaliada, sugerem-se os itens a seguir:
 - Trazer mais detalhamento para o CNM-GOMS.
 
 
+### Tarefa 02 - Cadastrar e acompanhar uma reclamação na ouvidoria - Responsável [Cainã Freitas](https://github.com/freitasc)
+
+Aqui serão dispostos os resultados da verificação do artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "Cadastrar e acompanhar uma reclamação na ouvidoria", proposta pelo membro [Cainã Freitas](https://github.com/freitasc), feitos pelo integrante [Augusto Duarte](https://github.com/Augcamp) conforme o [planejamento da verificação](planejamento.md).
+
+#### Inspeção
+
+Abaixo se encontra o Vídeo 2, referente à inspeção realizada ao artefato ["Análise de Tarefas"](../../../requisitos1/analise-tarefas.md), com direcionamento à tarefa "Cadastrar e acompanhar uma reclamação na ouvidoria".
+
+<center>
+
+**Vídeo 2** - Gravação da inspeção da "Análise de Tarefas" - Cadastrar e acompanhar uma reclamação na ouvidoria.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QR1r5TPynsQ?si=muAbv-wuI9lYAH_d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Acesso disponível em: https://www.youtube.com/watch?v=QR1r5TPynsQ
+
+</center>
+
+#### Checklists
+
+A tabela 4 abaixo apresenta a checklist proposta pelo integrante [Cainã Freitas](https://github.com/freitasc) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Augusto Duarte](https://github.com/Augcamp).
+
+<center>
+
+**Tabela 4** - Verificação: Cadastrar e acompanhar uma reclamação na ouvidoria
+
+| ID  | Descrição                                                                                                                                                   | Avaliação  | Observações                  | Fonte                                                                                                                                                                        |
+| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 59  | A análise inicia com a definição dos objetivos dos usuários?                                                                                                | SIM        | -                            | [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_1.png?raw=true) |
+| 60  | Os objetivos são divididos em subobjetivos hierárquicos?                                                                                                    | SIM        |  | [Página 178](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_2.png?raw=true) |
+| 61  | Os diagramas HTA contêm entradas, ações e feedback?                                                                                                         | SIM        |  | [Página 179](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_3.png?raw=true) |
+| 62  | A HTA considera diferentes formas de atingir um objetivo dependendo das circunstâncias?                                                                     | SIM        | -                            | [Página 180](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_4.png?raw=true) |
+| 63  | A HTA inclui todos os passos conforme Diaper (2003), como objetivos, esboço dos dados em tabelas ou diagramas e identificação de operadores significativos? | SIM        | -                            | [Página 181](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_5.png?raw=true) |
+| 64  | Utilizando o CNM-GOMS, os objetivos do usuário estão claramente definidos no diagrama?                                                                      | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 65  | Utilizando o CNM-GOMS, os operadores no diagrama são bem definidos, internos ou externos?                                                                   | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 66  | Utilizando o CNM-GOMS, os métodos para alcançar os objetivos estão corretamente sequenciados?                                                               | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_6.png?raw=true) |
+| 67  | Utilizando o CNM-GOMS, o diagrama utiliza um nível de detalhe adequado, considerando os objetivos da análise?                                               | SIM        | -                            | [Página 182](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/analise_tarefa/analise_7.png?raw=true) |
+
+
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024*
+</center>
+
+Segue abaixo, pela Figura 2, o gráfico referente às respostas da checklist prevista pela tabela 4.
+<center>
+
+**Figura 2** - Gráfico "pizza" Análise de Tarefas Cadastrar e acompanhar uma reclamação na ouvidoria
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTaq5_YDrwKXkk8PGJonMf_wInPJsRvWc6lYQhOd17IJ4JIjz863nXlC7AYE_QOOJm38_0W-PKtFNhJ/pubchart?oid=1882804721&amp;format=image"></iframe>
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024*
+</center>
+
+#### Problemas encontrados
+
+- Na análise detalhada das tarefas, não foram encontrados quaisquer problemas, as tarefa foi revisada e está em conformidade com os requisitos da Checklist.
+
+#### Sugestões de correção
+- Não há necessidade de sugerir correções. A integridade da tarefa fora cuidadosamente avaliadaa para assegurar que atendam aos padrões esperados pela Checklist.
+
+
+
 ## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -151,3 +213,4 @@ Para a correção da tarefa avaliada, sugerem-se os itens a seguir:
 | :----: | :--------: | :---------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | `1.0`  | 26/06/2024 | Criação do Documento e adição da inspeção | [Lucas Meireles](https://github.com/Katuner) |   26/06/2023    | [Pedro Lucas](https://github.com/lucasdray) |
 | `1.1`  | 26/06/2023 |           Adição Verificação 01           | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
+| `1.2`  | 26/06/2023 |           Adição Verificação 02           | [Augusto Duarte](https://github.com/Augcamp) |                 |                                             |
