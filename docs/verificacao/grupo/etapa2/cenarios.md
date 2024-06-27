@@ -188,6 +188,71 @@ Para a correção da persona avaliada, sugerem-se os itens a seguir:
 
 - Adicionar os elementos característicos faltantes no cenário. Isso inclui assegurar que o ambiente, os atores, os objetivos, o planejamento, as ações, os eventos e a avaliação estejam todos claramente descritos. A inclusão de todos esses elementos garantirá que o cenário seja completo e compreensível, proporcionando uma visão detalhada e precisa da situação.
 
+#### Inspeção
+
+Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "Cadastro Antecipado de Aluno".
+
+<center>
+
+**Vídeo 3** - Gravação da inspeção do "Cadastro Antecipado de Aluno".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HTMJAPjq3XI?si=vTwc32UIQqAZf-Gn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Acesso disponível em: <https://youtu.be/HTMJAPjq3XI>
+
+</center>
+
+#### Checklists
+
+A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio](https://github.com/joycejdm) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Cainã Freitas](https://github.com/freitasc).
+
+<center>
+
+**Tabela 3** - Cheklist Cenários
+
+| ID | Descrição | Avaliação | Observações | Fonte |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 34 | O cenário descreve claramente o ambiente ou contexto? | Sim | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 35 | Os atores estão claramente identificados e suas características pessoais são relevantes para o cenário? | Sim | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 36 | Os objetivos dos atores são claramente definidos? | Sim |  - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 37 | O planejamento das ações dos atores está bem descrito? | Sim | -  |[Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 38 | As ações dos atores são observáveis e bem detalhadas? | Sim |- | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 39 | Os eventos externos e reações do sistema são descritos claramente? | SIM | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 40 | Há uma seção de avaliação que interpreta a situação apresentada no cenário? |  NÃO | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 41 | O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)? | INCOMPLETO | Não possui avaliação | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 42 | O cenário aborda variáveis importantes de uma classe de situações de tarefa? |  SIM | -  |[Página 174](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id48.png?raw=true) |
+| 43 | O cenário considera métodos diferentes para realizar uma tarefa?  |  NÃO | - | [Página 174](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id48.png?raw=true) |
+
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024*
+</center>
+
+
+Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist prevista pela tabela 3.
+
+<center>
+**Figura 07** - Gráfico dos resultados de Checklist
+
+![ID17](../../../assets/images/graficos/grupo5/etapa2/cenario1.png)
+
+*Fonte: FREITAS, Cainã. 2024.*
+</center>
+
+#### Problemas encontrados
+
+### ID 40 - Há uma seção de avaliação que interpreta a situação apresentada no cenário?
+- Não existe.
+
+### ID 41 - O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)?
+- Não existe aba de avaliação.
+
+### ID 43 - O cenário considera métodos diferentes para realizar uma tarefa?
+- Não possui multiplos métodos diferentes.
+
+#### Sugestões de correção
+
+- Explorar "caminhos" diferentes para completar o cenário
+- Adicionar uma aba de avaliação para interpretar a situação apresentada no cenário.
 
 ## Bibliografia
 
