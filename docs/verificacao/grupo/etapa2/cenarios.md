@@ -195,10 +195,9 @@ Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["C
 <center>
 
 **Vídeo 3** - Gravação da inspeção do "Cadastro Antecipado de Aluno".
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ltfZBydNy5o?si=TOsukGyZ-WVsaVlO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HTMJAPjq3XI?si=vTwc32UIQqAZf-Gn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Acesso disponível em: <https://youtu.be/HTMJAPjq3XI>
+Acesso disponível em: <https://www.youtube.com/watch?v=ltfZBydNy5o>
 
 </center>
 
