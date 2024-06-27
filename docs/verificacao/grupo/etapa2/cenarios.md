@@ -61,11 +61,9 @@ Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["C
 
 **Vídeo 1** - Gravação da inspeção do "Cadastrar e acompanhar reclamação no conselho municipal de educação".
 
-<!--
-EMBED
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HTMJAPjq3XI?si=vTwc32UIQqAZf-Gn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Acesso disponível em: <LINK>
+Acesso disponível em: <https://youtu.be/HTMJAPjq3XI>
 
 </center>
 
@@ -129,3 +127,4 @@ Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist pre
 | Versão | Data       | Descrição                                           | Autor(es)                                     | Data de revisão | Revisor(es)                            |
 | :----: | :--------: | :-------------------------------------------------: | :-------------------------------------------: | :--------: | :-----------------------------------------: |
 | `1.0`  | 26/06/2024 | Criação do Documento e adição da inspeção   | [Lucas Meireles](https://github.com/Katuner)  |  26/06/2023   |          |
+| `1.1`  | 26/06/2024 | Adição da inspeção                          | [Augusto Duarte](https://github.com/Augcamp)  |     |          |
