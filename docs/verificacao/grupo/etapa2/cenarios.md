@@ -59,7 +59,7 @@ Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["C
 
 <center>
 
-**Vídeo 1** - Gravação da inspeção do "Cenário" - IDENTIFICAÇÃO.
+**Vídeo 1** - Gravação da inspeção do "Cadastrar e acompanhar reclamação no conselho municipal de educação".
 
 <!--
 EMBED
@@ -71,7 +71,7 @@ Acesso disponível em: <LINK>
 
 #### Checklists
 
-A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio](https://github.com/joycejdm) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [NOME](https://github.com).
+A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio](https://github.com/joycejdm) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Augusto Duarte](https://github.com/Augcamp).
 
 <center>
 
@@ -79,41 +79,46 @@ A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio
 
 
 
-| ID  | Descrição                                                                                                            | Avaliação | Observações            | Fonte         |
-| :-: | -------------------------------------------------------------------------------------------------------------------- | --------- | --------------------- | -------------- |
+| ID | Descrição | Avaliação | Observações | Fonte |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 34 | O cenário descreve claramente o ambiente ou contexto? | Sim | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 35 | Os atores estão claramente identificados e suas características pessoais são relevantes para o cenário? | Sim | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 36 | Os objetivos dos atores são claramente definidos? | Sim |  - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 37 | O planejamento das ações dos atores está bem descrito? | Sim | -  |[Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 38 | As ações dos atores são observáveis e bem detalhadas? | Sim |- | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 39 | Os eventos externos e reações do sistema são descritos claramente? | Sim | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 40 | Há uma seção de avaliação que interpreta a situação apresentada no cenário? |  Sim | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 41 | O cenário inclui todos os elementos característicos necessários (ambiente, atores, objetivos, planejamento, ações, eventos, avaliação)? | Sim | - | [Página 173](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id34.png?raw=true) |
+| 42 | O cenário aborda variáveis importantes de uma classe de situações de tarefa? |  Sim | -  |[Página 174](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id48.png?raw=true) |
+| 43 | O cenário considera métodos diferentes para realizar uma tarefa?  |  Sim | - | [Página 174](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/cenarios/id48.png?raw=true) |
 
 
-*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024*
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024*
 </center>
+
 
 Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist prevista pela tabela 3.
 
-**Figura 1** - Gráfico "pizza" - Cenários - IDENTIFICAÇÃO
+**Figura 1** - Gráfico "pizza" - Cenários - Cadastrar e acompanhar reclamação no conselho municipal de educação
 
 <center>
 
-<img src="imagem">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3TagvDcx_nKF-p8rxdrkSNn0gbn8f7ZVGRbx4Td1WMd1SraCe20p60vK_keGxrJhuxvs_s7An6dLX/pubchart?oid=391216604&amp;format=image"></iframe>
 
-*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024*
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024*
 </center>
 
 #### Problemas encontrados
 
-Abaixo se encontra a lista de problemas encontrados na persona avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
+- Na análise da checklist, nenhum erro ou problema específico foi encontrado na seção dedicada ao cenário de "Cadastrar e acompanhar reclamação no conselho municipal de educação". Todos os itens relacionados a este cenário em especifico foi inspecionado e está em conformidade.
 
-- **ID NN** - PERGUNTA?
-
-<p>
-    OBSERVAÇÃO 
-</p>
 
 #### Sugestões de correção
 
-Para a correção da persona avaliada, sugerem-se os itens a seguir:
+- Não há sugestão de correção, o cenário foi inspecionado e está alinhado com a Checklist. 
 
--
--
--
+
+
 
 ## Bibliografia
 
