@@ -1,1 +1,3 @@
-![](../../../assets/images/verificao/introducao.png)
+# Divisão de responsabilidades
+
+![Divisão](../../../assets/images/verificao/introducao.png)
