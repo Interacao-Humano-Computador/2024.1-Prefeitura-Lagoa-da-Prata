@@ -23,6 +23,21 @@ uso dos seus usuários-alvo" (Rubin, 1994; Rubin e Chisnell, 2008). Com isso foi
 
 - **Grupos focal**: Realizados com os usuários após a simulação de uso, com o objetivo de coletar informações sobre a experiência de uso do protótipo de papel.
 
+## Protótipo de Alta Fidelidade
+
+O protótipo de alta fidelidade foi desenvolvido utilizando a ferramenta Figma, que permite a criação de interfaces interativas e responsivas com um alto nível de detalhamento. O protótipo foi elaborado com base nas diretrizes de design e requisitos do projeto, visando proporcionar uma experiência de usuário intuitiva e eficiente.
+
+O documento pode ser acessado através do link: [Protótipo de Alta Fidelidade](https://www.figma.com/design/zzcDffXN5b4OTbcvuviERJ/Sa%C3%BAde---IHC?node-id=0-1&t=GeXzpbgxV5uwXTig-1)
+
+<center>
+
+**Figura 1** - Protótipo de Alta Fidelidade
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/docs/assets/images/figma_caina.png" >
+
+*Fonte: [FREITAS, cainã](https://github.com/freitasc). 2024.*
+</center>
+
 ## Tarefas 
 
 A Tabela 1 apresenta as tarefas que foram prototipadas e utilizadas durante a avaliação.
