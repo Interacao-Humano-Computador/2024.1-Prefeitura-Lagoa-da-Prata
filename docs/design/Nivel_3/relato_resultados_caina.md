@@ -27,7 +27,7 @@ uso dos seus usuários-alvo" (Rubin, 1994; Rubin e Chisnell, 2008). Com isso foi
 
 O protótipo de alta fidelidade foi desenvolvido utilizando a ferramenta Figma, que permite a criação de interfaces interativas e responsivas com um alto nível de detalhamento. O protótipo foi elaborado com base nas diretrizes de design e requisitos do projeto, visando proporcionar uma experiência de usuário intuitiva e eficiente.
 
-O documento pode ser acessado através do link: [Protótipo de Alta Fidelidade](https://www.figma.com/design/zzcDffXN5b4OTbcvuviERJ/Sa%C3%BAde---IHC?node-id=0-1&t=GeXzpbgxV5uwXTig-1)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FzzcDffXN5b4OTbcvuviERJ%2FSa%25C3%25BAde---IHC%3Fnode-id%3D0-1%26t%3DGOg0bHzUASmlvlap-1" allowfullscreen></iframe>
 
 <center>
 
