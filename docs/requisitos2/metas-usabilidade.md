@@ -110,8 +110,9 @@ pode enfatizar a facilidade de aprendizado e a ajuda contextual.
 Então, é importante conhecermos as necessidades dos usuários e estabelecermos quais critérios de usabilidade
 devem ser priorizados no sistema em questão. Com base na análise, foi estabelicido as metas que devem ser focadas para melhorar a usabilidade do site da Prefeitura Municipal de Lagoa da Prata, sem que haja um grande retrabalho em suas funcionalidades e aparência. 
 Também adotaremos a metodologia de avaliação heurística criando 2 perfis de usuário: 
- - Usuário com pouca ou nenhuma familiaridade com computadores e tecnólogias e que possui dificuldades para acessar.
- - Usuário comum que possui um conhecimento médio de acesso e familiaridades com acessos a sites e computadores.
+ 
+- Usuário com pouca ou nenhuma familiaridade com computadores e tecnólogias e que possui dificuldades para acessar.
+- Usuário comum que possui um conhecimento médio de acesso e familiaridades com acessos a sites e computadores.
 
  Com isso foi feita a seguinte tabela com resultados:
 
