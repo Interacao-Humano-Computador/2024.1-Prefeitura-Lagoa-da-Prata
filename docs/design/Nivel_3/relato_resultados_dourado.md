@@ -26,6 +26,84 @@ uso dos seus usuários-alvo" (Rubin, 1994; Rubin e Chisnell, 2008). Com isso foi
 ## Tarefa
 A tarefa que foi testada e que será relatada nesse documento é a tarefa de "Solicitação de vistoria de local com água parada" descritar melhor na [Análise Hierárquica de Tarefas 5](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos1/analise-tarefas/#analise-da-tarefa-hta-5-solicitar-vistoria-de-local-com-agua-parada) e [Análise de Tarefas CNM-GOMS 8](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos1/analise-tarefas/#analise-da-tarefa-cnm-goms-8-solicitar-vistoria-de-agua-parada-fonte-dourado-pedro-lucas-2024).
 
+## Protótipo de Alta Fidelidade
+Abaixo se encontra as figuras com relação ao protótipo de alta fidelidade realizado para essa tarefa na ferramente Figma[4] e o script utilizado no teste piloto e entrevistas.
+
+<center>
+
+**Figura 01** - Script da tarefa Solicitação de vistória de água parada
+
+![](../../assets/images/prototipo_altafidelidade/dourado/script_dourado.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FzzcDffXN5b4OTbcvuviERJ%2FSa%25C3%25BAde---IHC%3Fnode-id%3D15-510%26t%3DSOQrhTkCKCfLWDa9-1" allowfullscreen></iframe> 
+
+</center>
+
+A seguir se encontra as imagens separadas de cada tela do protótipo de alta fidelidade sendo elas classificadas de acordo com os números de cada atividade no script.
+
+### 1 - Realizar login
+Abaixo se encontra a tela homepage do protótipo e que a atividade seria de realizar o login.
+
+<center>
+
+**Figura 02** - Homepage
+
+![](../../assets/images/prototipo_altafidelidade/dourado/01.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+### 2.1 - Acessar página de solicitação pela busca
+Abaixo se encontra a tela do protótipo após realizar a busca.
+
+<center>
+
+**Figura 03** - Acessar página de solicitação pela busca
+
+![](../../assets/images/prototipo_altafidelidade/dourado/02.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+### 2.2 - Acessar página de solicitação pelo menu hamburguer
+Abaixo se encontra a tela do protótipo após passar o mouse em cima do menu hamburguer.
+
+<center>
+
+**Figura 04** - Acessar página de solicitação pelo menu hamburguer
+
+![](../../assets/images/prototipo_altafidelidade/dourado/03.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+
+</center>
+
+### 2.3 - Acessar página de solicitação pelo "Serviços para cidadão"
+Abaixo se encontra a tela do protótipo após clicar no botão de "Serviços para cidadão na homepage.
+
+<center>
+
+**Figura 05** - Acessar página de solicitação pelo menu hamburguer
+
+![](../../assets/images/prototipo_altafidelidade/dourado/04.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+### 3.1 e 3.2 - Acessar página de solicitação pelo "Serviços para cidadão"
+Abaixo se encontra a tela do protótipo após clicar no botão de "Serviços para cidadão na homepage.
+
+<center>
+
+**Figura 06** - Acessar página de solicitação pelo menu hamburguer
+
+![](../../assets/images/prototipo_altafidelidade/dourado/04.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+
+</center>
+
 ## Teste Piloto
 Após concluir o planejamento da avaliação e antes de realmente fazer os testes de usabilidades, entrevista e questionários aos usuários-alvo foi realizado o teste piloto do protótipo de alta fidelidade da tárefa descrita neste artefato, como foi pontuado no livro Interação Humano Computador . Sendo o mesmo realizado pelo integrante do grupo 05 [Pedro Lucas](https://github.com/lucasdray) como entrevistador e a integrante do grupo [Joyce Dionizio](https://github.com/joycejdm.png) como entrevistada/usuário-alvo. Logo abaixo se encontra a tabela 01 contendo os dados com relação a gravação do teste piloto.
 
@@ -98,16 +176,19 @@ Por não encontrar nenhum problema na utilização do protótipo de alta fidelid
 
 ## Bibliografia
 
-[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
-[2] Dumas, J. S., & Redish, J. C. (1999). A practical guide to usability testing. Intellect Books.
+> [2] Dumas, J. S., & Redish, J. C. (1999). A practical guide to usability testing. Intellect Books.
 
-[3] NIELSEN, Jakob. Usability Engineering. Academic Press, 1993.
+> [3] NIELSEN, Jakob. Usability Engineering. Academic Press, 1993.
+
+> [4] FIGMA. Disponivel em: https://www.figma.com Acesso em: 03 de julho de 2024.
 
 
 
 ## Histórico de Versões
-|    Data    | Versão |              Descrição              |                      Autor(es)                      | Data de revisão | Revisor(es) |
-| :--------: | :----: | :---------------------------------: | :-------------------------------------------------: | :-------------: | :---------: |
-| 03/07/2024 | `1.0`  | Criação do documento e Teste piloto | [Pedro Lucas Dourado](https://github.com/lucasdray) |                 |             |
+|    Data    | Versão |               Descrição                |                  Autor(es)                  | Data de revisão | Revisor(es) |
+| :--------: | :----: | :------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
+| 03/07/2024 | `1.0`  |  Criação do documento e Teste piloto   | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 03/07/2024 | `1.1`  | Adição de algumas imagens do protótipo | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
