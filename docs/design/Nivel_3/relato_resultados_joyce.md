@@ -360,6 +360,17 @@ A seguir se encontra a tabela 15 com as perguntas feitas para o entrevistador e 
 | 5   | Quantas vezes o usuário consultaram a ajuda para realizar uma ação?                        | Aberta           | O usuário não precisou consultar a ajuda em nenhum momento.         |
 
 
+## Considerações finais
+
+Com base na análise dos relatos dos entrevistados o protótipo conseguiu atender todas as espectativas de usabilidade.
+
+## Reprojeto
+
+Não vai ser necessário corrigir ou alterar nada no reprojeto.
+
+
+
+
 ## Histórico de Versões
 |    Data    | Versão |                 Descrição                 |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :---------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
