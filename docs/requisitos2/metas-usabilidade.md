@@ -98,7 +98,15 @@ Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
 - Satisfação: O site prioriza os criterios de usabilidade com base na necessidade do usuario?
     -  Não, o site está mais centrado em fornecer informações institucionais, como serviços oferecidos, notícias da cidade e comunicados oficiais, do que em personalizar a experiência do usuário.
 
+<center>
 
+**Figura 6** - Serviços oferecidos, notícias e, informações
+
+![](../../assets/images/sitePrefeitura/memorizacao.png)
+
+Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 04/07/2024
+
+</center>
 
 ## Conclusão
 

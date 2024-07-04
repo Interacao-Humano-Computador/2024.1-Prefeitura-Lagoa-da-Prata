@@ -24,17 +24,38 @@ O site da Prefeitura Municipal de Lagoa da Prata pode ser acessada pelo [link](h
 - Embora o site esteja funcionando bem na versão mobile, caso o usuário opte por acessar dessa forma vai ter sua experiência prejudicada, uma vez que existe muito redirecionamento para abas externas as quais não estão otimizadas para o uso na versão mobile.
 
 
+## Características Negativas da Plataforma
+
+- Excesso de funcionalidades e abas, resultando em uma curva de aprendizado mais íngreme para o usuário.
+- Redirecionamento para abas externas em algumas funcionalidades complexas e que não possui botão de retorno para a página princial, o que pode acabar causando desorientação no usuário prejudicando sua experiência. Como por exemplo ao tentar acessar o portal de transparência, fazer cadastramento escolar ou entrar em contato com a prefeitura, que redirecionam para links externos, com cores e design totalmente diferentes dos encotrados no site da Prefeitura. 
+- Embora o site esteja funcionando bem na versão mobile, caso o usuário opte por acessar dessa forma vai ter sua experiência prejudicada, uma vez que existe muito redirecionamento para abas externas as quais não estão otimizadas para o uso na versão mobile.
+
+
+## Intervenção 
+
+Ao analisar as características do site da Prefeitura Municipal de Lagoa da Prata, fica evidente a importância de um artefato de intervenção bem planejado para melhorar a experiência do usuário. Embora o site apresente várias qualidades positivas, como compatibilidade com diferentes navegadores, design responsivo e alta acessibilidade, também enfrenta desafios que afetam a usabilidade e a navegabilidade. A presença de excesso de funcionalidades e redirecionamentos para abas externas sem retorno claro à página principal.
+
+Abaixo se encontram algumas ideias de intervenção para melhorar a experiência do usuário: 
+
+- Reestruturação da Navegação, como por exemplo, simplificar o menu principal e reduzir o número de subcategorias e abas para facilitar a localização de inforamações. Mas, um ponto negativo dessa reestruturação seria que pode inicialmente confundir usuários acostumados com a estrutura anterior, exigindo um período de adaptação.
+- Redução de Redirecionamento Externos, como por exemplo, minimizar o uso do redirecionamento para páginas externas, principalmente para as funcionalidades como o portal de transparência e formulários de contato com a prefeitura. Um dos pontos negativos dessa intervenção seria que, caso, esses redirecionamentos externos estejam fora de controle direto da prefeitura, seria necessário cooperação adicional de terceiros. 
+  
+Embora as intervenções visem melhorar a experiência do usuário, é essencial considerar cuidadosamente esses pontos negativos potenciais durante o planejamento.
+
+
 ## Tecnologias Utilizadas e Hardware necessário
 
 Pela falta de documentação do site para encontrar as tecnologias que foram utilizadas, utilizamos ferramentas como a extensão do google "Wappalyzer" e o view-source do navegador, encontrando os listados a seguir:
 
+<center>
 
-<div style="text-align:center;">
-  <p>Figura 1 - Tecnologias via Wappalyzer. <br>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/tecnologias.png" alt="Tecnologias Wappalyzer"> <br>
-  Fonte: DOURADO, Pedro Lucas. 2024.
-  </p>
-</div>
+**Figura 1** - Tecnologias via Wappalyzer.
+
+![](../../assets/images/sitePrefeitura/tecnologias.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+</center>
 
 Com isso percebe-se que para acessar o site da Prefeitura Munincipal de Lagoa da Prata os requisitos de hardware são basicos.
 
@@ -65,3 +86,4 @@ Caso o acesso seja optado por um Dispositivo móvel (Smarthphone ou Tablet):
 | :--------: | :----: | :-------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 13/05/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 03/06/2024 | `2.0`  | Correções pós entrega artefato 3 | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                             |
+| 04/07/2024 | `3.0`  | Correção e refatoração pós verificação | [Augusto Duarte](https://github.com/Augcamp)  |                 |                                             |
