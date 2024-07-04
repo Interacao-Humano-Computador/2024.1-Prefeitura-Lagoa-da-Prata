@@ -382,9 +382,9 @@ Os elementos do Prototipo de Alta Fidelidade podem ser observados no projeto ela
 
 <center>
 
-**Figura 1** - Prototipo de Alta Fidelidade
+**Figura 2** - Script
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FzzcDffXN5b4OTbcvuviERJ%2FSa%25C3%25BAde---IHC%3Fnode-id%3D109-622%26t%3DA0QiQt8kF7sS1tH6-1" allowfullscreen></iframe>
+![](../../assets/images/script_augusto.jpeg)
 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 
