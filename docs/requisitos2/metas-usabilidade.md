@@ -20,46 +20,64 @@ Através da análise de Barbosa (2021) sobre o trabalho de Nielsen (1999), é po
 
 - Memorização: Fortemente associado à aprendizagem, refere-se à facilidade com que os usuários conseguem lembrar como utilizar o site após terem tido alguma experiência no sistema.
 
+- Satisfação: Refere-se à avaliação subjetiva do impacto emocional e dos sentimentos que o uso do site pode causar nos usuários. É uma medida qualitativa que vai além da eficiência ou funcionalidade técnica.
+
 ## Metas a serem conquistadas pelo nosso projeto
 Para definir as metas que desejamos alcançar foram levantadas as seguintes questões sobre cada meta:
 
 - Eficácia: O sistema atende às funções à qual foi projetado?
     - O site fornece diversas formas de informações públicas, como lista de espera de creches, lista de espera para o SUS, consulta de editais, itens relacionados à prestação de serviços, itens relacionados à transparência de gastos, entre outros. Há porém de se analisar as diversas partes do sistema, que se apresenta para diversas funcionalidades à diferentes áreas, como cidadão, empresa, funcionários, etc. O site avaliado apresenta algumas páginas e funcionalidades que estão incompletas ou não aparentam ter sido implementadas até então, como é o caso de uma listagem de prefeitos, de informações do prefeito atual, de eventos atuais, entre outros. Sendo demonstrado na Figura 1 a seguir:
-<div style="text-align:center;">
-  <p>Figura 1 - Login em Guia Externa <br>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/eficacia.png" alt="Tecnologias Wappalyzer"> <br>
-  Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
-  </p>
-</div>
+
+<center>
+
+**Figura 1** - Login em Guia Externa
+
+![](../../assets/images/sitePrefeitura/eficacia.png)
+
+Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
+
+</center>
+
 - Eficiência: Quanto tempo leva para realizar uma tarefa específica?
     - A maioria das atividades no site é realizada em poucas interações, como consultas de editais e acesso à listas de espera, mas algumas atividades levam a links externos que exigem login ou preenchimento de formulários, comumente visto em áreas para empresas ou verificações de impostos pelo cidadão. Sendo demonstrado na Figura 2 a seguir:
 
-<div style="text-align:center;">
-  <p>Figura 2 - Login em Guia Externa <br>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/eficiencia.png" alt="Tecnologias Wappalyzer"> <br>
-  Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
-  </p>
-</div>
+<center>
+
+**Figura 2** - Login em Guia Externa
+
+![](../../assets/images/sitePrefeitura/eficiencia.png)
+
+Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
+
+</center>
 
 - Segurança: O sistema evita erros ou ações indesejáveis? Ele permite recuperar ações anteriores?
     - O site não oferece alternativas de segurança para evitar erros, especialmente para atividades que levam a guias externas. Como mostra a Figura 3 a seguir:
 
-<div style="text-align:center;">
-  <p>Figura 3 - Guia Externa sem retorno <br>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/seguranca.png" alt="Tecnologias Wappalyzer"> <br>
-  Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
-  </p>
-</div>
+
+<center>
+
+**Figura 3** - Guia Externa sem retorno
+
+![](../../assets/images/sitePrefeitura/seguranca.png)
+
+Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
+
+</center>
+
 
 - Utilidade: O sistema oferece a funcionalidade certa no contexto certo?
     - O site possui seções de acesso rápido para atividades específicas, porém também há ocorrências em que os usuários precisam navegar por locais gerais, como "Serviços de Cidadão", para encontrar atividades específicas ou ainda pelo ícone de menu geral e que poderiam estar disponibilizadas na página principal de uma forma direta como "Inscrições Habita Lagoa" ou "Solicitar ITBI On-line". Como mostra na figura 4 a seguir:
 
-<div style="text-align:center;">
-  <p>Figura 4 - Atividades Específicas de Díficil localização <br>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/utilidade.png" alt="Tecnologias Wappalyzer"> <br>
-  Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
-  </p>
-</div>
+<center>
+
+**Figura 4** - Atividades Específicas de Díficil localização
+
+![](../../assets/images/sitePrefeitura/utilidade.png)
+
+Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
+
+</center>
 
 - Aprendizagem:  É fácil aprender a usar o sistema?
     - O site oferece uma experiência de aprendizado intuitiva e os dados estão organizados de forma que facilitem a utilização de determinadas funções, porém existem funções e informações que estão "escondidas" pelo site e exigem mais atenção à detalhes e movimentação do usuário por outras páginas para encontrá-las.
@@ -67,17 +85,30 @@ Para definir as metas que desejamos alcançar foram levantadas as seguintes ques
 - Memorização: Que suporte é oferecido para auxiliar o usuário a realizar tarefas, especialmente as não recorrentes?
     -  Não é oferecido nenhum guia ou suporte ao usuário, logo o usuário depende inicialmente de que nenhuma mudança seja feita na página inicial do sistema levando a uma memorização das funcionalidades requiridas e também corre o risco de perder um acesso rápido à alguma funcionalidade caso o site remova do destaque aquilo que o usuário estava buscando, como é o caso de notícias mostrado na Figura 5 abaixo.
 
-<div style="text-align:center;">
-  <p>Figura 5 - Funcionalidade de díficil localização <br>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/sitePrefeitura/memorizacao.png" alt="Tecnologias Wappalyzer"> <br>
-  Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
-  </p>
-</div>
+<center>
+
+**Figura 5** - Funcionalidade de díficil localização
+
+![](../../assets/images/sitePrefeitura/memorizacao.png)
+
+Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
+
+</center>
+
+- Satisfação: O site prioriza os criterios de usabilidade com base na necessidade do usuario?
+    -  Não, o site está mais centrado em fornecer informações institucionais, como serviços oferecidos, notícias da cidade e comunicados oficiais, do que em personalizar a experiência do usuário.
 
 
 
 ## Conclusão
-Com base na análise, foi estabelicido as metas que devem ser focadas para melhorar a usabilidade do site da Prefeitura Municipal de Lagoa da Prata, sem que haja um grande retrabalho em suas funcionalidades e aparência. 
+
+A complexidade de oferecer um sistema que seja igualmente eficiente, fácil de aprender e satisfatório 
+para diversos tipos de usuários é um desafio, por  exemplo, um sistema destinado a usuários experientes pode 
+privilegiar a eficiência e a velocidade de execução das tarefas, enquanto um sistema voltado para iniciantes 
+pode enfatizar a facilidade de aprendizado e a ajuda contextual.
+
+Então, é importante conhecermos as necessidades dos usuários e estabelecermos quais critérios de usabilidade
+devem ser priorizados no sistema em questão. Com base na análise, foi estabelicido as metas que devem ser focadas para melhorar a usabilidade do site da Prefeitura Municipal de Lagoa da Prata, sem que haja um grande retrabalho em suas funcionalidades e aparência. 
 Também adotaremos a metodologia de avaliação heurística criando 2 perfis de usuário: 
  - Usuário com pouca ou nenhuma familiaridade com computadores e tecnólogias e que possui dificuldades para acessar.
  - Usuário comum que possui um conhecimento médio de acesso e familiaridades com acessos a sites e computadores.
@@ -90,6 +121,7 @@ Também adotaremos a metodologia de avaliação heurística criando 2 perfis de 
 | Segurança           | Garantir medidas que permite ao usuário reverter ações indesejadas facilmente, tendo opções de confirmação a fim de evitar que o usuário faça alguma ação ou interação que não estava planejado fazer |
 | Utilidade           | O usuário deve receber feedback visual do que está acontecendo em tempo real para confirmar suas ações e que seja de facil localização                                                                |
 | Aprendizagem        | Garantir que a aprendizagem da utilização do site seja intuitiva e facil assim como um guia rapido de como utilizar para que usuários com pouca ou nenhuma experiência não sejam prejudicados |
+| Satisfação          | Garantir que a experiência de uso do sistema seja positiva e satisfatória, levando em consideração aspectos emocionais e subjetivos além da funcionalidade pura.  |
 
 
 ## Referências Bibliográficas
@@ -108,4 +140,5 @@ Também adotaremos a metodologia de avaliação heurística criando 2 perfis de 
 | 11/05/2024 | `1.2`  | Definição das Metas de Usabilidade | [Joyce Dionizio](https://github.com/joycejdm) |   11/05/2024    | [Lucas Meireles](https://github.com/Katuner)  |
 | 11/05/2024 | `1.3`  |   Ajuste de referencial e nomes    | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Augusto Duarte ](https://github.com/Augcamp) |
 | 11/05/2024 | `1.4`  |    Ajuste de escrita e de metas    | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Augusto Duarte ](https://github.com/Augcamp) |
-| 03/06/2024 | `2.0`  |  Correção pós entrega artefato 3   | [Pedro Lucas](https://github.com/lucasdray) |                 |                                               |
+| 03/06/2024 | `2.0`  |  Correção pós entrega artefato 3   | [Pedro Lucas](https://github.com/lucasdray)   |    04/07/2024   | [Augusto Duarte ](https://github.com/Augcamp) |
+| 04/07/2024 | `3.0`  |  Correção e refatoração pós verificação | [Augusto Duarte](https://github.com/Augcamp) |                 |                                               |
