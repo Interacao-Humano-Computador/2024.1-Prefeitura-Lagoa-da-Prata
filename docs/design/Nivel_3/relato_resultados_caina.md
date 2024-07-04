@@ -159,9 +159,12 @@ O entrevistador também deve fazer perguntas para avaliar a experiência do usu�
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 </center>
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aUkUbgvRGKM?si=VCNP9bC7d07Wy_i0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Vídeo 2: Primeira Entrevista
+</center>
+
 <center>
 
 **Tabela 6** - Perguntas respondidas pelo entrevistado na 1º entrevista 
@@ -206,9 +209,12 @@ Vídeo 2: Primeira Entrevista
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 </center>
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s8FfP9SZl-o?si=05NgazhvGl9gb1cE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Vídeo 3: Segunda Entrevista
+</center>
+
 <center>
 
 **Tabela 9** - Perguntas respondidas pelo entrevistado na 2º entrevista 
@@ -252,9 +258,12 @@ Vídeo 3: Segunda Entrevista
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 </center>
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S-diAWXk63U?si=WQdREEhaB6d_QgnL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Vídeo 4: Terceira Entrevista
+</center>
+
 <center>
 
 **Tabela 12** - Perguntas respondidas pelo entrevistado na 3º entrevista 
@@ -298,7 +307,9 @@ Vídeo 4: Terceira Entrevista
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 </center>
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S-diAWXk63U?si=WQdREEhaB6d_QgnL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 Vídeo 5: Quarta Entrevista
 <center>
@@ -344,7 +355,9 @@ Vídeo 5: Quarta Entrevista
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 </center>
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Da5iONyFNmg?si=Kq-7uUag5vJicMZz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 Vídeo 6: Quinta Entrevista
 <center>
