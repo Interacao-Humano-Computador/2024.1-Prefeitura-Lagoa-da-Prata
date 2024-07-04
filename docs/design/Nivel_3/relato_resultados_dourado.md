@@ -54,6 +54,8 @@ Abaixo na figura 02, se encontra a tela homepage do protótipo e que a atividade
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
+</center>
+
 ### 2.1 - Acessar página de solicitação pela busca
 Abaixo se encontra a tela do protótipo após realizar a busca encontrado na figura 03 abaixo.
 
@@ -64,6 +66,8 @@ Abaixo se encontra a tela do protótipo após realizar a busca encontrado na fig
 ![](../../assets/images/prototipo_altafidelidade/dourado/02.png)
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+</center>
 
 ### 2.2 - Acessar página de solicitação pelo menu hamburguer
 Abaixo se encontra a tela do protótipo após passar o mouse em cima do menu hamburguer encontrado na figura 04 a seguir.
@@ -89,6 +93,8 @@ Abaixo se encontra a tela do protótipo após clicar no botão de "Serviços par
 ![](../../assets/images/prototipo_altafidelidade/dourado/04.png)
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+</center>
 
 ### 3.1 e 3.2 - Acessar página de solicitação pelo "Serviços para cidadão"
 Abaixo se encontra a tela do protótipo de informação da solicitação na figura 06.
@@ -209,14 +215,14 @@ Logo após ser feita a gravação do teste piloto e por ter a falta de um avalia
 ### Considerações Finais 
 Por não encontrar nenhum problema na utilização do protótipo de alta fidelidade considera-se que o protótipo esteja pronto para a realização do teste de usabilidade com usuários-alvos os quais estão sendo relatados a seguir.
 
+## Teste de Usabilidade 01 - Felipe Veríssimo
 
 
 
 
 ## Bibliografia
 
-> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
-Interação Humano-Computador e Experiência do usuário. Autopublicação.
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 > [2] Dumas, J. S., & Redish, J. C. (1999). A practical guide to usability testing. Intellect Books.
 
