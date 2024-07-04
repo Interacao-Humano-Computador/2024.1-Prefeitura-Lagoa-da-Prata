@@ -33,7 +33,7 @@ O protótipo de alta fidelidade foi desenvolvido utilizando a ferramenta Figma, 
 
 **Figura 1** - Protótipo de Alta Fidelidade
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/docs/assets/images/figma_caina.png" >
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/figma_caina.png" >
 
 *Fonte: [FREITAS, cainã](https://github.com/freitasc). 2024.*
 </center>
