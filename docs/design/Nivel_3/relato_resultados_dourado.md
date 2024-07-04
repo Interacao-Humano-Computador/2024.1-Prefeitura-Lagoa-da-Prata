@@ -140,7 +140,7 @@ Abaixo se encontra a figura 09 referente a página de confirmação que a solici
 
 <center>
 
-**Figura 08** - Página confirmação
+**Figura 09** - Página confirmação
 
 ![](../../assets/images/prototipo_altafidelidade/dourado/08.png)
 
@@ -215,9 +215,39 @@ Logo após ser feita a gravação do teste piloto e por ter a falta de um avalia
 ### Considerações Finais 
 Por não encontrar nenhum problema na utilização do protótipo de alta fidelidade considera-se que o protótipo esteja pronto para a realização do teste de usabilidade com usuários-alvos os quais estão sendo relatados a seguir.
 
-## Teste de Usabilidade 01 - Felipe Veríssimo
+## Teste de Usabilidades
+A seguir será destrinchado melhor como foi feita a seleção dos participantes como os locais e datas que ocorreram o teste de usabilidade assim como as ferramentas utilizadas e uma breve descrição dos testes.
+
+### Seleção dos Participantes, Local e Datas
+O número de participantes foram 6, sendo 5 entrevistados e 1 entrevistado. A escolha desses usuários foi feita baseando-se nas características definidas no [perfil do usuário](../../requisitos1/perfil-do-usuario.md), sendo elas: idade entre 20 e 40 anos, experiência e afinidade com tecnologias e tarefas primárias de reportar um local com água parada. Como dito anteriormente a escolha da quantidade de usuários que participariam das entrevistas se deu por conta da recomendação de Dumas e Redish[2] de usar entre 5 e 12 usuários e da recomendação de Nielsen[3] que diz que 5 usuários já é o suficiente para detectar 85% dos problemas.
 
 
+Abaixo se encontra a tabela 05 que mostra o cronograma da execução das entrevistas
+
+**Tabela 05** - Cronograma executado de entrevistas
+
+| Ordem | Data       | Horário de início e fim | Local                 | Entrevistador                                     | Entrevistado     | Tarefa                                            |
+| ----- | ---------- | ----------------------- | --------------------- | --------------------------------------------------- | ---------------- | ------------------------------------------------- |
+| 1°    | 03/07/2024 | 16:00 - 16:06           | FGA - LDTEA, sala 308 | [Pedro Lucas Dourado](https://github.com/lucasdray) | Felipe Verissimo | Solicitação de vistoria de local com água parada. |
+| 2°    | 03/07/2024 | 16:09 - 16:18           | FGA - LDTEA, sala 308 | [Pedro Lucas Dourado](https://github.com/lucasdray) | Felipe Luís      | Solicitação de vistoria de local com água parada. |
+| 3°    | 03/07/2024 | 16:45 - 16:54           | FGA - LDTEA, sala 308 | [Pedro Lucas Dourado](https://github.com/lucasdray) | Igor             | Solicitação de vistoria de local com água parada. |
+| 4°    | 03/07/2024 | 17:04 - 17:09           | FGA - LDTEA, sala 308 | [Pedro Lucas Dourado](https://github.com/lucasdray) | Vinicius         | Solicitação de vistoria de local com água parada. |
+| 5°    | 03/07/2024 | 17:13 - 17:17           | FGA - LDTEA, sala 308 | [Pedro Lucas Dourado](https://github.com/lucasdray) | João Vitor       | Solicitação de vistoria de local com água parada. |
+
+ *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+Por conta de não haver avaliadores disponíveis para fazer a avaliação enquanto a entrevista e gravação acontecia, a mesma foi realizada posterior a gravação pelo entrevistador.
+
+### Ferramentas utilizadas
+As seguintes ferramentas foram utilizadas durante as gravações do teste de usabilidade:
+
+- Um notebook com webcam e microfone;
+- Um papel contendo o script a ser seguido pelos usuários;
+- Um smartphone contendo as tarefas e perguntas a serem respondidas após a entrevista.
+
+### Descrição dos Testes
+Antes de se iniciar os teste foi apresentado ao usuário-alvo um script contendo as ações e opções que o entrevistado iria realizar no protótipo. Assim como foi instruído como proceder em relação as abstrações utilizadas na parte de realizar login, preencher formulário e realizar o reCaptcha.
+O teste em si inicia com apresentação do integrante do grupo, a leitura rápida do [termo de consetimento](../../requisitos1/aspectos-eticos.md#tcle-de-avaliação) e verbalização do usuário em concordar com o mesmo. Foi instruído que o usuário relatasse tudo que estava fazendo e pensando utilizando a técnica de think aloud [5] e logo em seguida o teste começou na "Homepage" do protótipo realizando a tarefa de "Solicitar vistoria de local com água parada".
 
 
 ## Planejamento do Reprojeto
@@ -233,6 +263,8 @@ Como a cada entrevista e teste de usabilidade os defeitos que foram encontrados 
 
 > [4] FIGMA. Disponivel em: https://www.figma.com Acesso em: 03 de julho de 2024.
 
+> [5] Ericsson, K. Anders e Simon, Herbert A. (1993). Protocol Analysis - Rev’d Edition: Verbal Reports as Data. Bradford Books, Cambridge, Mass, revised edition edition.
+
 
 
 ## Histórico de Versões
@@ -241,3 +273,4 @@ Como a cada entrevista e teste de usabilidade os defeitos que foram encontrados 
 | 03/07/2024 | `1.0`  |  Criação do documento e Teste piloto   | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
 | 03/07/2024 | `1.1`  | Adição de algumas imagens do protótipo | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
 | 03/07/2024 | `1.2`  |            Adição Reprojeto            | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 03/07/2024 | `1.3`  |  Melhora na estruturação do documento  | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
