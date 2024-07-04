@@ -23,6 +23,25 @@ uso dos seus usuários-alvo" (Rubin, 1994; Rubin e Chisnell, 2008). Com isso foi
 
 - **Grupos focal**: Realizados com os usuários após a simulação de uso, com o objetivo de coletar informações sobre a experiência de uso do protótipo de papel.
 
+## Protótipo de Alta Fidelidade
+
+A seguir está presente o protótipo de Alta Fidelidade da Tarefa de "Cadastro Antecipado de Aluno";
+
+<center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FsiSmffmnFtmJUbMw1nnMNn%2FUntitled%3Fnode-id%3D0-1%26t%3DPoNItmo4Nar2Hi1V-1" allowfullscreen></iframe>
+
+</center>
+
+## Script
+
+Abaixo está o script utilizado na avaliação do protótipo de alta fidelidade.
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/script_joyce.jpeg" >
+
+</center>
 
 ## Tarefas 
 
@@ -343,3 +362,4 @@ A seguir se encontra a tabela 15 com as perguntas feitas para o entrevistador e 
 | :--------: | :----: | :---------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 03/07/2024 | `1.0`  |      Criação do Documento     | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
 | 03/07/2024 | `1.2`  |      Adição das Entrevistas    | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
+| 03/07/2024 | `1.3`  |      Adição Protótipo    | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
