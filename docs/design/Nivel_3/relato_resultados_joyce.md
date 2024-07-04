@@ -80,7 +80,7 @@ A Tabela 3 apresenta a ordem de realização das entrevistas, com data, horário
 
 ## Desenvolvimento da Avaliação 
 
-Foram realizadas 13 simulações de uso, cada uma com 2 entrevistadores. O avaliador responsável por observar, deve ficar atento com os seguintes aspectos que foram trazidos no [Planejamento da avaliação do Protótipo de Alta Fidelidade](Pl_avaliacao_prototipo.md):
+Foram realizadas simulações de uso, cada uma com 1 entrevistador. O avaliador responsável por observar, deve ficar atento com os seguintes aspectos que foram trazidos no [Planejamento da avaliação do Protótipo de Alta Fidelidade](Pl_avaliacao_prototipo.md):
 
 - Número de erros do usuário
 - Páginas que causaram confusão
@@ -108,7 +108,7 @@ O entrevistador também deve fazer perguntas para avaliar a experiência do usu�
 
 <center>
 
-**Tabela 5** - Perguntas do entrevistador
+**Tabela 5** - Perguntas para o entrevistador
 
 | ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta |
 | --- | -------------------------------------------------------------------------------------------- | ---------------- | ------------- |
@@ -123,9 +123,219 @@ O entrevistador também deve fazer perguntas para avaliar a experiência do usu�
 </center>
 
 
-### Primeira Entrevista
+### Entrevista do Protótipo de Alta Fidelidade - Laura
+
+#### Gravação da Entrevista com o usuário 
+
+A seguir se encontra o vídeo 2 com a entrevista referente ao Protótipo de Alta Fidelidade com a entrevistada Laura:
+
+<center>
+
+**Vídeo 2** - Entrevista Protótipo de Alta Fidelidade Laura
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6hQpfhiUJqs?si=r2aB-GMM3HJFXYR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+#### Tabela de respostas do entrevistado
+
+A seguir se encontra a tabela 6 com as perguntas feitas para o entrevistado e suas respostas.
+
+**Tabela 6** - Perguntas para o entrevistado
+
+| ID  | Pergunta                                                            | Tipo de Pergunta | Resposta |
+| --- | ------------------------------------------------------------------- | ---------------- | ------------- |
+| 1   | A interface apresentada foi de fácil utilização?                    | Sim/Não/Não sei  | Sim            |
+| 2   | Existe uma correspondência com a realidade ao realizar essas ações? | Sim/Não/Não sei  |Sim             |
+| 3   | Teve algum problema com a disposição dos elementos na tela?         | Sim/Não/Não sei  |Sim          |
+| 4   | Teve alguma dificuldade ao realizar as tarefas designadas?          | Sim/Não/Não sei  | Sim           |
+| 5   | Teve de lidar com algum erro durante a utilização do sistema?       | Sim/Não/Não sei  | Sim             |
+
+#### Tabela de respostas do entrevistador
+
+A seguir se encontra a tabela 7 com as perguntas feitas para o entrevistador e suas respostas.
+
+**Tabela 7** - Perguntas para o entrevistador
+
+| ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta |
+| --- | -------------------------------------------------------------------------------------------- | ---------------- | ------------- |
+| 1   | O usuário conseguiu operar o sistema?                                                        | Sim/Não          | Sim             |
+| 2   | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | Aberta           | Sim, com total eficiência, no tempo previsto e sem cometer erros.             |
+| 3   | Ele entendeu o que deveria ser feito em seguida?                                             | Sim/Não/         | Sim            |
+| 4   | Quais barreiras o usuário encontrou ao atingir seus objetivos?                               | Aberta           | O usuário não encontrou barreiras em nenhum momento.             |
+| 5   | Quantas vezes o usuário consultaram a ajuda para realizar uma ação?                        | Aberta           | O usuário não precisou consultar a ajuda em nenhum momento.         |
+
+### Entrevista do Protótipo de Alta Fidelidade - Artur
+
+#### Gravação da Entrevista com o usuário 
+
+A seguir se encontra o vídeo 3 com a entrevista referente ao Protótipo de Alta Fidelidade com o entrevistado Artur:
+
+<center>
+
+**Vídeo 3** - Entrevista Protótipo de Alta Fidelidade Artur
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lUS1oa7kBqk?si=O7WWDSCmZ4KWBmj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+#### Tabela de respostas do entrevistado
+
+A seguir se encontra a tabela 8 com as perguntas feitas para o entrevistado e suas respostas.
+
+**Tabela 8** - Perguntas para o entrevistado
+
+| ID  | Pergunta                                                            | Tipo de Pergunta | Resposta |
+| --- | ------------------------------------------------------------------- | ---------------- | ------------- |
+| 1   | A interface apresentada foi de fácil utilização?                    | Sim/Não/Não sei  | Sim            |
+| 2   | Existe uma correspondência com a realidade ao realizar essas ações? | Sim/Não/Não sei  |Sim             |
+| 3   | Teve algum problema com a disposição dos elementos na tela?         | Sim/Não/Não sei  |Sim          |
+| 4   | Teve alguma dificuldade ao realizar as tarefas designadas?          | Sim/Não/Não sei  | Sim           |
+| 5   | Teve de lidar com algum erro durante a utilização do sistema?       | Sim/Não/Não sei  | Sim             |
+
+#### Tabela de respostas do entrevistador
+
+A seguir se encontra a tabela 9 com as perguntas feitas para o entrevistador e suas respostas.
+
+**Tabela 9** - Perguntas para o entrevistador
+
+| ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta |
+| --- | -------------------------------------------------------------------------------------------- | ---------------- | ------------- |
+| 1   | O usuário conseguiu operar o sistema?                                                        | Sim/Não          | Sim             |
+| 2   | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | Aberta           | Sim, com total eficiência, no tempo previsto e sem cometer erros.             |
+| 3   | Ele entendeu o que deveria ser feito em seguida?                                             | Sim/Não/         | Sim            |
+| 4   | Quais barreiras o usuário encontrou ao atingir seus objetivos?                               | Aberta           | O usuário não encontrou barreiras em nenhum momento.             |
+| 5   | Quantas vezes o usuário consultaram a ajuda para realizar uma ação?                        | Aberta           | O usuário não precisou consultar a ajuda em nenhum momento.         |
+
+### Entrevista do Protótipo de Alta Fidelidade - Eric
+
+#### Gravação da Entrevista com o usuário 
+
+A seguir se encontra o vídeo 4 com a entrevista referente ao Protótipo de Alta Fidelidade com o entrevistado Eric:
+
+<center>
+
+**Vídeo 4** - Entrevista Protótipo de Alta Fidelidade Eric
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/330Nh1QX2ns?si=2Y6rY62VgpWe4i6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+#### Tabela de respostas do entrevistado
+
+A seguir se encontra a tabela 10 com as perguntas feitas para o entrevistado e suas respostas.
+
+**Tabela 10** - Perguntas para o entrevistado
+
+| ID  | Pergunta                                                            | Tipo de Pergunta | Resposta |
+| --- | ------------------------------------------------------------------- | ---------------- | ------------- |
+| 1   | A interface apresentada foi de fácil utilização?                    | Sim/Não/Não sei  | Sim            |
+| 2   | Existe uma correspondência com a realidade ao realizar essas ações? | Sim/Não/Não sei  |Sim             |
+| 3   | Teve algum problema com a disposição dos elementos na tela?         | Sim/Não/Não sei  |Sim          |
+| 4   | Teve alguma dificuldade ao realizar as tarefas designadas?          | Sim/Não/Não sei  | Sim           |
+| 5   | Teve de lidar com algum erro durante a utilização do sistema?       | Sim/Não/Não sei  | Sim             |
+
+#### Tabela de respostas do entrevistador
+
+A seguir se encontra a tabela 11 com as perguntas feitas para o entrevistador e suas respostas.
+
+**Tabela 11** - Perguntas para o entrevistador
+
+| ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta |
+| --- | -------------------------------------------------------------------------------------------- | ---------------- | ------------- |
+| 1   | O usuário conseguiu operar o sistema?                                                        | Sim/Não          | Sim             |
+| 2   | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | Aberta           | Sim, com total eficiência, no tempo previsto e sem cometer erros.             |
+| 3   | Ele entendeu o que deveria ser feito em seguida?                                             | Sim/Não/         | Sim            |
+| 4   | Quais barreiras o usuário encontrou ao atingir seus objetivos?                               | Aberta           | O usuário não encontrou barreiras em nenhum momento.             |
+| 5   | Quantas vezes o usuário consultaram a ajuda para realizar uma ação?                        | Aberta           | O usuário não precisou consultar a ajuda em nenhum momento.         |
+
+### Entrevista do Protótipo de Alta Fidelidade - Maria Eduarda
+
+#### Gravação da Entrevista com o usuário 
+
+A seguir se encontra o vídeo 5 com a entrevista referente ao Protótipo de Alta Fidelidade com a entrevistada Maria Eduarda:
+
+<center>
+
+**Vídeo 5** - Entrevista Protótipo de Alta Fidelidade Maria Eduarda
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DYDyfD_Rmao?si=qrnXdIpSH9oxmH06" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+#### Tabela de respostas do entrevistado
+
+A seguir se encontra a tabela 12 com as perguntas feitas para o entrevistado e suas respostas.
+
+**Tabela 12** - Perguntas para o entrevistado
+
+| ID  | Pergunta                                                            | Tipo de Pergunta | Resposta |
+| --- | ------------------------------------------------------------------- | ---------------- | ------------- |
+| 1   | A interface apresentada foi de fácil utilização?                    | Sim/Não/Não sei  | Sim            |
+| 2   | Existe uma correspondência com a realidade ao realizar essas ações? | Sim/Não/Não sei  |Sim             |
+| 3   | Teve algum problema com a disposição dos elementos na tela?         | Sim/Não/Não sei  |Sim          |
+| 4   | Teve alguma dificuldade ao realizar as tarefas designadas?          | Sim/Não/Não sei  | Sim           |
+| 5   | Teve de lidar com algum erro durante a utilização do sistema?       | Sim/Não/Não sei  | Sim             |
+
+#### Tabela de respostas do entrevistador
+
+A seguir se encontra a tabela 13 com as perguntas feitas para o entrevistador e suas respostas.
+
+**Tabela 13** - Perguntas para o entrevistador
+
+| ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta |
+| --- | -------------------------------------------------------------------------------------------- | ---------------- | ------------- |
+| 1   | O usuário conseguiu operar o sistema?                                                        | Sim/Não          | Sim             |
+| 2   | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | Aberta           | Sim, com total eficiência, no tempo previsto e sem cometer erros.             |
+| 3   | Ele entendeu o que deveria ser feito em seguida?                                             | Sim/Não/         | Sim            |
+| 4   | Quais barreiras o usuário encontrou ao atingir seus objetivos?                               | Aberta           | O usuário não encontrou barreiras em nenhum momento.             |
+| 5   | Quantas vezes o usuário consultaram a ajuda para realizar uma ação?                        | Aberta           | O usuário não precisou consultar a ajuda em nenhum momento.         |
+
+### Entrevista do Protótipo de Alta Fidelidade - Gustavo
+
+#### Gravação da Entrevista com o usuário 
+
+A seguir se encontra o vídeo 6 com a entrevista referente ao Protótipo de Alta Fidelidade com o entrevistado Gustavo:
+
+<center>
+
+**Vídeo 6** - Entrevista Protótipo de Alta Fidelidade Gustavo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-jO3GO97I6k?si=Art_GVPCI5lxe9S2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+#### Tabela de respostas do entrevistado
+
+A seguir se encontra a tabela 14 com as perguntas feitas para o entrevistado e suas respostas.
+
+**Tabela 14** - Perguntas para o entrevistado
+
+| ID  | Pergunta                                                            | Tipo de Pergunta | Resposta |
+| --- | ------------------------------------------------------------------- | ---------------- | ------------- |
+| 1   | A interface apresentada foi de fácil utilização?                    | Sim/Não/Não sei  | Sim            |
+| 2   | Existe uma correspondência com a realidade ao realizar essas ações? | Sim/Não/Não sei  |Sim             |
+| 3   | Teve algum problema com a disposição dos elementos na tela?         | Sim/Não/Não sei  |Sim          |
+| 4   | Teve alguma dificuldade ao realizar as tarefas designadas?          | Sim/Não/Não sei  | Sim           |
+| 5   | Teve de lidar com algum erro durante a utilização do sistema?       | Sim/Não/Não sei  | Sim             |
+
+#### Tabela de respostas do entrevistador
+
+A seguir se encontra a tabela 15 com as perguntas feitas para o entrevistador e suas respostas.
+
+**Tabela 15** - Perguntas para o entrevistador
+
+| ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta |
+| --- | -------------------------------------------------------------------------------------------- | ---------------- | ------------- |
+| 1   | O usuário conseguiu operar o sistema?                                                        | Sim/Não          | Sim             |
+| 2   | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | Aberta           | Sim, com total eficiência, no tempo previsto e sem cometer erros.             |
+| 3   | Ele entendeu o que deveria ser feito em seguida?                                             | Sim/Não/         | Sim            |
+| 4   | Quais barreiras o usuário encontrou ao atingir seus objetivos?                               | Aberta           | O usuário não encontrou barreiras em nenhum momento.             |
+| 5   | Quantas vezes o usuário consultaram a ajuda para realizar uma ação?                        | Aberta           | O usuário não precisou consultar a ajuda em nenhum momento.         |
+
 
 ## Histórico de Versões
 |    Data    | Versão |                 Descrição                 |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :---------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 03/07/2024 | `1.0`  |      Criação do Documento     | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
+| 03/07/2024 | `1.2`  |      Adição das Entrevistas    | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
