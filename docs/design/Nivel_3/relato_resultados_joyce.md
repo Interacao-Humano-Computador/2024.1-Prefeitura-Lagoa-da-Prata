@@ -59,9 +59,10 @@ A Tabela 1 apresenta as tarefas que foram prototipadas e utilizadas durante a av
 
 ## Teste Piloto
 
- O teste piloto oferece uma oportunidade valiosa para aperfeiçoar a experiência do usuário e assegurar que o protótipo esteja em conformidade com as expectativas e necessidades do público-alvo. Esta fase possibilita validar o protótipo, detectar eventuais problemas e ajustar detalhes antes da apresentação aos usuários finais.
+O teste piloto oferece uma oportunidade valiosa para aperfeiçoar a experiência do usuário e assegurar que o protótipo esteja em conformidade com as expectativas e necessidades do público-alvo. Esta fase possibilita validar o protótipo, detectar eventuais problemas e ajustar detalhes antes da apresentação aos usuários finais.
 
- A tabela 2 apresenta a realização do teste piloto, com data, horário, entrevistadores, entrevistados e tarefas selecionadas. Essa tabela foi baseada na Ficha de modelo para documentação das entrevistas, previamente elaborada no documento de [Planejamento do Relato de Resultados do Protótipo de Alta Fidelidade](Pl_relato_resultados.md).
+A tabela 2 apresenta a realização do teste piloto, com data, horário, entrevistadores, entrevistados e tarefas selecionadas. Essa tabela foi baseada na Ficha de modelo para documentação das entrevistas, previamente elaborada no documento de [Planejamento do Relato de Resultados do Protótipo de Alta Fidelidade](Pl_relato_resultados.md).
+
 <center>
 
 **Tabela 2** - Cronograma da Execução do Teste Piloto 
@@ -85,6 +86,7 @@ A seguir se encontra o vídeo 1 com a entrevista referente ao Teste Piloto:
 ## Entrevistas 
 
 A Tabela 3 apresenta a ordem de realização das entrevistas, com data, horário, entrevistadores, entrevistados e tarefas selecionadas na Tabela 1. Essa tabela foi baseada na Ficha de modelo para documentação das entrevistas, previamente elaborada no documento de [Planejamento do Relato de Resultados do Protótipo de Alta Fidelidade](Pl_relato_resultados.md).
+
 <center>
 
 **Tabela 3** - Cronograma da Execução das Entrevistas 
@@ -97,7 +99,8 @@ A Tabela 3 apresenta a ordem de realização das entrevistas, com data, horário
 | 4°    | 03/07/2024 | 17:30 - 17:45           | FGA - LDTEA, sala 313  |  [Joyce Dionizio](https://github.com/joycejdm)   | Maria Eduarda              | Cadastro Antecipado de Aluno.                  |
 | 3°    | 03/07/2024 | 18:00 - 18:15           | FGA - LDTEA, sala 313  |  [Joyce Dionizio](https://github.com/joycejdm)   | Gustavo              |Cadastro Antecipado de Aluno.                        |
 
- *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
+
 </center>
 
 
