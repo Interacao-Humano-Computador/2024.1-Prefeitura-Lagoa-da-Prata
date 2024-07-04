@@ -6,19 +6,23 @@ Durante a fase de design e desenvolvimento de um site, os protótipos de alta fi
 
 Além disso, obter feedback dos usuários através de protótipos de alta fidelidade é fundamental para assegurar a usabilidade e a satisfação do público-alvo. Ao observar e entrevistar os usuários durante a interação com esses protótipos, é possível identificar problemas de usabilidade, áreas de confusão e oportunidades de melhoria com uma fidelidade próxima ao produto final. Essas informações são vitais para aprimorar o design do site, otimizar a experiência do usuário e minimizar retrabalhos nas fases posteriores do desenvolvimento.
 
+## Objetivo 
+O objetivo deste documento é relatar os resultados obtidos na avaliação do protótipo de alta fidelidade com relação a tarefa de "Cadastro Antecipado de Aluno", realizado pelo integrante do grupo [Joyce Dionizio](https://github.com/joycejdm).
+
 ## Metodologia
-
-A metodologia empregada para relatar os resultados coletados durante a avaliação do protótipo de papel baseou-se no documento de [Planejamento do Relato de Resultados do Protótipo de Alta Fidelidade](Pl_relato_resultados.md), essa abordagem buscou garantir a clareza, objetividade e relevância das informações apresentadas, utilizando o documento como referência e guia para a estruturação do relatório final. 
-
-As metodologias elencaveis foram:
+Para realização a avaliação do protótipo foi utilizado o método de observação somado ao teste de usabilidade que "visa a avaliar a usabilidade de um sistema interativo a partir de experiências de
+uso dos seus usuários-alvo" (Rubin, 1994; Rubin e Chisnell, 2008). Com isso foi seguido a recomendação de Dumas e Redish [2], que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas, como relata Nielsen [3]. Portanto a seguir estão listadas todas as metodologias utilizadas tanto na avaliação como no relato dos resultados.
 
 - **Observação direta**: Consiste na observação sistemática dos usuários durante a execução das tarefas. Isso pode incluir a coleta de dados qualitativos, como comportamentais, e quantitativos, como métricas de desempenho.
+
+- **Teste de Usabildiade**: Os usuários-avlo testam a usabilidade de um sistema interativo baseando-se em experiências anteriores de uso.
 
 - **Entrevista**: Realizadas com os usuários após a simulação de uso, com o objetivo de coletar informações sobre a experiência de uso do protótipo de papel.
 
 - **Questionário**: Aplicados aos usuários após a simulação de uso, com o objetivo de coletar informações sobre a experiência de uso do protótipo de papel.
 
 - **Grupos focal**: Realizados com os usuários após a simulação de uso, com o objetivo de coletar informações sobre a experiência de uso do protótipo de papel.
+
 
 ## Tarefas 
 
