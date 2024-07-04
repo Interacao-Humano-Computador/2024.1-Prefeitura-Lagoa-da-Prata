@@ -51,7 +51,7 @@ A Tabela 1 apresenta a tarefa que foi prototipada e que será utilizada durante 
 | ----- | ---------- | ----------------------- | --------------------- | --------------- | ------------ | -------------------------------------------------------------------- |
 | 1°    | 01/07/2025 | 21:15 - 21:19           | Virtual | Augusto Duarte  | Cainã Freitas  | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
 
-*Fonte: [DUARTE, Augcamp](https://github.com/Augcamp). 2024.*
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 </center>
 
 A seguir se encontra o vídeo 1 com a entrevista referente ao Teste Piloto:
@@ -61,6 +61,8 @@ A seguir se encontra o vídeo 1 com a entrevista referente ao Teste Piloto:
 **Vídeo 1** - Entrevista Teste Piloto 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tfKrFSCS-eI?si=X9aFB--xRqMWiMhz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 
 </center>
 
@@ -76,7 +78,7 @@ A seguir se encontra o vídeo 1 com a entrevista referente ao Teste Piloto:
 | ----- | ---------- | ----------------------- | --------------------- | --------------- | ------------ | -------------------------------------------------------------------- |
 | 1°    | 03/07/2024 | 15:53 - 15:59           | FGA - LDTEA, sala 309 | Augusto Duarte e Cainã Valença  | Felipe  | Acessar o módulo de Contra Cheque e consultar processos do servidor. |
 
-*Fonte: [DUARTE, Augcamp](https://github.com/Augcamp). 2024.*
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 </center>
 
 <center>
@@ -119,6 +121,8 @@ A seguir se encontra o vídeo 2 com a entrevista referente a Primeira Entrevista
 **Vídeo 2** - Primeira Entrevista
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/skRhZGntR80?si=kmIcTwXiRJk0XP7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 
 </center>
 
@@ -175,6 +179,8 @@ A seguir se encontra o vídeo 2 com a entrevista referente a Primeira Entrevista
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wfEnm-temo4?si=_r58An5eG8OPe3uZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+
 </center>
 
 
@@ -228,6 +234,8 @@ A seguir se encontra o vídeo 2 com a entrevista referente a Primeira Entrevista
 **Vídeo 4** - Terceira Entrevista
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ntccz5LFkAg?si=PXffJOJ2R6g4zOOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 
 </center>
 
@@ -286,6 +294,8 @@ A seguir se encontra o vídeo 2 com a entrevista referente a Primeira Entrevista
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1jOGXrlw898?si=dONrDAW8koXwBPM_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+
 </center>
 
 ### Quinta Entrevista
@@ -340,6 +350,8 @@ A seguir se encontra o vídeo 2 com a entrevista referente a Primeira Entrevista
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J8-z1xTG9j4?si=OkBISUFG6PCdbm7X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+
 </center>
 
 
@@ -351,6 +363,32 @@ Com base no feedback recebido sobre o protótipo de alta fidelidade, algumas con
 - Organização e visibilidade.
 - Ícones e rótulos claros
 - Inclusão de opção de pesquisa
+
+
+## Prototipo de Alta Fidelidade e Script
+
+Os elementos do Prototipo de Alta Fidelidade podem ser observados no projeto elaborado através do site Figma, juntamente com o Script  que pode ser localizado abaixo:
+
+<center>
+
+**Figura 1** - Prototipo de Alta Fidelidade
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FzzcDffXN5b4OTbcvuviERJ%2FSa%25C3%25BAde---IHC%3Fnode-id%3D109-622%26t%3DA0QiQt8kF7sS1tH6-1" allowfullscreen></iframe>
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+
+</center>
+
+
+<center>
+
+**Figura 1** - Prototipo de Alta Fidelidade
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FzzcDffXN5b4OTbcvuviERJ%2FSa%25C3%25BAde---IHC%3Fnode-id%3D109-622%26t%3DA0QiQt8kF7sS1tH6-1" allowfullscreen></iframe>
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+
+</center>
 
 
 
@@ -369,4 +407,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação.
 |    Data    | Versão |              Descrição              |                      Autor(es)                      | Data de revisão | Revisor(es) |
 | :--------: | :----: | :---------------------------------: | :-------------------------------------------------: | :-------------: | :---------: |
 | 03/07/2024 | `1.0`  | Criação do documento                | [Augusto Duarte](https://github.com/Augcamp)        |                 |             |
-| 03/07/2024 | `1.0`  | Considerações finais                | [Augusto Duarte](https://github.com/Augcamp)        |                 |             |
+| 03/07/2024 | `1.1`  | Considerações finais                | [Augusto Duarte](https://github.com/Augcamp)        |                 |             |
+| 03/07/2024 | `1.2`  | Prototipo                          | [Augusto Duarte](https://github.com/Augcamp)        |                 |             |
