@@ -8,11 +8,12 @@ Além disso, obter feedback dos usuários através de protótipos de alta fideli
 
 ## Metodologia
 
-A metodologia empregada para relatar os resultados coletados durante a avaliação do protótipo de papel baseou-se no documento de [Planejamento do Relato de Resultados do Protótipo de Alta Fidelidade](Pl_relato_resultados.md), essa abordagem buscou garantir a clareza, objetividade e relevância das informações apresentadas, utilizando o documento como referência e guia para a estruturação do relatório final. 
-
-As metodologias elencaveis foram:
+Para realização a avaliação do protótipo foi utilizado o método de observação somado ao teste de usabilidade que "visa a avaliar a usabilidade de um sistema interativo a partir de experiências de
+uso dos seus usuários-alvo" (Rubin, 1994; Rubin e Chisnell, 2008). Com isso foi seguido a recomendação de Dumas e Redish [2], que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas, como relata Nielsen [3]. Portanto a seguir estão listadas todas as metodologias utilizadas tanto na avaliação como no relato dos resultados.
 
 - **Observação direta**: Consiste na observação sistemática dos usuários durante a execução das tarefas. Isso pode incluir a coleta de dados qualitativos, como comportamentais, e quantitativos, como métricas de desempenho.
+
+- **Teste de Usabildiade**: Os usuários-avlo testam a usabilidade de um sistema interativo baseando-se em experiências anteriores de uso.
 
 - **Entrevista**: Realizadas com os usuários após a simulação de uso, com o objetivo de coletar informações sobre a experiência de uso do protótipo de papel.
 
@@ -340,3 +341,32 @@ A seguir se encontra o vídeo 2 com a entrevista referente a Primeira Entrevista
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J8-z1xTG9j4?si=OkBISUFG6PCdbm7X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
+
+
+## Considerações a serem realizadas
+
+Com base no feedback recebido sobre o protótipo de alta fidelidade, algumas considerações cruciais surgiram para melhorar a experiência do usuário:
+
+- Tamanho e legibilidade das letras.
+- Organização e visibilidade.
+- Ícones e rótulos claros
+- Inclusão de opção de pesquisa
+
+
+
+## Bibliografia
+
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+[2] Dumas, J. S., & Redish, J. C. (1999). A practical guide to usability testing. Intellect Books.
+
+[3] NIELSEN, Jakob. Usability Engineering. Academic Press, 1993.
+
+
+
+## Histórico de Versões
+|    Data    | Versão |              Descrição              |                      Autor(es)                      | Data de revisão | Revisor(es) |
+| :--------: | :----: | :---------------------------------: | :-------------------------------------------------: | :-------------: | :---------: |
+| 03/07/2024 | `1.0`  | Criação do documento                | [Augusto Duarte](https://github.com/Augcamp)        |                 |             |
+| 03/07/2024 | `1.0`  | Considerações finais                | [Augusto Duarte](https://github.com/Augcamp)        |                 |             |
