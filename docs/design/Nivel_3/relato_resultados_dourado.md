@@ -44,7 +44,7 @@ Abaixo se encontra as figuras com relação ao protótipo de alta fidelidade rea
 A seguir se encontra as imagens separadas de cada tela do protótipo de alta fidelidade sendo elas classificadas de acordo com os números de cada atividade no script.
 
 ### 1 - Realizar login
-Abaixo se encontra a tela homepage do protótipo e que a atividade seria de realizar o login.
+Abaixo na figura 02, se encontra a tela homepage do protótipo e que a atividade seria de realizar o login.
 
 <center>
 
@@ -55,7 +55,7 @@ Abaixo se encontra a tela homepage do protótipo e que a atividade seria de real
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 ### 2.1 - Acessar página de solicitação pela busca
-Abaixo se encontra a tela do protótipo após realizar a busca.
+Abaixo se encontra a tela do protótipo após realizar a busca encontrado na figura 03 abaixo.
 
 <center>
 
@@ -66,7 +66,7 @@ Abaixo se encontra a tela do protótipo após realizar a busca.
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 ### 2.2 - Acessar página de solicitação pelo menu hamburguer
-Abaixo se encontra a tela do protótipo após passar o mouse em cima do menu hamburguer.
+Abaixo se encontra a tela do protótipo após passar o mouse em cima do menu hamburguer encontrado na figura 04 a seguir.
 
 <center>
 
@@ -80,7 +80,7 @@ Abaixo se encontra a tela do protótipo após passar o mouse em cima do menu ham
 </center>
 
 ### 2.3 - Acessar página de solicitação pelo "Serviços para cidadão"
-Abaixo se encontra a tela do protótipo após clicar no botão de "Serviços para cidadão na homepage.
+Abaixo se encontra a tela do protótipo após clicar no botão de "Serviços para cidadão na homepage encontrada na figura 05.
 
 <center>
 
@@ -91,13 +91,52 @@ Abaixo se encontra a tela do protótipo após clicar no botão de "Serviços par
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 ### 3.1 e 3.2 - Acessar página de solicitação pelo "Serviços para cidadão"
-Abaixo se encontra a tela do protótipo após clicar no botão de "Serviços para cidadão na homepage.
+Abaixo se encontra a tela do protótipo de informação da solicitação na figura 06.
 
 <center>
 
-**Figura 06** - Acessar página de solicitação pelo menu hamburguer
+**Figura 06** - Página Informação  
 
-![](../../assets/images/prototipo_altafidelidade/dourado/04.png)
+![](../../assets/images/prototipo_altafidelidade/dourado/05.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+
+</center>
+
+
+### 4 - Acessar página do formulário de solicitação, preencher e enviar
+Abaixo se encontra a tela do protótipo do formulário da solicitação na figura 07 e na figura 08 se encontra a tela do protótipo do formulário da solicitação com os dados preenchidos.
+
+<center>
+
+**Figura 07** - Página Solicitação  
+
+![](../../assets/images/prototipo_altafidelidade/dourado/06.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+
+</center>
+
+<center>
+
+**Figura 08** - Página Solicitação preenchida
+
+![](../../assets/images/prototipo_altafidelidade/dourado/07.png)
+
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
+
+
+</center>
+
+Abaixo se encontra a figura 09 referente a página de confirmação que a solicitação foi enviada.
+
+<center>
+
+**Figura 08** - Página confirmação
+
+![](../../assets/images/prototipo_altafidelidade/dourado/08.png)
 
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
