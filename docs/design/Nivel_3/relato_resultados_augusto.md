@@ -406,6 +406,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação.
 ## Histórico de Versões
 |    Data    | Versão |              Descrição              |                      Autor(es)                      | Data de revisão | Revisor(es) |
 | :--------: | :----: | :---------------------------------: | :-------------------------------------------------: | :-------------: | :---------: |
-| 03/07/2024 | `1.0`  | Criação do documento                | [Augusto Duarte](https://github.com/Augcamp)        |                 |             |
-| 03/07/2024 | `1.1`  | Considerações finais                | [Augusto Duarte](https://github.com/Augcamp)        |                 |             |
-| 03/07/2024 | `1.2`  | Prototipo                          | [Augusto Duarte](https://github.com/Augcamp)        |                 |             |
+| 03/07/2024 | `1.0`  | Criação do documento                | [Augusto Duarte](https://github.com/Augcamp)        |      03/07/2024           |     [Cainã Freitas](https://github.com/freitasc)        |
+| 03/07/2024 | `1.1`  | Considerações finais                | [Augusto Duarte](https://github.com/Augcamp)        |      03/07/2024           |     [Cainã Freitas](https://github.com/freitasc)        |
+| 03/07/2024 | `1.2`  | Prototipo                          | [Augusto Duarte](https://github.com/Augcamp)        |      03/07/2024           |     [Cainã Freitas](https://github.com/freitasc)        |
