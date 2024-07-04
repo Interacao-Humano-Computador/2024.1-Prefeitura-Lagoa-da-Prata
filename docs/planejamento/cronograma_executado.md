@@ -183,6 +183,27 @@ Segue abaixo a Tabela 08 contendo as Atividades que serão realizadas, a data da
 
 <center>Fonte: DOURADO, Pedro Lucas. 2024.</center>
 
+
+## Cronograma Ponto de Controle 8
+
+ - Entrega: 03/07/2024
+ - Apresentação: 04/07/2024
+
+Segue abaixo a Tabela 09 contendo as Atividades que serão realizadas, a data da realização,a data da revisão e os revisores do ponto de controle 8.
+
+<center>**Tabela 09 - Ponto de Controle 8**</center>
+
+| <center>Atividade </center>                  | <center>Período de desenvolvimento</center> |                                                                                                               <center>Responsável</center>                                                                                                                | <center>Revisão </center> |                                <center>Revisores</center>                                 |
+| -------------------------------------------- | :-----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :---------------------------------------------------------------------------------------: |
+| Relato do Protótipo de alta fidelidade       |           26/06/2024 - 03/07/2024           | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |        03/07/2024         | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |
+| Atualização Git Pages                        |           26/06/2024 - 03/07/2024           | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |        03/07/2024         | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |
+| Gravação da Apresentação                     |                 03/07/2024           | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |                |                                                   |
+| Edição da Apresentação                       |                 03/07/2024                  |                                                                                                           [Pedro Lucas](https://github.com/lucasdray)                                                                                                            |                 |                                                   |
+| Cronograma Executado                         |                 03/07/2024                  |                                [Cainã](https://github.com/freitasc)                                                                                                                                                                                                                           |                 |                                                                                           |
+
+<center>Fonte: DOURADO, Pedro Lucas. 2024.</center>
+
+
 ## Bibliografia
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf. Acesso em: 04 de Abril de 2024;
