@@ -220,6 +220,9 @@ Por não encontrar nenhum problema na utilização do protótipo de alta fidelid
 
 
 
+## Planejamento do Reprojeto
+Como a cada entrevista e teste de usabilidade os defeitos que foram encontrados pelos usuários-alvo entrevistados foram corrigidos, portanto há necessidade de planejamento do reprojeto. Entretanto após a apresentação dessa etapa o reprojeto possa ser válido de acordo com os pontos levantados pelo professor.
+
 ## Bibliografia
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
@@ -237,3 +240,4 @@ Por não encontrar nenhum problema na utilização do protótipo de alta fidelid
 | :--------: | :----: | :------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
 | 03/07/2024 | `1.0`  |  Criação do documento e Teste piloto   | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
 | 03/07/2024 | `1.1`  | Adição de algumas imagens do protótipo | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 03/07/2024 | `1.2`  |            Adição Reprojeto            | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
