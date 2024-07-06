@@ -59,28 +59,6 @@ As Tabelas 1 a 11 detalham os responsáveis pela criação das checklists para c
 </center>
 
 
-### Verificação Etapa 4
-
-
-<center>
-
-**Tabela 3**- Síntese dos artefatos de verificação Etapa 4
-
-| Artefato | Autor(es) | Revisor(es) |
-|----------|-----------|-------------|
-|[Planejamento Verificação Etapa 4](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa4/planejamento/)  | [Augusto Duarte](https://github.com/Augcamp), [Pedro Lucas](https://github.com/lucasdray) e [Lucas Meireles](https://github.com/Katuner) | [Lucas Meireles](https://github.com/Katuner) e [Pedro Lucas](https://github.com/lucasdray)|
-|[Verificação do Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa4/planejamento_avali_analise_tarefas%20copy/)      |    [Cainã Freitas](https://github.com/freitasc)        |            |
-|[Verificação do Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa4/planejamento_avali_storyboard/)       |  [Cainã Freitas](https://github.com/freitasc)         |             |
-|[Verificação do Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas ](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa4/planejamento_relato_analise_tarefas/)     |   [Pedro Lucas](https://github.com/lucasdray)        |            |
-|[Verificação do Planejamento do Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa4/planejamento_avali_storyboard/)    |     [Cainã Freitas](https://github.com/freitasc)     |            |
-|[Verificação do Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa4/resultado_analise_tarefas/)   |     [Joyce Dionizio](https://github.com/joycejdm)     |            |
-|[Verificação do Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa4/resultado_storyboard/)    |     [Joyce Dionizio](https://github.com/joycejdm)     |            |
-
-
-*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024*
-
-</center>
-
 
 ### Verificação Etapa 4
 
@@ -117,7 +95,7 @@ As Tabelas 1 a 11 detalham os responsáveis pela criação das checklists para c
 |----------|-----------|-------------|
 |[Planejamento Verificação Etapa 5](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa5/planejamento/)  | [Augusto Duarte](https://github.com/Augcamp) e [Pedro Lucas](https://github.com/lucasdray)  | [Augusto Duarte](https://github.com/Augcamp) e [Pedro Lucas](https://github.com/lucasdray)|
 |[Verificação do Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa5/planejamento_avali_prot_papel/)      |    [Cainã Freitas](https://github.com/freitasc)        |            |
-|[Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa5/planejamento_relato_prototipo_papel/)      [Pedro Lucas](https://github.com/lucasdray)        |             |
+|[Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa5/planejamento_relato_prototipo_papel/)   |   [Pedro Lucas](https://github.com/lucasdray)        |             |
 
 
 
@@ -137,7 +115,7 @@ As Tabelas 1 a 11 detalham os responsáveis pela criação das checklists para c
 |----------|-----------|-------------|
 |[Planejamento Verificação Etapa 7](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa7/planejamento/)  | [Augusto Duarte](https://github.com/Augcamp), [Pedro Lucas](https://github.com/lucasdray) e [Lucas Meireles](https://github.com/Katuner)  | [Pedro Lucas](https://github.com/lucasdray) e [Lucas Meireles](https://github.com/Katuner)|
 |[Verificação do Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa7/planejamento_avali_prot_alta/)      |    [Cainã Freitas](https://github.com/freitasc)        |            |
-|[Verificação do Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa7/planejamento_relato_prototipo_alta/)     [Pedro Lucas](https://github.com/lucasdray)        |             |
+|[Verificação do Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa7/planejamento_relato_prototipo_alta/) |    [Pedro Lucas](https://github.com/lucasdray)        |             |
 
 
 
