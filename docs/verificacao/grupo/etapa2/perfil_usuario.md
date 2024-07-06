@@ -169,4 +169,4 @@ Para a correção do artefato, sugerem-se os itens a seguir:
 
 | Versão | Data       | Descrição                                           | Autor(es)                                     | Data de revisão | Revisor(es)                            |
 | :----: | :--------: | :-------------------------------------------------: | :-------------------------------------------: | :--------: | :-----------------------------------------: |
-| `1.0`  | 26/06/2024 | Criação do Documento e adição da inspeção   | [Lucas Meireles](https://github.com/Katuner)  |  26/06/2023   |          |
+| `1.0`  | 26/06/2024 | Criação do Documento e adição da inspeção   | [Lucas Meireles](https://github.com/Katuner)  |  06/07/2024   |  [Augusto Duarte](https://github.com/Augcamp)        |
