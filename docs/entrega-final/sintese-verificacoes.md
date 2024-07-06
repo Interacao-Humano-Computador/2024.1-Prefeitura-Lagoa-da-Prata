@@ -25,7 +25,7 @@ As Tabelas 1 a 11 detalham os responsáveis pela criação das checklists para c
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
 |[Planejamento Verificação Etapa 2](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa2/planejamento/) | [Joyce Dionizio](https://github.com/joycejdm), [Cainã Freitas](https://github.com/freitasc) e [Lucas Meireles](https://github.com/Katuner) | [Pedro Lucas](https://github.com/lucasdray) |
-|[Verificação do Perfil do usuario](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/verificacao/grupo/etapa2/perfil_usuario.md)       |    [Lucas Meireles](https://github.com/Katuner)       |     [Augusto Duarte](https://github.com/Augcamp)        |
+|[Verificação do Perfil do usuario](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa2/perfil_usuario/)       |    [Lucas Meireles](https://github.com/Katuner)       |     [Augusto Duarte](https://github.com/Augcamp)        |
 |[Verificação das Personas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa2/personas/)       |    [Joyce Dionizio](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray), [Augusto Duarte](https://github.com/Augcamp) e [Lucas Meireles](https://github.com/Katuner)        |             |
 |[Verificação dos Cenarios](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa2/cenarios/)       |   [Joyce Dionizio](https://github.com/joycejdm), [Augusto Duarte](https://github.com/Augcamp) e [Lucas Meireles](https://github.com/Katuner)        |            |
 |[Verificação dos Aspectos Eticos](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa2/aspectos_eticos/)     |     [Joyce Dionizio](https://github.com/joycejdm)     |            |
@@ -124,6 +124,94 @@ As Tabelas 1 a 11 detalham os responsáveis pela criação das checklists para c
 </center>
 
 
+## Grupo 6
+
+### Verificação Etapa 2
+
+<center>
+
+**Tabela 6**- Síntese dos artefatos de verificação Etapa 2
+
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+|[Planejamento Verificação Etapa 2](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa2/planejamento/)          | [Pedro Lucas](https://github.com/lucasdray)        | [Joyce Dionizio](https://github.com/joycejdm), [Augusto Duarte](https://github.com/Augcamp) e [Lucas Meireles](https://github.com/Katuner) |
+|[Verificação do Perfil do usuario](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa2/verificacao/)           |    [Pedro Lucas](https://github.com/lucasdray) e [Lucas Meireles](https://github.com/Katuner)      |     [Lucas Meireles](https://github.com/Katuner)        |
+|[Verificação das Personas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa2/verificacao/)                   |    [Pedro Lucas](https://github.com/lucasdray)     |      [Lucas Meireles](https://github.com/Katuner)       |
+|[Verificação dos Cenarios](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa2/verificacao/)                   |   [Pedro Lucas](https://github.com/lucasdray)      |      [Lucas Meireles](https://github.com/Katuner) e [Joyce Dionizio](https://github.com/joycejdm)      |
+|[Verificação dos Aspectos Eticos](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa2/verificacao/)            |     [Pedro Lucas](https://github.com/lucasdray)    |      [Lucas Meireles](https://github.com/Katuner)  e [Joyce Dionizio](https://github.com/joycejdm)   |
+|[Verificação da Analise de Tarefas HTA ](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa2/verificacao/)     |  [Pedro Lucas](https://github.com/lucasdray)       |      [Lucas Meireles](https://github.com/Katuner)      |
+|[Verificação da Analise de Tarefas GOMS](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa2/verificacao/)     |     [Pedro Lucas](https://github.com/lucasdray)    |      [Lucas Meireles](https://github.com/Katuner)     |
+
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024*
+
+</center>
+
+
+### Verificação Etapa 3
+
+
+<center>
+
+**Tabela 7**- Síntese dos artefatos de verificação Etapa 3
+
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+|[Planejamento Verificação Etapa 3](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa3/planejamento/) | [Joyce Dionizio](https://github.com/joycejdm)  | [Pedro Lucas](https://github.com/lucasdray)  |
+|[Verificação do Guia de Estilo](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa3/verificacao/)      |    [Augusto Duarte](https://github.com/Augcamp)        |            |
+|[Verificação das Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa3/verificacao/)       |  [Augusto Duarte](https://github.com/Augcamp)         |             |
+|[Verificação dos Principios Gerais](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa3/verificacao/)      |   [Joyce Dionizio](https://github.com/joycejdm)        |            |
+|[Verificação das Caracteristicas Gerais](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa3/verificacao/)     |     [Joyce Dionizio](https://github.com/joycejdm)     |            |
+
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024*
+
+</center>
+
+
+### Verificação Etapa 4
+
+
+<center>
+
+**Tabela 8**- Síntese dos artefatos de verificação Etapa 4
+
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+|[Planejamento Verificação Etapa 4](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa4/planejamento/)                                                                                  |   [Cainã Freitas](https://github.com/freitasc)   | [Augusto Duarte](https://github.com/Augcamp) |
+|[Verificação do Planejamento da Avaliação da Análise de Tarefas ](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa4/verificacao/)                        |   [Cainã Freitas](https://github.com/freitasc)   |   [Augusto Duarte](https://github.com/Augcamp)        |
+|[Verificação do Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa4/verificacao/)                                            |   [Cainã Freitas](https://github.com/freitasc)   |   [Augusto Duarte](https://github.com/Augcamp)        |
+|[Verificação do Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa4/verificacao/)      |   [Cainã Freitas](https://github.com/freitasc)   |   [Augusto Duarte](https://github.com/Augcamp)        |
+|[Verificação do Planejamento do Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa4/verificacao/)                    |   [Cainã Freitas](https://github.com/freitasc)   |   [Augusto Duarte](https://github.com/Augcamp)        |
+
+
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024*
+
+</center>
+
+
+### Verificação Etapa 5
+
+
+<center>
+
+**Tabela 9**- Síntese dos artefatos de verificação Etapa 5
+
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+|[Planejamento Verificação Etapa 5](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo06/etapa5/planejamento/)  | [Lucas Meireles](https://github.com/Katuner)  | [Cainã Freitas](https://github.com/freitasc)|
+|[Verificação do Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa4/resultado_analise_tarefas/)   |     [Lucas Meireles](https://github.com/Katuner)  |    [Cainã Freitas](https://github.com/freitasc)        |
+|[Verificação do Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa4/resultado_storyboard/)    |     [Lucas Meireles](https://github.com/Katuner)     |  [Cainã Freitas](https://github.com/freitasc)          |
+|[Verificação do Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa5/planejamento_avali_prot_papel/)      |    [Lucas Meireles](https://github.com/Katuner)        |  [Cainã Freitas](https://github.com/freitasc)          |
+|[Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/verificacao/grupo/etapa5/planejamento_relato_prototipo_papel/)   |   [Lucas Meireles](https://github.com/Katuner)        | [Cainã Freitas](https://github.com/freitasc)            |
+
+
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024*
+
+</center>
+
 
 ## Referências Bibliográficas
 
@@ -135,3 +223,4 @@ As Tabelas 1 a 11 detalham os responsáveis pela criação das checklists para c
 |    Data    | Versão |                                       Descrição                                       |                  Autor(es)                  | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :-----------------------------------------: | :-------------: | :-----------------------------------------: |
 | 06/07/2024 | `1.0`  |          Criação do documento e adição das sintesis das verificações grupo 5          | [Augusto Duarte](https://github.com/Augcamp)  |            |         |
+| 06/07/2024 | `1.1`  |          Adição das sintesis das verificações grupo 6          | [Augusto Duarte](https://github.com/Augcamp)  |            |         |
