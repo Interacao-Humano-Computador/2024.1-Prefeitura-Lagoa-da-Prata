@@ -277,7 +277,8 @@ Abaixo se encontra a tabela 07 que mostra o cronograma da execução da primeira
 
 </center>
 
-Logo abaixo se encontra o vídeo 02 que contém a gravação do teste de usabilidade 01 e que também pode ser acessado [clicando aqui][https://youtu.be/-0p9y3cgT_I].
+Logo abaixo se encontra o vídeo 02 que contém a gravação do teste de usabilidade 01 e que também pode ser acessado [clicando aqui](https://youtu.be/-0p9y3cgT_I).
+
 Infelizmente o áudio do vídeo foi corrompido mas como as anotações (feedbacks, perguntas respondidas e avaliação do avaliador) foram feitas logo após a gravação do teste de usabilidade não foi necessário refazer o teste.
 
 <center>
