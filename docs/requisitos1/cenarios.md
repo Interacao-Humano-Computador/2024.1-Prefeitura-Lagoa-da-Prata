@@ -1,6 +1,6 @@
 ## Introdução
 
-A criação inicial de um ambiente de análise requer a elaboração de uma narrativa que descreva indivíduos envolvidos em uma atividade específica. Essa narrativa pode ser textual ou visual, por meio de imagens, e deve incluir um contexto detalhado. O objetivo é representar uma situação de uso de uma aplicação, envolvendo usuários, processos e dados relevantes. Para nossa disciplina, os cenários são essenciais para avaliar a satisfação do usuário com o produto em questão e para facilitar a compreensão da atividade.
+A criação inicial de um ambiente de análise requer a elaboração de uma narrativa que descreva indivíduos envolvidos em uma atividade específica. Essa narrativa pode ser textual ou visual, por meio de imagens, e deve incluir um contexto detalhado. O objetivo é representar uma situação de uso de uma aplicação, envolvendo usuários, processos e dados relevantes. Para nossa disciplina, os cenários são essenciais para avaliar a interação e experiência dos usuários com o produto em questão e para facilitar a compreensão das atividades elaboradas. A utilização de cenários no desenvolvimento exigem um tempo menor do que quando comparados a protótipos complexos, os elencando a uma importante ferramenta de IHC (BARBOSA e SILVA 2021).
 
 ## Cenários
 
@@ -8,35 +8,36 @@ Para cada cenário elaborado, é importante detalhar os elementos característic
 
 ## Metodologia
 
-Este artefato utiliza a metodologia de Cenários, baseada em histórias sobre pessoas realizando atividades, conforme descrito por Rosson e Carroll (2002). A modelagem dos cenários segue os princípios apresentados nos slides do capítulo 6 do livro "Interação Humano Computador" de Simone Barbosa.
+Este artefato irá apresentar mútiplos cenários, baseados em histórias sobre pessoas realizando atividades, conforme descrito por Rosson e Carroll (2002). A modelagem dos cenários irão seguir os princípios apresentados por Barbosa (2021), em que são elucidados como características principais de um cenário: 
+
+- Ambiente ou contexto
+- Atores
+- Objetivos
+- Planejamento
+- Ações
+- Eventos
+- Avaliação 
+
+Para um melhor aproveitamento e levando em consideração a premissa do projeto, cada integrante do grupo se torna responsável pela elaboração de um cenário que envolva uma tarefa a ser trabalhada e a persona desenvolvida pelo mesmo integrante, conforme disponível em [personas](./personas.md).
+
 
 ## Modelo de Cenário
 
-Para a descrição dos cenários, adotamos o formato de texto estruturado, com algumas adaptações para fins de aprendizado. A Tabela 1 a seguir apresenta o molde utilizado para cada cenário:
+Para a apresentação dos cenários, será adotado o mesmo modelo apresentado por BARBOSA (2021), que consiste na titulação, identificação dos autores e então a história por trás da cena.
 
-<center>
-
-| Elemento   | Descrição                                                        |
-| ---------- | ---------------------------------------------------------------- |
-| Objetivo   | Objetivo do cenário                                              |
-| Contexto   | Detalhes da situação                                             |
-| Recursos   | Objetos que interagem com os atores                              |
-| Ator       | Pessoa participante do cenário                                   |
-| Episódios  | Sequência de ações realizadas pelos atores envolvidos no cenário |
-| Restrições | Possíveis impedimentos às ações dos usuários                     |
-| Exceção    | Possíveis casos e eventos que fujam do comum nos episódios       |
-
- Tabela 1: Molde dos cenários (Fonte: FREITAS, Cainã. 2024).
-
-</center>
 
 ## Cenários Identificados
 Os cenários identificados, tendo como base as [Personas](personas.md) desenvolvidas no projeto, estão apresentados nas Tabelas a seguir:
 
-### C01: Cadastro Antecipado de Aluno
+### C01: Cadastro Antecipado de Aluno - [Joyce Dionizio](https://github.com/joycejdm)
+
+Abaixo se apresenta a tabela 01 com o cenário desenvolvido pela integrante [Joyce Dionizio](https://github.com/joycejdm).
 
 <center>
 
+**Tabela 01** - Cadastro Antecipado de Aluno
+
+<!-->
 | Elemento   | Descrição                                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Objetivo   | Realizar cadastro antecipado de aluno para matrícula escolar através do site da prefeitura.                                                                                                                                           |
@@ -47,33 +48,36 @@ Os cenários identificados, tendo como base as [Personas](personas.md) desenvolv
 | Restrições | O site da prefeitura deve possuir uma seção específica para serviços públicos e uma opção clara para acessar o serviço de matrículas web.                                                                                                                                                                                                  |
 | Exceção    | Falta de internet ou problema de conexão com o site da prefeitura.                                                                                                                                                                                              |
 
-Tabela 2: Realização de Denúncia na Ouvidoria (Fonte: DIONIZIO, Joyce. 2024).
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm) 2024.*
 
 </center>
 
-### C02: Registrar e verificar o panorama de saúde da cidade
-Abaixo se encontra a tabela que especifica o elemento e sua descrição.
+<-->
+
+### C02: Estado de Saúde - [Lucas Meireles](https://github.com/Katuner)
+
+Abaixo se apresenta a tabela 02 com o cenário desenvolvido pelo integrante [Lucas Meireles](https://github.com/Katuner).
 
 <center>
 
-| Elemento   | Descrição                                                                                                                                                                                                                      |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Objetivo   | Registrar e verificar o panorama de saúde da cidade                                                                                                                                                                       |
-| Contexto   | Local: Em casa <br> Tempo: Sem especificação <br> Pré-condições: Acesso à Internet, computador ou celular                                                                                                                     |
-| Recursos   | Internet, computador e site da Prefeitura Municipal                                                                                                                                                                 |
-| Ator       | Diego, notando que está com sintomas de uma doença contagiosa e desejando atualizar seu estado de saúde par alertar pessoas próximas.                                                                                                                                                                                            |
-| Episódios  | - Diego percebe seus sintomas <br> - Ele acessa o site da prefeitura <br> - Ele se dirige ao serviço de saúde <br> - Ele escolhe a opção para relatar um problema de saúde <br> Realiza o login em sua conta <br> Confirma o seu endereço <br> Diego seleciona a opção de registrar seu estado de saúde <br> Ele seleciona os sintomas que melhor encaixam no que está sentindo <br> Ele seleciona que deseja realizar uma consulta médica <br> Ele revisa os dados e confirma suas respostas <br> Diego é redirecionado à página inicial onde pode ver áreas com relatos de pessoas dontes <br> Ele identifica que esteve perto de áreas em que pessoas estão doentes <br> Após algum tempo, Diego recebe uma notificação de um horário para sua consulta e o local <br> Diego confirma estar disponível pelo site e a consulta é registrada em cronograma do médico responsável.   |
-| Restrições | Fluxo de navegação intuitivo, acesso à internet, conhecimento de sintomas e de áreas da cidade.                                                                                                                                                                                                  |
-| Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                               |
+**Tabela 02** - Estado de Saúde
 
-Tabela 3: Registrar e verificar o panorama de saúde da cidade (Fonte: MEIRELES, Lucas. 2024).
+| ID   | Título | Atores | História  |
+| :-:  | :-: | :-: | :--------- |
+| 02   | Informar sobre o estado de saúde   |  [Diego Lima](personas.md#diego-lima---lucas-meireles)   |  Diego acordou em casa porém não estava se sentindo bem. Aguardou algum tempo para caso seus sintomas fossem apenas uma questão de tempo porém não melhorou muito. Ele informa seu chefe e colegas que possivelmente não irá ser capaz de trabalhar no dia devido aos seus sintomas de gripe, com medo de ser algo pior mas também por não desejar correr o risco de contaminar outras pessoas ao sair de casa. Seu chefe lhe responde e informa que aparentemente ele não é o único doente do seu setor de serviço, mas que compreende a situação. Como ele possui importantes tarefas a realizar em seu serviço, sabe que precisa retornar o quanto antes e decide então que o melhor a fazer seria buscar um posto de saúde. Antes de ir para um posto aguardar atendimento, Diego pesquisa seus sintomas na internet antes de seguir à consulta, para ter mais informações do que será importante dizer ao médico que lhe atender. No posto de saúde, ele precisa aguardar por algumas horas até conseguir um atendimento, no qual ele repassa as informações dos seus sintomas ao médico e também confirma que ele aparentemente não é o único que ficou doente do seu cotidiano. Com uma breve conversa eles chegam a uma conclusão de que podem ter contraído os sintomas em um local de descanso que frequentaram dias antes. Com as recomendações e prescrição médica em mãos, Diego se dirige à farmácia, e retorna a casa para prosseguir com o tratamento dos sintomas. Devido ao prazo decorrido, ele precisou ceder toda sua manhã para finalizar seu objetivo principal de se atualizar da sua condição médica com um profissional. |
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner) 2024.* 
+
 </center>
 
-### C03: Solicitar vistoria de local com água parada
-A tabela 4 abaixo especifica o elemento assim como a descrição do cenário especificado.
+### C03: Solicitar vistoria de local com água parada - [Pedro Lucas](https://github.com/lucasdray)
+
+Abaixo se apresenta a tabela 03 com o cenário desenvolvido pelo integrante [Pedro Lucas](https://github.com/lucasdray).
 
 <center>
 
+**Tabela 03** - Solicitar vistoria de local com água parada
+<!-->
 | Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | Solicitar vistoria de local com água parada                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -83,16 +87,20 @@ A tabela 4 abaixo especifica o elemento assim como a descrição do cenário esp
 | Episódios  | - Maria Arlete acessa o site <br> - Ela navega até o menu suspenso e passa o mouse em "Serviços" <br> - Ela clica na opção "Solicitar Vistoria de Água Parada" <br> - Ela escolhe qual opção de login vai realizar ("Login pelo GOV", "Login pelo cadastro da Prefeitura") e realiza o login. Ou solicita a vistoria de modo anônima <br> - Ela move o cursor até os campos de inserção de dados e insere ("Endereço", "Número", "CEP") <br> Ela move o cursor até as opções de "Tipo de imóvel" e seleciona a opção correta <br> - Ela move o cursor até o botão "Captcha" e clica para fazer a verificação <br> - Ela move o cursor até o botão "Finalizar" e clica <br> Ela  <br> - Ela move o cursor até o botão de "Imprimir dados da solicitação" e clica para baixar a confirmação da solicitação |
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
+<-->
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray) 2024.* 
 
-Tabela 4: Solicitar vistoria de local com água parada (Fonte: DOURADO, Pedro Lucas. 2024).
 </center>
 
 
-### C04: Informar luminária queimada no Município
-A tabela abaixo especifica o elemento assim como a descrição do cenário especificado.
+### C04: Informar luminária queimada no Município - [Lucas Heler](https://github.com/Akaeboshi)
+
+Abaixo se apresenta a tabela 04 com o cenário desenvolvido pelo integrante [Lucas Heler](https://github.com/Akaeboshi).
 
 <center>
 
+**Tabela 04** - Informar luminária queimada no Município
+<!-->
 | Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | Informar luminária queimada no Município                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -102,14 +110,20 @@ A tabela abaixo especifica o elemento assim como a descrição do cenário espec
 | Episódios  | - Lucas  acessa o site <br> - Ele navega até o menu suspenso e passa o mouse no ícone do menu "hambúrguer" <br> - Ele clica na opção "Iluminação Pública" <br> - Ele navega até o formulário de "Iluminação Pública – Troca de Lâmpadas" <br> - Ele clica na caixa "Requerente" e insere seu nome completo <br> - Ele clica na caixa "E-mail " e insere seu E-mail <br>  - Ele clica na caixa "Número em frente ao Poste" e insere Número em frente ao Poste <br> - Ele clica na caixa "Endereço do Local do Serviço (poste)" e insere o Endereço do Local do poste <br> - Ele, opcionamente, clica na caixa "Bairro" e insere o bairro da luminária <br> - Ele clica em uma das 3 opções do Tipo de defeito referente ao estado do poste que estaria informando o mal-funcionamento <br> - Ele faz um Captcha Simples <br> Ele clica no botão enviar
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
+*Fonte: [HELER, Lucas](https://github.com/Akaeboshi) 2024.* 
+<-->
 
-Tabela 5: Informar luminária queimada (Fonte: Heler, Lucas. 2024).
 </center>
 
-### C05: Cadastrar e acompanhar reclamação no conselho municipal de educação
-A tabela abaixo especifica o elemento assim como a descrição do cenário especificado.
+### C05: Cadastrar e acompanhar reclamação no conselho municipal de educação - [Cainã Freitas](https://github.com/freitasc)
+
+Abaixo se apresenta a tabela 05 com o cenário desenvolvido pelo integrante [Cainã Freitas](https://github.com/freitasc).
 
 <center>
+
+<!--
+
+**Tabela 05** - Cadastrar e acompanhar reclamação no conselho municipal de educação
 
 | Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -121,10 +135,20 @@ A tabela abaixo especifica o elemento assim como a descrição do cenário espec
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
 
-Tabela 6: Cadastrar e acompanhar reclamação no conselho municipal de educação (Fonte: FREITAS, Cainã. 2024).
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc) 2024.* 
+
+<-->
+
+</center>
 
 
-### C06: Acessar o modulo de contra cheque e consultar processos do servidor
+### C06: Acessar o modulo de contra cheque e consultar processos do servidor - [Augusto Duarte](https://github.com/Augcamp)
+
+Abaixo se apresenta a tabela 06 com o cenário desenvolvido pelo integrante [Augusto Duarte](https://github.com/Augcamp).
+
+<center>
+
+**Tabela 06** - Acessar o modulo de contra cheque e consultar processos do servidor
 
 | Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -135,12 +159,15 @@ Tabela 6: Cadastrar e acompanhar reclamação no conselho municipal de educaçã
 | Episódios  | - Denise acessa o site <br> - Ela navega até "Contra Cheque" <br> - Ela fornece seus dados pessoas e clica em “validar” <br> - Ela clica em "Processo Digital"  <br> - Ela encontra algumas informações sobre o que estava buscando <br> - Ela clica no número do processo  <br>   Ela encontra todas as informações que buscava sobre seus processos de servidora <br>             |
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
+*Fonte: [CAMPOS, Augusto Duarte](https://github.com/Augcamp) 2024.* 
 
-Tabela 7: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
 </center>
 
 ## Bibliografia
-[1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 06/05/2024.
+
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+> Rosson, Mary Beth e Carroll, John M (2002). Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann.
 
 ## Historico de Versões
 
@@ -158,3 +185,4 @@ Tabela 7: Consultar processos do servidor (Fonte: Duarte, Augusto. 2024).
 | 22/05/2024 | `1.7`  |            Adição de Cenário             | [Augusto Duarte](https://github.com/Augcamp)  |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc) |
 | 22/05/2024 | `1.7`  |          Atualização de Cenário          | [Lucas Meireles](https://github.com/Katuner)  |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc) |
 | 06/06/2024 | `2.0`  |          Atualização Cenário 3           |  [Pedro Lucas](https://github.com/lucasdray)  |   11/06/2024    | [Augusto Duarte](https://github.com/Augcamp) |
+| 07/07/2024 | `3.0`  | Reestruturação e correção do documento por completo, reescrita do cenário 02 e padronização do documento | [Lucas Meireles](https://github.com/Katuner)  |   |  |
