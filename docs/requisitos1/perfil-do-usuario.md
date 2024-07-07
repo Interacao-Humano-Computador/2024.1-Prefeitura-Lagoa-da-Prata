@@ -10,22 +10,23 @@ A aplicação do questionário permitiu a coleta de dados de indivíduos diverso
 Abaixo são apresentados as vantagens e desvantagens da aplicação do questionário na pesquisa.
 
 ### Vantagens
-- Método econômico e ágil para implementação.
-- Eficaz na obtenção de dados de uma grande audiência.
-- Requer menos tempo e energia dos participantes em comparação com entrevistas.
-- Efetivo em contextos onde o público está disperso geograficamente.
-- Ao utilizar uma amostra representativa, pode-se generalizar as opiniões da população.
-- Perguntas com opções de resposta limitadas são altamente eficazes na obtenção de dados quantitativos para análise estatística.
+- Permitem coletar dados de um grande número de pessoas.
+- Privilegia perguntas fechadas e de preenchimento rápido.
+- Análise dos dados mais rápida e fácil.
+
 
 ### Desvantagens
 - Se a taxa de participação for baixa, a significância estatística do resultado pode ser comprometida.
 - Deficiências na formulação do questionário podem resultar em respostas em branco, incorretas ou interpretações divergentes da mesma pergunta, levando a erros na identificação de requisitos.
 - Empregar perguntas com respostas abertas requer um esforço adicional na análise das respostas, especialmente em grandes públicos.
+- Taxa de respostas muito variável, podendo ser entre 1% - 95%.
+
+
 
 Abaixo são apresentados as vantages e desvantagens da aplicação da entrevista pessoal na pesquisa.
 
 ### Vantagens
-- Permitem explorar em detalhes as necessidades, preferências e comportamentos dos usuários.
+- Permitem explorar em detalhes as necessidades, preferências e comportamentos dos usuários com perguntas abertas.
 - Permitem capturar nuances e entender o contexto por trás das respostas.
 - Os entrevistadores podem adaptar as perguntas com base nas respostas e reações dos entrevistados.
 - Permitem esclarecer dúvidas ou ambiguidades imediatamente durante a entrevista.
