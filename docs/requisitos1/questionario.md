@@ -193,6 +193,7 @@ A pesquisa foi realizada de forma online, onde o link do questionário foi repas
 </center>
 
 ## Cruzamento de dados
+Após a coleta dos dados do questionário foi feito um cruzamento das respostas encontradas com a finalidade de facilitar a definição do perfil do usuário que será adotado ao longo do projeto. Esse cruzamento de dados estpa disposto a seguir na forma de gráfico nas figuras 18,19 e 20.
 
 Abaixo se encontra a Figura 18, que apresenta um cruzamento das respostas entre a a idade e sexo dos participantes.
 
@@ -204,9 +205,11 @@ Abaixo se encontra a Figura 18, que apresenta um cruzamento das respostas entre 
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner) 2024.* 
 
+</center>
+
 Abaixo se encontra a Figura 19, que apresenta a relação de dados entre o grau de educação dos participantes e a afinidade à tecnologia registrada pelos mesmos.
 
-</center>
+<center>
 
 **Figura 19** - Educação x Afinidade com tecnologias
 
@@ -230,11 +233,11 @@ Por fim, a Figura 20 abaixo apresenta a relação entre o sexo dos participantes
 
 ## Histórico de Versões
 
-|    Data    | Versão |      Descrição       |             Autor(es)              | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :------------------: | :--------------------------------: | :-------------: | :------------------------------------------: |
-| 06/05/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/) |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
-| 10/05/2024 | `1.1`  | Correção pós-entrega | [Lucas Meireles](https://github.com/Katuner) |       |  |
-| 07/07/2024 | `2.0`  | Adição de dados e formatação para entrega final | [Lucas Meireles](https://github.com/Katuner) |       |  |
+|    Data    | Versão |                    Descrição                    |                  Autor(es)                   | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :---------------------------------------------: | :------------------------------------------: | :-------------: | :------------------------------------------: |
+| 06/05/2024 | `1.0`  |              Criação do documento               |      [Pedro Lucas](https://github.com/)      |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
+| 10/05/2024 | `1.1`  |              Correção pós-entrega               | [Lucas Meireles](https://github.com/Katuner) |   07/07/2024    |      [Pedro Lucas](https://github.com/)      |
+| 07/07/2024 | `2.0`  | Adição de dados e formatação para entrega final | [Lucas Meireles](https://github.com/Katuner) |   07/07/2024    |      [Pedro Lucas](https://github.com/)      |
 
 
 
