@@ -27,7 +27,7 @@ Abaixo se encontram as figuras 1,2 e 3 que compõem as 3 páginas do TCLE que se
 
 **Figura 1** - TCLE da Equipe - página 1
 
-  ![Termo Consentimento](../assets/images/Termo%20consentimento/Termo%202.0%20pt1.png)
+  ![Termo Consentimento](../assets/images/Termo%20consentimento/TCLE%202.0%20pt1.png)
 
   *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner) 2024.*
 </center>
@@ -36,7 +36,7 @@ Abaixo se encontram as figuras 1,2 e 3 que compõem as 3 páginas do TCLE que se
 
 **Figura 2** - TCLE da Equipe - página 2
 
-  ![Termo Consentimento](../assets/images/Termo%20consentimento/Termo%202.0%20pt2.png)
+  ![Termo Consentimento](../assets/images/Termo%20consentimento/TCLE%202.0%20pt2.png)
 
   *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner) 2024.*
 </center>
@@ -45,7 +45,7 @@ Abaixo se encontram as figuras 1,2 e 3 que compõem as 3 páginas do TCLE que se
 
 **Figura 3** - TCLE da Equipe - página 3
 
-  ![Termo Consentimento](../assets/images/Termo%20consentimento/Termo%202.0%20pt%203.png)
+  ![Termo Consentimento](../assets/images/Termo%20consentimento/TCLE%202.0%20pt3.png)
 
   *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner) 2024.*
 </center>
@@ -66,8 +66,8 @@ Você está sendo convidado(a) a participar de uma pesquisa científica importan
 A pesquisa visa coletar dados sobre a usabilidade e interações dos usuários potenciais do site da Prefeitura Municipal da Lagoa da Prata e suas funcionalidades para poder proporcionar uma melhor experiência com o site e da comunidade consigo mesma com o auxílio da tecnologia no cotidiano. 
 
 #### 2. Procedimentos:
-Você será solicitado(a) a realizar pequenas tarefas relacionadas às funcionalidades do site da Prefeitura Municipal da Lagoa da Prata. 
-A duração de pesquisa será  de aproximadamente de 10 minutos. Este prazo pode incluir a leitura deste termo e eventuais dúvidas.
+Você será solicitado(a) a realizar pequenas tarefas relacionadas às funcionalidades do site da Prefeitura Municipal da Lagoa da Prata. Estas tarefas podem incluir o preenchimento de questionários ou ainda a interação com protótipos e/ou arquivos produzidos pela equipe de trabalho, com ou sem a presença de perguntas para entrevistas. Esses aspectos devem ser clarificados pelo pesquisador conforme a necessidade da atividade.
+A duração da pesquisa será de aproximadamente de 10 minutos. Este prazo pode incluir a leitura deste termo e eventuais dúvidas.
 A pesquisa não trará riscos ou desconfortos à sua reputação ou emprego, visto que, conforme apresentado abaixo, seus dados não serão divulgados publicamente de forma que seja possível sua identificação, sendo estes dados utilizados individualmente para o desenvolvimento do projeto e pesquisa aqui trabalhados.
 Pode ser pedido ao entrevistado a autorização de gravações e registros audiovisuais do procedimento realizado na pesquisa. Você tem o total direito de aceitar ou negar essa autorização, ou ainda questionar ao entrevistador o motivo por trás da gravação e também pode negociar, quando cabível, a forma do registro, seja ele, por exemplo, registrando apenas as mãos do entrevistado ou com alguma forma de censura ao rosto do participante.
 
