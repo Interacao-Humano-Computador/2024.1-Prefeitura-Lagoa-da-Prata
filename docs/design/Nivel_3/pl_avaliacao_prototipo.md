@@ -90,9 +90,13 @@ Será utilizado a técnica *think aloud* (“pensar em voz alta”) (Ericsson e 
 Nessa atividade o usuário deve realizar o cadastro e em seguida acessar o página de acompanhamento de uma reclamação na ouvidoria.
 O objetivo da tarefa consiste em verificar se o avaliado consegue realizar o cadastro e acompanhamento sem problemas e com uma certa facilidade demonstrando a intuitividade do sistema.
 
-<!--
-##### Acessar o módulo de Contra Cheque e consultar processos do servidor
--->
+
+##### Acessar o módulo de Contra Cheque e consultar processos do servidor - Augusto Duarte
+
+Nessa atividade o usuário deve acessar o contra cheque e consuldtar os processos do servidor. O objetivo da tarefa consiste em verificar se o avaliado consegue de forma intuitiva e com facilidade acessar o contra cheque e consultar os processos.
+Para isso o avaliado irá acessar o menu hamburguer e atráves dele acessar a página de "Contra Cheque" realizar o login, acessar o página de "Processo Digital" e assim conseguir consultar os processos.    
+
+
 
 ##### Registrar e verificar o panorama de saúde da cidade - Lucas Meireles
 Nessa atividade, o usuário deverá registrar seu estado de saúde, simulando tanto uma pessoa em um estado bom quanto mal. O usuário também deverá interagir com o mapa panorâmico de saúde da cidade.
@@ -153,3 +157,4 @@ Os resultados da avaliação serão analisados e interpretados pelos avaliadores
 |         Data          | Versão |            Descrição            |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :-------------------: | :----: | :-----------------------------: | :-----------------------------------------: | :-------------: | :---------: |
 | 16/06/2024 - 17/06/2024 | `1.0`  | Elaboração inicial do documento | [Pedro Lucas](https://github.com/lucasdray) | 19/06/2024      | [Lucas Meireles](https://github.com/Katuner)     |
+| 07/07/2024              | `1.1`  | Adição da descrição da funcionalidade | [Augusto Duarte](https://github.com/Augcamp) |      |      |
