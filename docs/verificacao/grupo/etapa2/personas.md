@@ -145,7 +145,166 @@ Para a correção da persona avaliada, sugerem-se os itens a seguir:
 - Incluir habilidades da persona.
 - Incluir organização das informações do trabalho da persona.
 
-### Persona Diego Lima - Lucas Meirelles
+## Persona Eduardo Silva - Responsável [Cainã Freitas](https://github.com/freitasc)
+
+Aqui serão dispostos os resultados da verificação do artefato ["Personas"](../../../requisitos1/personas.md), com direcionamento à persona "Eduardo Silva", proposta pelo membro [Cainã Freitas](https://github.com/freitasc), feitos pelo integrante [Augusto Duarte](https://github.com/Augcamp) conforme o [planejamento da verificação](planejamento.md).
+
+#### Inspeção
+
+Abaixo se encontra o Vídeo 3, referente à inspeção realizada ao artefato ["Personas"](../../../requisitos1/personas.md), com direcionamento à persona "Eduardo Silva".
+
+<center>
+
+**Vídeo 3** - Gravação da inspeção da "Persona" - Eduardo Silva.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q5nC4qWaFk8?si=ZA7E4-xT9TNsWIjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Acesso disponível em: <https://www.youtube.com/watch?v=q5nC4qWaFk8>
+
+</center>
+
+#### Checklists
+
+<center>
+
+A tabela 5 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio](https://github.com/joycejdm) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Augusto Duarte](https://github.com/Augcamp).
+
+| ID  | Descrição  | Avaliação  | Observações  | Fonte  |
+| :-: | ---------  | ---------  | -----------  | -----  |
+| 44  | A persona tem um nome e sobrenome representativo do perfil do usuário?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 45  | São fornecidas a idade e outras informações demográficas da persona?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 46  | A persona inclui uma foto para tornar sua representação mais realista?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 47  | A persona é definida como primária, secundária, outro stakeholder ou antiusuário?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 48  | Está claro qual é o papel da persona no sistema?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 49  | Os objetivos da persona são claramente definidos?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 50  | Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 51  | As habilidades da persona, incluindo educação, treinamento e competências específicas, são descritas?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 52  | Essas habilidades são relevantes para a interação com o produto?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 53  | As tarefas básicas ou críticas que a persona realiza são claramente descritas?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 54  | A frequência, importância e duração dessas tarefas são especificadas?  | INCOMPLETO  | As tarefas não tem a duração especificada.  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 55  | Os relacionamentos da persona com outros stakeholders são identificados?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 56  | As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 57  | As expectativas da persona sobre como o produto deve funcionar estão claramente definidas?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 58  | A organização das informações no domínio ou trabalho da persona é descrita?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+
+Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024
+</center>
+
+
+### Acompanhamento 
+
+A figura 03 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 5.
+
+<center>
+
+**Figura 03** - Gráfico dos resultados da Persona "Eduardo Silva" 
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRcmR4qQg-l_N1LtAHpMdDeaYhnQBNL4a3Khhe0EhPRJ7XaTa0m9bumDuol8_yqx4PA00f_VwJkhrY/pubchart?oid=1741849523&amp;format=image"></iframe>
+
+*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+
+</center>
+
+#### Problemas encontrados
+
+Abaixo se encontra a lista de problemas encontrados na persona avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
+
+**ID 54** - A frequência, importância e duração dessas tarefas são especificadas?
+
+- As tarefas não têm a duração especificada, o que impede a compreensão completa da carga de trabalho e da relevância das tarefas para a persona. 
+
+
+#### Sugestões de correção
+
+Para a correção da persona avaliada, sugerem-se os itens a seguir:
+
+- Adicionar a duração das tarefas realizadas pela persona. Isso ajudará a entender melhor a carga de trabalho e a importância de cada tarefa no contexto da interação com o produto. Detalhar a frequência e a importância das tarefas realizadas para proporcionar uma visão mais completa das atividades da persona.
+
+### Persona Maria Oliveira - Joyce Dionizio
+
+Aqui serão dispostos os resultados da verificação do artefato ["Personas"](../../../requisitos1/personas.md), com direcionamento à persona "Maria Oliveira", proposta pelo membro [Joyce Dionizio](https://github.com/joycejdm), feitos pelo integrante [Cainã Freitas](https://github.com/freitasc) conforme o [planejamento da verificação](planejamento.md).
+
+#### Inspeção
+
+Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["Personas"](../../../requisitos1/personas.md), com direcionamento à persona "Maria Oliveira".
+
+<center>
+
+**Vídeo 1** - Gravação da inspeção da "Persona" - Maria Oliveira.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q5nC4qWaFk8?si=ZA7E4-xT9TNsWIjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Acesso disponível em: <https://www.youtube.com/watch?v=q5nC4qWaFk8>
+
+</center>
+
+#### Checklists
+
+<center>
+
+A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio](https://github.com/joycejdm) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Cainã Freitas](https://github.com/freitasc).
+
+| ID  | Descrição  | Avaliação  | Observações  | Fonte  |
+| :-: | ---------  | ---------  | -----------  | -----  |
+| 44  | A persona tem um nome e sobrenome representativo do perfil do usuário?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 45  | São fornecidas a idade e outras informações demográficas da persona?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 46  | A persona inclui uma foto para tornar sua representação mais realista?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 47  | A persona é definida como primária, secundária, outro stakeholder ou antiusuário?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 48  | Está claro qual é o papel da persona no sistema?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 49  | Os objetivos da persona são claramente definidos?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 50  | Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 51  | As habilidades da persona, incluindo educação, treinamento e competências específicas, são descritas?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 52  | Essas habilidades são relevantes para a interação com o produto?  | NÃO  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 53  | As tarefas básicas ou críticas que a persona realiza são claramente descritas?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 54  | A frequência, importância e duração dessas tarefas são especificadas?  | INCOMPLETO  | As tarefas não tem a duração especificada.  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 55  | Os relacionamentos da persona com outros stakeholders são identificados?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 56  | As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 57  | As expectativas da persona sobre como o produto deve funcionar estão claramente definidas?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+| 58  | A organização das informações no domínio ou trabalho da persona é descrita?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
+
+Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024
+</center>
+
+
+### Acompanhamento 
+
+A figura 01 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 3.
+
+<center>
+
+**Figura 01** - Gráfico dos resultados de Persona
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/verificacao/personas/personas.png" >
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+
+</center>
+
+#### Problemas encontrados
+
+Abaixo se encontra a lista de problemas encontrados na persona avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
+
+- **ID 52** - Essas habilidades são relevantes para a interação com o produto?
+
+<p>
+    As habilidades (habilidades domésticas e de organização) não correspondem às habilidades necessárias para a interação com o produto (conhecimento basico de informática e habilidades de navegação na internet).
+</p>
+
+- **ID 54** - A frequência, importância e duração dessas tarefas são especificadas?
+
+<p>
+    As tarefas não têm a duração especificada, o que impede a compreensão completa da carga de trabalho e da relevância das tarefas para a persona. 
+</p>
+
+
+#### Sugestões de correção
+
+Para a correção da persona avaliada, sugerem-se os itens a seguir:
+
+- Adicionar a duração das tarefas realizadas pela persona. Isso ajudará a entender melhor a carga de trabalho e a importância de cada tarefa no contexto da interação com o produto. Detalhar a frequência e a importância das tarefas realizadas para proporcionar uma visão mais completa das atividades da persona.
+- Alterar as habilidades da persona para refletir as habilidades necessárias para a interação com o produto. Isso ajudará a garantir que a persona seja representativa do público-alvo do produto.
+
+### Persona Diego Lima - Lucas Meireles
 
 Aqui serão dispostos os resultados da verificação do artefato ["Personas"](../../../requisitos1/personas.md), com direcionamento à persona "Diego Lima", proposta pelo membro [Lucas Meireles](https://github.com/Katuner), feitos pelo integrante [Joyce Dionizio](https://github.com/joycejdm) conforme o [planejamento da verificação](planejamento.md).
 
@@ -221,82 +380,6 @@ Para a correção da persona avaliada, sugerem-se os itens a seguir:
 
 - Adicionar a duração das tarefas realizadas pela persona. Isso ajudará a entender melhor a carga de trabalho e a importância de cada tarefa no contexto da interação com o produto. Detalhar a frequência e a importância das tarefas realizadas para proporcionar uma visão mais completa das atividades da persona.
 
-
-
-## Persona Eduardo Silva - Responsável [Cainã Freitas](https://github.com/freitasc)
-
-Aqui serão dispostos os resultados da verificação do artefato ["Personas"](../../../requisitos1/personas.md), com direcionamento à persona "Eduardo Silva", proposta pelo membro [Cainã Freitas](https://github.com/freitasc), feitos pelo integrante [Augusto Duarte](https://github.com/Augcamp) conforme o [planejamento da verificação](planejamento.md).
-
-#### Inspeção
-
-Abaixo se encontra o Vídeo 3, referente à inspeção realizada ao artefato ["Personas"](../../../requisitos1/personas.md), com direcionamento à persona "Eduardo Silva".
-
-<center>
-
-**Vídeo 3** - Gravação da inspeção da "Persona" - Eduardo Silva.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q5nC4qWaFk8?si=ZA7E4-xT9TNsWIjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Acesso disponível em: <https://www.youtube.com/watch?v=q5nC4qWaFk8>
-
-</center>
-
-#### Checklists
-
-<center>
-
-A tabela 5 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio](https://github.com/joycejdm) durante o [planejamento da verificação](planejamento.md) com suas verificações e observações feitas pela inspeção do integrante [Augusto Duarte](https://github.com/Augcamp).
-
-| ID  | Descrição  | Avaliação  | Observações  | Fonte  |
-| :-: | ---------  | ---------  | -----------  | -----  |
-| 44  | A persona tem um nome e sobrenome representativo do perfil do usuário?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 45  | São fornecidas a idade e outras informações demográficas da persona?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 46  | A persona inclui uma foto para tornar sua representação mais realista?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 47  | A persona é definida como primária, secundária, outro stakeholder ou antiusuário?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 48  | Está claro qual é o papel da persona no sistema?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 49  | Os objetivos da persona são claramente definidos?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 50  | Os objetivos incluem metas além do produto específico, abrangendo aspectos pessoais e profissionais?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 51  | As habilidades da persona, incluindo educação, treinamento e competências específicas, são descritas?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 52  | Essas habilidades são relevantes para a interação com o produto?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 53  | As tarefas básicas ou críticas que a persona realiza são claramente descritas?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 54  | A frequência, importância e duração dessas tarefas são especificadas?  | INCOMPLETO  | As tarefas não tem a duração especificada.  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 55  | Os relacionamentos da persona com outros stakeholders são identificados?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 56  | As necessidades da persona são detalhadas e incluem citações que ajudam a entender essas necessidades?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 57  | As expectativas da persona sobre como o produto deve funcionar estão claramente definidas?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-| 58  | A organização das informações no domínio ou trabalho da persona é descrita?  | SIM  | -  | [Página 168](https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/verificacao/personas/id44.png?raw=true)  |
-
-Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024
-</center>
-
-
-### Acompanhamento 
-
-A figura 03 abaixo apresenta o gráfico "pizza" referente às respostas da verificação da tabela 5.
-
-<center>
-
-**Figura 03** - Gráfico dos resultados da Persona "Eduardo Silva" 
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRcmR4qQg-l_N1LtAHpMdDeaYhnQBNL4a3Khhe0EhPRJ7XaTa0m9bumDuol8_yqx4PA00f_VwJkhrY/pubchart?oid=1741849523&amp;format=image"></iframe>
-
-*Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
-
-</center>
-
-#### Problemas encontrados
-
-Abaixo se encontra a lista de problemas encontrados na persona avaliada, utilizando também como referência o ID das perguntas conforme dispostos na tabela 3 para melhor localização.
-
-**ID 54** - A frequência, importância e duração dessas tarefas são especificadas?
-
-- As tarefas não têm a duração especificada, o que impede a compreensão completa da carga de trabalho e da relevância das tarefas para a persona. 
-
-
-#### Sugestões de correção
-
-Para a correção da persona avaliada, sugerem-se os itens a seguir:
-
-- Adicionar a duração das tarefas realizadas pela persona. Isso ajudará a entender melhor a carga de trabalho e a importância de cada tarefa no contexto da interação com o produto. Detalhar a frequência e a importância das tarefas realizadas para proporcionar uma visão mais completa das atividades da persona.
 
 ### Persona Maria Arlete - Pedro Lucas Dourado
 
@@ -417,3 +500,4 @@ Para a correção da persona avaliada, sugerem-se os itens a seguir:
 | `1.1`  | 26/06/2024 |         Adiciona inspecão persona         | [Joyce Dionizio](https://github.com/joycejdm) |   26/06/2023    |             |
 | `1.2`  | 26/06/2024 |      Adiciona persona 1 Joao Marques      |  [Pedro Lucas](https://github.com/lucasdray)  |                 |             |
 | `1.3`  | 26/06/2024 |      Adiciona persona Eduardo Silva       |  [Augusto Duarte](https://github.com/Augcamp) |                 |             |
+| `1.4` | 07/07/2024 | Ajusta posições e corrige inspeção do membro Cainã | [Lucas Meireles](https://github.com/Katuner)|   |    |
