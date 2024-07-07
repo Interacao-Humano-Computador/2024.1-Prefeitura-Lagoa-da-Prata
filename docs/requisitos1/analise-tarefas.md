@@ -2,27 +2,26 @@
 
 ## Introdução
 
-&emsp;&emsp;Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir. [1]
-<br>
-&emsp;&emsp;No contexto da análise de tarefas, uma abordagem valiosa é a identificação da situação atual, seja ela suportada ou não por um sistema computacional. Essa análise pode ser empregada tanto para o (re)design de sistemas quanto para avaliar os resultados de intervenções que incluam a introdução de novos sistemas computacionais. Um dos passos iniciais cruciais nesse processo é a coleta dos objetivos das pessoas ao interagirem com o sistema em análise.
-<br>
-&emsp;&emsp;O site da Prefeitura da Lagoa da Prata é um site majoritariamente informativo, disponibilizando de uma gama de informações. O usuário pode acessar informações como: Fila de espera de creches munipais; lista de medicamentos disponíveis; calendário de eventos relacionados ao municipio; entre outros tipos de informação.
+Segundo Bruno Silva e Simone Barbosa [1], uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir.
+
+No contexto da análise de tarefas, uma abordagem valiosa é a identificação da situação atual, seja ela suportada ou não por um sistema computacional. Essa análise pode ser empregada tanto para o (re)design de sistemas quanto para avaliar os resultados de intervenções que incluam a introdução de novos sistemas computacionais. Um dos passos iniciais cruciais nesse processo é a coleta dos objetivos das pessoas ao interagirem com o sistema em análise.
+
+O site da [Prefeitura da Lagoa da Prata](https://www.lagoadaprata.mg.gov.br/) é majoritariamente informativo, disponibilizando de uma gama de informações. O usuário pode acessar informações como: Fila de espera de creches munipais; lista de medicamentos disponíveis; calendário de eventos relacionados ao municipio; entre outros tipos de informação.
 
 ## Metodologia
 
-&emsp;&emsp;A metodologia para o desenvolvimento das análises de tarefas foi estabelecida com o objetivo de explorar diversas técnicas, selecionando aquela mais adequada para cada tarefa em questão. As técnicas escolhidas foram a AHT (Análise Hierárquica de Tarefas) e o CMN-GOMS (Card, Moran e Newell GOMS). Essa análise é fundamental para identificar o fluxo de passos das tarefas, permitindo a identificação de áreas que necessitam de melhorias.
+A metodologia para o desenvolvimento das análises de tarefas foi estabelecida com o objetivo de explorar diversas técnicas, selecionando aquela mais adequada para cada tarefa em questão. As técnicas escolhidas foram a AHT (Análise Hierárquica de Tarefas) [2] e o CMN-GOMS (Card, Moran e Newell GOMS) [3]. Essa análise é fundamental para identificar o fluxo de passos das tarefas, permitindo a identificação de áreas que necessitam de melhorias.
 
-Para este projeto, serão utilizadas ambas as técnicas mencionadas anteriormente, realizando uma ligação direta com os cenários estabelecidos e utilizando
-tarefas que podem ser associadas às personas declaradas. A forma da AHT será utilizada principalmente em tarefas complexas que não são repetitivas e podem assumir diversas dependências. Já o CMN-GOMS será utilizado como base geral para os cenários e análise das etapas para se alcançar o objetivo primário.
+Para este projeto, serão utilizadas ambas as técnicas mencionadas anteriormente, realizando uma ligação direta com os [Cénarios](cenarios.md) estabelecidos e utilizando tarefas que podem ser associadas às personas declaradas. A forma da AHT será utilizada principalmente em tarefas complexas que não são repetitivas e podem assumir diversas dependências. Já o CMN-GOMS será utilizado como base geral para os cenários e análise das etapas para se alcançar o objetivo primário.
 
 ## HTA - Análise Hierárquica de Tarefas
 
+Desenvolvida na década de 1960, a Análise Hierárquica de Tarefas (HTA) é uma ferramenta empregada para compreender as competências e habilidades necessárias para realizar tarefas complexas e não repetitivas. Além disso, é valiosa para identificar problemas de desempenho. A HTA facilita a compreensão das relações entre as ações das pessoas, os motivos que as impulsionam e as consequências caso essas ações não sejam executadas corretamente.
 
-&emsp;&emsp;Desenvolvida na década de 1960, a Análise Hierárquica de Tarefas (HTA) é uma ferramenta empregada para compreender as competências e habilidades necessárias para realizar tarefas complexas e não repetitivas. Além disso, é valiosa para identificar problemas de desempenho. A HTA facilita a compreensão das relações entre as ações das pessoas, os motivos que as impulsionam e as consequências caso essas ações não sejam executadas corretamente.
+A Tabela 1 abaixo apresenta os elementos de uma análise hierárquica de tarefas.
 
-
-&emsp;&emsp;A Tabela 1 abaixo apresenta os elementos de uma análise hierárquica de tarefas.
 <center>
+
 **Tabela 1** - Elementos de uma HTA
 
 | Elemento     | Descrição                                                                                                                                                                            |
@@ -34,24 +33,31 @@ tarefas que podem ser associadas às personas declaradas. A forma da AHT será u
 | Operação:    | As circunstâncias em que o objetivo é ativado (entrada), as atividades ou ações que contribuem para alcançá-lo e as condições que indicam o seu alcance (feedback).                  |
 
  *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+
 </center>
-Abaixo se encontra a Figura 1 que contém a legenda dos elementos encontrados em um diagrama HTA.
+
+
+Os planos podem possuir relações entre os subobjetivos, como: sequência fixa (um objetivo deve ser atingido antes do próximo); regra de seleção ou decisão (quais objetivos que deverão ser atin-gidos dependem das circunstâncias); ou em paralelo (mais de um objetivo deve ser atingido ao mesmo tempo). A Figura 1 apresenta a forma gráfica de representação dessas relações.
+
 <center>
+
 **Figura 1** - Elementos de um diagrama HTA
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/elementosHTA.png" width="100%">
 
  *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+
 </center>
-<p align="justify">
-
-&emsp;&emsp;Os planos podem possuir relações entre os subobjetivos, como: sequência fixa (um objetivo deve ser atingido antes do próximo); regra de seleção ou decisão (quais objetivos que deverão ser atin-gidos dependem das circunstâncias); ou em paralelo (mais de um objetivo deve ser atingido ao mesmo tempo). A Figura 1 apresenta a forma gráfica de representação dessas relações.
-</p>
 
 
 
-### Análise da Tarefa HTA 1: Cadastrar e acompanhar uma reclamação na ouvidoria
+
+
+
+### Análise da Tarefa HTA 1: Cadastrar e acompanhar uma reclamação na ouvidoria - Cainã
 Abaixo se encontra a tabela 2 e figura 2 referentes a tarefa de Cadastrar e acompanhar uma reclamação na ouvidoria, ambas feitas pelo integrante do grupo [Cainã Freitas](https://github.com/freitasc):
+
 <center>
+
 **Tabela 2** - HTA da Tarefa: Cadastrar e uma reclamação na ouvidoria
 
 | Objetivos / Operações                              | Relações | Problemas / Recomendações                                                                                                                                                                                                                                                              |
@@ -80,15 +86,18 @@ Abaixo se encontra a tabela 2 e figura 2 referentes a tarefa de Cadastrar e acom
 
 **Figura 2** - Diagrama HTA da Tarefa: Cadastrar e acompanhar uma reclamação na ouvidoria
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_ouvidoria.png" width="100%">
-*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+
+w*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+
 </center>
 
 
-### Análise da Tarefa HTA 2: Cadastro Antecipado de Aluno
+### Análise da Tarefa HTA 2: Cadastro Antecipado de Aluno - Joyce
 Abaixo se encontra a tabela 3 e figura 3 referentes a tarefa de Cadastro Antecipado de Aluno, ambas feitas pelo integrante do grupo [Joyze Dionizio](https://github.com/joycejdm):
-<center>
-**Tabela 3** - HTA da Tarefa: Cadastro Antecipado de Aluno
 
+<center>
+
+**Tabela 3** - HTA da Tarefa: Cadastro Antecipado de Aluno
 
 | Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
 |------------------------------------------------------|---------------|----------------------------------------------------------|
@@ -124,10 +133,11 @@ Abaixo se encontra a tabela 3 e figura 3 referentes a tarefa de Cadastro Antecip
 *Fonte: [DIONIZIO,Joyce](https://github.com/joycejdm). 2024.*
 </center>
 
-### Análise da Tarefa HTA 3: Acessar o módulo de Contra Cheque e consultar processos do servidor 
+### Análise da Tarefa HTA 3: Acessar o módulo de Contra Cheque e consultar processos do servidor  - Augusto
 Abaixo se encontra a tabela 4 e figura 4 referentes a tarefa de Acessar o módulo de Contra Cheque e consultar processos do servidor , ambas feitas pelo integrante do grupo [Augusto Duarte](https://github.com/Augcamp):
 
 <center>
+
 **Tabela 4** - HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor
 
 |    Objetivos/Operações    |    Relações    |    Problemas e recomendações    |
@@ -146,9 +156,10 @@ Abaixo se encontra a tabela 4 e figura 4 referentes a tarefa de Acessar o módul
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA2.png" width="100%">
 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
+
 </center>
 
-### Análise da Tarefa HTA 4: Registrar e verificar o panorama de saúde da cidade
+### Análise da Tarefa HTA 4: Registrar e verificar o panorama de saúde da cidade - Lucas Heler
 Abaixo se encontra a tabela 5 e figura 5 referentes a tarefa de Registrar e verificar o panorama de saúde da cidade, ambas feitas pelo integrante do grupo [Lucas Meireles](https://github.com/Katuner):
 
 <center>
@@ -229,9 +240,19 @@ Abaixo se encontra tanto a tabela 6 e imagem 6 representando o diagrama HTA rela
 
 ## CNM-GOMS
 
-&emsp;&emsp;O GOMS (Goals, Operators, Methods, and Selection Rules - Objetivos, Operadores, Métodos e Regras de Seleção) é um conjunto de modelos utilizados para análise de tarefas. O CMN-GOMS (Card, Moran e Newell GOMS) é um desses modelos e consiste em uma hierarquia bem definida de objetivos representados em forma de programa, permitindo assim uma análise executável. (Barbosa e Silva, 2010)
+O GOMS (Goals, Operators, Methods, and Selection Rules - Objetivos, Operadores, Métodos e Regras de Seleção) é um conjunto de modelos utilizados para análise de tarefas [1]. O CMN-GOMS (Card, Moran e Newell GOMS) é um desses modelos e consiste em uma hierarquia bem definida de objetivos representados em forma de programa, permitindo assim uma análise executável. (Barbosa e Silva, 2010) [1]
 
-## Legenda
+### Motivo da escolha
+Com base na fala do entrevistado encontrada na [entrevista](entrevista.md) com relação a utilizar apenas serviços específicos do site da Prefeitura, foi decidido utilizar o CNM-GOMS pois, essa análise se aplica principalmente a situações em que os usuários realizam tarefas que já dominam [1].
+Além disso como a maioria das tárefas análisadas são propostas de implementações para o site com esse método de análise podemos identificar pontos específicos em que os usuários podem se confundir ou cometer erros, erros esses que podem passar despercebidos na criação de uma funcionalidade nova para o site.
+
+### Legenda
+Abaixo segue a tabela 07 que contém a legenda do seignificado de GOMS, contendo o termo, tradução e descrição de cada todos sendo retirados do livro Interação Humano Computador de Bruno Silva e Simone Barbosa [1]:
+
+<center>
+
+**Tabela 07** - Legenda GOMS
+
 | Termo    | Tradução         | Descrição                                                             |
 | -------- | ---------------- | --------------------------------------------------------------------- |
 | Goal     | Objetivo         | O que o usuário quer realizar utilizando o sistema                    |
@@ -239,31 +260,13 @@ Abaixo se encontra tanto a tabela 6 e imagem 6 representando o diagrama HTA rela
 | METHOD   | Método           | Sequência de subobjetivos e operadores para atingir um objetivo maior |
 | SEL.RULE | Regra de seleção | Tomada de decisão sobre qual método utilizar                          |
 
-### Análise da Tarefa CNM-GOMS 1: Consultar quantidade de DIPIRONA na lista de medicamentos disponíveis
-```
-Goal 0: Consultar lista de medicamentos disponíveis
-  Goal 1: Encontrar serviços de pessoa física
-    METHOD 1.A: Encontrar através do menu GOVERNO
-    (SEL.RULE: peferência do usuário)
-        OP: Levar cursor até menu "SERVIÇOS PARA O CIDADÃO"
-        OP: Levar cursor até menu "LISTA DE MEDICAMENTOS DISPONIVEIS"
-        OP: Levar cursor até botão "ACESSAR"
-        OP: Clicar com o botão esquerdo do mouse
-    METHOD 1.B: Encontrar através da aba de pesquisa
-    (SEL.RULE: peferência do usuário)
-        OP: Levar cursor até barra de pesquisa
-        OP: Clicar com o botão esquerdo do mouse
-        OP: Digitar "medicamentos"
-        OP: Levar cursor até botão de pesquisa
-        OP: Clicar com o botão esquerdo do mouse
-        OP: Levar cursor até "LISTA DE MEDICAMENTOS DISPONIVEIS"
-  Goal 2: Pesquisar medicamento
-    OP: Apertar botões "CTRL" + "F"
-    OP: Digitar "DIPIRONA"
-    OP: Consultar valor no lado direito da lista
-```
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray)
 
-### Análise da Tarefa CNM-GOMS 2: Cadastro Antecipado de Aluno
+</center>
+
+Abaixo estão listadas as análises de tarefas utilizando CNM-GOMS e o autor da análise:
+
+### Análise da Tarefa CNM-GOMS 1: Cadastro Antecipado de Aluno - (Fonte: DIONIZIO, Joyce. 2024).
 ```
 
 Goal 0: Realizar cadastro antecipado de aluno para matrícula escolar
@@ -299,26 +302,7 @@ Goal 0: Realizar cadastro antecipado de aluno para matrícula escolar
 
 ```
 
-### Análise da Tarefa CNM-GOMS 3: Visualizar e baixar editais de concursos e processos seletivos
-```
-
-Goal 0: Visualizar e baixar editais de concursos e processos seletivos
-  Goal 1: Acessar o site da prefeitura municipal
-    METHOD: Acessar atráves do menu “EDITAIS”
-        OP: Levar o cursor do mouse até o menu “EDITAIS” 
-        OP: Localizar Concursos e Processos Seletivos
-        OP: Levar o cursor do mouse até Concursos e Processos Seletivos
-        OP: Clicar com o botão esquerdo do mouse
-  Goal 2: Visualizar e baixar editais de concursos e processos seletivos
-    OP: Localizar o edital desejado
-    OP: Clicar com o botão esquerdo do mouse 
-    OP: Localizar “Arquivos”
-    OP: Levar o cursor do mouse até “Arquivos”
-    OP: Clicar com o botão esquerdo do mouse
-    OP: Na nova página, localizar “EDITAL” na parte inferior para acessar o PDF
-    OP: Clicar no botão/link para abrir o PDF
-```
-### Análise da Tarefa CNM-GOMS 4: Registrar e verificar o panorama de saúde da cidade
+### Análise da Tarefa CNM-GOMS 2: Registrar e verificar o panorama de saúde da cidade - (Fonte: MEIRELES, Lucas. 2024).
 ```
 Goal 0: Registrar e verificar o panorama de saúde da cidade
   Goal 1: Encontrar Registro de Estado de Saúde
@@ -381,7 +365,7 @@ Goal 0: Registrar e verificar o panorama de saúde da cidade
 ```
 
 
-### Análise da Tarefa CNM-GOMS 6: Cadastrar e acompanhar status de uma reclamação no conselho municipal de educação sobre uma escola do municipio da lagoa da prata
+### Análise da Tarefa CNM-GOMS 3: Cadastrar e acompanhar status de uma reclamação na ouvidoria - (Fonte: FREITAS, Cainã. 2024).
 ```
 Goal 0: Cadastrar e acompanhar status de uma reclamação
   Goal 1: Encontrar Ouvidoria
@@ -455,7 +439,7 @@ Goal 0: Cadastrar e acompanhar status de uma reclamação
  
 
 
-### Análise da Tarefa CNM-GOMS 6: Acessar o modulo de contra cheque e consultar processos do servidor
+### Análise da Tarefa CNM-GOMS 4: Acessar o modulo de contra cheque e consultar processos do servidor (Fonte: DUARTE, Augusto. 2024).
 ```
 Goal 0: Acessar o modulo de contra cheque e consultar processos do servidor
   Goal 1: Acessar página do Contra Cheque
@@ -480,7 +464,7 @@ Goal 0: Acessar o modulo de contra cheque e consultar processos do servidor
 	  OP: Clicar com o botão esquerdo do mouse 
 ```
 
-### Análise da Tarefa CNM-GOMS 7: Informar luminária queimada no Município
+### Análise da Tarefa CNM-GOMS 5: Informar luminária queimada no Município (Fonte: HELER, Lucas. 2024).
 ```
 Goal 0: Informar luminária queimada no Município
   Goal 1: Acessar a página sobre iluminação pública
@@ -554,7 +538,7 @@ Goal 0: Informar luminária queimada no Município
       OP: Visualizar a situação e atualizações do protocolo
 ```
 
-### Análise da Tarefa CNM-GOMS 8: Solicitar vistoria de água parada (Fonte: DOURADO, Pedro Lucas. 2024).
+### Análise da Tarefa CNM-GOMS 6: Solicitar vistoria de água parada (Fonte: DOURADO, Pedro Lucas. 2024).
 ```
   Goal 0: Solicitar vistoria de água parada
 
@@ -715,20 +699,27 @@ Goal 0: Informar luminária queimada no Município
 
 
 ```
+## Bibliografia
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+> [2] Annett, John (2003). Hierarchical Task Analysis. In The Handbook of Task Analysis for Human-Computer Interaction, pages 67–82. Lawrence Erlbaum.
+
+> [3] Card, Stuart K., Newell, Allen, e Moran, Thomas P. (1983). The Psychology of Human-Computer Interaction. L. Erlbaum Associates Inc., USA.
 
 
 ## Historico de Versões
 
-|    Data    | Versão |                               Descrição                                |                   Autor(es)                   |    Data de revisão     |                                        Revisor(es)                                        |
-| :--------: | :----: | :--------------------------------------------------------------------: | :-------------------------------------------: | :--------------------: | :---------------------------------------------------------------------------------------: |
-| 06/05/2024 | `1.0`  |                          Criação do documento                          | [Cainã Freitas](https://github.com/freitasc)  |       07/05/2024       |                       [Lucas Meireles](https://github.com/Katuner)                        |
-| 06/05/2024 | `1.1`  |                      Adição de Análise de Tarefas                      | [Joyce Dionizio](https://github.com/joycejdm) |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
-| 06/05/2024 | `1.2`  |                     Adição de Análise de Tarefas 3                     | [Augusto Duarte](https://github.com/Augcamp)  |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
-| 06/05/2024 | `1.3`  |                     Adição de Análise de Tarefas 4                     | [Lucas Meireles](https://github.com/Katuner)  |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
-| 07/05/2024 | `1.4`  |                     Adição de Análise de Tarefas 5                     |  [Pedro Lucas](https://github.com/lucasdray)  |       07/05/2024       |                        [Lucas Heler](https://github.com/akaeboshi)                        |
-| 07/05/2024 | `1.5`  |                   Adição de Análise de Tarefas HTA 1                   |  [Lucas Heler](https://github.com/akaeboshi)  |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
-| 10/05/2024 | `1.6`  | Edição de Análise de Tarefa e correção pós entrega ponto de controle 2 | [Lucas Meireles](https://github.com/Katuner)  |       13/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
-| 22/05/2024 | `1.7`  |                  Adição de Análise de Tarefas 6 e HTA                  |  [Lucas Heler](https://github.com/Akaeboshi)  |       22/05/2024       |                       [Cainã Freitas](https://github.com/freitasc)                        |
-| 22/05/2024 | `1.8`  |                            Adição de tarefa                            | [Joyce Dionizio](https://github.com/joycejdm) |       22/05/2024       | [Cainã Freitas](https://github.com/freitasc), [Pedro Lucas](https://github.com/lucasdray) |
-| 06/06/2024 | `2.0`  |                            Adição de HTA 6                             |  [Pedro Lucas](https://github.com/lucasdray)  |       11/06/2024       |                       [Augusto Duarte](https://github.com/Augcamp)                        |
-| 07/06/2024 | `2.1`  |                           Adição CNM-GOMS 8                            |  [Pedro Lucas](https://github.com/lucasdray)  | 11/06/2024, 17/06/2024 | [Augusto Duarte](https://github.com/Augcamp), [Pedro Lucas](https://github.com/lucasdray) |
+|    Data     | Versão |                                  Descrição                                   |                   Autor(es)                   |    Data de revisão     |                                        Revisor(es)                                        |
+| :---------: | :----: | :--------------------------------------------------------------------------: | :-------------------------------------------: | :--------------------: | :---------------------------------------------------------------------------------------: |
+| 06/05/2024  | `1.0`  |                             Criação do documento                             | [Cainã Freitas](https://github.com/freitasc)  |       07/05/2024       |                       [Lucas Meireles](https://github.com/Katuner)                        |
+| 06/05/2024  | `1.1`  |                         Adição de Análise de Tarefas                         | [Joyce Dionizio](https://github.com/joycejdm) |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 06/05/2024  | `1.2`  |                        Adição de Análise de Tarefas 3                        | [Augusto Duarte](https://github.com/Augcamp)  |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 06/05/2024  | `1.3`  |                        Adição de Análise de Tarefas 4                        | [Lucas Meireles](https://github.com/Katuner)  |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 07/05/2024  | `1.4`  |                        Adição de Análise de Tarefas 5                        |  [Pedro Lucas](https://github.com/lucasdray)  |       07/05/2024       |                        [Lucas Heler](https://github.com/akaeboshi)                        |
+| 07/05/2024  | `1.5`  |                      Adição de Análise de Tarefas HTA 1                      |  [Lucas Heler](https://github.com/akaeboshi)  |       07/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 10/05/2024  | `1.6`  |    Edição de Análise de Tarefa e correção pós entrega ponto de controle 2    | [Lucas Meireles](https://github.com/Katuner)  |       13/05/2024       |                        [Pedro Lucas](https://github.com/lucasdray)                        |
+| 22/05/2024  | `1.7`  |                     Adição de Análise de Tarefas 6 e HTA                     |  [Lucas Heler](https://github.com/Akaeboshi)  |       22/05/2024       |                       [Cainã Freitas](https://github.com/freitasc)                        |
+| 22/05/2024  | `1.8`  |                               Adição de tarefa                               | [Joyce Dionizio](https://github.com/joycejdm) |       22/05/2024       | [Cainã Freitas](https://github.com/freitasc), [Pedro Lucas](https://github.com/lucasdray) |
+| 06/06/2024  | `2.0`  |                               Adição de HTA 6                                |  [Pedro Lucas](https://github.com/lucasdray)  |       11/06/2024       |                       [Augusto Duarte](https://github.com/Augcamp)                        |
+| 07/06/2024  | `2.1`  |                              Adição CNM-GOMS 8                               |  [Pedro Lucas](https://github.com/lucasdray)  | 11/06/2024, 17/06/2024 | [Augusto Duarte](https://github.com/Augcamp), [Pedro Lucas](https://github.com/lucasdray) |
+| 07/07/20240 | `3.0`  | Adição fonte GOMS e motivo de escolha, bibliografia, citações bibliograficas | [Pedro Lucas](https://github.com/lucasdray) |                        |                                                                                           |
