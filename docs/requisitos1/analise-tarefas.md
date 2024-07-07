@@ -62,20 +62,24 @@ Abaixo se encontra a tabela 2 e figura 2 referentes a tarefa de Cadastrar e acom
 
 | Objetivos / Operações                              | Relações | Problemas / Recomendações                                                                                                                                                                                                                                                              |
 | -------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0. Cadastrar e consultar uma reclamação cadastrada | 1 > 2    | Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar até a Ouvidoria, Cadastrar reclamação desejada, Acessar a reclamação na lista, Acompanhar status. <br> Feedback: Status da reclamação cadastrada emitido. |
-| 1. Realizar login no site                          | 1 > 2    | Plano: informar o cpf e depois a senha do gov.br. <br> Feedback: tela menu de Serviços Registrato.                                                                                                                                                                                     |
-| 1.1 Informar CPF                                   |          |                                                                                                                                                                                                                                                                                        |
-| 1.2 Informar senha do gov.br                       |          |                                                                                                                                                                                                                                                                                        |
-| 2. Navegar para a ouvidoria                        | 1 / 2    | Plano: selecionar uma das opções, entre ir até pagina da ouvidoria através do menu hamburguer e ir até a pagina da ouvidoria através da aba de pesquisa <br>Feedback: Tela da ouvidoria que mostra opção de cadastrar reclamação                                                       |
-| 2.1 Ir através do menu hamburguer                  |          |                                                                                                                                                                                                                                                                                        |
-| 2.2 Ir através da aba de pesquisa                  |          |                                                                                                                                                                                                                                                                                        |
-| 3. Cadastrar Reclamação                            | 1 > 2    | Plano: Cadastrar uma reclamação através do formulário  <br>Feedback: Caixa de aviso avisando que a reclamação foi cadastrada                                                                                                                                                           |
-| 3.1. Selecionar tipo, secretaria e assunto         |          |                                                                                                                                                                                                                                                                                        |
-| 3.2. Preencher texto de reclamação                 |          |                                                                                                                                                                                                                                                                                        |
-| 3.3. Preencher campos opcionais                    | 1 / 2    | Plano: Cadastrar (ou não) campos adicionais do formulário  <br>Feedback: Campo adicional presente na pagina de acompanhamento                                                                                                                                                          |
-| 3.3.1 Preencher endereço                           |          |                                                                                                                                                                                                                                                                                        |
-| 3.3.2 Solicitar Sigilo                             |          |                                                                                                                                                                                                                                                                                        |
-| 3.4. Resolver Captcha                              |          |                                                                                                                                                                                                                                                                                        |
+| **0. Cadastrar e consultar uma reclamação cadastrada** | 1 > 2    | **Input:** Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> **Plano:** Realizar login no site, Navegar até a Ouvidoria, Cadastrar reclamação desejada, Acessar a reclamação na lista, Acompanhar status. <br> **Feedback:** Status da reclamação cadastrada emitido. |
+| **1. Acessar a página de cadastrar manifestação na ouvidoria**                       | 1 / 2    | **Plano:** Navegar até o menu de transparência, escolher a opção "Ouvidoria" e acessar a página de cadastrar manifestação <br>**Feedback:** Tela da ouvidoria que mostra opção de cadastrar manifestação                                                       |
+| 1.1 Acessar o menu de transparência ao clicar em "Serviços para a Transparência"                  |          |                                                                                                                                                                                                                                                                                        |
+| 1.2 Selecionar o cadastro de manifestação                  |          |                                                                                                                                                                                                                                                                                        |
+| **2. Cadastrar Reclamação**                            | 1 > 2    | **Plano:** Cadastrar uma reclamação através do formulário  <br>**Feedback:** Caixa de aviso avisando que a reclamação foi cadastrada                                                                                                                                                           |
+| 2.1. Selecionar tipo, secretaria e assunto         |          |                                                                                                                                                                                                                                                                                        |
+| 2.2. Preencher texto de reclamação                 |          |                                                                                                                                                                                                                                                                                        |
+| 2.3. Preencher campos opcionais                    | 1 / 2    | **Plano:** Cadastrar (ou não) campos adicionais do formulário  <br>**Feedback:** Campo adicional presente na pagina de acompanhamento                                                                                                                                                          |
+| *2.3.1 Preencher endereço*                           |          |                                                                                                                                                                                                                                                                                        |
+| *2.3.2 Solicitar Sigilo*                             |          |                                                                                                                                                                                                                                                                                        |
+| 2.4. Resolver Captcha                              |          |                                                                                                                                                                                                                                                                                        |
+| **3. Fazer login**                                                                                         | 1 / 2    | **plano:** Login pelo GOV.BR informar CPF e senha ou login pela Prefeitura Munincipal de Lagoa da Prata informar cpf/cnpj/email e senha <br> **Feedback:**: mensagem com status de usuário logado                                                                                                                                                                                                   |
+| 3.1 Fazer login pela Prefeitura Munincipal de Lagoa da Prata                                               | 1 / 2    | **plano:** Realizar cadastro informando: email, senha, nome completo, CPF, confirmar a declaração da veracidade dos dados; ou realizar login informando CPF ou email e senha                                                                                                                                                                                                                                                                                                                                       |
+| *3.1.1 Fazer login pelo Prefeitura Munincipal de Lagoa da Prata com cadastro feito anteriormente*          |          |                                                                                                                                                                                                                                                                                                                                         |
+| *3.1.2 Fazer cadastro pela Prefeitura Munincipal de Lagoa da Pratacaso não possuir conta e realizar login* |          |                                                                                                                                                                                                                                                                                                                                         |
+| 3.2 Fazer login pelo GOV.BR                                                                                | 1 / 2    |  **plano:** Realizar cadastro informando CPF, realizando HCaptcha, escolher um banco para realizar login; ou Realizar login informando CPF e senha.                                                                                                                                                                                                                                                                                                                                       |
+| *3.2.1 Fazer cadastro no GOV.BR caso não possuir conta e realizar login*                                   |          |                                                                                                                                                                                                                                                                                                                                         |
+| *3.2.2 Fazer login pelo GOV.BR com cadastro feito anteriormente*                                           |          |                                                                                                                                                                                                                                                                                                                                         |
 | 4. Consultar status da reclamação                  | 1 > 2    | Plano: Acompanhar status da reclamação recem registrada  <br>Feedback: Campo de status presente na pagina de acompanhamento                                                                                                                                                            |
 | 4.1. Selecionar "meus protocolos"                  |          |                                                                                                                                                                                                                                                                                        |
 | 4.2. Selecionar reclamação cadastrada              |          |                                                                                                                                                                                                                                                                                        |
@@ -368,22 +372,13 @@ Goal 0: Registrar e verificar o panorama de saúde da cidade
 ### Análise da Tarefa CNM-GOMS 3: Cadastrar e acompanhar status de uma reclamação na ouvidoria - (Fonte: FREITAS, Cainã. 2024).
 ```
 Goal 0: Cadastrar e acompanhar status de uma reclamação
-  Goal 1: Encontrar Ouvidoria
-    METHOD 1.A: Encontrar através do menu "hamburguer"
-    (SEL.RULE: peferência do usuário)
-        OP: Levar cursor até menu "hamburguer"
-        OP: Levar cursor até botão "Ouvidoria"
-        OP: Clicar com o botão esquerdo do mouse
-
-    METHOD 1.B: Encontrar através da aba de pesquisa
-    (SEL.RULE: peferência do usuário)
-        OP: Levar cursor até barra de pesquisa
-        OP: Clicar com o botão esquerdo do mouse
-        OP: Digitar "Ouvidoria"
-        OP: Levar cursor até botão de pesquisa
-        OP: Clicar com o botão esquerdo do mouse
-        OP: Levar cursor até "Ouvidoria"
-        OP: Clicar com o botão esquerdo do mouse
+  Goal 1: Encontrar cadastro de reclamação na Ouvidoria
+      OP: Levar cursor até botão "Serviços para a Transparência"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar cursor até botão "Ouvidoria"
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar cursor até botão "Cadastre sua Manifestação"
+      OP: Clicar com o botão esquerdo do mouse
 
   Goal 2: Cadastrar Reclamação na ouvioria:
     METHOD 2.A: Preencher formulario de cadastro de reclamação
@@ -428,9 +423,98 @@ Goal 0: Cadastrar e acompanhar status de uma reclamação
       OP: Resolver captcha simples
       OP: Levar cursor até botão "Cadastrar"
       OP: Clicar com o botão esquerdo do mouse
+    
+  Goal 3: Fazer login
+    Method 3.A: Fazer login pela Prefeitura Munincipal de Lagoa da Prata
+    (SEL. RULE: usuário tem preferencia por usar esse login e/ou já possui conta )
+      Method 3.A.A: Fazer login pelo Prefeitura Munincipal de Lagoa da Prata com cadastro feito anteriormente
+      (SEL. RULE: usuário já possui conta )
+        Method 3.A.A.A: Fazer login em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.A.A.1: desloca o cursor até o botão "Entrar com login Munincipal"
+          OP. 3.A.A.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.3: desloca o cursor até o aba "CPF/CNPJ/email"
+          OP. 3.A.A.A.4: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.5: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.A.6: desloca o cursor até o aba "Senha"
+          OP. 3.A.A.A.7: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.8: preenche o campo senha
+          OP. 3.A.A.A.9: desloca o cursor até o aba "Senha"
+          OP. 3.A.A.A.10: desloca o cursor até o botão "Entrar"
+          OP. 3.A.A.A.10: clica com o botão esquerdo do dispositivo apontador
 
-  Goal 3: Acompanhar status de reclamação cadastrada
-    OP: Levar cursor até botão "Meus Protocolos
+        Method 3.A.A.B: Fazer login em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: clicar no botão "Entrar com login Munincipal"
+          OP. 3.A.A.A.2: clica na aba "CPF/CNPJ/email"
+          OP. 3.A.A.A.3: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.B.4: clicar na aba "Senha"
+          OP. 3.A.A.A.5: preenche o campo usuário com senha
+          OP. 3.A.A.B.6: clicar no botão "Entrar"
+
+      Method 3.A.B: Fazer cadastro pela Prefeitura Munincipal de Lagoa da Pratacaso não possuir conta e realizar login
+      (SEL. RULE: usuário não possui conta )
+        Method 3.A.A.A: Fazer cadastro em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.A.A.1: desloca o cursor até o botão "Entrar com login Munincipal"
+          OP. 3.A.A.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.3: desloca o cursor até a opção "Cadastrar-se"
+          OP. 3.A.A.A.4: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.5: preenche os campos e realiza o cadastro no site da Prefeitura
+          OP. 3.A.A.A.6: desloca o cursor até o botão "Entrar com login Munincipal"
+          OP. 3.A.A.A.7: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.8: desloca o cursor até o aba "CPF/CNPJ/email"
+          OP. 3.A.A.A.9: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.10: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.A.11: desloca o cursor até o aba "Senha"
+          OP. 3.A.A.A.12: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.13: preenche o campo senha
+          OP. 3.A.A.A.14: desloca o cursor até o aba "Senha"
+          OP. 3.A.A.A.15: desloca o cursor até o botão "Entrar"
+          OP. 3.A.A.A.16: clica com o botão esquerdo do dispositivo apontador
+
+    Method 3.B: Fazer login pelo GOV.BR
+    (SEL. RULE: usuário tem preferencia por usar esse login e/ou já possui conta )
+      Method 3.B.A: Realizar login
+      (SEL. RULE: usuário já possui conta )
+       Method 3.A.B.A: Fazer login em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.B.A.1: desloca o cursor até o botão "Entrar com GOV.BR"
+          OP. 3.A.B.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.B.A.4: desloca o cursor até o botão "Entrar como {NOME DO USUÁRIO}"
+          OP. 3.A.B.A.5: clica com o botão esquerdo do dispositivo apontador
+         
+        Method 3.A.A.B: Fazer login em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: desce a página até a aba de login
+          OP. 3.A.B.A.2: clica no botão "Entrar com GOV.BR"
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.A.B.4: desce a página até a aba de login
+          OP. 3.A.B.A.5: clica no botão "Entrar como {NOME DO USÁRIO}"
+         
+      Method 3.B.B: Cadastrar e realizar login
+      (SEL. RULE: usuário não possui conta )
+       Method 3.A.B.A: Fazer cadastro em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.B.A.1: desloca o cursor até o botão "Entrar com GOV.BR"
+          OP. 3.A.B.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.B.A.3: realiza cadastro no site do GOV.BR
+          OP. 3.A.B.A.4: realiza login no site do GOV.BR
+          OP. 3.A.B.A.5: desloca o cursor até o botão "Entrar como {NOME DO USUÁRIO}"
+          OP. 3.A.B.A.6: clica com o botão esquerdo do dispositivo apontador
+         
+        Method 3.A.A.B: Fazer cadastro em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: desce a página até a aba de login
+          OP. 3.A.B.A.2: clica no botão "Entrar com GOV.BR"
+          OP. 3.A.B.A.3: realiza cadastro no site do GOV.BR
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.A.B.4: desce a página até a aba de login
+          OP. 3.A.B.A.5: clica no botão "Entrar como {NOME DO USÁRIO}"
+
+  Goal 4: Acompanhar status de reclamação cadastrada
+    OP: Levar cursor até botão "Meus Protocolos"
     OP: Levar cursor até protocolo cadastrado anteriormente
     OP: Clicar com o botão esquerdo do mouse
     OP: Navegar até status da reclamação
@@ -691,7 +775,7 @@ Goal 0: Informar luminária queimada no Município
   Goal 4: Enviar Solicitação de vistoria de local com água parada
     OP. 4.1: preenche o formulário nos campos solicitados
     OP. 4.2: responde o reCaptcha
-    OP. 4.3: rlica no botão "Enviar"
+    OP. 4.3: clica no botão "Enviar"
 
   Goal 5: Baixar os dados da solicitação
     OP. 5.1: move o cursor até o botão "Baixar dados da solicitação"
@@ -722,4 +806,5 @@ Goal 0: Informar luminária queimada no Município
 | 22/05/2024  | `1.8`  |                               Adição de tarefa                               | [Joyce Dionizio](https://github.com/joycejdm) |       22/05/2024       | [Cainã Freitas](https://github.com/freitasc), [Pedro Lucas](https://github.com/lucasdray) |
 | 06/06/2024  | `2.0`  |                               Adição de HTA 6                                |  [Pedro Lucas](https://github.com/lucasdray)  |       11/06/2024       |                       [Augusto Duarte](https://github.com/Augcamp)                        |
 | 07/06/2024  | `2.1`  |                              Adição CNM-GOMS 8                               |  [Pedro Lucas](https://github.com/lucasdray)  | 11/06/2024, 17/06/2024 | [Augusto Duarte](https://github.com/Augcamp), [Pedro Lucas](https://github.com/lucasdray) |
-| 07/07/20240 | `3.0`  | Adição fonte GOMS e motivo de escolha, bibliografia, citações bibliograficas | [Pedro Lucas](https://github.com/lucasdray) |                        |                                                                                           |
+| 07/07/2024 | `3.0`  | Adição fonte GOMS e motivo de escolha, bibliografia, citações bibliograficas | [Pedro Lucas](https://github.com/lucasdray) |           07/07/2024             |              [Cainã Freitas](https://github.com/freitasc)                                                                             |
+| 07/07/2024 | `3.1`  | Melhora e revisa meu HTA e Gomms, corrige uns typos no texto | [Cainã Freitas](https://github.com/freitasc) |                        |                                                                                           |
