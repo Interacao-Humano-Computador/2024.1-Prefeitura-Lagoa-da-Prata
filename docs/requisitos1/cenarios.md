@@ -148,6 +148,8 @@ Abaixo se apresenta a tabela 06 com o cenário desenvolvido pelo integrante [Aug
 
 <center>
 
+<!-->
+
 **Tabela 06** - Acessar o modulo de contra cheque e consultar processos do servidor
 
 | Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -160,7 +162,7 @@ Abaixo se apresenta a tabela 06 com o cenário desenvolvido pelo integrante [Aug
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
 *Fonte: [CAMPOS, Augusto Duarte](https://github.com/Augcamp) 2024.* 
-
+<-->
 </center>
 
 ## Bibliografia
