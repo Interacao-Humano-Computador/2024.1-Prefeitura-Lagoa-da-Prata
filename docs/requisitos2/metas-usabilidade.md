@@ -1,26 +1,28 @@
 ## Introdução
 Este documento tem como objetivo definir as metas de usabilidade para o projeto presente que realizará uma avaliação do site da Prefeitura de Lagoa da Prata, estabelecendo quais fatores de qualidade devem ser priorizados no projeto, bem como a forma com a qual a avaliação ocorrerá durante o processo de design. 
-A equipe irá se basear nas metas de usabilidade definidas por Nielsen (1999) para realizar as devidas verificações e consequentemente a avaliação como um todo para o site,
+A equipe irá se basear nas metas de usabilidade definidas por Nielsen (1999) [2] para realizar as devidas verificações e consequentemente a avaliação como um todo para o site,
 visando como objetivo primário a melhor intuição e tranquilidade do usuário durante sua navegação pelo site.
 
 
 ## Definição das Metas de Usabilidade
 
-Através da análise de Barbosa (2021) sobre o trabalho de Nielsen (1999), é possível identificar 6 metas de usabilidade principais, sendo elas tratadas a seguir:
+Através da análise de Barbosa (2021) [1] sobre o trabalho de Nielsen (1999) [2], é possível identificar 6 metas de usabilidade principais, sendo elas tratadas a seguir:
 
-- Eficácia: Refere-se à qualidade do produto de cumprir com aquilo que foi planejado para fazer, ou seja, se ele é capaz de cumprir suas funcionalidades da forma que foram planejadas para serem realizadas.
+- Facilidade de Aprendizado (learnability): Refere-se à facilidade com que os usuários conseguem aprender a utilizar o site e se tornar competentes na realização das tarefas.
 
-- Eficiência: Refere-se à forma e facilidade com a qual os usuários são capazes de realizar suas tarefas no site, preferencialmente no menor número possível de passos.
+- Facilidade de recordação (memorability): Refere-se à qualidade do produto de cumprir com aquilo que foi planejado para fazer, ou seja, se ele é capaz de cumprir suas funcionalidades da forma que foram planejadas para serem realizadas.
 
-- Segurança: Refere-se à proteção do usuário contra situações indesejadas, como a perda de dados, a realização de ações inadvertidas e em como o sistema é capaz de fornecer um ponto de retorno ao usuário para se recuperar de eventuais falhas.
+- Eficiência (efficiency): Refere-se à forma e facilidade com a qual os usuários são capazes de realizar suas tarefas no site, preferencialmente no menor número possível de passos.
 
-- Utilidade: Refere-se à relevância das informações e funcionalidades disponibilizadas no site para os usuários, isto é, se o usuário conseguirá encontrar uma função que solucione sua necessidade ao utilizar o sistema.
+- Segurança no uso (safety): Refere-se à proteção do usuário contra situações indesejadas, como a perda de dados, a realização de ações inadvertidas e em como o sistema é capaz de fornecer um ponto de retorno ao usuário para se recuperar de eventuais falhas.
 
-- Aprendizagem: Refere-se à facilidade com que os usuários conseguem aprender a utilizar o site e se tornar competentes na realização das tarefas.
+- Satisfação do usuário (satisfaction): Refere-se à avaliação subjetiva do impacto emocional e dos sentimentos que o uso do site pode causar nos usuários. É uma medida qualitativa que vai além da eficiência ou funcionalidade técnica.
 
-- Memorização: Fortemente associado à aprendizagem, refere-se à facilidade com que os usuários conseguem lembrar como utilizar o site após terem tido alguma experiência no sistema.
+Também, durante a análise sobre a norma ISO 9241-11 (2019), que define usabilidade como "O grau em que um produto é usado por usuários específicos para atingir objetivos específicos
+com eficácia, eficiência e satisfação em um contexto de uso específico", Barbosa (2021) [1] identificou mais uma meta de usabilidade:
 
-- Satisfação: Refere-se à avaliação subjetiva do impacto emocional e dos sentimentos que o uso do site pode causar nos usuários. É uma medida qualitativa que vai além da eficiência ou funcionalidade técnica.
+- Eficácia: Refere-se à capacidade do sistema de realizar as funções para as quais foi projetado, ou seja, está relacionada com a capacidade de os usuários interagirem com o sistema
+para alcançar seus objetivos corretamente, conforme o esperado
 
 ## Metas a serem conquistadas pelo nosso projeto
 Para definir as metas que desejamos alcançar foram levantadas as seguintes questões sobre cada meta:
@@ -51,7 +53,7 @@ Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
 
 </center>
 
-- Segurança: O sistema evita erros ou ações indesejáveis? Ele permite recuperar ações anteriores?
+- Segurança no uso: O sistema evita erros ou ações indesejáveis? Ele permite recuperar ações anteriores?
     - O site não oferece alternativas de segurança para evitar erros, especialmente para atividades que levam a guias externas. Como mostra a Figura 3 a seguir:
 
 
@@ -65,29 +67,15 @@ Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
 
 </center>
 
-
-- Utilidade: O sistema oferece a funcionalidade certa no contexto certo?
-    - O site possui seções de acesso rápido para atividades específicas, porém também há ocorrências em que os usuários precisam navegar por locais gerais, como "Serviços de Cidadão", para encontrar atividades específicas ou ainda pelo ícone de menu geral e que poderiam estar disponibilizadas na página principal de uma forma direta como "Inscrições Habita Lagoa" ou "Solicitar ITBI On-line". Como mostra na figura 4 a seguir:
-
-<center>
-
-**Figura 4** - Atividades Específicas de Díficil localização
-
-![](../../assets/images/sitePrefeitura/utilidade.png)
-
-Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
-
-</center>
-
-- Aprendizagem:  É fácil aprender a usar o sistema?
+- Facilidade de Aprendizado:  É fácil aprender a usar o sistema, mesmo para usuários inexperientes com a plataforma e com a tecnologia?
     - O site oferece uma experiência de aprendizado intuitiva e os dados estão organizados de forma que facilitem a utilização de determinadas funções, porém existem funções e informações que estão "escondidas" pelo site e exigem mais atenção à detalhes e movimentação do usuário por outras páginas para encontrá-las.
 
-- Memorização: Que suporte é oferecido para auxiliar o usuário a realizar tarefas, especialmente as não recorrentes?
+- Facilidade de recordação: Que suporte é oferecido para auxiliar o usuário a realizar tarefas, especialmente as não recorrentes?
     -  Não é oferecido nenhum guia ou suporte ao usuário, logo o usuário depende inicialmente de que nenhuma mudança seja feita na página inicial do sistema levando a uma memorização das funcionalidades requiridas e também corre o risco de perder um acesso rápido à alguma funcionalidade caso o site remova do destaque aquilo que o usuário estava buscando, como é o caso de notícias mostrado na Figura 5 abaixo.
 
 <center>
 
-**Figura 5** - Funcionalidade de díficil localização
+**Figura 4** - Funcionalidade de díficil localização
 
 ![](../../assets/images/sitePrefeitura/memorizacao.png)
 
@@ -95,12 +83,12 @@ Disponível em https://www.lagoadaprata.mg.gov.br/portal/. Acesso em 03/06/2024
 
 </center>
 
-- Satisfação: O site prioriza os criterios de usabilidade com base na necessidade do usuario?
+- Satisfação do usuário: O site prioriza os criterios de usabilidade com base na necessidade do usuario, fazendo pesquisas e feedbacks para melhorar a experiência do usuário?
     -  Não, o site está mais centrado em fornecer informações institucionais, como serviços oferecidos, notícias da cidade e comunicados oficiais, do que em personalizar a experiência do usuário.
 
 <center>
 
-**Figura 6** - Serviços oferecidos, notícias e, informações
+**Figura 5** - Serviços oferecidos, notícias e, informações
 
 ![](../../assets/images/sitePrefeitura/memorizacao.png)
 
@@ -116,21 +104,25 @@ privilegiar a eficiência e a velocidade de execução das tarefas, enquanto um 
 pode enfatizar a facilidade de aprendizado e a ajuda contextual.
 
 Então, é importante conhecermos as necessidades dos usuários e estabelecermos quais critérios de usabilidade
-devem ser priorizados no sistema em questão. Com base na análise, foi estabelicido as metas que devem ser focadas para melhorar a usabilidade do site da Prefeitura Municipal de Lagoa da Prata, sem que haja um grande retrabalho em suas funcionalidades e aparência. 
-Também adotaremos a metodologia de avaliação heurística criando 2 perfis de usuário: 
+devem ser priorizados no sistema em questão. Com base na análise feita no documento [Perfil do Usuário](../requisitos1/perfil-do-usuario.md), foi possível identificar tres perfis de usuários que serão utilizados para a avaliação do site da Prefeitura de Lagoa da Prata, sendo eles:
  
-- Usuário com pouca ou nenhuma familiaridade com computadores e tecnólogias e que possui dificuldades para acessar.
-- Usuário comum que possui um conhecimento médio de acesso e familiaridades com acessos a sites e computadores.
+1) Usuário abaixo de 21 anos, do sexo masculino, com ensino médio completo e alta afinidade com tecnologia que busca registrar problemas na infraestrutura da cidade, obter informações de eventos e notícias da cidade.
 
- Com isso foi feita a seguinte tabela com resultados:
+2) Usuário de 21 a 30 anos, do sexo masculino, com ensino superior incompleto e alta afinidade com tecnologia que busca verificar informações de saúde da cidade, verificar vagas de emprego e eventos da cidade.
 
-| Meta de usabilidade | Como será feito a avaliação                                                                                                                                                                           |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Eficiência          | Garantir que as atividades possam ser realizadas em no máximo 2 cliques e que estejam descritas de forma não ambígua, evitando ao máximo o uso de links externos                                      |
-| Segurança           | Garantir medidas que permite ao usuário reverter ações indesejadas facilmente, tendo opções de confirmação a fim de evitar que o usuário faça alguma ação ou interação que não estava planejado fazer |
-| Utilidade           | O usuário deve receber feedback visual do que está acontecendo em tempo real para confirmar suas ações e que seja de facil localização                                                                |
-| Aprendizagem        | Garantir que a aprendizagem da utilização do site seja intuitiva e facil assim como um guia rapido de como utilizar para que usuários com pouca ou nenhuma experiência não sejam prejudicados |
-| Satisfação          | Garantir que a experiência de uso do sistema seja positiva e satisfatória, levando em consideração aspectos emocionais e subjetivos além da funcionalidade pura.  |
+3) Usuário de 31 a 40 anos, do sexo feminino, com ensino superior incompleto e baixa afinidade com tecnologia que busca receber informações sobre a saúde da cidade, registrar filhos em escolas e creches.
+
+Com isso foi feita a seguinte tabela com resultados, correlacionando as metas de usabilidade com os perfis de usuários:
+
+| Meta de usabilidade | Como será feito a avaliação                                                                                                                                                                           | Perfil de usuário                                                                                                                                                                                     |
+|:---------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Eficiência          | Verificar quanto tempo leva para realizar uma tarefa específica.                                                                                                                                      | 1, 2 e 3 |
+| Segurança no uso    | Verificar se o sistema evita erros ou ações indesejáveis e se permite recuperar ações anteriores.                                                                                                    | 1, 2 e 3 |
+| Facilidade de Aprendizado | Verificar se é fácil aprender a usar o sistema, mesmo para usuários inexperientes.                                                                                                                    | 3 |
+| Facilidade de Recordação | Verificar que suporte é oferecido para auxiliar o usuário a realizar tarefas, especialmente as não recorrentes.                                                                                     | 1 e 2 |
+
+
+
 
 
 ## Referências Bibliográficas
@@ -150,4 +142,5 @@ Também adotaremos a metodologia de avaliação heurística criando 2 perfis de 
 | 11/05/2024 | `1.3`  |   Ajuste de referencial e nomes    | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Augusto Duarte ](https://github.com/Augcamp) |
 | 11/05/2024 | `1.4`  |    Ajuste de escrita e de metas    | [Lucas Meireles](https://github.com/Katuner)  |   13/05/2024    | [Augusto Duarte ](https://github.com/Augcamp) |
 | 03/06/2024 | `2.0`  |  Correção pós entrega artefato 3   | [Pedro Lucas](https://github.com/lucasdray)   |    04/07/2024   | [Augusto Duarte ](https://github.com/Augcamp) |
-| 04/07/2024 | `3.0`  |  Correção e refatoração pós verificação | [Augusto Duarte](https://github.com/Augcamp) |                 |                                               |
+| 04/07/2024 | `3.0`  |  Correção e refatoração pós verificação | [Augusto Duarte](https://github.com/Augcamp) |       07/07/2024          |                                              [Cainã Freitas](https://github.com/freitasc) |
+| 07/07/2024 | `3.1`  |  Corrige referências das metas, cria tabela relacionando perfis de usuario escolhidos com metas pretendidas | [Cainã Freitas](https://github.com/freitasc) |             |       |
