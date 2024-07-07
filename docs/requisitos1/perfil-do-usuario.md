@@ -7,7 +7,7 @@ projetarem sistemas que atendam às necessidades e expectativas dos usuários.
 Para traçar o perfil dos usuários do site da Prefeitura de Lagoa da Prata, utilizamos uma abordagem mista, combinando [questionário](./questionario.md) e [entrevista individual](./entrevista.md). 
 A aplicação do questionário permitiu a coleta de dados de indivíduos diversos, sendo a principal fonte dos resultados para a elaboração e definição do perfil de usuário que será aplicado ao decorrer do projeto. Os dados obtidos através da entrevista permitiram um contato direto com um usuário do site sendo avaliado e suas conecpções sobre o mesmo, fatores que irão auxiliar no desenvolvimento e elaboração dos processos de análise do projeto.
 
-Abaixo são apresentados as vantages e desvantagens da aplicação do questionário na pesquisa.
+Abaixo são apresentados as vantagens e desvantagens da aplicação do questionário na pesquisa.
 
 ### Vantagens
 - Método econômico e ágil para implementação.
@@ -47,19 +47,24 @@ Os dados coletados durante a entrevista permitiram um acesso direto ao usuário 
 
 Analisando os dados levantados pelo questionário, podemos aferir a variabilidade de perfis que compõem a população usuária do site, o que é corroborado conforme a previsão de que a equipe estará trabalhado com indivíduos que compõem os cidadãos de um município, com diversos objetivos e situações sociais. Porém, visto que será necessário um embasamento fixo de um perfil ao qual deverá ser desenvolvido os aspectos do projeto, será apresentado os perfis principais que deverão ser utilizados ao decorrer do projeto como usuários principais das funcionalidades. Abaixo serão apresentadas a Tabela 1, que contém os perfis a serem abordados pela equipe.
 
+<center>
+
 **Tabela 01** - Perfil de usuário
 
-| Faixa etária | Sexo | Grau de Escolaridade | Objetivos do usuário | Grau de afinidade com a tecnologia | 
-| :-----: | :--: | :-: | :-: | :-: |
-| Abaixo de 21 anos | Masculino | Ensino Médio Completo | Registrar problemas na infraestrutura da cidade, obter informações de eventos e notícias da cidade | Alto grau de afinidade com tecnologia |
-| 21 a 30 anos | Masculino | Ensino Superior Incompleto | Verificar informações de saúde da cidade, verificar vagas de emprego e eventos da cidade  | Alto grau de afinidade com tecnologia |
-| 31 a 40 anos | Feminino | Ensino Superior Incompleto | Receber informações sobre a saúde da cidade, registrar filhos em escolas e creches | Baixo grau de afinidade com tecnologia |
+| ID  |   Faixa etária    |   Sexo    |    Grau de Escolaridade    |                                        Objetivos do usuário                                        |   Grau de afinidade com a tecnologia   |
+| --- | :---------------: | :-------: | :------------------------: | :------------------------------------------------------------------------------------------------: | :------------------------------------: |
+| 1   | Abaixo de 21 anos | Masculino |   Ensino Médio Completo    | Registrar problemas na infraestrutura da cidade, obter informações de eventos e notícias da cidade | Alto grau de afinidade com tecnologia  |
+| 2   |   21 a 30 anos    | Masculino | Ensino Superior Incompleto |      Verificar informações de saúde da cidade, verificar vagas de emprego e eventos da cidade      | Alto grau de afinidade com tecnologia  |
+| 3   |   31 a 40 anos    | Feminino  | Ensino Superior Incompleto |         Receber informações sobre a saúde da cidade, registrar filhos em escolas e creches         | Baixo grau de afinidade com tecnologia |
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner) 2024.* 
 
+</center>
+
 Aspectos como habilidades específicas e cargos de serviço não irão compor elemento principal do perfil visto a disparidade anteriormente mencionada no que se diz respeito ao público alvo ser aberto e composto pelos mais diversos perfis e situações sociais. Isso exigirá da equipe, porém, um foco maior na interpretação de dados para se assegurar que eles serão válidos para um demográfico amplo e não um perfil em específico, assim ainda buscando a integração dos demais cidadãos nas tarefas e funcionalidades que serão propostas.
 
-Apesar de a maioria dos que responderam ao questionário terem informado não ter problemas com a utilização do site, os dados recolhidos apontam a uma falta de interesse dos mesmos nas funcionalidades e, inclusive, uma ausência de funcionalidades no site. Logo, será responsabilidade da equipe propor não apenas melhorias, mas, quando cabível, novas funcionalidades que estejam de acordo com as expectativas e objetivos da população que irá utilizar o sistema.
+Apesar de a maioria dos que responderam ao questionário terem informado não ter problemas com a utilização do site, os dados recolhidos apontam a uma falta de interesse dos mesmos nas funcionalidades e, inclusive, uma ausência de funcionalidades no site. Além disso, a quantidade de respostas foi bem menor que o esperado, logo, os dados coletados aparentam estarem imprecisos.
+Portanto, será responsabilidade da equipe propor não apenas melhorias, mas, quando cabível, novas funcionalidades que estejam de acordo com as expectativas e objetivos da população que irá utilizar o sistema.
 
 ## Referências Bibliográficas
 
@@ -67,8 +72,8 @@ Apesar de a maioria dos que responderam ao questionário terem informado não te
 
 ## Historico de Versões
 
-|    Data    | Versão |      Descrição       |                   Autor(es)                   | Data de revisão |                 Revisor(es)                 |
-| :--------: | :----: | :------------------: | :-------------------------------------------: | :-------------: | :-----------------------------------------: |
-| 20/04/2024 | `1.0`  | Criação do documento | [Joyce Dionizio](https://github.com/joycejdm) |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 06/05/2024 | `1.1`  |    Reestruturação    |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
-| 07/07/2024 | `2.0`  | Atualização para entrega final, reanalise dos resultados e adição de perfis | [Lucas Meireles](https://github.com/Katuner) |   |   |
+|    Data    | Versão |                                  Descrição                                  |                   Autor(es)                   | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :-------------------------------------------------------------------------: | :-------------------------------------------: | :-------------: | :------------------------------------------: |
+| 20/04/2024 | `1.0`  |                            Criação do documento                             | [Joyce Dionizio](https://github.com/joycejdm) |   06/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 06/05/2024 | `1.1`  |                               Reestruturação                                |  [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
+| 07/07/2024 | `2.0`  | Atualização para entrega final, reanalise dos resultados e adição de perfis | [Lucas Meireles](https://github.com/Katuner)  |   07/07/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
