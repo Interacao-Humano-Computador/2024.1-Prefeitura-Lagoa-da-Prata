@@ -22,17 +22,37 @@ O TCLE é um documento vital à pesquisa que envolva pessoas pois o mesmo possui
 A assinatura do Termo de Consentimento Livre e Esclarecido (TCLE) é fundamental porque permite que os participantes decidam de forma consciente e voluntária se desejam fazer parte da pesquisa. Além disso, em situações que envolvam gravações, o pesquisador obtém autorização específica para utilizar tais registros, incluindo voz e/ou imagem das pessoas envolvidas. Neste contexto de pesquisas com participantes, adotamos o seguinte termo de consentimento, conforme mostrado na Figura 1.
  
 ### TCLE de pesquisa
-Abaixo se encontra a figura 1 que é o TCLE que será usado em pesquisas feitas pela equipe a fim de coletar dados para o projeto.
+Abaixo se encontram as figuras 1,2 e 3 que compõem as 3 páginas do TCLE que será usado em pesquisas feitas pela equipe a fim de coletar dados para o projeto.
 <center>
-  **Figura 1** - TCLE da Equipe 
 
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/termo-consentimento.png" alt="TCLE" width = 40%> <br>
-  *Fonte: [MEIRELES, Lucas.](https://github.com/Katuner) 2024.*
+**Figura 1** - TCLE da Equipe - página 1
+
+  ![Termo Consentimento](../assets/images/Termo%20consentimento/Termo%202.0%20pt1.png)
+
+  *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner) 2024.*
+</center>
+
+<center>
+
+**Figura 2** - TCLE da Equipe - página 2
+
+  ![Termo Consentimento](../assets/images/Termo%20consentimento/Termo%202.0%20pt2.png)
+
+  *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner) 2024.*
+</center>
+
+<center>
+
+**Figura 3** - TCLE da Equipe - página 3
+
+  ![Termo Consentimento](../assets/images/Termo%20consentimento/Termo%202.0%20pt%203.png)
+
+  *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner) 2024.*
 </center>
 
 
 ### TCLE de avaliação
-Abaixo se encontra o TCLE qque será usado nas avaliações e que os usuários entrevistado terão que ler e dar seu consetimento para poder participar.
+Abaixo se encontra o TCLE que será usado nas avaliações e que os usuários entrevistado terão que ler e dar seu consetimento para poder participar, seja esse consentimento de forma escrita ou verbal.
 
 Pesquisador Responsável: [NOME DO PESQUISADOR]
 
@@ -43,12 +63,13 @@ Prezado(a) Participante,
 Você está sendo convidado(a) a participar de uma pesquisa científica importante e seu consentimento é fundamental para o desenvolvimento deste estudo. Antes de decidir se deseja participar, por favor, leia atentamente todas as informações fornecidas neste documento. Caso tenha alguma dúvida, sinta-se à vontade para entrar em contato com o pesquisador responsável ou com a equipe de pesquisa antes de tomar sua decisão.
 
 #### 1. Objetivos da Pesquisa:
-A pesquisa visa coletar dados sobre a usabilidade do site da Prefeitura da Lagoa da Prata para poder proporcionar uma melhor a experiência dos usuários com o site. 
+A pesquisa visa coletar dados sobre a usabilidade e interações dos usuários potenciais do site da Prefeitura Municipal da Lagoa da Prata e suas funcionalidades para poder proporcionar uma melhor experiência com o site e da comunidade consigo mesma com o auxílio da tecnologia no cotidiano. 
 
 #### 2. Procedimentos:
-Você será solicitado(a) a realizar pequenas tarefas relacionadas às funcionalidades do site da Prefeitura da Lagoa da Prata. 
-A duração de pesquisa terá uma duração aproximada de 10 minutos.
-A pesquisa não trará riscos ou desconfortos à sua reputação ou emprego.
+Você será solicitado(a) a realizar pequenas tarefas relacionadas às funcionalidades do site da Prefeitura Municipal da Lagoa da Prata. 
+A duração de pesquisa será  de aproximadamente de 10 minutos. Este prazo pode incluir a leitura deste termo e eventuais dúvidas.
+A pesquisa não trará riscos ou desconfortos à sua reputação ou emprego, visto que, conforme apresentado abaixo, seus dados não serão divulgados publicamente de forma que seja possível sua identificação, sendo estes dados utilizados individualmente para o desenvolvimento do projeto e pesquisa aqui trabalhados.
+Pode ser pedido ao entrevistado a autorização de gravações e registros audiovisuais do procedimento realizado na pesquisa. Você tem o total direito de aceitar ou negar essa autorização, ou ainda questionar ao entrevistador o motivo por trás da gravação e também pode negociar, quando cabível, a forma do registro, seja ele, por exemplo, registrando apenas as mãos do entrevistado ou com alguma forma de censura ao rosto do participante.
 
 #### 3. Confidencialidade e Anonimato:
 Todas as informações coletadas durante o estudo serão tratadas com confidencialidade. Sua identidade será mantida em sigilo e todas as informações serão tratadas de forma anônima, a menos que você concorde em fornecer detalhes pessoais para fins específicos relacionados à pesquisa. Sua participação é voluntária e os resultados serão utilizados para fins de pesquisa e poderão ser publicados em artigos ou apresentações, mas sem identificar os participantes.
@@ -60,6 +81,7 @@ Sua participação neste estudo é voluntária e você pode desistir a qualquer 
 Ao concordar em participar deste estudo, você estará consentindo com a coleta, análise e uso das suas informações fornecidas para os fins especificados nesta pesquisa. Os resultados podem ser publicados em periódicos científicos, mas sua identidade será mantida em sigilo.
 
 Se você decidir participar, por favor, leia e concorde com este termo de consentimento, indicando que você está ciente dos procedimentos da pesquisa e concorda em participar.
+Caso seja menor de idade no país em que está realizando a pesquisa, será necessário a leitura e consentimento também por parte de um responsável, este qual deverá ser identificado juntamente ao participante com a sua assinatura, no caso do consentimento escrito, ou verbal com identificação de nome, no caso de um consentimento verbal.
 
 Ao participar da pesquisa, você estará indicando que leu, compreendeu e está de acordo com as informações acima. Entende que sua participação é voluntária e que pode desistir a qualquer momento, sem qualquer penalidade. Também entende que as informações coletadas serão anônimas e usadas apenas para fins acadêmicos.
 
@@ -78,6 +100,8 @@ Ao concordar em participar, eu afirmo que:
 - Dou meu consentimento para participar desta pesquisa e concordo com o uso de minhas informações conforme descrito neste termo.
 
 Nome do Participante: ______________________
+
+Nome do Responsável: ______________________
 
 Data: ______________________
 
@@ -107,3 +131,4 @@ pesquisa.
 | 06/05/2024 | `1.1`  |       Atualização e reestruturação        | [Lucas Heler](https://github.com/Akaeboshi) e [Lucas Meireles](https://github.com/Katuner) |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 10/05/2024 | `1.2`  | Correção pós-entrega ponto de controle 2  |                        [Lucas Meireles](https://github.com/Katuner)                        |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 11/05/2024 | `2.0`  | Adição termo de consetimento de avaliação | [Cainã Freitas](https://github.com/freitasc) e [Pedro Lucas](https://github.com/lucasdray) |                 |                                              |
+| 07/07/2024 | `3.0`  | Correção para entrega final | [Lucas Meireles](https://github.com/Katuner) |        |   
