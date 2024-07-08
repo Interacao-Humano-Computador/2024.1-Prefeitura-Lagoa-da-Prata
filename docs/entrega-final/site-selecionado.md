@@ -30,7 +30,7 @@ Baseado nos critérios de avaliação, o site escolhido foi o da [Prefeitura de 
 
 - (4) Complexidade do site
     - O site da Prefeitura de Lagoa da Prata possui boa acessibilidade, contando com contrate, aumentar e diminuir fonte, macros de acessibilidade etc.
-    - Mesmo com design simples, o site possui uma complexidade média, isto é, não é puramente informativo e apresenta sistema de cadastro, busca de informações e compra de bilhetes.
+    - Mesmo com design simples, o site possui uma complexidade média, isto é, não é puramente informativo e apresenta sistema de cadastro, busca de informações e capacidade de registrar diferentes tipos de dados.
 
 ## Princípios Gerais
 
