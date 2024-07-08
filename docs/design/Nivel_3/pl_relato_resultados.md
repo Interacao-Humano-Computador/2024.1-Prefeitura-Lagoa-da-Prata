@@ -6,6 +6,20 @@ Em continuidade ao [planejamento da avaliação dos protótipos de alta fidelida
 
 Através do planejamento de relato dos resultados, será apresentada a estruturação geral do documento final de resultados, assim como quais informações devem ser extraídas das avaliações e sua disposição na página. 
 
+## Metodologia
+Para realização a avaliação do protótipo foi utilizado o método de observação somado ao teste de usabilidade que "visa a avaliar a usabilidade de um sistema interativo a partir de experiências de
+uso dos seus usuários-alvo" (Rubin, 1994; Rubin e Chisnell, 2008). Com isso foi seguido a recomendação de Dumas e Redish [2], que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas, como relata Nielsen [3]. Portanto a seguir estão listadas todas as metodologias utilizadas tanto na avaliação como no relato dos resultados.
+
+- **Observação direta**: Consiste na observação sistemática dos usuários durante a execução das tarefas. Isso pode incluir a coleta de dados qualitativos, como comportamentais, e quantitativos, como métricas de desempenho.
+
+- **Teste de Usabilidade**: Os usuários-avlo testam a usabilidade de um sistema interativo baseando-se em experiências anteriores de uso.
+
+- **Entrevista**: Realizadas com os usuários após a simulação de uso, com o objetivo de coletar informações sobre a experiência de uso do protótipo de papel.
+
+- **Questionário**: Aplicados aos usuários após a simulação de uso, com o objetivo de coletar informações sobre a experiência de uso do protótipo de papel.
+
+- **Grupos focal**: Realizados com os usuários após a simulação de uso, com o objetivo de coletar informações sobre a experiência de uso do protótipo de papel.
+
 ## Estrutura
 
 O documento final deverá apresentar uma breve introdução e informações gerais do número de pessoas avaliadas, a data de início e fim das avaliações e quais funcionalidades foram utilizadas nos protótipos avaliados.
@@ -72,11 +86,19 @@ Por fim, após a conclusão das informações previstas, será abordado um tópi
 Para que a equipe possa realizar as avaliações e registros de modo seguro e também dinâmico, será realizado um teste piloto por parte dos integrantes do grupo 5 com todos os itens previstos pelo [planejamento de avaliação](pl_avaliacao_prototipo.md). Os dados que deverão ser exibidos ao resultado final são referentes apenas à execução da entrevista, isto é, não será necessário apresentação das perguntas e anotações destinadas ao entrevistado.
 
 ## Bibliografia
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+[2] Dumas, J. S., & Redish, J. C. (1999). A practical guide to usability testing. Intellect Books.
+
+[3] NIELSEN, Jakob. Usability Engineering. Academic Press, 1993.
+
+[4] FIGMA. Disponivel em: https://www.figma.com Acesso em: 03 de julho de 2024.
+
+[5] Ericsson, K. Anders e Simon, Herbert A. (1993). Protocol Analysis - Rev’d Edition: Verbal Reports as Data. Bradford Books, Cambridge, Mass, revised edition edition.
 
 ## Histórico de Versões 
 
 |         Data          | Versão |            Descrição            |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :-------------------: | :----: | :-----------------------------: | :-----------------------------------------: | :-------------: | :---------: |
 | 19/06/2024 | `1.0` | Elaboração inicial e descrição | [Lucas Meireles](https://github.com/Katuner)             |      19/06/2024          |    [Cainã Valença](https://github.com/freitasc)         |
+| 08/07/2024 | `1.2` | Atualiza estrutura do documento | [Joyce Dionizio](https://github.com/joyjdm)             |             |        |
