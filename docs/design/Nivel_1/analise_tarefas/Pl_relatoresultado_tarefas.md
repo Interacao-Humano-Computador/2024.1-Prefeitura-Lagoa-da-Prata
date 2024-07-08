@@ -4,40 +4,31 @@ Segundo Diaper (2003) [1], a análise de tarefas é “a expressão utilizada no
 
 O relato da análise de tarefas é um documento que descreve os resultados da avaliação da interação entre os usuários e o sistema, identificando problemas, oportunidades de melhoria e insights relevantes para o design da interface. Este relatório é essencial para orientar o desenvolvimento de soluções eficazes e centradas no usuário, garantindo uma experiência de uso satisfatória e produtiva.
 
-## Objetivo
-
-O objetivo deste documento é fornecer uma estrutura organizada para a coleta de dados durante a fase de avaliação da Análise de Tarefas, com base no documento "Planejamento da Avaliação da Análise de Tarefas". Sua principal função é estruturar e ordenar os dados coletados, a fim de facilitar a identificação de pontos de melhoria para o sistema da Prefeitura da Lagoa da Prata e fornecer sugestões de redesign pelo grupo. O resultado deste planejamento será descrito no documento de relatório de resultados.
-
 ## Metodologia
 
-A escolha da metodologia para o planejamento do relatório de análise de tarefas depende dos objetivos do estudo, dos recursos disponíveis e das necessidades específicas do projeto. Existem várias metodologias comuns que podem ser consideradas:
+Tendo como base os tópicos relatados além da avaliação de intersujeito descrita por Barbosa e Silva (2011, p.279)[3] e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
 
-1. **Observação direta**: Consiste na observação sistemática dos usuários durante a execução das tarefas. Isso pode incluir a coleta de dados qualitativos, como comportamentais, e quantitativos, como métricas de desempenho.
+- Objetivo e escopo da avaliação
+- Método de avaliação
+- Seleção dos participantes
+- Problemas e dificuldades encontradas
+- Sugestões de melhoria
+- Feedback dos usuários
+- Análise e interpretação dos usuários
+- Sumários dos principais resultados
+- Planejamento de reprojeto
 
-2. **Entrevistas**: Realização de entrevistas individuais ou em grupo com os usuários para obter informações detalhadas sobre suas percepções, experiências e desafios durante as tarefas. As entrevistas podem ser estruturadas, semiestruturadas ou não estruturadas, dependendo das necessidades do estudo.
+## Tópicos a serem abordados
 
-3. **Questionários**: Utilização de questionários padronizados para coletar dados quantitativos e qualitativos sobre as tarefas. Essa abordagem é útil para obter informações de um grande número de usuários e comparar resultados.
+A avaliação da análise de tarefas será dividida em tópicos, que abordarão os seguintes aspectos:
 
-4. **Testes de usabilidade**: Realização de testes práticos nos quais os usuários executam uma série de tarefas enquanto são observados. Isso ajuda a identificar dificuldades, problemas e oportunidades de melhoria na usabilidade do sistema.
+### Objetivo e escopo
 
-5. **Análise de dados existentes**: Se houver dados pré-existentes, como registros de uso ou feedback dos usuários, é possível analisá-los para identificar padrões relevantes para a análise de tarefas.
+Nessa parte do documento, será apresentado por qual razão a avaliação foi realizada, quais os objetivos a serem alcançados. Isso envolve justificar a importância da avaliação, esclarecer as expectativas e as metas estabelecidas, e fornecer uma visão geral do propósito e do contexto da avaliação.
 
-É crucial adaptar a metodologia às características do projeto e às necessidades específicas da análise de tarefas. A combinação de diferentes abordagens pode proporcionar uma compreensão mais abrangente do desempenho e das experiências dos usuários. Neste projeto, optamos por realizar entrevistas para obter feedback dos usuários sobre as análises de tarefas realizadas.
+### Método da avaliação
 
-Nesta fase, adotaremos o método de entrevistas com o suporte do framework DECIDE. Desenvolvido por Sharp, Rogers e Preece [2], o DECIDE é uma abordagem que guia o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC).
-
-
-## Tópicos
-
-O relato dos resultados da avaliação da Análise de tarefas deverá ter documentado os seguintes tópicos:
-
-## Foco do Artefato
-
-O foco deste relatório é apresentar os resultados da avaliação da análise de tarefas realizada com os usuários do sistema da Prefeitura da Lagoa da Prata. O relato deve ser estruturado de forma clara e objetiva, apresentando os resultados da avaliação e as conclusões obtidas.
-
-## Método
-
-Como método de avaliação, optamos por realizar **entrevistas** com os usuários do sistema da Prefeitura da Lagoa da Prata. As entrevistas serão conduzidas de forma individual, com base em um roteiro estruturado que aborda as principais tarefas realizadas pelos usuários. O objetivo das entrevistas é coletar feedbacks sobre a usabilidade, eficácia e eficiência do sistema, identificando problemas, oportunidades de melhoria e insights relevantes para o design da interface. Para atingir esse objetivo, levaremos em consideração os seguintes pilares:
+Como método de avaliação, optamos por realizar **observação** e **entrevistas** com os usuários do sistema da Prefeitura da Lagoa da Prata. As entrevistas serão conduzidas de forma individual, com base em um roteiro estruturado que aborda as principais tarefas realizadas pelos usuários. O objetivo das entrevistas é coletar feedbacks sobre a usabilidade, eficácia e eficiência do sistema, identificando problemas, oportunidades de melhoria e insights relevantes para o design da interface. Para atingir esse objetivo, levaremos em consideração os seguintes pilares:
 
 - **Definir participantes:** Os participantes da avaliação serão selecionados de acordo com o [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.4-Prefeitura-Lagoa-da-Prata/requisitos1/perfil-do-usuario/). Seguiremos a recomendação de Dumas e Redish [2], que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas, como relata Nielsen [3].
 
@@ -53,94 +44,121 @@ Como método de avaliação, optamos por realizar **entrevistas** com os usuári
 
 Para fornecer detalhes sobre a avaliação, os avaliadores preencheram a tabela 4 que representa um exemplo de cronograma de entrevista executada.
 
-A Tabela 1 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
+A Tabela 1 apresenta um cronograma de entrevista que foi seguido para criar as tabelas de documentação das entrevistas realizadas.
 
-| Ordem | Data | Horário | Entrevistadores | Entrevistado | Tarefas |
-|-------|------|---------|-----------------|--------------|---------|
-| Ordem da entrevista | Data da entrevista | Horário da entrevista | Nome dos entrevistadores | Nome do entrevistado | Tarefas realizadas pelo entrevistado |
+<center>
 
-Tabela 1: Ficha modelo para documentação das entrevistas (Fonte: FREITAS, Cainã)
+**Tabela 1:** Ficha modelo para documentação das entrevistas
 
+| Ordem | Entrevistador | Entrevistado | Data | Horário | Local |Tarefa |
+| :---: | :-----------: | :----------: | :--: | :-----: | :---: | :---: |
+|   1   |  Cainã Freitas | Ana Vieira |  03/06/2024 |  22:00 |  Online (Plataforma Teams) | Cadastrar e acompanhar reclamação na ouvidoria |
+|   2   |  Lucas Dourado |  -  |  - |  - |  - |  - |
+|   3   |  Joyce Dionizio |  -  |  - |  - |  - |  - |
+|   4   |  Lucas Meireles |  -  |  - |  - |  - |  - |
+|   5   |  Augusto Campos |  -  |  - |  - |  - |  - |
 
-## Mão-de-obra necessária para conduzir a avaliação, orçamento disponíveis, os prazos e a preparação e o uso dos equipamentos necessários
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 
-### Mão de obra
+</center>
+
+### Seleção dos Participantes
 
 Para conduzir a avaliação do protótipo de papel, por causa de questões de tempo e espaço, usaremos apenas um entrevistador e um entrevistado.
 
 1. **Entrevistador**: Responsável por conduzir a entrevista, fazer anotações e registrar as respostas dos entrevistados.
 2. **Entrevistado**: Usuário do sistema da Prefeitura da Lagoa da Prata, que participará da avaliação e fornecerá feedback sobre a usabilidade do sistema.
 
-
-### Participantes
-
 Os participantes ideais para a avaliação são:
 
-- 5 usuários do sistema da Prefeitura da Lagoa da Prata selecionados de acordo com o [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.4-Prefeitura-Lagoa-da-Prata/requisitos1/perfil-do-usuario/)
-
-Incluir esse resumo proporciona uma compreensão clara da equipe e dos usuários envolvidos no estudo, facilitando a contextualização dos resultados no relatório final.
-
-
-### Orçamento
-
-Deve ser considerado o custo dos materiais necessários para a avaliação, como papel, canetas, impressões, etc. 
-
-### Prazos
-
-O relato dos resultados deve ser realizado até 25/05/2023 para a realização da entrega do relato dentro da matéria.
+- 5 usuários do sistema da Prefeitura da Lagoa da Prata selecionados de acordo com o [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.4-Prefeitura-Lagoa-da-Prata/requisitos1/perfil-do-usuario/) É necessário que os participantes tenham semelhanças com nosso elenco de [Personas](https://interacao-humano-computador.github.io/2024.4-Prefeitura-Lagoa-da-Prata/requisitos1/personas/), para que possamos obter feedbacks mais precisos e relevantes.
 
 ### Equipamentos
 
 Os entrevistadores devem utilizar papel, canetas e outros materiais necessários para simular a interação com o protótipo. Também deverão utilizar um ambiente tranquilo e sem interrupções para a realização da avaliação como também computadores para a realização da documentação e gravação das entrevistas. Podem ser utilizados gravadores de áudio e vídeo para registrar as entrevistas. Ferramentas de reunião virtual, como Zoom, Google Meet ou Microsoft Teams, podem ser utilizadas para conduzir entrevistas remotas.
 
-### Aspectos éticos
+## Apresentação dos dados coletados
 
-Os participantes da avaliação serão convidados a participar voluntariamente e a assinar um termo de consentimento. O termo de consentimento informa aos participantes sobre os objetivos da pesquisa, os procedimentos que serão realizados e a possibilidade de desistir a qualquer momento. O termo de consentimento também informa que a participação é voluntária e que os participantes podem desistir a qualquer momento, sem penalidades ou consequências negativas.
+### Vídeos das entrevistas
 
-## Interpretação e Apresentação dos Dados
+Os vídeos das entrevistas realizadas com os usuários serão disponibilizadas no formato de incorporado e link para o YouTube. Os vídeos serão editados para garantir a privacidade dos participantes e para destacar os principais momentos da entrevista.
 
-#### Sumário de Dados
+<center>
+
+**Vídeo 01** - Exemplo de video incorporado
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2kqdlAYNEzk?si=e9XTeNfmJ9Tq5HKL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitas). 2024.*
+
+</center>
+
+### Sumário de Dados
 
 No planejamento do relato da análise de tarefas, é crucial fornecer um resumo dos dados coletados durante o estudo. Para este fim, é importante a criação de uma ficha de entrevista, que será preenchida com as respostas dos entrevistados. Essa ficha não será a única fonte de analise, mas será usada para criar uma base que poderá ser utilizada para a análise.
 
-| Ordem das perguntas | Pergunta           | Tipo de pergunta | Respostas possíveis |
-| :-----------------: | :-----------------:| :--------------: | :-----------------: |
-| 1°                  |Qual seu nome completo? | Aberta         | Discursiva       |
-| 2°                  | Qual sua idade?         | Aberta         | Discursiva       |
-| 3°                  |Qual sua ocupação?      | Aberta         | Discursiva       |
-| 4°                  | Qual seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Fechada         | Muito Boa / Boa / Média / Ruim / Muito ruim   |
-| 5°                  |Já utilizou o site da prefeitura da lagoa da prata? | Fechada         | Sim / Não          |
-| 6°                  |Já utilizou outros sites de prefeitura similares a este? | Fechada         | Sim / Não          |
-| 7°                  |Como é sua navegação pelo site?         | Aberta         | Discursiva       |
-| 8°                  |  Consegue encontrar as tarefas que procura facilmente?         | Fechada         | Sim / Não          |
-| 9°                  |Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele?         | Fechada         | Sim / Não          |
-| 10°                  | Ao utilizar uma funcionalidade, seus objetivos são completamente satisfeitos?         | Fechada         | Sim / Não          |
-| 11°                  |Acredita que a interface lhe causa alguma perda de tempo?         | Fechada         | Sim / Não          |
-| 12°                  | Alguma parte da interface e da interação o deixa insatisfeito? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
-| 13°                  | Alguma parte da interface o desmotiva a explorar novas funcionalidades? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
-| 14°                  | Consegue entender com clareza como utilizar o site para realizar seu objetivo? se não, por que?         | Fechada / Aberta        | Sim / Não e Discursiva         |
-| 15°                  | Você utiliza a acessibilidade disponível pelo site, como libras e alto contraste? Se sim, cumpre com seu objetivo?         | Fechada / Aberta        | Sim e Discursiva / Não          |
-| 16°                  | Quais são os pontos fortes e fracos em sua opnião?         | Aberta         | Discursiva       |
+<center>
 
-Tabela 2: Ficha de entrevista (Fonte: FREITAS, Cainã. 2024).
+**Tabela 2** - Roteiro de perguntas da entrevista.
+
+| Número |                                                        Pergunta                                                        | Resposta |
+| :----: | :--------------------------------------------------------------------------------------------------------------------: | :------: |
+|   1    |                                                    Qual o seu nome?                                                    |    -     |
+|   2    |                                                    Qual a sua idade                                                    |    -     |
+|   3    |                                   Qual o grau de afinidade você tem com tecnologias?                                   |    -     |
+|   4    |                                Você já utilizou algum site de prefeitura? Se sim quais?                                |    -     |
+|   5    |                             Observando a tarefa, você acha que ela condiz com a realidade?                             |    -     |
+|   6    |                              Há alguma parte da tarefa que você acha difícil ou confusa?                               |    -     |
+|   7    |                            Há alguma parte da tarefa que você acha demorada ou ineficiente?                            |    -     |
+|   8    | Observando a tarefa mostrada, a sequência de processos confere com a realidade? Caso não, poderia descrever o por quê? |    -     |
+|   9    |                           Você teria alguma sugestão de melhoria para o diagrama da tarefa?                            |    -     |
+|   10   |                                E com relação a tarefa tem alguma sugestão de melhoria?                                 |    -     |
+
+*Fonte: [DOURADO, PEDRO LUCAS.](https://github.com/lucasdray). 2024.*
+
+</center>
 
 Este sumário fornece uma visão geral dos dados coletados, ajudando a contextualizar as conclusões e recomendações apresentadas no relatório final.
 
-### Análise dos Dados Coletados
+### Análise e interpretação dos dados coletados
 
 Durante a análise dos dados coletados, é fundamental examinar e interpretar os dados de forma sistemática, mas também ouvir e considerar as opiniões dos participantes. A análise deve ser guiada pelos objetivos da avaliação, identificando padrões, tendências e insights relevantes para a análise de tarefas.
 
 Os dados coletados podem ser organizados e apresentados de várias maneiras, como tabelas, gráficos, diagramas ou mapas de calor. Essas representações visuais ajudam a resumir e comunicar os resultados de forma clara e eficaz.
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Para uma análise mais detalhada, é importante identificar e descrever os problemas encontrados durante a avaliação da análise de tarefas. Esses problemas podem incluir dificuldades de uso, erros de interação, confusão de layout, falta de feedback, entre outros. A descrição dos problemas deve ser clara, objetiva e acompanhada de exemplos concretos para facilitar a compreensão e a resolução.
 
 Os problemas encontrados serão organizados e detalhados para facilitar a identificação e a priorização das correções necessárias.
 
-### Sugestões de Melhorias e Correções
+### Sugestões de Melhorias
 
-Ao fim de cada entrevista, a ultima pergunta feita para o entrevistado será sobre sugestões de correções. Essas sugestões serão anotadas e documentadas para serem analisadas posteriormente.
+É essencial que o entrevistador registre detalhadamente as sugestões e melhorias com base nos problemas identificados durante a avaliação. Isso inclui documentar de maneira clara e objetiva cada problema encontrado, descrevendo o contexto, a ação do usuário, o resultado esperado e o resultado observado. Além disso, o entrevistador deve propor soluções ou sugestões para corrigir os problemas identificados, apresentando ideias para ajustes de design, melhorias na interface do usuário ou mudanças nas funcionalidades.
+
+### Feedback dos Usuários
+
+É fundamental que o entrevistador registre o feedback dos usuários durante a avaliação de tarefas. Isso envolve ouvir atentamente as opiniões, sugestões e comentários dos usuários enquanto interagem com o sistema ou produto avaliado. O entrevistador deve documentar de forma completa e precisa o feedback fornecido, considerando as percepções, experiências e necessidades dos usuários. Essas informações são valiosas para entender as expectativas dos usuários, identificar pontos fortes e fracos do sistema, e obter insights sobre possíveis melhorias.
+
+### Planejameto de Reprojeto
+
+Com base nos resultados da avaliação da análise de tarefas, é importante planejar e executar um processo de reprojeto para corrigir os problemas identificados e implementar as sugestões de melhoria. O planejamento de reprojeto deve incluir a definição de metas e objetivos claros, a priorização das correções necessárias, a elaboração de um plano de ação detalhado e a implementação de soluções eficazes e centradas no usuário. A tabela 3 apresenta um cronograma de reprojeto que foi seguido para criar as tabelas de documentação das entrevistas realizadas.
+
+<center>
+
+**Tabela 3:** Cronograma de reprojeto
+
+| Número | Responsável | Data | Horário |
+| :----: | :---------: | :--: | :-----: |
+|   1    |  Cainã Freitas |  03/06/2024 |  22:00 |
+|   2    |  Lucas Dourado |  01/06/2024 |  19:00 |
+|   3    |  Joyce Dionizio |  02/06/2024 |  12:00 |
+|   4    |  Lucas Meireles |  28/05/2024 |  20:00 |
+|   5    |  Augusto Campos |  29/05/2024 |  10:00 |
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitas). 2024.*
+
+</center>
 
 ## Bibliografia
 
@@ -148,10 +166,12 @@ Ao fim de cada entrevista, a ultima pergunta feita para o entrevistado será sob
 
 [2] SHARP, H.; ROGERS, Y.; PREECE, J. Interaction Design: Beyond Human-Computer Interaction. Wiley, 2007.
 
+[3] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
+
 ## Histórico de Versões
 
 
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 22/05/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |  19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
-| 08/07/2024 | `1.1`  |  Re-elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 08/07/2024 | `1.1`  |  Re-Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |  19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
