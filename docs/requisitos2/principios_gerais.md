@@ -1,6 +1,6 @@
 ## Introdução
 
-Durante a realização de uma tarefa de design, é comum que se siga diversos guias, processos e premissas para que o trabalho, além de ter um embasamento teórico amplo e robusto, possua uma ceritficação maior de qualidade e consiga atingir seus objetivos predeterminados. De acordo com Barbosa (2021), os responsáveis pelo design seguem 3 principais conjuntos de características em IHC, sendo eles princípios (objetivos gerais e alto nível), diretrizes (regras gerais de prática) e padrões (soluções específicas). 
+Durante a realização de uma tarefa de design, é comum que se siga diversos guias, processos e premissas para que o trabalho, além de ter um embasamento teórico amplo e robusto, possua uma certificação maior de qualidade e consiga atingir seus objetivos predeterminados. De acordo com Barbosa (2021) [1], os responsáveis pelo design seguem 3 principais conjuntos de características em IHC, sendo eles princípios (objetivos gerais e alto nível), diretrizes (regras gerais de prática) e padrões (soluções específicas). 
 É importante ressaltar, porém, que a utilização e embasamento de princípios e diretrizes não substitui as demais atividades gerais previstas, isto é, para este projeto, a importância de que quesitos estabelecidos pelo processo de design de Mayhew (1999) continue sendo seguido.
 
 
@@ -9,78 +9,156 @@ Durante a realização de uma tarefa de design, é comum que se siga diversos gu
 A comunidade de pesquisadores de IHC costumam seguir determinados princípios e diretrizes para exercer sua função, itens estes que serão trabalhados a seguir em comparação com 
 o site da Prefeitura Municpal de Lagoa da Prata. Há um enfoque, também, na publicação de Norman (1988) que destaca algumas das diretrizes bases que hoje são consideradas como imprescindíveis para a realização da tarefa de design, como facilitação de aprendizado e compreensão do usuário, desenvolvimento de modelos conceituais, compreensão do estado do sistema, entre outros. 
 
+## Metodologia 
+Neste artefato iremos utilizar os prinípios e diretrizes de projeto de acordo com Norman (1988)[3], Tognazzini (2014)[4], as heurísticas de Nielsen (1994)[5] e as regras de ouro de Shneiderman (Shneiderman, 1998) [6]. Será apresentado cada um dos 8 princípios, tendo uma descrição e um tópico mostrando a violação do princípio cometida pelo site com prints demonstrando a mesma.
+Para avaliação de violação será utilizado o método de inspeção utilizando a avaliação heurística das princípais funcionalidades do site. 
+
 ### Correspondência com as Expectativas dos Usuários
+Devemos nos certificar de que o usuário consegue determinar os relacionamentos entre: intenções e ações possíveis; entre ações e seus efeitos no sistema; entre o estado real do sistema e o que é percebido pela visão, audição ou tato; entre o estado percebido do sistema e as necessidades, intenções e expectativas do usuário. [1]
 
-Esta premissa implica em uma compreensão facilitada do usuário a respeito da interface do sistema com a utilização de imagens, termos, hábitos e representações que estes mesmos
-usuários possuem e/ou utilizam no decorrer de seu cotidiano. Em outras palavras, consiste na ideia de trazer um sistema digital à algo reconhecido e que corresponda às ações
-que o usuário já realize com certa frequência ou irá reconhecer sem dificuldades.
 
-Quando analisado sob o site trabalhado neste projeto, é possível identificar um trabalho para a melhor compreensão de um usuário comum às funcionalidades do site ao apresentar
-o local de acesso a serviços seletos à cada tipo possível de usuário do site (cidadão, empresa, entre outros), exemplificados pela figura 1 abaixo.
+#### Violação
+Na Figura 1 abaixo, é possivel visualizar a violação da Correspondência com a Expectativa do Usuário, uma vez que o usuário clica para saber a respeito do prefeito da cidade e encontra apenas a foto e seu nome que não está completo
 
 <center>
-<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/sitePrefeitura/Pag%20inicial.png?raw=true">
-Figura 1 - Página inicial do do site da Prefeitura Municipal de Lagoa da Prata. Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 11/05/2024
-</center>
 
-Em uma visão mais detalhada, ao navegar para os serviços do cidadão, exibidos na figura 2 abaixo, temos uma nova página que indica serviços possíveis de se acessar, porém não todos os disponíveis pelo site.
+**Figura 01** - Violação sessão prefeito
 
-<center>
-<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/sitePrefeitura/pag%20cidadao.png?raw=true">
-Figura 2 - Página de serviços para o cidadão do site da Prefeitura Municipal de Lagoa da Prata. Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 11/05/2024
+![Violação Prefeito](../assets/images/principios_gerais/prefeito.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 07/07/2024*
+
 </center>
 
 ### Simplicidade nas Estruturas das Tarefas
+Para uma simplificação nas estruturas das tarefas deve-se reduzir a quantidade de planejamento e resolução [3], e para isso os designers podem seguir as 4 abordagens tecnológicas a seguir:
+- manter a tarefa inalterada, mas oferecer diferentes formas de suporte para que os usuários possam aprender e executar a tarefa
+- utilizar a tecnologia para tornar visível o que seria invisível, aprimorando o feedback e a capacidade do usuário de manter o controle da tarefa
+- automatizar a tarefa, ou parte dela, mantendo-a inalterada
+- alterar a natureza da tarefa
 
-Para esta diretriz, é importante que a equipe de planejamento conheça bem seus usuários e as inovações e mudanças tecnológicas, de modo a sempre buscar uma simplificação das
-tarefas e métodos para se alcançar um objetivo durante a utilização do site. 
-
-Apesar de conter tarefas relativamente simples em alguns pontos do site, como a pesquisa de editais, demosntradas na figura 3 e 4, o site avaliado também contém áreas que
-se apresentam de modo confuso e sem informações e/ou atualizações ao usuário menos experiente, conforme apresentado na figura 5 que se trata da página que se diz respeito quando o usuário busca informações adicionais sobre a Fila de Espera de Creches Municipais, apresentada como primeiro serviço na área de cidadão. A presença de links sem nenhum texto prévio ou indicação do que contém faz com que os usuários dependam exclusivamente de uma tradução de imagem para tentativa de compreensão de informações, o que, no caso apresentado, infelizmente não resulta em sucesso dado que as informações apresentadas são extremamente básicas.
+#### Violação
+Na figura 2 abaixo, é possível visualizar uma violação da Simplicidade nas Estruturas das Tarefas em que o serviço de ouvidoria não é encontrado de nenhuma forma dentro do site da prefeitura e caso o usuário queria acessar o serviço teria que fazer uma busca usando um buscado externo como o Google para encontrar, como mostra a figura 3.
 
 <center>
-<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/sitePrefeitura/editais.png?raw=true">
-Figura 3 - Página inicial do do site da Prefeitura Municipal de Lagoa da Prata com enfoque na área de editais. Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 11/05/2024
+
+**Figura 02** - Busca ouvidoria 
+
+![Busca ouvidoria ](../assets/images/principios_gerais/busca_ouvidoria.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 07/07/2024*
+
 </center>
 
 <center>
-<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/sitePrefeitura/pesq%20editais.png?raw=true">
-Figura 4 - Página de pesquisa de editais publicados no site da Prefeitura Municipal de Lagoa da Prata. Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 11/05/2024
+
+**Figura 03** - Busca ouvidoria externa
+
+![Busca ouvidoria externa](../assets/images/principios_gerais/ouvidoria_buscagoogle.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 07/07/2024*
+
 </center>
 
+Abaixo temos a figura 4 que mostra que o serviço existe dentro da página mas não existem formas dentro do site para acessá-la
+
 <center>
-<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/sitePrefeitura/info%20creche.png?raw=true">
-Figura 5 - Página de informações adicionais da fila de espera de creches municipais. Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 11/05/2024
+
+**Figura 04** - Ouvidoria
+
+![Ouvidoria](../assets/images/principios_gerais/ouvidoria.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 07/07/2024*
+
 </center>
 
 ### Equilíbrio entre Controle e Liberdade do Usuário
 
 De acordo com Tognazzini (2014), o computador, a interface e o ambiente de trabalho “pertencem” ao usuário. Isto é dizer que o usuário deve ter o maior controle e decisões de como alcançar seu objetivo sem se sentir "forçado" a uma sequência de ações fixa ou não possuir poder de decisão sobre as ações que está realizando. Isso implica que muitas vezes é vantajoso que o usuário seja capaz de realizar uma mesma tarefa de modos diferentes, ou até cancelar uma ação sem que o sistema o impeça ou penalize-o por isso. 
 
-Para o site avaliado, o usuário é livre para sair de sua página atual para acessar outras páginas a qualquer momento pela barra superior. Essas ações não possuem nenhum aviso e podem resultar, porém, na perda de informações de formulários ou pesquisas que o mesmo tenha realizado até então, o que será tratado melhor na seção [Projeto para Erros](#projeto-para-erros).
+#### Violação
+Na figura 05, podemos visualizar uma violação contra a liberdade do usuário, embora o site permita que ele visualize todos os tipos de registros encontrados, não é permitido para o usuário visualizar todos os registros de uma vez tendo que filtrar um por um e não podendo selecionar todos de uma vez
+
+<center>
+
+**Figura 05** - Busca falta de liberdade
+
+![Busca](../assets/images/principios_gerais/busca.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 07/07/2024*
+
+</center>
 
 ### Consistência e Padronização
 
-A presença de um formato padrão e consistente para o sistema é fundamental à atividade de aprendizado do usuário sobre o sistema, assim como melhor compreensão e lembrança do mesmo para eventuais realizações de novas tafeas e utilização geral. Funções similares, como de busca para o site aqui avaliado, devem conter o mesmo padrão, como é exemplificado pela figura 4 anteriormente, sendo a caixa de pesquisa igual para licitações, concursos e chamamentos públicos.
+Para facilitar o aprendizado e uso de um sistema, recomenda-se assegurar a consistência da interface com o modelo conceitual embutido no sistema[3], sendo a mais importante consistência a de expectativas dos usuários e quando essa correspondência não for possível é preciso padronizar [3][4].
 
-### Promovendo a Eficiência do Usuário
-
-"As pessoas são mais custosas do que máquinas, e uma economia de tempo e esforço do usuário costumam trazer mais benefícios do que economias semelhantes de processamento ou armazenamento" (Barbosa, 2021). A capacidade de um sistema de garantir que o usuário não tenha que aguardar para realizar ações, que não tenha que fazer um retrabalho ou ainda que possa prever suas ações é um objetivo de grande relevância durante o desenvolvimento de um sistema. São diversas as possibilidades de trabalho e sugestões para auxiliar o indivíduo na maior eficiência de suas ações, porém pelo site da prefeitura avaliado, não é possível notar diversos deles, como uma lembrança das ações do indivíduo, o registro de informações comuns, o registro de rotas comuns e serviços acessados, a falta de claridade em quais outras funções estão disponíveis pelo site além das demonstradas na página inicial, entre outros. Abaixo, é apresentada a figura 6, que demonstra a caixa de menus do site, que por si própria já se encontra "escondida" na página, e não sugere ao usuário o que seria sua função na página.
+#### Violação
+Mesmo que o site em sua maior parte siga uma certa consistência e padronização, ele peca em alguns aspectos como mostrado na figura 5 abaixo em que nota-se uma violação da consistência e padronização uma vez que o menu hambúrguer está totalmente inconsistente e despadronizado.
 
 <center>
-<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/sitePrefeitura/menu%20servicos.png?raw=true">
-Figura 6 - Menu de serviços gerais do site (superior direita). Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 11/05/2024
+
+**Figura 06** - Menu Hambúrguer
+
+![Menu Hamburguer](../assets/images/principios_gerais/menu_hamburguer.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 07/07/2024*
+
 </center>
 
-### Antecipação
 
-Fortemente ligado à eficiência do usuário, a capacidade de antecipação de um sistema está ligada a prever as ações de um usuário e facilitar o seu acesso ou navegação de funções pela interface. Para o grupo, o site avaliado não contém formas de antecipação visto que nas áreas em que isso seria possível, o sistema retorna valores _default_ para apresentar todas as informações disponíveis no site, e não aquelas personalizadas ao usuário.
+### Promovendo a Eficiência do Usuário
+A eficiência do usuário vem sempre em primeiro lugar, e não a do computador. [4] O usuário deve ser mantido ocupado, logo , processamentos demorados não devem prender a interação, mas sim permitir que os usuários continuem seu trabalho com outras partes do sistema, suprimindo a ociosidade e economizando tempo e esforço do usuário.
+
+#### Violação
+Há algumas funcionalidades no site em que redireciona o usuário para outros links sem uma alternativa de retorno para a página em que o usuário estava anteriormente notando-se uma violação em promover a eficiência do usuário que terá que usar o botão do navegador ou acessar novamente a página do site da Prefeitura, como mostra a figura 07 a seguir que ao clicar em transparência no menu suspenso é redirecionado para um link externo sem opção de volta mostrado na figura 08.
+
+<center>
+
+**Figura 07** - Menu Suspenso
+
+![Menu Suspenso](../assets/images/principios_gerais/menu%20suspenso.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 07/07/2024*
+
+</center>
+
+<center>
+
+**Figura 08** - Página de Transparência
+
+![Transparência](../assets/images/principios_gerais/transparencia.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://transparencia.betha.cloud/#/5jrYiAhzcWF174nC3B1Hkw==>. Acesso em 07/07/2024*
+
+</center>
+
+
+
+### Antecipação
+Deve ser fornecido todas as informações e ferramentas necessárias ao usuário para cada passo realizado, fazendo com que não seja necessário o usuário buscar ou coletar informações.
+
+#### Violação
+Mesmo já estando cadastrado e logado no site da Prefeitura, ao tentar realizar a solicitação de troca de lâmpadas, o site requer que o usuário preenche dados que poderiam ter sido puxados do perfil, como nome do requerente, email, telefone para contato; como mostrado na figura 09 abaixo.
+
+<center>
+
+**Figura 09** - Página de solicitação de troca de lâmpadas
+
+![Transparência](../assets/images/principios_gerais/troca_de_lampada.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 07/07/2024*
+
+</center>
 
 ### Visibilidade e Reconhecimento
+Antes de executar uma ação, o usuário deve ter uma visão prévia das diferentes maneiras de realizá-la e das instruções para sua execução. Além disso, a interface deve fornecer informações lógicas e acessíveis ao usuário no momento necessário.[3]
 
-Buscando uma melhor interação do usuário, um sistema deve ser capaz de claramente informar seu estado e atualizações, além de suas funções serem reconhecíveis e fáceis de serem previstas. No caso do sistema da Prefeitura Municipal de Lagoa da Prata, o sistema não apresenta claras mensagens de estado, e ações como de busca resultam em apenas um curto carregamento da página, sem indicação clara do usuário que sua ação foi recebida e realizada. Em outras partes o usuário é reencaminhado para uma página completamente diferente, sem nenhuma indicação também de que tal ação seria realizada, como é o caso demonstrado pelas figuras 1 e 2 anteriormente.
+TERMINAR
 
-### Conteúdo Relevante e Expressão Adequada
+
+
+### Conteúdo Relevante e Expressão Adequada - REVISAR
 
 Reeves e Nass (1996) estabelecem que uma interação bem polida seguem 4 máximas: qualidade (não apresentar informações que não se sabe se são reais), quantidade (não exibir mais informações que o necessário para o objetivo), relação (os itens devem estar relacionados de forma clara e não confusa) e modo (evitar ambiguidades). Isto também quer dizer que o sistema deve ser reconhecível aos usuários e que eles não estarão confusos quanto às informações que devem preencher na página. 
 É possível notar, porém, conforme apresentado na figura 7 que segue este texto, há locais no site avaliado que não respeitam essas máximas e podem com certa facilidade desmotivar o usuário a completar seu objetivo. No caso apresentado, o usuário está na página primária para visualização geral dos eventos que irão ocorrer no município, e, apesar de possuir um breve texto introdutório como "agenda", ele não é explicado sobre o calendário ao lado e nem as informações disponíveis ao posicionar o mouse sobre uma data específica, assim como as informações apresentadas quando feita, não são devidamente expostas ou claras (período dos eventos).
@@ -91,7 +169,7 @@ Figura 7 - Área de eventos registrados. Fonte: Prefeitura Municipal de Lagoa da
 </center>
 
 
-### Projeto para Erros
+### Projeto para Erros - REVISAR
 
 Por fim, tratamos também de projeções para um erro, isto é, levar em consideração que, de alguma forma, um erro poderá acontecer e como é possível evitar esse erro ou ainda evitar que seja uma falha que possa levar a uma consequência severa ao usuário. Em um exemplo, isso significa salvar informações de um formulário em caso de uma mudança indesejada de página, em caso de perda de conexão, ou ainda evitar que um clique errado do usuário, como é possível ocorrer no site da Prefeitura aqui trabalhado, resulte na perda de quaisquer informações e/ou pesquisas já realizadas na página.
 
@@ -108,9 +186,12 @@ Por fim, tratamos também de projeções para um erro, isto é, levar em conside
 
 > [5] Reeves, Byron e Nass, Clifford (1996). The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places. Cambridge University Press/CSLI, Stanford, Calif, new edition edition.
 
+> [6] Shneiderman, Ben (1998). Designing the User Interface: Strategies for Effective Human Computer Interaction. Addison-Wesley
+
 ## Historico de Versões
 
-|    Data    | Versão |      Descrição       |        Autor(es)            | Data de revisão |                 Revisor(es)                 |
-| :--------: | :----: | :------------------: | --------------------------: | :-------------: | :-----------------------------------------: |
-| 11/05/2024 | `1.0`  | Criação do documento |  [Joyce Dionizio](https://github.com/joycejdm) | 13/05/2024       | [Augusto Duarte](https://github.com/Augcamp)|
-| 11/05/2024 | `1.1`  | Elaboração do documento |  [Lucas Meireles](https://github.com/Katuner) | 13/05/2024     | [Augusto Duarte](https://github.com/Augcamp)|
+|    Data    | Versão |                         Descrição                         |                                     Autor(es) | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :-------------------------------------------------------: | --------------------------------------------: | :-------------: | :------------------------------------------: |
+| 11/05/2024 | `1.0`  |                   Criação do documento                    | [Joyce Dionizio](https://github.com/joycejdm) |   13/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
+| 11/05/2024 | `1.1`  |                  Elaboração do documento                  |  [Lucas Meireles](https://github.com/Katuner) |   13/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
+| 07/07/2024 | `2.0`  | Reestruturação completa do documento, TUDO foi refatorado |   [Pedro Lucas](https://github.com/lucasdray) | 07/07/2024 | [Pedro Lucas](https://github.com/lucasdray)  |
