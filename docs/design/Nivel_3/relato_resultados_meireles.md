@@ -7,7 +7,7 @@ Durante a fase de design e desenvolvimento de um site, os protótipos de alta fi
 Além disso, obter feedback dos usuários através de protótipos de alta fidelidade é fundamental para assegurar a usabilidade e a satisfação do público-alvo. Ao observar e entrevistar os usuários durante a interação com esses protótipos, é possível identificar problemas de usabilidade, áreas de confusão e oportunidades de melhoria com uma fidelidade próxima ao produto final. Essas informações são vitais para aprimorar o design do site, otimizar a experiência do usuário e minimizar retrabalhos nas fases posteriores do desenvolvimento.
 
 ## Objetivo 
-O objetivo de realizar a avaliação somativa é julgar a qualidade de uso de uma solução de IHC buscando evidências que indiquem que as metas de design foram alcançadas. (Bruno Silva e Simone Barbosa)[1]
+O objetivo de realizar a avaliação somativa é julgar a qualidade de uso de uma solução de IHC buscando evidências que indiquem que as metas de design foram alcançadas. (Bruno Silva e Simone Barbosa)[1].
 Com relação ao objetivo deste documento, que é realizar o relato dos resultados obtidos na avaliação do protótipo de alta fidelidade com relação a tarefa de "Registrar e verificar o panorama de saúde da cidade", realizado pelo integrante do grupo [Lucas Meireles](https://github.com/Katuner).
 
 ## Metodologia
@@ -184,7 +184,7 @@ Após concluir o planejamento da avaliação e antes de realmente fazer os teste
 
 | Ordem | Data       | Horário de início e fim | Local                       | Entrevistadores                                    | Entrevistado                                      | Tarefas                                           |
 | ----- | ---------- | ----------------------- | --------------------------- | -------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| 1°    | 08/07/2025 | 20:15 - 21:25           | Residência do entrevistador | [Lucas Meireles](https://github.com/Katuner) | [Lucas Meireles](https://github.com/Katuner) | Registro e verificação do estado de saúde da cidade |
+| 1°    | 08/07/2025 | 18:30 - 18:40           | Residência do entrevistador | [Lucas Meireles](https://github.com/Katuner) | [Lucas Meireles](https://github.com/Katuner) | Registro e verificação do estado de saúde da cidade |
 
  *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 
@@ -224,8 +224,8 @@ Abaixo se encontra a tabela 02 que mostra o cronograma da execução das inspeç
 | Ordem | Data       | Horário de início e fim | Local                 | Entrevistador                                       | ID do perfil utilizado     | Tarefa                                            |
 | ----- | ---------- | ----------------------- | --------------------- | --------------------------------------------------- | ---------------- | ------------------------------------------------- |
 | 1°    | 08/07/2024 | 19:05 - 19:10           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 1 | Registro e verificação do estado de saúde da cidade |
-| 2°    | 08/07/2024 | XXXX - XXXX           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 2      | Registro e verificação do estado de saúde da cidade |
-| 3°    | 08/07/2024 | XXXX - XXXX           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 3         | Registro e verificação do estado de saúde da cidade |
+| 2°    | 08/07/2024 | 19:30 - 19:35           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 2      | Registro e verificação do estado de saúde da cidade |
+| 3°    | 08/07/2024 | 19:40 - 19:50           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 3         | Registro e verificação do estado de saúde da cidade |
 
 
  *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
