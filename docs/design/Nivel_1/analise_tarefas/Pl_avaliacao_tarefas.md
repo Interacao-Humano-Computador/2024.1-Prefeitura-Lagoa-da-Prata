@@ -1,24 +1,15 @@
-# Planejamento da Avaliação da Análise de Tarefas
 
 ## Introdução
+Conforme apontam Simone Barbosa e Bruno Diniz<a id=anchor_1 href="#REF1"><sup>1</sup></a>: "A avaliação do produto final possibilita entregar um produto com
+uma garantia maior de qualidade". Sob esse viés, este artefato tem como objetivo fazer o planejamento da avaliação do protótipo de alta fidelidade, realizando entrevista com usuários reais do produto, tendo como referência o [perfil do usuario](../../requisitos1/perfil-do-usuario.md) previamente estabelecido.
 
-Conforme explicado por Simone Barbosa e Bruno Diniz [1], a avaliação de Interação Humano-Computador (IHC) é crucial nos processos de desenvolvimento que visam criar um sistema interativo de alta qualidade. Essa avaliação ajuda o avaliador a julgar a qualidade de uso da solução de IHC e identificar problemas na interação e na interface que possam prejudicar a experiência do usuário. Os métodos de investigação permitem que o avaliador acesse, interprete e analise as concepções, opiniões, expectativas e comportamentos dos usuários em relação a sistemas interativos. O objetivo principal é detectar, por meio dos usuários, detalhes relacionados às tarefas observadas no site da Prefeitura da Lagoa da Prata. Para alcançar esse objetivo, foi definido que o método de avaliação será investigativo, utilizando entrevistas.
+## Metodologia
+Para realizar esse planejamento foi utilizado o framework DECIDE proposto para orientar o planejamento, execução e análise de uma avaliação de Interação Humano Computador<a id=anchor_2 href="#REF2"><sup>2</sup></a>. A tabela 1 a seguir apresenta o siginificado de cada letra do framework assim como o objetivo de cada tópico. 
+Os métodos utilizados na avaliação serão destrinchados na parte de [Escolher os métodos de avaliação](#c---escolher-os-métodos-de-avaliação)
 
-A Tabela 1 apresenta as tarefas a serem analisadas durante a avaliação.
+<center>
 
-| Número | Tarefas que podem ser executadas no site da Prefeitura |
-| :----: | ------------------------------------------------------ |
-|    1   | Registrar e verificar o panorama de saúde da cidade                                                      |
-|    2   | Cadastro Antecipado de Aluno                                                      |
-|    3   | Cadastrar e Acompanhar uma reclamação                                                      |
-|    4   | Cadastro Antecipado de Aluno                                                      |
-|    5   | Cadastrar e Acompanhar uma reclamação                                                      |
-
-Tabela 1: Tarefas da Prefeitura (Fonte: FREITAS, Cainã. 2024).
-
-## Planejamento
-
-O framework DECIDE é uma abordagem proposta por Sharp, Rogers e Preece [2] para orientar o planejamento, execução e análise de avaliações de IHC.
+**Tabela 1** - Letras e significados DECIDE
 
 | Letra | Significado                                          |
 | ----- | ---------------------------------------------------- |
@@ -29,83 +20,103 @@ O framework DECIDE é uma abordagem proposta por Sharp, Rogers e Preece [2] para
 | D     | Decidir como lidar com as questões éticas            |
 | E     | Avaliar, interpretar e apresentar os dados           |
 
-Tabela 2: Significado da sigla DECIDE (Fonte: FREITAS, Cainã. 2024).
+*Fonte: Página: 280,Capítulo 11. Processos de Design de IHC. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.*
 
-### D - Determinar os objetivos
+</center>
 
-O objetivo desta avaliação é obter informações dos _stakeholders_, especialmente dos usuários, sobre suas interações com as tarefas e identificar quaisquer problemas nos fluxos das atividades que possam afetar negativamente a experiência de uso. Serão considerados critérios de qualidade como usabilidade, experiência do usuário, acessibilidade e comunicabilidade. O planejamento é essencial para evitar desperdício de tempo e recursos financeiros. Serão abordadas questões relacionadas aos seguintes aspectos:
+## D - Objetivos
+O objetivo desta avaliação é verificar se os artefatos produzidos na [análise de tarefas](../../../requisitos1/analise-tarefas.md) condizem com a realidade sendo avaliados por usuários-alvo definidos através do [perfil do usuario](../../requisitos1/perfil-do-usuario.md) e que assim podemos identificar problemas e elicitar ideias que não foram identificados anteriormente.
 
-- (1) Apropriação da tecnologia pelos usuários 
-- (2) Problemas na interação com as tarefas  
+## E - Explorar Perguntas Respondidas com a Avaliação
+As perguntas a seguir tem o intuito de serem respondidas pelo avaliador após a execução da gravação da entrevista, todas foram criadas a partir da *Tabela 11.1 " Exemplos de perguntas que uma avaliação de IHC" do livro Interação Humano Computador[1] presente na página 266 do Capítulo 11* e são divididas de acordo com o objetivo de cada pergunta,
 
-### E - Explorar perguntas
+(1) verificar conformidade com um padrão:
+- Os diagramas HTA possuem os objetivos, operações, legendas, representação em tabela e diagrama?
 
-A Tabela 3 apresenta as perguntas a serem realizadas durante as entrevistas. As perguntas foram elaboradas com base nas sugestões do livro de Simone Barbosa e Bruno Diniz [1] e são essenciais para avaliar o entendimento dos participantes em relação aos fluxos de tarefas em questão (Tabela 1).
+(2) analisar a apropriação da tecnologia:
+- Os diagramas representam tarefas condizentes com as funcionalidades esperadas para o site escolhido?
+- A partir das entrevistas foram identificadas melhoras para as tarefas apresnetas no [Análise de Tarefas](../../../requisitos1/analise-tarefas.md0?)
+- O usuário tem acesso a todas as informações necessárias para o entedimento da tarefa e para a realização dela?
 
-| Ordem | Data | Horário | Nome do Entrevistado | Nome do Entrevistador |
-| :---: | :--: | :-----: | :-------------------: | :-------------------: |
-|   X   | Data de uma entrevista | Horário de uma entrevista | Nome de um entrevistado | Nome de um entrevistador |
+## C - Escolher os Métodos de Avaliação
+Para a realização da avaliação em si será utilizado o método de investigação fazendo uso da realização de entrevistas com pessoas que se enquadrem no nosso [Perfil do Usuário](../../../requisitos1/perfil-do-usuario.md) já que com esse método o avaliador terá acesso a interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1] relacionados com as tárefas analisadas pelos integrantes do grupo.
 
-Tabela 1: Ficha de entrevista (Fonte: FREITAS, Cainã. 2024)
+## I - Identificar Questões Práticas da Avaliação
+### Recrutamento 
+O recrutamento das pessoas que serão entrevistadas será feita baseando-se nas caractéristicas do [perfil do usuário](../../../requisitos1/perfil-do-usuario.md) definido pelo grupo e pelas [personas](../../../requisitos1/personas.md). A quantidade de entrevistados é correspondente ao número de integrantes do grupo, atualmente sendo 5, e fica responsável a cada integrante do grupo buscar o seu entrevistado.
 
-| Ordem das perguntas | Pergunta           | Tipo de pergunta | Respostas possíveis |
-| :-----------------: | :-----------------:| :--------------: | :-----------------: |
-| 1°                  |Qual seu nome completo? | Aberta         | Discursiva       |
-| 2°                  | Qual sua idade?         | Aberta         | Discursiva       |
-| 3°                  |Qual sua ocupação?      | Aberta         | Discursiva       |
-| 4°                  | Qual seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Fechada         | Muito Boa / Boa / Média / Ruim / Muito ruim   |
-| 5°                  |Já utilizou o site da prefeitura da lagoa da prata? | Fechada         | Sim / Não          |
-| 6°                  |Já utilizou outros sites de prefeitura similares a este? | Fechada         | Sim / Não          |
-| 7°                  |Como é sua navegação pelo site?         | Aberta         | Discursiva       |
-| 8°                  |  Consegue encontrar as tarefas que procura facilmente?         | Fechada         | Sim / Não          |
-| 9°                  |Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele?         | Fechada         | Sim / Não          |
-| 10°                  | Ao utilizar uma funcionalidade, seus objetivos são completamente satisfeitos?         | Fechada         | Sim / Não          |
-| 11°                  |Acredita que a interface lhe causa alguma perda de tempo?         | Fechada         | Sim / Não          |
-| 12°                  | Alguma parte da interface e da interação o deixa insatisfeito? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
-| 13°                  | Alguma parte da interface o desmotiva a explorar novas funcionalidades? Se sim, por que?         | Fechada / Aberta        | Sim e Discursiva / Não          |
-| 14°                  | Consegue entender com clareza como utilizar o site para realizar seu objetivo? se não, por que?         | Fechada / Aberta        | Sim / Não e Discursiva         |
-| 15°                  | Você utiliza a acessibilidade disponível pelo site, como libras e alto contraste? Se sim, cumpre com seu objetivo?         | Fechada / Aberta        | Sim e Discursiva / Não          |
-| 16°                  | Quais são os pontos fortes e fracos em sua opnião?         | Aberta         | Discursiva       |
+### Preparação
+Na atividade de preparação, o entrevistador apresentará a análise de tarefa que o mesmo confeccionou a seguir seguirá o roteiro de perguntas para o entrevistado anotando suas respostas, salientando que essa entrevista deve acontencer de forma presencial e na gravação deve aparecer tanto o entrevistado como entrevistador. A seguir temos a lista de tarefas elicitadas acompanhadas do autor de cada uma.
 
-Tabela 3: Questões a serem tratadas nas entrevistas (Fonte: FREITAS, Cainã. 2024).
+- Cadastrar e acompanhar uma reclamação na ouvidoria - [Cainã Freitas](https://github.com/freitasc)
+- Acessar o módulo de Contra Cheque e consultar processos do servidor - [Augusto](https://github.com/Augcamp)
+- Registrar e verificar o panorama de saúde da cidade - [Lucas Meireles](https://github.com/Katuner)
+- Solicitar vistoria de local com água parada - [Pedro Lucas](https://github.com/lucasdray)
+- Cadastro Antecipado de Aluno - [Joyce Dionizio](https://github.com/joycejdm)
 
-### C - Escolher os métodos
+### Custos
+A realização das entrevistas não gerará nenhum custo a equipe nem ao usuário, logo que as ferramentas utilizadas são disponbilizadas de forma gratuíta, a seguir temos uma lista de ferramentas que serão utilizadas e o seu objetivo para a gravação da entrevista e avaliação:
+- Microsoft teams ou Google Meet: ferramenta para gravar
+- Notebook com camêra, microfone e acesso a internet: aparelho utilizado para gravar
+- Diagrama HTA da tarefa específca: artefato utilizado para o usuário verificar
+- Teste Piloto - para assegurar que tudo está pronto antes da entrevista com o usuário-alvo
 
-O método escolhido foi o investigativo, por meio de entrevistas. Trata-se de uma conversa guiada por um roteiro de perguntas, na qual o entrevistador busca obter informações do entrevistado [2]. Esse método foi escolhido porque permite ao avaliador interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1]. As entrevistas serão estruturadas, seguindo um roteiro devido à inexperiência dos entrevistadores, com perguntas abertas e fechadas.
+### Prazos
+Em relação aos prazos no relato de resultados em cada tarefa será disponibilziado uma tabela seguindo o molde da tabela 2 a seguir que contém o Entrevistador; Entrevistado; Horário de início e fim; Data; Local;
 
-### I - Identificar questões práticas
+<center>
 
-Para selecionar os usuários participantes, convidaremos aqueles com perfis semelhantes aos identificados no [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos1/perfil-do-usuario/) e nas [Personas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos1/personas/). Seguiremos a recomendação de Dumas e Redish, que sugere envolver de cinco a doze usuários em uma avaliação de IHC, sendo cinco suficientes para detectar a maioria dos problemas [3]. A entrevista será conduzida, quando possível, por dois membros do grupo de IHC: um conduzirá a entrevista enquanto o outro registrará as informações. Caso apenas um membro esteja disponível, este assumirá ambos os papéis. Utilizaremos a plataforma Microsoft Teams, gratuita para os estudantes da Universidade de Brasília, o que evitará custos adicionais e permitirá a gravação das entrevistas, caso os participantes consintam. A Tabela 4 apresenta um exemplo de planejamento para a documentação das entrevistas.
+**Tabela 2** - Tabela de entrevistas
 
-| Ordem | Data       | Horário de início e fim | Local                          | Entrevistadores | Entrevistado |
-| :---: | :--------: | :---------------------: | ----------------------------- | --------------- | ------------ |
-| 1°    | 24/05/2024 | 18:00 - 18:15           | Plataforma Microsoft Teams     | Lucas Heler     | ---          |
-| 2°    | 24/05/2024 | 18:20 - 18:35           | Plataforma Microsoft Teams     | Joyce           | ---          |
-| 3°    | 24/05/2024 | 18:40 - 18:55           | Plataforma Microsoft Teams     | Augusto         | ---          |
-| 4°    | 24/05/2024 | 19:00 - 19:15           | Plataforma Microsoft Teams     | Lucas Meireles  | ---          |
-| 5°    | 24/05/2024 | 19:20 - 19:35           | Plataforma Microsoft Teams     | Cainã           | ---          |
+| Entrevistador | Entrevistado | Horário       | Data     | Local |
+| ------------- | ------------ | ------------- | -------- | ----- |
+| NOME          | NOME         | 00:00 - 01:00 | ??/??/?? | LOCAL |
+                                   
 
-Tabela 4: Planejamento para realização das entrevistas (Fonte: FREITAS, Cainã. 2024).
+*Fonte: [DOURADO, PEDRO LUCAS.](https://github.com/lucasdray). 2024.*
 
-### D - Decidir as questões éticas
 
-Seguindo os princípios éticos estabelecidos no documento de [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos1/aspectos-eticos/), os participantes poderão se informar sobre os detalhes do processo de consentimento no documento do [termo de consentimento](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefa/termo_consentimento.md).
+</center>
 
-### E - Avaliar, interpretar e apresentar os dados
+### Roteiro de Perguntas ao entrevistado responder
+A seguir segue a tabela 03 que contém as perguntas que será feita para o entrevistado sendo as mesmas baseadas nas [perguntas a serem respondidas na avaliação e os objetivos](#e---explorar-perguntas-respondidas-com-a-avaliação). Sendo as 4 primeiras referentes ao [perfil do usuário](../../../requisitos1/perfil-do-usuario.md).
 
-Antes de finalizar a análise dos resultados, avaliaremos a confiabilidade dos dados e a validade externa do estudo, verificando até que ponto os resultados são representativos de uma população mais ampla. Após essa verificação, os dados serão analisados de forma detalhada e apresentados no documento de relato dos resultados da avaliação da análise de tarefas para contribuir com o avanço do projeto.
+<center>
 
-## Referência Bibliográfica
+**Tabela 3** - Roteiro de perguntas da entrevista.
 
-[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 06/05/2023.
+| Número |                                                        Pergunta                                                        | Resposta |
+| :----: | :--------------------------------------------------------------------------------------------------------------------: | :------: |
+|   1    |                                                    Qual o seu nome?                                                    |    -     |
+|   2    |                                                    Qual a sua idade                                                    |    -     |
+|   3    |                                   Qual o grau de afinidade você tem com tecnologias?                                   |    -     |
+|   4    |                                Você já utilizou algum site de prefeitura? Se sim quais?                                |    -     |
+|   5    |                             Observando a tarefa, você acha que ela condiz com a realidade?                             |    -     |
+|   6    | Observando a tarefa mostrada, a sequência de processos confere com a realidade? Caso não, poderia descrever o por quê? |    -     |
+|   7    |                           Você teria alguma sugestão de melhoria para o diagrama da tarefa?                            |    -     |
+|   8    |                                E com relação a tarefa tem alguma sugestão de melhoria?                                 |    -     |
 
-[2] SHARP, H.; ROGERS, Y.; PREECE, J. Interaction Design: Beyond Human-Computer Interaction. Wiley, 2007.
+*Fonte: [DOURADO, PEDRO LUCAS.](https://github.com/lucasdray). 2024.*
 
-[3] DUMAS, Joseph S. e REDISH, Janice C. A Practical Guide to Usability Testing. Exeter: Intellect Books, 1999.
+</center>
+
+### Execução do roteiro 
+As perguntas de 1-4 devem ser feitos ao começar a entrevista e após dar um contexto em relação ao projeto, as demais perguntas devem ser feitas logo após a demonstração e explicação da tarefa, diagrama das tarefas e a tabela.
+
+## D - Lidando com as Questões Éticas
+Os participantes da avaliação serão convidados a participar voluntariamente e a assinar um [termo de consentimento](../../../requisitos1/aspectos-eticos.md/#tcle-de-avaliação). O termo de consentimento informa aos participantes sobre os objetivos da pesquisa, os procedimentos que serão realizados, os riscos e benefícios da participação, a garantia de anonimato e a possibilidade de desistir a qualquer momento. O termo de consentimento também informa que a participação é voluntária e que os participantes podem desistir a qualquer momento, sem penalidades ou consequências negativas. De modo a evitar possíveis constrangimentos e incentivar a participação de usuários, não será disponibilizado de modo público as gravações audio-visuais do procedimento, sendo que os registros serão disponibilizados apenas à equipe de avaliação para verificação das informações textuais registradas e tratamento de dúvidas das ações realizadas pelos entrevistados.
+
+## E - Avaliar, Interpretar e Apresentar os Dados
+Após a avaliação, os dados serão interpretados e será disponbilizado um relato dos resultados contendo os objetivos, metodologia utilizada, tarefa, teste piloto, as entrevistas, as perguntas feitas, os problemas encontrados e suas descrições e por fim sugestões de melhorias -para cada funcionalidade.
+
+## Referências Bibliográficas
+
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## Histórico de Versões
 
-|    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
-| 22/05/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
-| 03/06/2024 | `1.1`  |  Corrige documento   |      [Cainã Freitas](https://github.com/freitasc) |   19/06/2024   | [Joyce Dionizio](https://github.com/joycejdm) |
+|    Data    | Versão |            Descrição            |                  Autor(es)                   | Data de revisão |                  Revisor(es)                  |
+| :--------: | :----: | :-----------------------------: | :------------------------------------------: | :-------------: | :-------------------------------------------: |
+| 22/05/2024 | `1.0`  | Elaboração inicial do documento | [Cainã Freitas](https://github.com/freitasc) |   19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
+| 03/06/2024 | `1.1`  |        Corrige documento        | [Cainã Freitas](https://github.com/freitasc) |   19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
+| 08/07/2024 | `2.0`  |    Documento inteiro refeito    | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                               |
