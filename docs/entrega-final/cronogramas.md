@@ -18,9 +18,9 @@ Segue abaixo as tabelas:
 
 <summary> Tabela PLANEJADO 01 - Ponto de Controle 1 </summary>
 
-<center> 
+ 
 
-| <center>Atividade </center>                | <center>Período de desenvolvimento</center> |                            <center>Responsável</center>                            | <center>Revisão </center> |          <center>Revisores</center>          |
+| Atividade                 | Período de desenvolvimento |                            Responsável                            | Revisão  |          Revisores          |
 | ------------------------------------------ | :-----------------------------------------: | :--------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
 | Planejamento do Projeto - Cronograma       |        02/04/2024 - 04/04/2024/2024         |                    [Pedro Lucas](https://github.com/lucasdray)                     |        04/04/2024         | [Lucas Meireles](https://github.com/Katuner) |
 | Heatmap de disponibilidade dos integrantes |                 20/03/2024                  |                    [Pedro Lucas](https://github.com/lucasdray)                     |        02/04/2024         |     [Joyce](https://github.com/joycejdm)     |
@@ -36,7 +36,7 @@ Segue abaixo as tabelas:
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -44,9 +44,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela EXECUTADO 01 - Ponto de Controle 1 </summary>
 
-<center>
 
-| <center>Atividade </center>        | <center>Período de desenvolvimento</center> |                                                                                       <center>Responsável</center>                                                                                       | <center>Revisão </center> |                                               <center>Revisores</center>                                               |
+
+| Atividade         | Período de desenvolvimento |                                                                                       Responsável                                                                                       | Revisão  |                                               Revisores                                               |
 | ------------------------------------------ | :--------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
 | Planejamento do Projeto - Cronograma       |               02/04/2024 - 04/04/2024               |                                                                                     [Pedro Lucas](https://github.com/lucasdray)                                                                                     |             07/04/2024             |                                            [Lucas Meireles](https://github.com/Katuner)                                            |
 | Heatmap de disponibilidade dos integrantes |                      20/03/2024                      |                                                                                     [Pedro Lucas](https://github.com/lucasdray)                                                                                     |             07/04/2024             |                     [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc)                     |
@@ -62,7 +62,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -72,9 +72,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela PLANEJADO 02 - Ponto de Controle 2 </summary>
 
-<center>
 
-| <center>Atividade </center>                     | <center>Período de desenvolvimento</center> |                                <center>Responsável</center>                                | <center>Revisão </center> |          <center>Revisores</center>          |
+
+| Atividade                      | Período de desenvolvimento |                                Responsável                                | Revisão  |          Revisores          |
 | ----------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 1      |           09/04/2024 - 10/04/2024           |                        [Pedro Lucas](https://github.com/lucasdray)                         |        10/04/2024         | [Lucas Meireles](https://github.com/Katuner) |
 | Criação do perfil do Usuário                    |           11/04/2024 - 06/05/2024           |     [Joyce](https://github.com/joycejdm) e [Pedro Lucas](https://github.com/lucasdray)     |        06/05/2024         | [Lucas Heler](https://github.com/Akaeboshi)  |
@@ -88,7 +88,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -96,9 +96,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela EXECUTADO 02 - Ponto de Controle 2 </summary>
 
-<center>
 
-| <center>Atividade</center>              | <center>Período de desenvolvimento</center> |                                                                                                           <center>Responsável</center>                                                                                                           | <center>Revisão </center> |                                                                                       <center>Revisores</center>                                                                                       |
+
+| Atividade              | Período de desenvolvimento |                                                                                                           Responsável                                                                                                           | Revisão  |                                                                                       Revisores                                                                                       |
 | ------------------------------------------------ | :--------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 1     |               09/04/2024 - 10/04/2024               |                                                                                        [Pedro Lucas](https://github.com/lucasdray), [Joyce](https://github.com/joycejdm)                                                                                        |             06/05/2024             |                                                                                   [Lucas Meireles](https://github.com/Katuner)                                                                                   |
 | Criação do perfil do Usuário                  |               20/04/2024 - 06/05/2024               |                                                                                        [Joyce](https://github.com/joycejdm)  [Pedro Lucas](https://github.com/lucasdray)                                                                                        |             06/05/2024             |                                                                  [Augusto](https://github.com/Augcamp), [Pedro Lucas](https://github.com/lucasdray)                                                                  |
@@ -112,7 +112,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -122,9 +122,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela PLANEJADO 03 - Ponto de Controle 3 </summary>
 
-<center>
 
-| <center>Atividade </center>                  | <center>Período de desenvolvimento</center> |                                                                                                  <center>Responsável</center>                                                                                                  | <center>Revisão </center> |          <center>Revisores</center>          |
+
+| Atividade                   | Período de desenvolvimento |                                                                                                  Responsável                                                                                                  | Revisão  |          Revisores          |
 | -------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 2   |           07/05/2024 - 08/05/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        08/05/2024         |    [Augusto](https://github.com/Augcamp)     |
 | Princípios Gerais de Projeto                 |           07/05/2024 - 10/05/2024           |                                                                       [Joyce](https://github.com/joycejdm) e [Pedro Lucas](https://github.com/lucasdray)                                                                       |        11/05/2024         | [Lucas Meireles](https://github.com/Katuner) |
@@ -138,7 +138,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -146,9 +146,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela EXECUTADO 03 - Ponto de Controle 3 </summary>
 
-<center>
 
-| <center>Atividade</center>           | <center>Período de desenvolvimento</center> |                                                                                                           <center>Responsável</center>                                                                                                           | <center>Revisão </center> |                                                                                                             <center>Revisores</center>                                                                                                             |
+
+| Atividade           | Período de desenvolvimento |                                                                                                           Responsável                                                                                                           | Revisão  |                                                                                                             Revisores                                                                                                             |
 | --------------------------------------------- | :--------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 2  |               09/05/2024 - 11/05/2024               |                                                                                      [Lucas Meireles](https://github.com/Katuner) e  [Cainã](https://github.com/freitasc)                                                                                      |             13/05/2024             |                                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                                          |
 | Princípios Gerais de Projeto                 |                      11/05/2024                      |                                                                                                         [Lucas Meireles](https://github.com/Katuner)                                                                                                         |             13/05/2024             |                                                                                                             [Augusto](https://github.com/Augcamp)                                                                                                             |
@@ -161,7 +161,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: MEIRELES, Lucas Oliveira. 2024.
 
-</center>
+
 
 </details>
 
@@ -171,9 +171,9 @@ Fonte: MEIRELES, Lucas Oliveira. 2024.
 
 <summary> Tabela PLANEJADO 04 - Ponto de Controle 4 </summary>
 
-<center>
 
-| <center>Atividade </center>                                             | <center>Período de desenvolvimento</center> |                                                                                                  <center>Responsável</center>                                                                                                  | <center>Revisão </center> |          <center>Revisores</center>          |
+
+| Atividade                                              | Período de desenvolvimento |                                                                                                  Responsável                                                                                                  | Revisão  |          Revisores          |
 | ----------------------------------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 3                              |           14/05/2024 - 15/05/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        15/05/2024         |     [Cainã](https://github.com/freitasc)     |
 | Planejamento da Avaliação do Storyboard e Análise de tarefas            |          15/05/2024   - 20/05/2024          |                                                                   [Lucas Meireles](https://github.com/Katuner), [Lucas Heler](https://github.com/Akaeboshi)                                                                    |        20/05/2024         |     [Joyce](https://github.com/joycejdm)     |
@@ -186,7 +186,7 @@ Fonte: MEIRELES, Lucas Oliveira. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -194,9 +194,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela EXECUTADO 04 - Ponto de Controle 4 </summary>
 
-<center>
 
-| <center>Atividade </center>                                        | <center>Período de desenvolvimento</center> |                                                                  <center>Responsável</center>                                                                  | <center>Revisão </center> |    <center>Revisores</center>    |
+
+| Atividade                                         | Período de desenvolvimento |                                                                  Responsável                                                                  | Revisão  |    Revisores    |
 | -------------------------------------------------------------------------- | :--------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :---------------------------------------: |
 | Planejamento da Avaliação do Storyboard e Análise de tarefas            |                      22/05/2024                      |                                                                [Lucas Meireles](https://github.com/Katuner)                                                                |             22/05/2024             |     [Joyce](https://github.com/joycejdm)     |
 | Planejamento do relato dos resultados da avaliação do Storyboard         |                      22/05/2024                      |                                                                [Lucas Meireles](https://github.com/Katuner)                                                                |             22/05/2024             |    [Cainã](https://github.com/freitasc)    |
@@ -208,7 +208,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: FREITAS, Cainã. 2024.
 
-</center>
+
 
 </details>
 
@@ -218,9 +218,9 @@ Fonte: FREITAS, Cainã. 2024.
 
 <summary> Tabela PLANEJADO 05 - Ponto de Controle 5 </summary>
 
-<center>
 
-| <center>Atividade </center>                                              | <center>Período de desenvolvimento</center> |                                                                                                  <center>Responsável</center>                                                                                                  | <center>Revisão </center> |          <center>Revisores</center>          |
+
+| Atividade                                               | Período de desenvolvimento |                                                                                                  Responsável                                                                                                  | Revisão  |          Revisores          |
 | ------------------------------------------------------------------------ | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 4                               |           23/05/2024 - 24/05/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        24/05/2024         | [Lucas Meireles](https://github.com/Katuner) |
 | Relato dos resultados do Story Board e da Análise de tarefas,            |           24/05/2024 - 31/05/2024           |                                                                       [Pedro Lucas](https://github.com/lucasdray), [Joyce](https://github.com/joycejdm)                                                                        |        31/05/2024         | [Lucas Heler](https://github.com/Akaeboshi)  |
@@ -233,7 +233,7 @@ Fonte: FREITAS, Cainã. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -241,9 +241,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela EXECUTADO 05 - Ponto de Controle 5 </summary>
 
-<center>
 
-| <center>Atividade </center>                          | <center>Período de desenvolvimento</center> |                                                                                      <center>Responsável</center>                                                                                      | <center>Revisão </center> |    <center>Revisores</center>    |
+
+| Atividade                           | Período de desenvolvimento |                                                                                      Responsável                                                                                      | Revisão  |    Revisores    |
 | ------------------------------------------------------------ | :--------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :---------------------------------------: |
 | Correção dos artefatos Ponto de Controle 3                 |                      03/06/2024                      |                                                                                     [Pedro Lucas](https://github.com/lucasdray)                                                                                     |             03/06/2024             | [Lucas Meireles](https://github.com/Katuner) |
 | Planejamento da Avaliação de Protótipo de Papel           |              03/06/2024   - 03/06/2024              |                                                              [Lucas Meireles](https://github.com/Katuner), [Cainã Valença](https://github.com/freitasc)                                                              |                                    | [Lucas Meireles](https://github.com/Katuner) |
@@ -256,7 +256,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -266,9 +266,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela PLANEJADO 06.1 - Ponto de Controle 6.1 </summary>
 
-<center>
 
-| <center>Atividade </center>                | <center>Período de desenvolvimento</center> |                                                                                                  <center>Responsável</center>                                                                                                  | <center>Revisão </center> |          <center>Revisores</center>          |
+
+| Atividade                 | Período de desenvolvimento |                                                                                                  Responsável                                                                                                  | Revisão  |          Revisores          |
 | ------------------------------------------ | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 5 |           04/06/2024 - 05/06/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        05/06/2024         |     [Joyce](https://github.com/joycejdm)     |
 | Verificação dos Artefatos Etapa 1          |          05/06/2024  - 10/06/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        10/06/2024         |    [Augusto](https://github.com/Augcamp)     |
@@ -283,7 +283,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -291,9 +291,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela EXECUTADO 06.1 - Ponto de Controle 6.1 </summary>
 
-<center>
 
-| <center>Atividade </center>          | <center>Período de desenvolvimento</center> |                                                                                        <center>Responsável</center>                                                                                        | <center>Revisão </center> |                                                                                         <center>Revisores</center>                                                                                         |
+
+| Atividade           | Período de desenvolvimento |                                                                                        Responsável                                                                                        | Revisão  |                                                                                         Revisores                                                                                         |
 | -------------------------------------------- | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 2 |               06/06/2024 - 08/06/2024               |                                                                                      [Pedro Lucas](https://github.com/lucasdray)                                                                                      |             11/06/2024             |                                                                                      [Augusto Duarte](https://github.com/Augcamp)                                                                                      |
 | Verificação dos Artefatos Etapa 2          |               09/06/2024  - 12/06/2024               |                                                                                      [Pedro Lucas](https://github.com/lucasdray)                                                                                      |      11/06/2024 - 12/06/2024      |                                                                  [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner)                                                                  |
@@ -306,7 +306,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024. 
 
-</center>
+
 
 </details>
 
@@ -316,9 +316,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela PLANEJADO 07 - Ponto de Controle 7 </summary>
 
-<center>
 
-| <center>Atividade </center>                                                        | <center>Período de desenvolvimento</center> |                                                                                                  <center>Responsável</center>                                                                                                  | <center>Revisão </center> |          <center>Revisores</center>          |
+
+| Atividade                                                         | Período de desenvolvimento |                                                                                                  Responsável                                                                                                  | Revisão  |          Revisores          |
 | ---------------------------------------------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
 | Correção dos artefatos Ponto de Control 6.1                                        |           13/06/2024 - 14/06/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        17/06/2024         |    [Augusto](https://github.com/Augcamp)     |
 | Relato dos resultados do Protótipo de Papel                                        |           14/06/2024 - 17/06/2024           |                                                                       [Pedro Lucas](https://github.com/lucasdray), [Joyce](https://github.com/joycejdm)                                                                        |        17/06/2024         | [Lucas Heler](https://github.com/Akaeboshi)  |
@@ -331,7 +331,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -339,9 +339,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela EXECUTADO 07 - Ponto de Controle 7 </summary>
 
-<center>
 
-| <center>Atividade </center>                                                   | <center>Período de desenvolvimento</center> |                                                                                        <center>Responsável</center>                                                                                        | <center>Revisão </center> |                                                                                         <center>Revisores</center>                                                                                         |
+
+| Atividade                                                    | Período de desenvolvimento |                                                                                        Responsável                                                                                        | Revisão  |                                                                                         Revisores                                                                                         |
 | ------------------------------------------------------------------------------------- | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Relato dos resultados do Protótipo de Papel                                          |               17/06/2024 - 19/06/2024               |                                                                                      [Lucas Meireles](https://github.com/Katuner)                                                                                      |             19/06/2024             |                                                                                      [Pedro Lucas](https://github.com/lucasdray)                                                                                      |
 | Planejamento da Avaliação do protótipo de alta fidelidade                          |                      19/06/2024                      |                                                                                      [Pedro Lucas](https://github.com/lucasdray)                                                                                      |             19/06/2024             |                                                                                      [Lucas Meireles](https://github.com/Katuner)                                                                                      |
@@ -352,7 +352,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -362,9 +362,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela PLANEJADO 06.2 - Ponto de Controle 6.2 </summary>
 
-<center>
 
-| <center>Atividade </center>                    | <center>Período de desenvolvimento</center> |                                                                                                  <center>Responsável</center>                                                                                                  | <center>Revisão </center> |          <center>Revisores</center>          |
+
+| Atividade                     | Período de desenvolvimento |                                                                                                  Responsável                                                                                                  | Revisão  |          Revisores          |
 | ---------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 7     |           20/06/2024 - 21/06/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        21/06/2024         | [Lucas Meireles](https://github.com/Katuner) |
 | Relatar a verificação dos artefatos da Etapa 1 |           20/06/2024 - 22/06/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        22/06/2024         |     [Cainã](https://github.com/freitasc)     |
@@ -381,7 +381,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -389,9 +389,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela EXECUTADO 06.2 - Ponto de Controle 6.2 </summary>
 
-<center>
 
-| <center>Atividade </center> | <center>Período de desenvolvimento</center> |                                                                                       <center>Responsável</center>                                                                                       | <center>Revisão </center> |                         <center>Revisores</center>                         |
+
+| Atividade  | Período de desenvolvimento |                                                                                       Responsável                                                                                       | Revisão  |                         Revisores                         |
 | ----------------------------------- | :--------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :---------------------------------------------------------------------------------: |
 | Desenvolver lista da Etapa 2        |               19/06/2024 - 26/06/2024               |                      [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner)                      |      23/06/2024 - 26/06/2024      |                      [Pedro Lucas](https://github.com/lucasdray)                      |
 | Desenvolver lista da Etapa 3        |               19/06/2024 - 26/06/2024               |                                                                                    [Cainã Valença](https://github.com/freitasc)                                                                                    |      25/06/2024 - 26/06/2024      |                   [Lucas Meireles](https://github.com/Katuner), ???                   |
@@ -410,7 +410,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -420,9 +420,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela PLANEJADO 08 - Ponto de Controle 8 </summary>
 
-<center>
 
-| <center>Atividade </center>                  | <center>Período de desenvolvimento</center> |                                                                                                               <center>Responsável</center>                                                                                                                | <center>Revisão </center> |                                <center>Revisores</center>                                 |
+
+| Atividade                   | Período de desenvolvimento |                                                                                                               Responsável                                                                                                                | Revisão  |                                Revisores                                 |
 | -------------------------------------------- | :-----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :---------------------------------------------------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 6.2 |           20/06/2024 - 24/06/2024           | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Lucas Heler](https://github.com/Akaeboshi), [Lucas Meireles](https://github.com/Katuner), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |        24/06/2024         |        [Augusto](https://github.com/Augcamp) [Cainã](https://github.com/freitasc)         |
 | Relato do Protótipo de alta fidelidade       |           20/06/2024 - 24/06/2024           | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Lucas Heler](https://github.com/Akaeboshi), [Lucas Meireles](https://github.com/Katuner), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |        24/06/2024         | [Lucas Heler](https://github.com/Akaeboshi), [Lucas Meireles](https://github.com/Katuner) |
@@ -433,7 +433,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -441,9 +441,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela EXECUTADO 08 - Ponto de Controle 8 </summary>
 
-<center>
 
-| <center>Atividade </center>            | <center>Período de desenvolvimento</center> |                                                                  <center>Responsável</center>                                                                  | <center>Revisão </center> |                                                                   <center>Revisores</center>                                                                   |
+
+| Atividade             | Período de desenvolvimento |                                                                  Responsável                                                                  | Revisão  |                                                                   Revisores                                                                   |
 | -------------------------------------- | :-----------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Relato do Protótipo de alta fidelidade |           01/07/2024 - 03/07/2024           | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |        03/07/2024         | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |
 | Atualização Git Pages                  |           01/07/2024 - 03/07/2024           | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |        03/07/2024         | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |
@@ -453,7 +453,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -463,9 +463,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela PLANEJADO FINAL - Etapa Final </summary>
 
-<center>
 
-| <center>Atividade </center>                | <center>Período de desenvolvimento</center> |                                                                                                               <center>Responsável</center>                                                                                                                | <center>Revisão </center> |                            <center>Revisores</center>                             |
+
+| Atividade                 | Período de desenvolvimento |                                                                                                               Responsável                                                                                                                | Revisão  |                            Revisores                             |
 | ------------------------------------------ | :-----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :-------------------------------------------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 8 |           27/06/2024 - 29/06/2024           | [Augusto](https://github.com/Augcamp), [Cainã](https://github.com/freitasc), [Lucas Heler](https://github.com/Akaeboshi), [Lucas Meireles](https://github.com/Katuner), [Joyce](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |        29/06/2024         |    [Augusto](https://github.com/Augcamp) [Cainã](https://github.com/freitasc)     |
 | Atualização Git Pages                      |           27/06/2024 - 29/06/2024           |              [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Heler](https://github.com/Akaeboshi), [Pedro Lucas](https://github.com/lucasdray)               |        29/06/2024         | [Pedro Lucas](https://github.com/lucasdray), [Cainã](https://github.com/freitasc) |
@@ -475,7 +475,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 </details>
 
@@ -483,9 +483,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 <summary> Tabela EXECUTADO FINAL - Etapa Final </summary>
 
-<center>
 
-| <center>Atividade </center>                | <center>Período de desenvolvimento</center> |                                                                                                               <center>Responsável</center>                                                                                                                | <center>Revisão </center> |                            <center>Revisores</center>                             |
+
+| Atividade                 | Período de desenvolvimento |                                                                                                               Responsável                                                                                                                | Revisão  |                            Revisores                             |
 | ------------------------------------------ | :-----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :-------------------------------------------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 8 |           04/07/2024 - 08/07/2024           | [Cainã](https://github.com/freitasc), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray), [Augusto](https://github.com/Augcamp)  |        08/07/2024         |    [Cainã](https://github.com/freitasc), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray), [Augusto](https://github.com/Augcamp)     |
 | Atualização Git Pages                      |           04/07/2024 - 08/07/2024           |              [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Pedro Lucas](https://github.com/lucasdray)               |        29/06/2024         | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Pedro Lucas](https://github.com/lucasdray) |
@@ -495,7 +495,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</center>
+
 
 
 ## Historico de Versões
