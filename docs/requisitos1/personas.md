@@ -89,15 +89,16 @@ Abaixo se encontra a tabela 3, contendo as informações da persona proposta pel
 | **Foto**             | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/personas/maria-oliveira.jpeg"><p>Imagem 3. Maria Oliveira. Persona</p> |
 | **Descrição**        | Maria Oliveira, 45 anos, moradora de Lagoa da Prata. Mulher. Casada. |
 | **Status**           | Persona Primária.     |
-| **Objetivos**        | Maria busca acessar informações sobre serviços públicos, como a lista de medicamentos disponíveis, de forma fácil e rápida. |
-| **Habilidades**      | Maria tem habilidades domésticas e de organização, além de interesse em se informar sobre serviços públicos. |
-| **Tarefas**          | Maria cuida da casa, fazendo as tarefas domésticas e preparando as refeições. Também auxilia o marido nas finanças da casa. Gosta de se informar sobre serviços públicos disponíveis. |
-| **Relacionamentos**  | Maria tem três filhos adultos que não moram mais com ela. O marido trabalha como motorista de ônibus. |
-| **Requisitos**       | Deseja poder acessar a lista de medicamentos disponíveis de forma online, sem a necessidade de deslocamento até um posto de saúde. |
-| **Expectativas**     | Espera que o site da prefeitura seja intuitivo e forneça as informações desejadas de forma clara e acessível. |
+| **Objetivos**        | Maria busca cadastrar antecipadamente seu filho na escola para garantir uma vaga e evitar filas e burocracia presencial. |
+| **Habilidades**      | Maria tem habilidades domésticas e de organização, além de familiaridade com o uso básico de sites para realizar tarefas online. |
+| **Tarefas**          | Maria cuida da casa, faz tarefas domésticas e prepara refeições. Também auxilia o marido nas finanças da casa. Gosta de se informar sobre serviços públicos disponíveis e está empenhada em garantir a educação de seu filho. |
+| **Relacionamentos**  | Maria tem três filhos adultos que não moram mais com ela e um filho em idade escolar. O marido trabalha como motorista de ônibus. |
+| **Requisitos**       | Deseja poder realizar o cadastro antecipado do filho na escola de forma online, sem a necessidade de deslocamento até a escola ou secretaria de educação. |
+| **Expectativas**     | Espera que o site da prefeitura seja intuitivo e permita o cadastro antecipado de forma clara, rápida e acessível, com confirmação do cadastro e informações sobre a próxima etapa do processo. |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm) 2024.* 
 </center>
+
 
 ### Diego Lima - [Lucas Meireles](https://github.com/Katuner)
 
@@ -211,4 +212,5 @@ Abaixo se encontra a tabela 7, contendo as informações da persona proposta pel
 | 12/05/2024 | `1.4`  |            Adição de persona             |                                                                      [Lucas Heler](https://github.com/akaeboshi)                                                                       |   11/06/2024    | [Augusto Duarte](https://github.com/Augcamp)|
 | 22/05/2024 | `1.5`  |          Atualização de persona          |                                                                      [Lucas Meireles](https://github.com/Katuner)                                                                      |   11/06/2024    | [Augusto Duarte](https://github.com/Augcamp)|
 | 06/06/2024 | `2.0`  |          Atualização persona 5           |                                                                      [Pedro Lucas](https://github.com/lucasdray)                                                                       |   11/06/2024    | [Augusto Duarte](https://github.com/Augcamp)|
-| 07/07/2024 | `3.0` | Correção de estrutura e textos para entrega final | [Lucas Meireles](https://github.com/Katuner) |     |       |
+| 07/07/2024 | `3.0` | Correção de estrutura e textos para entrega final | [Lucas Meireles](https://github.com/Katuner) |  08/07/2023   | [Joyce Dionizio](https://github.com/joycejdm)      |
+| 07/07/2024 | `3.1` | Atualização persona |  |     |       |
