@@ -14,9 +14,8 @@ Segue abaixo as tabelas:
 
 ## Ponto de controle 1
 
-<details>
 
-<summary> Tabela PLANEJADO 01 - Ponto de Controle 1 </summary>
+### Tabela PLANEJADO 01 - Ponto de Controle 1 
 
  
 
@@ -38,11 +37,10 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
 
-<details>
 
-<summary> Tabela EXECUTADO 01 - Ponto de Controle 1 </summary>
+
+### Tabela EXECUTADO 01 - Ponto de Controle 1 
 
 
 
@@ -64,13 +62,12 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
+
 
 ## Ponto de controle 2
 
-<details>
 
-<summary> Tabela PLANEJADO 02 - Ponto de Controle 2 </summary>
+### Tabela PLANEJADO 02 - Ponto de Controle 2 
 
 
 
@@ -90,11 +87,10 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
 
-<details>
 
-<summary> Tabela EXECUTADO 02 - Ponto de Controle 2 </summary>
+
+### Tabela EXECUTADO 02 - Ponto de Controle 2 
 
 
 
@@ -114,13 +110,12 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
+
 
 ## Ponto de controle 3
 
-<details>
 
-<summary> Tabela PLANEJADO 03 - Ponto de Controle 3 </summary>
+### Tabela PLANEJADO 03 - Ponto de Controle 3 
 
 
 
@@ -140,11 +135,10 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
 
-<details>
 
-<summary> Tabela EXECUTADO 03 - Ponto de Controle 3 </summary>
+
+### Tabela EXECUTADO 03 - Ponto de Controle 3 
 
 
 
@@ -163,13 +157,12 @@ Fonte: MEIRELES, Lucas Oliveira. 2024.
 
 
 
-</details>
+
 
 ## Ponto de controle 4
 
-<details>
 
-<summary> Tabela PLANEJADO 04 - Ponto de Controle 4 </summary>
+### Tabela PLANEJADO 04 - Ponto de Controle 4 
 
 
 
@@ -188,11 +181,10 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
 
-<details>
 
-<summary> Tabela EXECUTADO 04 - Ponto de Controle 4 </summary>
+
+### Tabela EXECUTADO 04 - Ponto de Controle 4 
 
 
 
@@ -210,13 +202,12 @@ Fonte: FREITAS, Cainã. 2024.
 
 
 
-</details>
+
 
 ## Ponto de controle 5
 
-<details>
 
-<summary> Tabela PLANEJADO 05 - Ponto de Controle 5 </summary>
+### Tabela PLANEJADO 05 - Ponto de Controle 5 
 
 
 
@@ -235,11 +226,10 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
 
-<details>
 
-<summary> Tabela EXECUTADO 05 - Ponto de Controle 5 </summary>
+
+### Tabela EXECUTADO 05 - Ponto de Controle 5 
 
 
 
@@ -258,13 +248,12 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
+
 
 ## Ponto de controle 6.1
 
-<details>
 
-<summary> Tabela PLANEJADO 06.1 - Ponto de Controle 6.1 </summary>
+### Tabela PLANEJADO 06.1 - Ponto de Controle 6.1 
 
 
 
@@ -285,11 +274,10 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
 
-<details>
 
-<summary> Tabela EXECUTADO 06.1 - Ponto de Controle 6.1 </summary>
+
+### Tabela EXECUTADO 06.1 - Ponto de Controle 6.1 
 
 
 
@@ -308,13 +296,12 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
+
 
 ## Ponto de controle 7
 
-<details>
 
-<summary> Tabela PLANEJADO 07 - Ponto de Controle 7 </summary>
+### Tabela PLANEJADO 07 - Ponto de Controle 7 
 
 
 
@@ -333,11 +320,10 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
 
-<details>
 
-<summary> Tabela EXECUTADO 07 - Ponto de Controle 7 </summary>
+
+### Tabela EXECUTADO 07 - Ponto de Controle 7 
 
 
 
@@ -354,13 +340,12 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
+
 
 ## Ponto de controle 6.2
 
-<details>
 
-<summary> Tabela PLANEJADO 06.2 - Ponto de Controle 6.2 </summary>
+### Tabela PLANEJADO 06.2 - Ponto de Controle 6.2 
 
 
 
@@ -383,11 +368,10 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
 
-<details>
 
-<summary> Tabela EXECUTADO 06.2 - Ponto de Controle 6.2 </summary>
+
+### Tabela EXECUTADO 06.2 - Ponto de Controle 6.2 
 
 
 
@@ -412,13 +396,12 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
+
 
 ## Ponto de controle 8
 
-<details>
 
-<summary> Tabela PLANEJADO 08 - Ponto de Controle 8 </summary>
+### Tabela PLANEJADO 08 - Ponto de Controle 8 
 
 
 
@@ -435,11 +418,10 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
 
-<details>
 
-<summary> Tabela EXECUTADO 08 - Ponto de Controle 8 </summary>
+
+### Tabela EXECUTADO 08 - Ponto de Controle 8 
 
 
 
@@ -455,13 +437,12 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 
 
-</details>
+
 
 ## Etapa Final
 
-<details>
 
-<summary> Tabela PLANEJADO FINAL - Etapa Final </summary>
+### Tabela PLANEJADO FINAL - Etapa Final 
 
 
 
@@ -475,11 +456,10 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</details>
 
-<details>
 
-<summary> Tabela EXECUTADO FINAL - Etapa Final </summary>
+
+### Tabela EXECUTADO FINAL - Etapa Final 
 
 
 
@@ -493,7 +473,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-</details>
+
 
 
 ## Historico de Versões
