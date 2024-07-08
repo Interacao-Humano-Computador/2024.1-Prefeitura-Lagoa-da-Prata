@@ -124,6 +124,7 @@ nav:
         - Verificação Planejamento do Relato de Resultados da Prototipação de Alta Fidelidade: verificacao/grupo/etapa7/planejamento_relato_prototipo_alta.md
       - Etapa 8:
         - Planejamento: verificacao/grupo/etapa8/planejamento.md 
+        - Verificação Relato de Resultados da Prototipação de Alta Fidelidade: verificacao/grupo/etapa8/relato_resultados_prototipos.md
   - Entrega Final:
         - Site Selecionado: entrega-final/site-selecionado.md
         - Ciclo de Vida: entrega-final/ciclo-de-vida.md
@@ -134,7 +135,7 @@ nav:
         - Técnicas Utilizadas: entrega-final/sintese-tecnicas.md
         - Artefatos Criados: entrega-final/sintese-artefatos.md
         - Avaliações realizadas: entrega-final/sintese-avaliacoes.md
-        - Verificações do Projeto: entrega-final/sintese-verificacao.md
+        - Verificações do Projeto: entrega-final/sintese-verificacoes.md
         - Apresentações: entrega-final/sintese-apresentacoes.md
         - Considerações Finais: entrega-final/conclusao.md
 
