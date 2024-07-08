@@ -125,11 +125,18 @@ nav:
       - Etapa 8:
         - Planejamento: verificacao/grupo/etapa8/planejamento.md 
   - Entrega Final:
-        - Síntese das Ferramentas Utilizadas: entrega-final/ferramentas-do-projeto.md
-        - Síntese dos Artefatos Criados: entrega-final/sintese-artefatos-criados.md
-        - Síntese das Verificações: entrega-final/sintese-verificacoes.md
-        - Síntese das Apresentações: entrega-final/sintese_apresentacoes.md
-
+        - Site Selecionado: entrega-final/site-selecionado.md
+        - Ciclo de Vida: entrega-final/ciclo-de-vida.md
+        - Planejameto de Entregas: entrega-final/cronogramas.md
+        - Execução do Projeto: entrega-final/execucao.md
+        - Resultados Alcançados: entrega-final/resultados-execucao.md
+        - Ferramentas Utilizadas: entrega-final/sintese-ferramentas.md
+        - Técnicas Utilizadas: entrega-final/sintese-tecnicas.md
+        - Artefatos Criados: entrega-final/sintese-artefatos.md
+        - Avaliações realizadas: entrega-final/sintese-avaliacoes.md
+        - Verificações do Projeto: entrega-final/sintese-verificacao.md
+        - Apresentações: entrega-final/sintese-apresentacoes.md
+        - Considerações Finais: entrega-final/conclusao.md
 
 
 theme:
