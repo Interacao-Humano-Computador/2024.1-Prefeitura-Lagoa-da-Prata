@@ -112,8 +112,10 @@ O participante realizará a busca da página do serviço de solicitação de vis
 Como o projeto realizado trata de uma pesquisa acadêmica, ela pode custear a equipe de desenvolvimento e os participantes, portanto o orçamento deve ser realizado apenas sobre as ferramentas necessárias para o desenvolvimento dela como:
 
 - Figma: ferramenta para criação do protótipo de alta;
+- Protótipo de Alta Fidelidade de cada tarefa: artefato usado para a avaliação
 - Microsoft Teams: ferramenta usada para gravação da avaliação;
 - Notebook e celular com acesso a internet para utilização do protótipo e gravação da avaliação.
+- Teste Piloto: para assegurar que tudo está funcionando corretamente antes do teste de usabilidade com o usuário-alvo
 
 #### Prazos
 Em relação aos prazos, as entrevistas serão documentadas em uma tabela tendo como molde a tabela 4 abaixo que contém o entrevistador, o usuário entrevistado, a data, hórario e local da entrevista.
