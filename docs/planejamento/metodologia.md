@@ -31,7 +31,8 @@ Sob esse viés, terá reviews constantes a medida que as entregas forem sendo su
 Por ser uma disciplina e um projeto de abragente documentação e que não há programação a equipe decidiu extrair alguns conceitos do pair programming para utilizar no planejamento do cronograma estabelecendo assim duplas em que um irá criar o documento e o outro irá fazer a revisão facilitando assim o planejamento e execução.
 
 
-
+## Bibliografia
+>ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 16/04/2023.
 
 ## Histórico de Versões
 |    Data    | Versão |          Descrição          |                   Autor(es)                   | Data de revisão |                 Revisor(es)                 |
@@ -41,5 +42,3 @@ Por ser uma disciplina e um projeto de abragente documentação e que não há p
 | 13/05/2024 | `1.2`  |    Adiciona Equipe Scrum    | [Joyce Dionizio](https://github.com/joycejdm) |   03/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 13/05/2024 | `1.3`  |  Adiciona Pair Programming  | [Joyce Dionizio](https://github.com/joycejdm) |   03/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 
-## Bibliografia
->ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 16/04/2023.

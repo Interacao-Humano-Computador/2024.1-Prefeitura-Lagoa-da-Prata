@@ -39,5 +39,5 @@ A figura 2 abaixo ilustra a legenda de disponibilidade da equipe facilitando o e
 |    Data    | Versão |             Descrição              |                  Autor(es)                  | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------: | :-----------------------------------------: | :-------------: | :------------------------------------------: |
 | 07/04/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray) |   07/04/2024    | [Cainã Freitas](https://github.com/freitasc) |
-| 15/04/2024 | `2.0`  | Padronização titulo e fonte imagem | [Pedro Lucas](https://github.com/lucasdray) |                 |                                              |
+| 15/04/2024 | `2.0`  | Padronização titulo e fonte imagem | [Pedro Lucas](https://github.com/lucasdray) |        08/07/2024               |           [Joyce Dionizio](https://github.com/jdm)                                      |
 
