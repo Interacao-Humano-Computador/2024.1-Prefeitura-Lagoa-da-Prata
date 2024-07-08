@@ -31,9 +31,11 @@ O objetivo desta avaliação é verificar se os artefatos produzidos na [anális
 As perguntas a seguir tem o intuito de serem respondidas pelo avaliador após a execução da gravação da entrevista, todas foram criadas a partir da *Tabela 11.1 " Exemplos de perguntas que uma avaliação de IHC" do livro Interação Humano Computador[1] presente na página 266 do Capítulo 11* e são divididas de acordo com o objetivo de cada pergunta,
 
 (1) verificar conformidade com um padrão:
+
 - Os diagramas HTA possuem os objetivos, operações, legendas, representação em tabela e diagrama?
 
 (2) analisar a apropriação da tecnologia:
+
 - Os diagramas representam tarefas condizentes com as funcionalidades esperadas para o site escolhido?
 - A partir das entrevistas foram identificadas melhoras para as tarefas apresnetas no [Análise de Tarefas](../../../requisitos1/analise-tarefas.md0?)
 - O usuário tem acesso a todas as informações necessárias para o entedimento da tarefa e para a realização dela?
@@ -56,6 +58,7 @@ Na atividade de preparação, o entrevistador apresentará a análise de tarefa 
 
 ### Custos
 A realização das entrevistas não gerará nenhum custo a equipe nem ao usuário, logo que as ferramentas utilizadas são disponbilizadas de forma gratuíta, a seguir temos uma lista de ferramentas que serão utilizadas e o seu objetivo para a gravação da entrevista e avaliação:
+
 - Microsoft teams ou Google Meet: ferramenta para gravar
 - Notebook com camêra, microfone e acesso a internet: aparelho utilizado para gravar
 - Diagrama HTA da tarefa específca: artefato utilizado para o usuário verificar
