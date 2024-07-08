@@ -10,7 +10,7 @@ A metodologia utilizada foi a de inspeção, ela é uma abordagem formal e estru
 
 O objetivo é identificar erros, inconsistências, ou lacunas que possam existir. Durante a inspeção, os revisores comparam os artefatos com os critérios da checklist, a utilização de uma checklist padroniza o processo de inspeção, garantindo que os aspectos sejam revisados consistentemente.
 
-As Tabelas 1 a 11 detalham os responsáveis pela criação das checklists para cada artefato durante as fases de planejamento, execução das verificações e na documentação dos resultados, abrangendo o próprio grupo quanto o grupo 6.
+As Tabelas 1 a 9 detalham os responsáveis pela criação das checklists para cada artefato durante as fases de planejamento, execução das verificações e na documentação dos resultados, abrangendo o próprio grupo quanto o grupo 6.
 
 
 ## Grupo 5 (Nosso grupo) 
