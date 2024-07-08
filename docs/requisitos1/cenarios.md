@@ -33,19 +33,14 @@ Os cenários identificados, tendo como base as [Personas](personas.md) desenvolv
 
 Abaixo se apresenta a tabela 01 com o cenário desenvolvido pela integrante [Joyce Dionizio](https://github.com/joycejdm).
 
-<center>
+<center>                                                                        |
 
-**Tabela 01** - Cadastro Antecipado de Aluno
+**Tabela 01 - Cadastro Antecipado de Aluno**
 
-| Elemento   | Descrição                                                                                                                                                                                                                      |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Objetivo   | Realizar cadastro antecipado de aluno para matrícula escolar através do site da prefeitura.                                                                                                                                           |
-| Contexto   | Local: Em casa <br> Tempo: Durante a tarde <br> Pré-condições: Acesso à Internet, computador ou celular.                                                                                                                                        |
-| Recursos   | Internet, computador ou celular e site da Prefeitura.                                                                                                                                                            |
-| Ator       | Maria, moradora da cidade                                                                                                                                                                                                             |
-| Episódios  | - Maria acessa o site da Prefeitura em seu navegador <br> - Ela navega até a seção "Serviços" <br> - Maria procura e encontra a opção "Matrículas Web" <br> - Ela clica na opção e é redirecionada para uma nova página <br> - Na nova página, Maria clica em "Acessar Serviço" <br> - Maria seleciona a opção "Cadastro Antecipado" <br> - Na nova página, Maria insere os dados em "Dados do Candidato" <br> - Maria insere os dados em "Dados do Responsável" <br> - Maria insere os dados em "Dados Sócio-Econômicos" <br> - Maria clica no botão "Gravar Candidato" <br> - Maria clica em "OK" no balão de confirmação de dados. |
-| Restrições | O site da prefeitura deve possuir uma seção específica para serviços públicos e uma opção clara para acessar o serviço de matrículas web.                                                                                                                                                                                                  |
-| Exceção    | Falta de internet ou problema de conexão com o site da prefeitura.                                                                                                                                                                                              |
+| ID  | Título                            | Atores      | História                                                                                                                                                                                                                                  |
+| --- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | Realizar cadastro antecipado de aluno para matrícula escolar |  [Maria Oliveira](personas.md#maria-oliveira)        | Maria mora em Lagoa da Prata e deseja matricular seu filho na escola local. Para evitar filas e garantir a vaga, ela decide fazer o cadastro antecipado online. <br> Maria acessa o site da Prefeitura de Lagoa da Prata em seu computador. Ela navega até a seção "Serviços do Cidadão" e clica na opção "Cadastro Antecipado de Aluno". Na página de cadastro, Maria preenche os dados do aluno, os dados do responsável e os dados socioeconômicos. Após revisar todas as informações, ela clica no botão "Finalizar Cadastro". Um balão de confirmação aparece, e Maria clica em "OK". Maria recebe uma confirmação de que o cadastro foi realizado com sucesso. |
+
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm) 2024.*
 
