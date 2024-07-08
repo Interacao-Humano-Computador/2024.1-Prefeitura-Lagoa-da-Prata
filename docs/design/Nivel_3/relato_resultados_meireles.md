@@ -215,15 +215,15 @@ A seguir será destrinchado melhor como foi feita a seleção dos participantes,
 ### Seleção dos Participantes, Local e Datas
 O número de participantes foram 1, sendo composto exclusivamente pelo integrante responsável à tarefa aqui avaliada, [Lucas Meireles](https://github.com/Katuner). A escolha do perfil a ser incorporado na avaliação de inspeção heurística foi feita baseando-se nas características definidas no [perfil do usuário](../../requisitos1/perfil-do-usuario.md). Como dito anteriormente a escolha da quantidade de usuários para o teste condiz com a quantidade de perfis de usuários elencados pelo grupo.
 
-Abaixo se encontra a tabela 04 que mostra o cronograma da execução das inspeções
+Abaixo se encontra a tabela 02 que mostra o cronograma da execução das inspeções.
 
 <center>
 
-**Tabela 05** - Cronograma executado de entrevistas
+**Tabela 02** - Cronograma executado de entrevistas
 
 | Ordem | Data       | Horário de início e fim | Local                 | Entrevistador                                       | ID do perfil utilizado     | Tarefa                                            |
 | ----- | ---------- | ----------------------- | --------------------- | --------------------------------------------------- | ---------------- | ------------------------------------------------- |
-| 1°    | 08/07/2024 | 19:05 -            | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 1 | Registro e verificação do estado de saúde da cidade |
+| 1°    | 08/07/2024 | 19:05 - 19:10           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 1 | Registro e verificação do estado de saúde da cidade |
 | 2°    | 08/07/2024 | XXXX - XXXX           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 2      | Registro e verificação do estado de saúde da cidade |
 | 3°    | 08/07/2024 | XXXX - XXXX           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 3         | Registro e verificação do estado de saúde da cidade |
 
@@ -246,6 +246,110 @@ Ao final de cada inspeção, após o elencamento de potenciais problemas encontr
 
 ## Teste 01
 
+Abaixo se encontra a tabela 03 que mostra o cronograma da execução da primeira inspeção, contendo a data, horário, local, entrevistador, Id do perfil utilizado e a tarefa testada.
+
+<center>
+
+**Tabela 03** - Cronograma executado de inspeção
+
+| Ordem | Data       | Horário de início e fim | Local                 | Entrevistador                                     | ID do perfil utilizado     | Tarefa                                            |
+| ----- | ---------- | ----------------------- | --------------------- | --------------------------------------------------- | ---------------- | ------------------------------------------------- |
+| 1°    | 08/07/2024 | 19:05 - 19:10           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 1 | Registro e verificação do estado de saúde da cidade |
+
+ *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
+
+</center>
+
+Logo abaixo se encontra o vídeo 02 que contém a gravação da inspeção 01 e que também pode ser acessado [clicando aqui](https://www.youtube.com/watch?v=lJUA6kWjvvU).
+
+<center>
+
+**Vídeo 02** - Teste de Usabilidade 01 
+
+<iframe width="1864" height="793" src="https://www.youtube.com/embed/lJUA6kWjvvU" title="Teste 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
+
+</center>
+
+Abaixo na tabela 04 encontra as respostas do Perfil analisado, adquiridas através do questionário realizado após o teste de usabilidade.
+
+<center>
+
+**Tabela 04** - Questiónario aplicado pós teste de usabilidade do teste de usabilidade 01
+
+| ID  | Pergunta                                                            | Resposta do entrevistado | Justificativa                                                                                            |
+| --- | ------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| 1   | A interface apresentada foi de fácil utilização?                    | SIM                      | -                                                                                                        |
+| 2   | Existe uma correspondência com a realidade ao realizar essas ações? | SIM                      | O alto grau de afinidade com tecnologia colabora para identificação de locais onde potencialmente existam botões e o fluxo de ações está bem exibido após iniciar o registro. |
+| 3   | Teve algum problema com a disposição dos elementos na tela?         | NAO                      |                                       |
+| 4   | Teve alguma dificuldade ao realizar as tarefas designadas?          | NÃO                      | -                                                                                                        |
+| 5   | Teve de lidar com algum erro durante a utilização do sistema?       | NÃO                      | -                                                                                                        |
+
+*Fonte: Página: 266,Capítulo 11. Processos de Design de IHC. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.*
+
+</center>
+
+Pela tabela 05 a seguir é possível identificar o preenchimento do questionário destinado ao avaliador ao revisar as informações do teste 01.
+
+<center>
+
+**Tabela 05** - Perguntas para o avaliador sobre teste de usabilidade 01
+
+| ID  | Pergunta                | Resposta                       | Observação |
+| --- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 6   | O usuário conseguiu operar o sistema?                                                        | SIM                                                                                                                             | -          |
+| 7   | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | SIM <br> 100% DE EFICIÊNCIA <br>  em 0:40 minutos <br> 0 ERROS COMETIDOS                                                        | -          |
+| 8   | Ele entendeu o que deveria ser feito em seguida?                                             | SIM                                                                                                                             | -          |
+| 9   | Quais barreiras o usuário encontrou ao atingir seus objetivos?                               | Nenhuma barreira | -          |
+| 10  | Quantas vezes os usuários consultaram a ajuda para realizar uma ação?                        | NENHUMA                                                                                                                         | -          |
+
+*Fonte: Página: 266,Capítulo 11. Processos de Design de IHC. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.*
+
+</center>
+
+
+
+### Problemas Encontrados
+
+Abaixo se encontram as principais heurísticas declaradas por Nielsen (1994) e se houve, ou não, quebra das mesmas. 
+
+- Visibilidade do estado do sistema: Não foi encontrado problema;
+
+- Correspondência entre o sistema e o mundo real: Não foi identificado nenhuma inconsistência;
+
+- Controle e liberdade do usuário: Não foi identificado nenhum problema;
+
+- Consistência e padronização: Não foi identificado nenhuma variação fora do comum;
+
+- Reconhecimento em vez de memorização: O botão de "saúde" da página inicial pode estar ofuscado ou difícil de ser reconhecido (Figura 15);
+
+- Flexibilidade e eficiência de uso: Não foi encontrado nenhum problema;
+
+- Projeto estético e minimalista: Não foi identificado nenhum excesso de informações ou itens irrelevantes;
+
+- Prevenção de erros: Não foi identificado nenhum problema;
+
+- Ajude os usuários a reconhecerem, diagnosticarem e se recuperarem de erros: Não foi identificado nenhum problema;
+
+- Ajuda e documentação: Não foi necessário auxílio externo.
+
+<center>
+
+**Figura 15** - Problema relacionado ao botão "saúde"
+
+![botaõ saúde](../../assets/images/prototipo_altafidelidade/meireles/Botão_saude.png)
+
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
+
+</center>
+
+### Planejamento para reprojeto
+
+Deve-se alterar a barra de navegação para que os botões sejam mais visíveis aos usuários e indiquem funcionalidades.
+
+## Teste 02
+
 Abaixo se encontra a tabela 06 que mostra o cronograma da execução da primeira inspeção, contendo a data, horário, local, entrevistador, Id do perfil utilizado e a tarefa testada.
 
 <center>
@@ -254,19 +358,19 @@ Abaixo se encontra a tabela 06 que mostra o cronograma da execução da primeira
 
 | Ordem | Data       | Horário de início e fim | Local                 | Entrevistador                                     | ID do perfil utilizado     | Tarefa                                            |
 | ----- | ---------- | ----------------------- | --------------------- | --------------------------------------------------- | ---------------- | ------------------------------------------------- |
-| 1°    | 08/07/2024 | 16:00 - 16:06           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 1 | Registro e verificação do estado de saúde da cidade |
+| 2°    | 08/07/2024 | 19:30 - 19:35           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 2 | Registro e verificação do estado de saúde da cidade |
 
  *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 
 </center>
 
-Logo abaixo se encontra o vídeo 02 que contém a gravação da inspeção 01 e que também pode ser acessado [clicando aqui](https://youtu.be/-0p9y3cgT_I).
+Logo abaixo se encontra o vídeo 03 que contém a gravação da inspeção 02 e que também pode ser acessado [clicando aqui](https://www.youtube.com/watch?v=GtOzzu3S9Ac).
 
 <center>
 
-**Vídeo 02** - Teste de Usabilidade 01 
+**Vídeo 03** - Teste de Usabilidade 02 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0p9y3cgT_I?si=oIEtPI9WJcSpkxF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1864" height="793" src="https://www.youtube.com/embed/GtOzzu3S9Ac" title="Teste 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 
@@ -276,13 +380,13 @@ Abaixo na tabela 07 encontra as respostas do Perfil analisado, adquiridas atrav�
 
 <center>
 
-**Tabela 07** - Questiónario aplicado pós teste de usabilidade do teste de usabilidade 01
+**Tabela 07** - Questiónario aplicado pós teste de usabilidade do teste de usabilidade 02
 
 | ID  | Pergunta                                                            | Resposta do entrevistado | Justificativa                                                                                            |
 | --- | ------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------- |
 | 1   | A interface apresentada foi de fácil utilização?                    | SIM                      | -                                                                                                        |
-| 2   | Existe uma correspondência com a realidade ao realizar essas ações? | SIM                      | Sim e acredito que um usuário comum poderia facilmente realizar a tárefa utilizando o fluxo que utilizei |
-| 3   | Teve algum problema com a disposição dos elementos na tela?         | NAO                      | Não, não tive nenhum problema e acredito que esteja bem responsivoa                                      |
+| 2   | Existe uma correspondência com a realidade ao realizar essas ações? | SIM                      | O alto grau de afinidade com tecnologia colabora para identificação de locais onde potencialmente existam botões e o fluxo de ações está bem exibido após iniciar o registro. |
+| 3   | Teve algum problema com a disposição dos elementos na tela?         | NÃO                      |                                       |
 | 4   | Teve alguma dificuldade ao realizar as tarefas designadas?          | NÃO                      | -                                                                                                        |
 | 5   | Teve de lidar com algum erro durante a utilização do sistema?       | NÃO                      | -                                                                                                        |
 
@@ -294,14 +398,14 @@ Pela tabela 08 a seguir é possível identificar o preenchimento do questionári
 
 <center>
 
-**Tabela 09** - Perguntas para o avaliador sobre teste de usabilidade 01
+**Tabela 08** - Perguntas para o avaliador sobre teste de usabilidade 02
 
-| ID  | Pergunta                                                                                     | Tipo de Resposta                                                                                                                | Observação |
+| ID  | Pergunta                | Resposta                       | Observação |
 | --- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 6   | O usuário conseguiu operar o sistema?                                                        | SIM                                                                                                                             | -          |
-| 7   | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | SIM <br> 100% DE EFICIÊNCIA <br>  em 0:52 minutos <br> 0 ERROS COMETIDOS                                                        | -          |
+| 7   | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | SIM <br> 100% DE EFICIÊNCIA <br>  em 1:10 minutos <br> 0 ERROS COMETIDOS                                                        | -          |
 | 8   | Ele entendeu o que deveria ser feito em seguida?                                             | SIM                                                                                                                             | -          |
-| 9   | Quais barreiras o usuário encontrou ao atingir seus objetivos?                               | Apenas um problema de implementação do Figma em que ele não estava conseguindo descer a página depois de preecnher o formulário | -          |
+| 9   | Quais barreiras o usuário encontrou ao atingir seus objetivos?                               | Nenhuma barreira | -          |
 | 10  | Quantas vezes os usuários consultaram a ajuda para realizar uma ação?                        | NENHUMA                                                                                                                         | -          |
 
 *Fonte: Página: 266,Capítulo 11. Processos de Design de IHC. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.*
@@ -310,59 +414,127 @@ Pela tabela 08 a seguir é possível identificar o preenchimento do questionári
 
 ### Problemas Encontrados
 
-#### ID 9 - Quais barreiras o usuário encontrou ao atingir seus objetivos?  
-- Foi encontrado um problema em que ao clicar pra preencher o formulário e tentar descer ou subir a pagina com o ponteiro do mouse em cima do formulário preenchido, a ação não funcionava. Isso se dava por uma limitação da escolha de implementação realizada no Figma[4] e que posteriormente foi corrigido no teste de usabilidade 03. Conforme mostra a figura 10 a seguir ou entre os minutos 2:51 e 2:58 do vídeo 02 mostrado anteriormente.
+Abaixo se encontram as principais heurísticas declaradas por Nielsen (1994) e se houve, ou não, quebra das mesmas. 
 
-**Figura 10** - Problema relacionado ao ID 9
+- Visibilidade do estado do sistema: Não foi encontrado problema;
 
-![](../../assets/images/prototipo_altafidelidade/dourado/09.png)
+- Correspondência entre o sistema e o mundo real: Não foi identificado nenhuma inconsistência;
 
-*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
+- Controle e liberdade do usuário: Não foi identificado nenhum problema;
 
+- Consistência e padronização: Não foi identificado nenhuma variação fora do comum;
 
-A tabela 10 abaixo resume a avaliação do problema encontrado
+- Reconhecimento em vez de memorização: Não foi identificado problema;
 
-<center>
+- Flexibilidade e eficiência de uso: Não foi encontrado nenhum problema;
 
-**Tabela 10** - Perguntas para o avaliador
+- Projeto estético e minimalista: Não foi identificado nenhum excesso de informações ou itens irrelevantes;
 
-| Item de Análise                      | Descrição                                                                                        |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| Local:                               | Página Solicitação Preenchida                                                                    |
-| Descrição:                           | O usuário após clicar para preencher o formulário tenta descer ou subir a página e não consegue. |
-| Justificativa:                       | Implementação realizada no Figma de forma errada                                                 |
-| Ação Realizada pelo Usuário:         | Moveu o scroll do mouse para baixo                                                               |
-| Resposta do Sistema Esperada:        | Descer a página                                                                                  |
-| Resposta apresentada pelo Sistema:   | Nada acontece                                                                                    |
-| Fatores de Usabilidade Prejudicados: | Eficiência                                                                                       |
+- Prevenção de erros: Não foi identificado nenhum problema;
 
-*Fonte: Página: 319,Capítulo 12. Avaliação de IHC através de Observação. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.*
+- Ajude os usuários a reconhecerem, diagnosticarem e se recuperarem de erros: Não foi identificado nenhum problema;
 
-</center>
+- Ajuda e documentação: Não foi necessário auxílio externo.
 
 ### Planejamento para reprojeto
-Para a reprojeto, as correções deviam ser realizadas de acordo com os problemas encontrados anteriormente e antes da próxima gravação do teste de usabilidade 02, entretanto, o mesmo não foi feito sendo realizado apenas após a gravação do teste de usabilidade 02.
 
+Não houve identificação de nenhum problema novo sob o perfil analisado.
 
-## Consolidação de dados coletados
-Após uma análise dos dados coletados de todos os testes de usabilidades apresentados foi possível fazer uma tabela comparativa para uma, a tabela 23 a seguir mostra o tempo necessário para realizar a tarefa, a quantidade de erros cometeidos e a quantidade de consulta que o usuário teve para realizar a ação de acordo com cada teste de usabilidade realizado. 
+## Teste 03
+
+Abaixo se encontra a tabela 09 que mostra o cronograma da execução da primeira inspeção, contendo a data, horário, local, entrevistador, Id do perfil utilizado e a tarefa testada.
 
 <center>
 
-**Tabela 23** - Dados coletados dos testes
+**Tabela 09** - Cronograma executado de inspeção
 
-| Teste de Usabilidade | Tempo necessário para realizar tarefa em minutos | Erros cometidos | Quantidade de consulta de ajuda para realizar ação |
-| -------------------- | ------------------------------------------------ | --------------- | -------------------------------------------------- |
-| 01                   | 0:52                                             | 0               | 0                                                  |
-| 02                   | 2:32                                             | 0               | 0                                                  |
-| 03                   | 2:08                                             | 4               | 6                                                  |
-| 04                   | 1:18                                             | 0               | 1                                                  |
-| 05                   | 0:26                                             | 0               | 0                                                  |
-| Média                | 1:27                                             | 0,8             | 1,4                                                |
+| Ordem | Data       | Horário de início e fim | Local                 | Entrevistador                                     | ID do perfil utilizado     | Tarefa                                            |
+| ----- | ---------- | ----------------------- | --------------------- | --------------------------------------------------- | ---------------- | ------------------------------------------------- |
+| 3°    | 08/07/2024 | 19:40 - 19:50           | Residência do integrante | [Lucas Meireles](https://github.com/Katuner) | 3 | Registro e verificação do estado de saúde da cidade |
+
+ *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
+
+</center>
+
+Logo abaixo se encontra o vídeo 04 que contém a gravação da inspeção 03 e que também pode ser acessado [clicando aqui](https://www.youtube.com/watch?v=QiVi6u_AeMg).
+
+<center>
+
+**Vídeo 04** - Teste de Usabilidade 03 
+
+<iframe width="1864" height="793" src="https://www.youtube.com/embed/QiVi6u_AeMg" title="Teste 03" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner). 2024.*
 
 </center>
+
+Abaixo na tabela 10 encontra as respostas do Perfil analisado, adquiridas através do questionário realizado após o teste de usabilidade.
+
+<center>
+
+**Tabela 10** - Questiónario aplicado pós teste de usabilidade do teste de usabilidade 03
+
+| ID  | Pergunta                                                            | Resposta do entrevistado | Justificativa                                                                                            |
+| --- | ------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| 1   | A interface apresentada foi de fácil utilização?                    | SIM                      | -                                                                                                        |
+| 2   | Existe uma correspondência com a realidade ao realizar essas ações? | SIM                      | - |
+| 3   | Teve algum problema com a disposição dos elementos na tela?         | NÃO                      |                                       |
+| 4   | Teve alguma dificuldade ao realizar as tarefas designadas?          | NÃO                      | -                                                                                                        |
+| 5   | Teve de lidar com algum erro durante a utilização do sistema?       | NÃO                      | -                                                                                                        |
+
+*Fonte: Página: 266,Capítulo 11. Processos de Design de IHC. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.*
+
+</center>
+
+Pela tabela 11 a seguir é possível identificar o preenchimento do questionário destinado ao avaliador ao revisar as informações do teste 01.
+
+<center>
+
+**Tabela 11** - Perguntas para o avaliador sobre teste de usabilidade 03
+
+| ID  | Pergunta                | Resposta                       | Observação |
+| --- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 6   | O usuário conseguiu operar o sistema?                                                        | SIM                                                                                                                             | -          |
+| 7   | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | SIM <br> 100% DE EFICIÊNCIA <br>  em 1:30 minutos <br> 0 ERROS COMETIDOS                                                        | -          |
+| 8   | Ele entendeu o que deveria ser feito em seguida?                                             | SIM                                                                                                                             | -          |
+| 9   | Quais barreiras o usuário encontrou ao atingir seus objetivos?                               | Nenhuma barreira | -          |
+| 10  | Quantas vezes os usuários consultaram a ajuda para realizar uma ação?                        | NENHUMA                                                                                                                         | -          |
+
+*Fonte: Página: 266,Capítulo 11. Processos de Design de IHC. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.*
+
+</center>
+
+### Problemas Encontrados
+
+Abaixo se encontram as principais heurísticas declaradas por Nielsen (1994) e se houve, ou não, quebra das mesmas. 
+
+- Visibilidade do estado do sistema: Não foi encontrado problema;
+
+- Correspondência entre o sistema e o mundo real: Não foi identificado nenhuma inconsistência;
+
+- Controle e liberdade do usuário: O usuário não conseguiu fechar o overlay referente aos relatos de saúde no mapa interativo ao clicar fora da tela;
+
+- Consistência e padronização: Não foi identificado nenhuma variação fora do comum;
+
+- Reconhecimento em vez de memorização: Não foi identificado problema;
+
+- Flexibilidade e eficiência de uso: Não foi encontrado nenhum problema;
+
+- Projeto estético e minimalista: Não foi identificado nenhum excesso de informações ou itens irrelevantes;
+
+- Prevenção de erros: Não foi identificado nenhum problema;
+
+- Ajude os usuários a reconhecerem, diagnosticarem e se recuperarem de erros: Não foi identificado nenhum problema;
+
+- Ajuda e documentação: Não foi necessário auxílio externo.
+
+### Planejamento para reprojeto
+
+Deve-se incorporar uma saída adicional ao usuário para fechar overlays em sua tela ao clicar fora da caixa do mesmo.
+
+## Consolidação de dados coletados
+
+Através da inspeção, foi possível identificar 2 problemas potenciais relacionados à disposição dos elementos na interface, porém os mesmos estavam ligados, principalmente, ao conforto e praticidade do usuário, sendo que a execução da tarefa pode ocorrer de forma eficaz e sem confusões.
 
 ## Bibliografia
 
@@ -382,9 +554,11 @@ Após uma análise dos dados coletados de todos os testes de usabilidades aprese
 
 > [8] Nielsen, Jakob (1994). Heuristic evaluation. In Usability inspection methods, pages 25–62. John Wiley & Sons, Inc., USA.
 
+> [9] Nielsen, Jakob (1994c). Usability Engineering. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA.
+
 
 
 ## Histórico de Versões
 |    Data    | Versão |               Descrição                |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 07/07/2024 | `1.0`  |  Criação do documento e Teste piloto   | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 08/07/2024 | `1.0`  |  Criação do documento e preenchimento completo do mesmo   | [Lucas Meireles](https://github.com/Katuner) |                 |             |
