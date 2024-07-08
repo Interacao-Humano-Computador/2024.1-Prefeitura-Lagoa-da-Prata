@@ -10,13 +10,22 @@ Tendo como base os tópicos relatados além da avaliação de intersujeito descr
 
 - Objetivo e escopo da avaliação
 - Método de avaliação
+- Tarefa
 - Seleção dos participantes
-- Problemas e dificuldades encontradas
-- Sugestões de melhoria
-- Feedback dos usuários
-- Análise e interpretação dos usuários
-- Sumários dos principais resultados
-- Planejamento de reprojeto
+- Equipamentos
+
+Para cada entrevista feita, o documento terá:
+
+- Videos das entrevistas
+- Sumário de Dados
+- Análise e interpretação dos dados coletados
+- Problemas Encontrados
+- Sugestões de Melhorias
+- Feedback dos Usuários
+
+E ao fim do documento:
+
+- Planejamento de Reprojeto
 
 ## Tópicos a serem abordados
 
@@ -32,9 +41,9 @@ Como método de avaliação, optamos por realizar **observação** e **entrevist
 
 - **Definir participantes:** Os participantes da avaliação serão selecionados de acordo com o [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.4-Prefeitura-Lagoa-da-Prata/requisitos1/perfil-do-usuario/). Seguiremos a recomendação de Dumas e Redish [2], que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas, como relata Nielsen [3].
 
-- **Preparar a avaliação:** Os avaliadores devem utilizar papel, canetas e outros materiais necessários para simular a interação com o protótipo. Os avaliadores devem representar e destacar os principais elementos da interface, como botões, campos de texto, menus, etc que o usuário pode interagir.
+- **Preparar a avaliação:** Os avaliadores devem utilizar o computador ou celular para mostrar as páginas do sistema da Prefeitura da Lagoa da Prata referentes a suas tarefas, como também devem anotar as respostas dos entrevistados baseadas no roteiro de perguntas definido.
 
-- **Conduzir a avaliação:** A simulação de uso será conduzida por dois avaliadores, um que simula o comportamento do sistema e outro que observa as experiências do usuário. A avaliação será realizada em um ambiente tranquilo e sem interrupções, para que os usuários possam se concentrar na tarefa.
+- **Conduzir a avaliação:** A simulação de uso será conduzida por um entrevistador, que guiará o entrevistado durante a execução das tarefas. O entrevistador deve observar atentamente as ações e reações do entrevistado, registrando as dificuldades encontradas, os erros cometidos e as sugestões de melhoria.
 
 - **Documentar a avaliação:** Os avaliadores devem documentar as entrevistas realizadas, registrando informações como data, horário, entrevistadores, entrevistado e tarefas realizadas pelo entrevistado. A Tabela 1 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
 
@@ -79,13 +88,13 @@ Os participantes ideais para a avaliação são:
 
 ### Equipamentos
 
-Os entrevistadores devem utilizar papel, canetas e outros materiais necessários para simular a interação com o protótipo. Também deverão utilizar um ambiente tranquilo e sem interrupções para a realização da avaliação como também computadores para a realização da documentação e gravação das entrevistas. Podem ser utilizados gravadores de áudio e vídeo para registrar as entrevistas. Ferramentas de reunião virtual, como Zoom, Google Meet ou Microsoft Teams, podem ser utilizadas para conduzir entrevistas remotas.
+Os entrevistadores devem utilizar computadores ou celulares pra demonstrar o site para o participante. Também deverão utilizar um ambiente tranquilo e sem interrupções para a realização da avaliação como também computadores para a realização da documentação e gravação das entrevistas. Podem ser utilizados gravadores de áudio e vídeo para registrar as entrevistas. Ferramentas de reunião virtual, como Zoom, Google Meet ou Microsoft Teams, podem ser utilizadas para conduzir entrevistas remotas.
 
 ## Apresentação dos dados coletados
 
 ### Vídeos das entrevistas
 
-Os vídeos das entrevistas realizadas com os usuários serão disponibilizadas no formato de incorporado e link para o YouTube. Os vídeos serão editados para garantir a privacidade dos participantes e para destacar os principais momentos da entrevista.
+Os vídeos das entrevistas realizadas com os usuários serão disponibilizadas no formato de incorporado e link para o YouTube. Os vídeos serão colocados em modo não listado, para garantir maior privacidade dos entrevistados.
 
 <center>
 
@@ -144,7 +153,7 @@ Os problemas encontrados serão organizados e detalhados para facilitar a identi
 
 É fundamental que o entrevistador registre o feedback dos usuários durante a avaliação de tarefas. Isso envolve ouvir atentamente as opiniões, sugestões e comentários dos usuários enquanto interagem com o sistema ou produto avaliado. O entrevistador deve documentar de forma completa e precisa o feedback fornecido, considerando as percepções, experiências e necessidades dos usuários. Essas informações são valiosas para entender as expectativas dos usuários, identificar pontos fortes e fracos do sistema, e obter insights sobre possíveis melhorias.
 
-### Planejameto de Reprojeto
+## Planejameto de Reprojeto
 
 Com base nos resultados da avaliação da análise de tarefas, é importante planejar e executar um processo de reprojeto para corrigir os problemas identificados e implementar as sugestões de melhoria. O planejamento de reprojeto deve incluir a definição de metas e objetivos claros, a priorização das correções necessárias, a elaboração de um plano de ação detalhado e a implementação de soluções eficazes e centradas no usuário. A tabela 3 apresenta um cronograma de reprojeto que foi seguido para criar as tabelas de documentação das entrevistas realizadas.
 
