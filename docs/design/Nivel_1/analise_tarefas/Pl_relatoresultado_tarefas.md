@@ -1,6 +1,10 @@
-# Planejamento do relato da análise de tarefas
-
 ## Introdução
+
+Segundo Diaper (2003) [1], a análise de tarefas é “a expressão utilizada no campo da ergonomia, que inclui IHC, para representar todos os métodos de coletar, classificar e interpretar dados sobre o desempenho de um sistema que possua ao menos uma pessoa como componente”. A análise de tarefas é uma etapa fundamental no processo de design de interfaces, pois permite compreender as necessidades, expectativas e comportamentos dos usuários durante a execução de tarefas específicas.
+
+O relato da análise de tarefas é um documento que descreve os resultados da avaliação da interação entre os usuários e o sistema, identificando problemas, oportunidades de melhoria e insights relevantes para o design da interface. Este relatório é essencial para orientar o desenvolvimento de soluções eficazes e centradas no usuário, garantindo uma experiência de uso satisfatória e produtiva.
+
+## Objetivo
 
 O objetivo deste documento é fornecer uma estrutura organizada para a coleta de dados durante a fase de avaliação da Análise de Tarefas, com base no documento "Planejamento da Avaliação da Análise de Tarefas". Sua principal função é estruturar e ordenar os dados coletados, a fim de facilitar a identificação de pontos de melhoria para o sistema da Prefeitura da Lagoa da Prata e fornecer sugestões de redesign pelo grupo. O resultado deste planejamento será descrito no documento de relatório de resultados.
 
@@ -20,7 +24,7 @@ A escolha da metodologia para o planejamento do relatório de análise de tarefa
 
 É crucial adaptar a metodologia às características do projeto e às necessidades específicas da análise de tarefas. A combinação de diferentes abordagens pode proporcionar uma compreensão mais abrangente do desempenho e das experiências dos usuários. Neste projeto, optamos por realizar entrevistas para obter feedback dos usuários sobre as análises de tarefas realizadas.
 
-Nesta fase, adotaremos o método de entrevistas com o suporte do framework DECIDE. Desenvolvido por Sharp, Rogers e Preece [1], o DECIDE é uma abordagem que guia o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC).
+Nesta fase, adotaremos o método de entrevistas com o suporte do framework DECIDE. Desenvolvido por Sharp, Rogers e Preece [2], o DECIDE é uma abordagem que guia o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC).
 
 
 ## Tópicos
@@ -29,69 +33,71 @@ O relato dos resultados da avaliação da Análise de tarefas deverá ter docume
 
 ## Foco do Artefato
 
-O artefato concentra-se em planejar como relatar a avaliação realizada, visando responder a perguntas específicas, identificar a ferramenta utilizada nas entrevistas, documentar os dados obtidos e apresentar os resultados.
-
-O propósito da avaliação define seus objetivos, que podem incluir a identificação de problemas de usabilidade, a avaliação da eficácia de um sistema, a obtenção de feedback dos usuários ou a sugestão de melhorias na interface. Estes objetivos devem ser claros, mensuráveis e relevantes para o contexto do projeto.
-
-Ao estabelecer o objetivo e o escopo da avaliação no planejamento do relatório de análise de tarefas, é possível alinhar expectativas, definir critérios de sucesso e assegurar uma coleta de dados eficaz. Isso promove a eficácia e a relevância do relatório final, fornecendo informações úteis e acionáveis para o desenvolvimento do sistema ou interface em questão.
-
-Portanto, os avaliadores devem elaborar um relatório baseado na análise dos resultados da avaliação de tarefas, identificando áreas para melhoria. O relatório deve incluir os objetivos da avaliação, verificando se foram alcançados, e documentar a experiência dos participantes com a análise de tarefas.
+O foco deste relatório é apresentar os resultados da avaliação da análise de tarefas realizada com os usuários do sistema da Prefeitura da Lagoa da Prata. O relato deve ser estruturado de forma clara e objetiva, apresentando os resultados da avaliação e as conclusões obtidas.
 
 ## Método
 
-### Objetivos da avaliação
+Como método de avaliação, optamos por realizar **entrevistas** com os usuários do sistema da Prefeitura da Lagoa da Prata. As entrevistas serão conduzidas de forma individual, com base em um roteiro estruturado que aborda as principais tarefas realizadas pelos usuários. O objetivo das entrevistas é coletar feedbacks sobre a usabilidade, eficácia e eficiência do sistema, identificando problemas, oportunidades de melhoria e insights relevantes para o design da interface. Para atingir esse objetivo, levaremos em consideração os seguintes pilares:
 
-Coletar os dados do feedback dos usuários relacionados às análises de tarefas apresentado à eles.
+- **Definir participantes:** Os participantes da avaliação serão selecionados de acordo com o [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.4-Prefeitura-Lagoa-da-Prata/requisitos1/perfil-do-usuario/). Seguiremos a recomendação de Dumas e Redish [2], que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas, como relata Nielsen [3].
 
-### Perguntas que deveriam ser respondidas com a avaliação
+- **Preparar a avaliação:** Os avaliadores devem utilizar papel, canetas e outros materiais necessários para simular a interação com o protótipo. Os avaliadores devem representar e destacar os principais elementos da interface, como botões, campos de texto, menus, etc que o usuário pode interagir.
 
-- Apresenta os usuários que deram o Feedback?
-- É apresentados as análises de tarefas?
-- Apresenta os dados coletados?
-- Os dados foram organizados?
-- Há uma análise dos dados coletados?
+- **Conduzir a avaliação:** A simulação de uso será conduzida por dois avaliadores, um que simula o comportamento do sistema e outro que observa as experiências do usuário. A avaliação será realizada em um ambiente tranquilo e sem interrupções, para que os usuários possam se concentrar na tarefa.
 
+- **Documentar a avaliação:** Os avaliadores devem documentar as entrevistas realizadas, registrando informações como data, horário, entrevistadores, entrevistado e tarefas realizadas pelo entrevistado. A Tabela 1 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
 
-### Métodos utilizados
+- **Analisar os resultados:** Os avaliadores devem analisar os resultados da avaliação, identificando os problemas encontrados e as sugestões de melhoria. Os resultados devem ser apresentados de forma clara e objetiva, para facilitar a compreensão dos interessados.
 
-No planejamento do relatório da análise de tarefas através de entrevistas, é fundamental considerar os seguintes pontos:
+- **Considerações éticas:** Os participantes da avaliação serão convidados a participar voluntariamente e a assinar um termo de consentimento. O termo de consentimento informa aos participantes sobre os objetivos da pesquisa, os procedimentos que serão realizados, os riscos e benefícios da participação, a garantia de anonimato e a possibilidade de desistir a qualquer momento. O termo de consentimento também informa que a participação é voluntária e que os participantes podem desistir a qualquer momento, sem penalidades ou consequências negativas.
 
-1. **Seleção dos participantes**: Definir o perfil dos participantes com base em critérios relevantes, como familiaridade com o sistema e características demográficas, garantindo uma amostra representativa dos usuários-alvo.
-2. **Elaboração do roteiro**: Criar um roteiro estruturado com perguntas específicas sobre as tarefas avaliadas, visando obter informações claras e relevantes.
-3. **Formato da entrevista**: Decidir entre entrevistas individuais ou em grupo, levando em conta o contexto e os recursos disponíveis.
-4. **Registro das entrevistas**: Determinar como as entrevistas serão registradas, seja por gravações, anotações ou ambos, garantindo consentimento e confidencialidade.
-5. **Análise dos dados**: Planejar a análise dos dados coletados, identificando temas recorrentes e utilizando técnicas apropriadas.
-6. **Aspectos éticos**: Observar questões éticas, como consentimento informado, privacidade e proteção de dados, em conformidade com regulamentações e políticas.
+Para fornecer detalhes sobre a avaliação, os avaliadores preencheram a tabela 4 que representa um exemplo de cronograma de entrevista executada.
 
-Além disso, será incluído um cronograma para fornecer detalhes sobre o andamento do projeto. Para padronização, apresentaremos um exemplo na Tabela 1.
+A Tabela 1 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
+
+| Ordem | Data | Horário | Entrevistadores | Entrevistado | Tarefas |
+|-------|------|---------|-----------------|--------------|---------|
+| Ordem da entrevista | Data da entrevista | Horário da entrevista | Nome dos entrevistadores | Nome do entrevistado | Tarefas realizadas pelo entrevistado |
+
+Tabela 1: Ficha modelo para documentação das entrevistas (Fonte: FREITAS, Cainã)
 
 
-|    Data    | Horário de início  e fim |Entrevistadores |              Entrevistado              | 
-| :--------: | :------------------------------------: | :--------: | ---------------- |
-| Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
+## Mão-de-obra necessária para conduzir a avaliação, orçamento disponíveis, os prazos e a preparação e o uso dos equipamentos necessários
 
-Tabela 1: Modelo de entrevista executada (Fonte: FREITAS, Cainã. 2024).
+### Mão de obra
 
-### Mão-de-obra Necessária
+Para conduzir a avaliação do protótipo de papel, por causa de questões de tempo e espaço, usaremos apenas um entrevistador e um entrevistado.
 
-No planejamento do relato da análise de tarefas, é essencial considerar a equipe envolvida na condução da avaliação. Abaixo estão os aspectos a serem abordados:
+1. **Entrevistador**: Responsável por conduzir a entrevista, fazer anotações e registrar as respostas dos entrevistados.
+2. **Entrevistado**: Usuário do sistema da Prefeitura da Lagoa da Prata, que participará da avaliação e fornecerá feedback sobre a usabilidade do sistema.
 
-#### Participantes:
 
-- 5 usuários do sistema do site da Prefeitura da Lagoa da Prata, com idades entre 25 e 45 anos.
+### Participantes
+
+Os participantes ideais para a avaliação são:
+
+- 5 usuários do sistema da Prefeitura da Lagoa da Prata selecionados de acordo com o [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.4-Prefeitura-Lagoa-da-Prata/requisitos1/perfil-do-usuario/)
 
 Incluir esse resumo proporciona uma compreensão clara da equipe e dos usuários envolvidos no estudo, facilitando a contextualização dos resultados no relatório final.
 
 
+### Orçamento
+
+Deve ser considerado o custo dos materiais necessários para a avaliação, como papel, canetas, impressões, etc. 
+
+### Prazos
+
+O relato dos resultados deve ser realizado até 25/05/2023 para a realização da entrega do relato dentro da matéria.
+
 ### Equipamentos
 
-O equipamento dos participantes e entrevistados, como também softwares gratuitos para a realização das entrevistas são suficientes para a realização da análise de tarefas.
+Os entrevistadores devem utilizar papel, canetas e outros materiais necessários para simular a interação com o protótipo. Também deverão utilizar um ambiente tranquilo e sem interrupções para a realização da avaliação como também computadores para a realização da documentação e gravação das entrevistas. Podem ser utilizados gravadores de áudio e vídeo para registrar as entrevistas. Ferramentas de reunião virtual, como Zoom, Google Meet ou Microsoft Teams, podem ser utilizadas para conduzir entrevistas remotas.
 
-### Aspectos Éticos
+### Aspectos éticos
 
-É fundamental decidir e documentar os aspectos éticos considerados durante a avaliação. Para isso, é importante abordar questões como consentimento informado, privacidade, confidencialidade e proteção de dados dos participantes. Também é necessário que o entrevistado concorde com o termo de consentimento antes de iniciar a entrevista.
+Os participantes da avaliação serão convidados a participar voluntariamente e a assinar um termo de consentimento. O termo de consentimento informa aos participantes sobre os objetivos da pesquisa, os procedimentos que serão realizados e a possibilidade de desistir a qualquer momento. O termo de consentimento também informa que a participação é voluntária e que os participantes podem desistir a qualquer momento, sem penalidades ou consequências negativas.
 
-### Interpretação e Apresentação dos Dados
+## Interpretação e Apresentação dos Dados
 
 #### Sumário de Dados
 
@@ -120,20 +126,27 @@ Tabela 2: Ficha de entrevista (Fonte: FREITAS, Cainã. 2024).
 
 Este sumário fornece uma visão geral dos dados coletados, ajudando a contextualizar as conclusões e recomendações apresentadas no relatório final.
 
-#### Análise dos Dados Coletados
+### Análise dos Dados Coletados
 
 Durante a análise dos dados coletados, é fundamental examinar e interpretar os dados de forma sistemática, mas também ouvir e considerar as opiniões dos participantes. A análise deve ser guiada pelos objetivos da avaliação, identificando padrões, tendências e insights relevantes para a análise de tarefas.
 
 Os dados coletados podem ser organizados e apresentados de várias maneiras, como tabelas, gráficos, diagramas ou mapas de calor. Essas representações visuais ajudam a resumir e comunicar os resultados de forma clara e eficaz.
 
+## Problemas Encontrados
 
-#### Sugestões de Correções
+Para uma análise mais detalhada, é importante identificar e descrever os problemas encontrados durante a avaliação da análise de tarefas. Esses problemas podem incluir dificuldades de uso, erros de interação, confusão de layout, falta de feedback, entre outros. A descrição dos problemas deve ser clara, objetiva e acompanhada de exemplos concretos para facilitar a compreensão e a resolução.
 
-Ao fim de cada entrevista, a ultima pergunta será sobre sugestões de correções. Essas sugestões serão anotadas e documentadas para serem analisadas posteriormente.
+Os problemas encontrados serão organizados e detalhados para facilitar a identificação e a priorização das correções necessárias.
+
+### Sugestões de Melhorias e Correções
+
+Ao fim de cada entrevista, a ultima pergunta feita para o entrevistado será sobre sugestões de correções. Essas sugestões serão anotadas e documentadas para serem analisadas posteriormente.
 
 ## Bibliografia
 
-[1] SHARP, H.; ROGERS, Y.; PREECE, J. Interaction Design: Beyond Human-Computer Interaction. Wiley, 2007.
+[1] STANTON, N.; D DIAPER. The handbook of task analysis for human-computer interaction. Mahwah, Nj: Lawrence Erlbaum, Mahwah, Nj, 2003.
+
+[2] SHARP, H.; ROGERS, Y.; PREECE, J. Interaction Design: Beyond Human-Computer Interaction. Wiley, 2007.
 
 ## Histórico de Versões
 
@@ -141,3 +154,4 @@ Ao fim de cada entrevista, a ultima pergunta será sobre sugestões de correçõ
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 22/05/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |  19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
+| 08/07/2024 | `1.1`  |  Re-elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
