@@ -368,7 +368,16 @@ Com base na análise dos relatos dos entrevistados o protótipo conseguiu atende
 
 Não vai ser necessário corrigir ou alterar nada no reprojeto.
 
+Bibliografia
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
+[2] Dumas, J. S., & Redish, J. C. (1999). A practical guide to usability testing. Intellect Books.
+
+[3] NIELSEN, Jakob. Usability Engineering. Academic Press, 1993.
+
+[4] FIGMA. Disponivel em: https://www.figma.com Acesso em: 03 de julho de 2024.
+
+[5] Ericsson, K. Anders e Simon, Herbert A. (1993). Protocol Analysis - Rev’d Edition: Verbal Reports as Data. Bradford Books, Cambridge, Mass, revised edition edition.
 
 
 ## Histórico de Versões
