@@ -37,7 +37,6 @@ Abaixo se apresenta a tabela 01 com o cenário desenvolvido pela integrante [Joy
 
 **Tabela 01** - Cadastro Antecipado de Aluno
 
-<!-->
 | Elemento   | Descrição                                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Objetivo   | Realizar cadastro antecipado de aluno para matrícula escolar através do site da prefeitura.                                                                                                                                           |
@@ -52,7 +51,7 @@ Abaixo se apresenta a tabela 01 com o cenário desenvolvido pela integrante [Joy
 
 </center>
 
-<-->
+
 
 ### C02: Estado de Saúde - [Lucas Meireles](https://github.com/Katuner)
 
@@ -77,7 +76,7 @@ Abaixo se apresenta a tabela 03 com o cenário desenvolvido pelo integrante [Ped
 <center>
 
 **Tabela 03** - Solicitar vistoria de local com água parada
-<!-->
+
 | Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | Solicitar vistoria de local com água parada                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -87,7 +86,7 @@ Abaixo se apresenta a tabela 03 com o cenário desenvolvido pelo integrante [Ped
 | Episódios  | - Maria Arlete acessa o site <br> - Ela navega até o menu suspenso e passa o mouse em "Serviços" <br> - Ela clica na opção "Solicitar Vistoria de Água Parada" <br> - Ela escolhe qual opção de login vai realizar ("Login pelo GOV", "Login pelo cadastro da Prefeitura") e realiza o login. Ou solicita a vistoria de modo anônima <br> - Ela move o cursor até os campos de inserção de dados e insere ("Endereço", "Número", "CEP") <br> Ela move o cursor até as opções de "Tipo de imóvel" e seleciona a opção correta <br> - Ela move o cursor até o botão "Captcha" e clica para fazer a verificação <br> - Ela move o cursor até o botão "Finalizar" e clica <br> Ela  <br> - Ela move o cursor até o botão de "Imprimir dados da solicitação" e clica para baixar a confirmação da solicitação |
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, energia ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
-<-->
+
 *Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray) 2024.* 
 
 </center>
@@ -100,7 +99,7 @@ Abaixo se apresenta a tabela 04 com o cenário desenvolvido pelo integrante [Luc
 <center>
 
 **Tabela 04** - Informar luminária queimada no Município
-<!-->
+
 | Elemento   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | Informar luminária queimada no Município                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -111,7 +110,7 @@ Abaixo se apresenta a tabela 04 com o cenário desenvolvido pelo integrante [Luc
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
 *Fonte: [HELER, Lucas](https://github.com/Akaeboshi) 2024.* 
-<-->
+
 
 </center>
 
@@ -121,7 +120,6 @@ Abaixo se apresenta a tabela 05 com o cenário desenvolvido pelo integrante [Cai
 
 <center>
 
-<!--
 
 **Tabela 05** - Cadastrar e acompanhar reclamação no conselho municipal de educação
 
@@ -137,7 +135,7 @@ Abaixo se apresenta a tabela 05 com o cenário desenvolvido pelo integrante [Cai
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc) 2024.* 
 
-<-->
+
 
 </center>
 
@@ -148,7 +146,6 @@ Abaixo se apresenta a tabela 06 com o cenário desenvolvido pelo integrante [Aug
 
 <center>
 
-<!-->
 
 **Tabela 06** - Acessar o modulo de contra cheque e consultar processos do servidor
 
@@ -162,7 +159,7 @@ Abaixo se apresenta a tabela 06 com o cenário desenvolvido pelo integrante [Aug
 | Restrições | Fluxo de navegação intuitivo.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Exceção    | Falta de internet, ou problema de conexao com o site da prefeitura.                                                                                                                                                                                                                                                                                                                                                              |
 *Fonte: [CAMPOS, Augusto Duarte](https://github.com/Augcamp) 2024.* 
-<-->
+
 </center>
 
 ## Bibliografia
@@ -187,4 +184,4 @@ Abaixo se apresenta a tabela 06 com o cenário desenvolvido pelo integrante [Aug
 | 22/05/2024 | `1.7`  |            Adição de Cenário             | [Augusto Duarte](https://github.com/Augcamp)  |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc) |
 | 22/05/2024 | `1.7`  |          Atualização de Cenário          | [Lucas Meireles](https://github.com/Katuner)  |   22/05/2024    | [Cainã Freitas](https://github.com/freitasc) |
 | 06/06/2024 | `2.0`  |          Atualização Cenário 3           |  [Pedro Lucas](https://github.com/lucasdray)  |   11/06/2024    | [Augusto Duarte](https://github.com/Augcamp) |
-| 07/07/2024 | `3.0`  | Reestruturação e correção do documento por completo, reescrita do cenário 02 e padronização do documento | [Lucas Meireles](https://github.com/Katuner)  |   |  |
+| 07/07/2024 | `3.0`  | Reestruturação e correção do documento por completo, reescrita do cenário 02 e padronização do documento | [Lucas Meireles](https://github.com/Katuner)  |  08/07/2024 | [Joyce Dionizio](https://github.com/joycejdm) |
