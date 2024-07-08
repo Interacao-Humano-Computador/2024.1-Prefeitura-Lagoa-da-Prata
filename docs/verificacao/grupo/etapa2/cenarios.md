@@ -49,17 +49,17 @@ Os integrantes responsáveis pela verificação da checklist estão devidamente 
 Abaixo se encontram os resultados da inspeção do artefato tratado pela tabela 2 com a utilização da checklist proposta, seus comentários, o vídeo de inspeção, um gráfico "pizza" que apresentará o percentual de respostas da checklist, uma listagem de problemas encontrados e suas explicações e/ou observações e, por fim, sugestões de correção.
 A cada tópico será apresentado uma análise distinta de cada membro conforme planejado.
 
-### Cenário Cadastrar e acompanhar reclamação no conselho municipal de educação.
+### Cenário Cadastrar e acompanhar reclamação na ouvidoria
 
-Aqui serão dispostos os resultados da verificação do artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "Cadastrar e acompanhar reclamação no conselho municipal de educação.", proposta pelo membro [Cainã Freitas](https://github.com/freitasc), feitos pelo integrante [Augusto Duarte](https://github.com/Augcamp) conforme o [planejamento da verificação](planejamento.md).
+Aqui serão dispostos os resultados da verificação do artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "Cadastrar e acompanhar reclamação na ouvidoria", proposta pelo membro [Cainã Freitas](https://github.com/freitasc), feitos pelo integrante [Augusto Duarte](https://github.com/Augcamp) conforme o [planejamento da verificação](planejamento.md).
 
 #### Inspeção
 
-Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "Cadastrar e acompanhar reclamação no conselho municipal de educação".
+Abaixo se encontra o Vídeo 1, referente à inspeção realizada ao artefato ["Cenários"](../../../requisitos1/cenarios.md), com direcionamento o cenário "Cadastrar e acompanhar reclamação na ouvidoria".
 
 <center>
 
-**Vídeo 1** - Gravação da inspeção do "Cadastrar e acompanhar reclamação no conselho municipal de educação".
+**Vídeo 1** - Gravação da inspeção do "Cadastrar e acompanhar reclamação na ouvidoria".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HTMJAPjq3XI?si=vTwc32UIQqAZf-Gn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,7 +97,7 @@ A tabela 3 abaixo apresenta a checklist proposta pela integrante [Joyce Dionizio
 
 Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist prevista pela tabela 3.
 
-**Figura 1** - Gráfico "pizza" - Cenários - Cadastrar e acompanhar reclamação no conselho municipal de educação.
+**Figura 1** - Gráfico "pizza" - Cenários - Cadastrar e acompanhar reclamação na ouvidoria
 
 <center>
 
@@ -108,7 +108,7 @@ Segue abaixo, pela Figura 1, o gráfico referente às respostas da checklist pre
 
 #### Problemas encontrados
 
-- Na análise da checklist, nenhum erro ou problema específico foi encontrado na seção dedicada ao cenário de "Cadastrar e acompanhar reclamação no conselho municipal de educação". Todos os itens relacionados a este cenário em especifico foi inspecionado e está em conformidade.
+- Na análise da checklist, nenhum erro ou problema específico foi encontrado na seção dedicada ao cenário de "Cadastrar e acompanhar reclamação na ouvidoria". Todos os itens relacionados a este cenário em especifico foi inspecionado e está em conformidade.
 
 
 #### Sugestões de correção
