@@ -1,4 +1,4 @@
-# Apresentação 6.1
+# Apresentação 8
 
 ## Introdução
 Este documento contém o vídeo de apresentação do ponto de controle 8 da matéria de Interação Humano Computador e a tabela que valida a entrega.
@@ -22,4 +22,4 @@ Como especificado o link da apresentação se encontra no youtube e na categoria
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 03/07/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 03/07/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) | 08/07/2024      | [Lucas Meireles](https://github.com/Katuner)   |

@@ -10,16 +10,16 @@ Abaixo se encontra o vídeo 1 da apresentação da Etapa 6.1 do projeto:
 
 ** Vídeo 1 - Apresentação Etapa 6.1**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LJ0DTjOgJNE?si=ve1k1IxPi5mncouZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1864" height="793" src="https://www.youtube.com/embed/QEmL9S3cmOg" title="Apresentação 6.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Fonte: MEIRELES, Lucas O. 2024*
 
 </center>
 
-Como especificado o link da apresentação se encontra no youtube e na categoria não listado, podendo ser acessado por meio deste [link](https://youtu.be/LJ0DTjOgJNE)
+Como especificado o link da apresentação se encontra no youtube e na categoria não listado, podendo ser acessado por meio deste [link](https://www.youtube.com/watch?v=QEmL9S3cmOg)
 
 ## Histórico de revisão
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 12/06/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 12/06/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |  08/07/2024     | [Lucas Meireles](https://github.com/Katuner)            |

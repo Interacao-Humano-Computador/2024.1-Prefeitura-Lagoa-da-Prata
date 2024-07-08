@@ -1,4 +1,4 @@
-# Apresentação Etapa 7 
+# Apresentação Etapa 6.2 
 
 ## Introdução
 Este documento contém o vídeo de apresentação do ponto de controle 6.2 da matéria de Interação Humano Computador e gravação referente à mesma.
