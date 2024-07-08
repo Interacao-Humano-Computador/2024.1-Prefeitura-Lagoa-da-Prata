@@ -79,7 +79,9 @@ Na figura 5 abaixo, apresenta-se um storyboard em que o usuário após ver uma c
 ## Bibliografia
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
 > [2] Beyer, Hugh e Holtzblatt, Karen (1997). Contextual Design: Defining Customer-Centered Systems. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA
+
 > [3] Rosson, Mary Beth e Carroll, John M (2002). Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann.
 
 ## Historico de Versões
