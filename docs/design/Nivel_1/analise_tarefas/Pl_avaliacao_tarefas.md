@@ -25,7 +25,7 @@ Os métodos utilizados na avaliação serão destrinchados na parte de [Escolher
 </center>
 
 ## D - Objetivos
-O objetivo desta avaliação é verificar se os artefatos produzidos na [análise de tarefas](../../../requisitos1/analise-tarefas.md) condizem com a realidade sendo avaliados por usuários-alvo definidos através do [perfil do usuario](../../requisitos1/perfil-do-usuario.md) e que assim podemos identificar problemas e elicitar ideias que não foram identificados anteriormente.
+O objetivo desta avaliação é verificar se os artefatos produzidos na [análise de tarefas](../../../requisitos1/analise-tarefas.md) condizem com a realidade sendo avaliados por usuários-alvo definidos através do [perfil do usuario](../../requisitos1/perfil-do-usuario.md) e que assim podemos identificar problemas e elicitar ideias que não foram identificados anteriormente. Conforme presente nas definições do framework, os objetivos principais da avaliação serão dois, "verificar conformidade com um padrão" e "analisar a apropriação da tecnologia".
 
 ## E - Explorar Perguntas Respondidas com a Avaliação
 As perguntas a seguir tem o intuito de serem respondidas pelo avaliador após a execução da gravação da entrevista, todas foram criadas a partir da *Tabela 11.1 " Exemplos de perguntas que uma avaliação de IHC" do livro Interação Humano Computador[1] presente na página 266 do Capítulo 11* e são divididas de acordo com o objetivo de cada pergunta,
@@ -43,7 +43,7 @@ As perguntas a seguir tem o intuito de serem respondidas pelo avaliador após a 
 - O usuário tem acesso a todas as informações necessárias para o entedimento da tarefa e para a realização dela?
 
 ## C - Escolher os Métodos de Avaliação
-Para a realização da avaliação em si será utilizado o método de investigação fazendo uso da realização de entrevistas com pessoas que se enquadrem no nosso [Perfil do Usuário](../../../requisitos1/perfil-do-usuario.md) já que com esse método o avaliador terá acesso a interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1] relacionados com as tárefas analisadas pelos integrantes do grupo.
+Para a realização da avaliação em si será utilizado o método de investigação fazendo uso da realização de entrevistas com pessoas que se enquadrem no nosso [Perfil do Usuário](../../../requisitos1/perfil-do-usuario.md) já que com esse método o avaliador terá acesso a interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1] relacionados com as tárefas analisadas pelos integrantes do grupo. 
 
 ## I - Identificar Questões Práticas da Avaliação
 ### Recrutamento 
@@ -114,7 +114,7 @@ As perguntas de 1-4 devem ser feitos ao começar a entrevista e após dar um con
 Os participantes da avaliação serão convidados a participar voluntariamente e a assinar um [termo de consentimento](../../../requisitos1/aspectos-eticos.md/#tcle-de-avaliação). O termo de consentimento informa aos participantes sobre os objetivos da pesquisa, os procedimentos que serão realizados, os riscos e benefícios da participação, a garantia de anonimato e a possibilidade de desistir a qualquer momento. O termo de consentimento também informa que a participação é voluntária e que os participantes podem desistir a qualquer momento, sem penalidades ou consequências negativas. De modo a evitar possíveis constrangimentos e incentivar a participação de usuários, não será disponibilizado de modo público as gravações audio-visuais do procedimento, sendo que os registros serão disponibilizados apenas à equipe de avaliação para verificação das informações textuais registradas e tratamento de dúvidas das ações realizadas pelos entrevistados.
 
 ## E - Avaliar, Interpretar e Apresentar os Dados
-Após a avaliação, os dados serão interpretados e será disponbilizado um relato dos resultados contendo os objetivos, metodologia utilizada, tarefa, teste piloto, as entrevistas, as perguntas feitas, os problemas encontrados e suas descrições e por fim sugestões de melhorias -para cada funcionalidade.
+Após a avaliação, os dados serão interpretados e será disponbilizado um relato dos resultados contendo os objetivos, metodologia utilizada, tarefa, teste piloto, as entrevistas, as perguntas feitas, os problemas encontrados e suas descrições e por fim sugestões de melhorias para cada funcionalidade, conforme disponibilizado no seguinte [artefato](../analise_tarefas/Pl_relatoresultado_tarefas.md).
 
 ## Referências Bibliográficas
 
@@ -126,4 +126,4 @@ Após a avaliação, os dados serão interpretados e será disponbilizado um rel
 | :--------: | :----: | :-----------------------------: | :------------------------------------------: | :-------------: | :-------------------------------------------: |
 | 22/05/2024 | `1.0`  | Elaboração inicial do documento | [Cainã Freitas](https://github.com/freitasc) |   19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
 | 03/06/2024 | `1.1`  |        Corrige documento        | [Cainã Freitas](https://github.com/freitasc) |   19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
-| 08/07/2024 | `2.0`  |    Documento inteiro refeito    | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                               |
+| 08/07/2024 | `2.0`  |    Documento inteiro refeito    | [Pedro Lucas](https://github.com/lucasdray)  |   08/07/2024    | [Lucas Meireles](https://github.com/Katuner)  |

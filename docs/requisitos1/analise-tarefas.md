@@ -161,7 +161,7 @@ Abaixo se encontra a tabela 4 e figura 4 referentes a tarefa de Acessar o módul
 
 </center>
 
-### Análise da Tarefa HTA 4: Registrar e verificar o panorama de saúde da cidade - Lucas Heler
+### Análise da Tarefa HTA 4: Registrar e verificar o panorama de saúde da cidade - [Lucas Meireles](https://github.com/Katuner)
 Abaixo se encontra a tabela 5 e figura 5 referentes a tarefa de Registrar e verificar o panorama de saúde da cidade, ambas feitas pelo integrante do grupo [Lucas Meireles](https://github.com/Katuner):
 
 <center>
