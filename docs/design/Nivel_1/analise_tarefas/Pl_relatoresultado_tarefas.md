@@ -13,6 +13,7 @@ Tendo como base os tópicos relatados além da avaliação de intersujeito descr
 - Tarefas
 
 Para cada entrevista feita, o documento terá:
+
 - Seleção dos participantes
 - Equipamentos
 - Teste Piloto
