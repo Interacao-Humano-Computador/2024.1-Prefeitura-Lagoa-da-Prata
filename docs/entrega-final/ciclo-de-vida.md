@@ -12,7 +12,7 @@ O Modelo de Ciclo de Vida de Mayhew foi escolhido por ser uma abordagem que auxi
 
 **Figura 1** - Atividades do Modelo de Ciclo de Vida de Mayhew.
 
-![](../../assets/images/ciclo-de-vida-mayhew.png)
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/ciclo_mayhew.png" >
 
 *Fonte: Página 120, Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021); Interação Humano-Computador e Experiência do usuário [1]*
 
