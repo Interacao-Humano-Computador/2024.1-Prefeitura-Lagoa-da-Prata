@@ -10,21 +10,18 @@ Tendo como base os tópicos relatados além da avaliação de intersujeito descr
 
 - Objetivo e escopo da avaliação
 - Método de avaliação
-- Tarefa
-- Seleção dos participantes
-- Equipamentos
+- Tarefas
 
 Para cada entrevista feita, o documento terá:
-
+- Seleção dos participantes
+- Equipamentos
+- Teste Piloto
 - Videos das entrevistas
 - Sumário de Dados
 - Análise e interpretação dos dados coletados
 - Problemas Encontrados
 - Sugestões de Melhorias
 - Feedback dos Usuários
-
-E ao fim do documento:
-
 - Planejamento de Reprojeto
 
 ## Tópicos a serem abordados
@@ -39,9 +36,9 @@ Nessa parte do documento, será apresentado por qual razão a avaliação foi re
 
 Como método de avaliação, optamos por realizar **observação** e **entrevistas** com os usuários do sistema da Prefeitura da Lagoa da Prata. As entrevistas serão conduzidas de forma individual, com base em um roteiro estruturado que aborda as principais tarefas realizadas pelos usuários. O objetivo das entrevistas é coletar feedbacks sobre a usabilidade, eficácia e eficiência do sistema, identificando problemas, oportunidades de melhoria e insights relevantes para o design da interface. Para atingir esse objetivo, levaremos em consideração os seguintes pilares:
 
-- **Definir participantes:** Os participantes da avaliação serão selecionados de acordo com o [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.4-Prefeitura-Lagoa-da-Prata/requisitos1/perfil-do-usuario/). Seguiremos a recomendação de Dumas e Redish [2], que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas, como relata Nielsen [3].
+- **Definir participantes:** Os participantes da avaliação serão selecionados de acordo com o [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.4-Prefeitura-Lagoa-da-Prata/requisitos1/perfil-do-usuario/). 
 
-- **Preparar a avaliação:** Os avaliadores devem utilizar o computador ou celular para mostrar as páginas do sistema da Prefeitura da Lagoa da Prata referentes a suas tarefas, como também devem anotar as respostas dos entrevistados baseadas no roteiro de perguntas definido.
+- **Preparar a avaliação:** Os avaliadores devem utilizar o computador ou celular para mostrar as páginas do sistema da Prefeitura da Lagoa da Prata referentes a suas tarefas, como também devem anotar as respostas dos entrevistados baseadas no roteiro de perguntas definido. Em caso da tarefas não existirem no sistema da Prefeitura fica a critério do avaliador escolher a melhor forma de apresentar para o entrevistado.
 
 - **Conduzir a avaliação:** A simulação de uso será conduzida por um entrevistador, que guiará o entrevistado durante a execução das tarefas. O entrevistador deve observar atentamente as ações e reações do entrevistado, registrando as dificuldades encontradas, os erros cometidos e as sugestões de melhoria.
 
@@ -59,13 +56,13 @@ A Tabela 1 apresenta um cronograma de entrevista que foi seguido para criar as t
 
 **Tabela 1:** Ficha modelo para documentação das entrevistas
 
-| Ordem | Entrevistador | Entrevistado | Data | Horário | Local |Tarefa |
-| :---: | :-----------: | :----------: | :--: | :-----: | :---: | :---: |
-|   1   |  Cainã Freitas | Ana Vieira |  03/06/2024 |  22:00 |  Online (Plataforma Teams) | Cadastrar e acompanhar reclamação na ouvidoria |
-|   2   |  Lucas Dourado |  -  |  - |  - |  - |  - |
-|   3   |  Joyce Dionizio |  -  |  - |  - |  - |  - |
-|   4   |  Lucas Meireles |  -  |  - |  - |  - |  - |
-|   5   |  Augusto Campos |  -  |  - |  - |  - |  - |
+| Ordem | Entrevistador  | Entrevistado |    Data    |    Horário    |           Local           |                     Tarefa                     |
+| :---: | :------------: | :----------: | :--------: | :-----------: | :-----------------------: | :--------------------------------------------: |
+|   1   | Cainã Freitas  |  Ana Vieira  | 03/06/2024 |     22:00     | Online (Plataforma Teams) | Cadastrar e acompanhar reclamação na ouvidoria |
+|   2   |  Pedro Lucas   | Renato Cesar | 08/07/2024 | 16:22 - 16:34 |   Casa do Entrevistador   |  Solicitar vistoria de local com água parada   |
+|   3   | Joyce Dionizio |      -       |     -      |       -       |             -             |                       -                        |
+|   4   | Lucas Meireles |      -       |     -      |       -       |             -             |                       -                        |
+|   5   | Augusto Campos |      -       |     -      |       -       |             -             |                       -                        |
 
 *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 
@@ -184,8 +181,8 @@ Com base nos resultados da avaliação da análise de tarefas, é importante pla
 ## Histórico de Versões
 
 
-|    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
-| 22/05/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |  19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
-| 08/07/2024 | `1.1`  |  Re-Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
-| 08/07/2024 | `1.2`  |  Adiciona tópico   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
+|    Data    | Versão |             Descrição              |                  Autor(es)                   | Data de revisão |                  Revisor(es)                  |
+| :--------: | :----: | :--------------------------------: | :------------------------------------------: | :-------------: | :-------------------------------------------: |
+| 22/05/2024 | `1.0`  |  Elaboração inicial do documento   | [Cainã Freitas](https://github.com/freitasc) |   19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
+| 08/07/2024 | `1.1`  | Re-Elaboração inicial do documento | [Cainã Freitas](https://github.com/freitasc) |   08/07/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
+| 08/07/2024 | `1.2`  |          Adiciona tópico           | [Cainã Freitas](https://github.com/freitasc) |   08/07/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
