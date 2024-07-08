@@ -33,11 +33,13 @@ As perguntas a seguir tem o intuito de serem respondidas pelo avaliador após a 
 (1) verificar conformidade com um padrão:
 
 - Os diagramas HTA possuem os objetivos, operações, legendas, representação em tabela e diagrama?
+- As análises utilizando CNM-GOMS possuem objetivos, operações, métodos e regras de seleção?
 
 (2) analisar a apropriação da tecnologia:
 
 - Os diagramas representam tarefas condizentes com as funcionalidades esperadas para o site escolhido?
-- A partir das entrevistas foram identificadas melhoras para as tarefas apresnetas no [Análise de Tarefas](../../../requisitos1/analise-tarefas.md0?)
+- As análises utilizando CNM-GOMS representam tarefas condizentes com as funcionalidades esperadas para o site escolhido?
+- A partir das entrevistas foram identificadas melhoras para as tarefas apresentadas no [Análise de Tarefas](../../../requisitos1/analise-tarefas.md0?)
 - O usuário tem acesso a todas as informações necessárias para o entedimento da tarefa e para a realização dela?
 
 ## C - Escolher os Métodos de Avaliação
@@ -95,9 +97,11 @@ A seguir segue a tabela 03 que contém as perguntas que será feita para o entre
 |   3    |                                   Qual o grau de afinidade você tem com tecnologias?                                   |    -     |
 |   4    |                                Você já utilizou algum site de prefeitura? Se sim quais?                                |    -     |
 |   5    |                             Observando a tarefa, você acha que ela condiz com a realidade?                             |    -     |
-|   6    | Observando a tarefa mostrada, a sequência de processos confere com a realidade? Caso não, poderia descrever o por quê? |    -     |
-|   7    |                           Você teria alguma sugestão de melhoria para o diagrama da tarefa?                            |    -     |
-|   8    |                                E com relação a tarefa tem alguma sugestão de melhoria?                                 |    -     |
+|   6    |                              Há alguma parte da tarefa que você acha difícil ou confusa?                               |    -     |
+|   7    |                            Há alguma parte da tarefa que você acha demorada ou ineficiente?                            |    -     |
+|   8    | Observando a tarefa mostrada, a sequência de processos confere com a realidade? Caso não, poderia descrever o por quê? |    -     |
+|   9    |                           Você teria alguma sugestão de melhoria para o diagrama da tarefa?                            |    -     |
+|   10   |                                E com relação a tarefa tem alguma sugestão de melhoria?                                 |    -     |
 
 *Fonte: [DOURADO, PEDRO LUCAS.](https://github.com/lucasdray). 2024.*
 
