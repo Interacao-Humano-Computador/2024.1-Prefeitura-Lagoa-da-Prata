@@ -30,7 +30,13 @@ Na Figura 1 abaixo, é possivel visualizar a violação da Correspondência com 
 
 </center>
 
+#### Correção
+Atualizar as páginas que estão incompletas e violando a correspondência com as expectativas dos usuários como a mostrada na figura 01 acima, assim implementando as informações que estão faltando e que são importantes para o usuário que tem expectativas da funcionalidade estar funcionando.
+
+
+
 ### Simplicidade nas Estruturas das Tarefas
+#### Definição
 Para uma simplificação nas estruturas das tarefas deve-se reduzir a quantidade de planejamento e resolução [3], e para isso os designers podem seguir as 4 abordagens tecnológicas a seguir:
 - manter a tarefa inalterada, mas oferecer diferentes formas de suporte para que os usuários possam aprender e executar a tarefa
 - utilizar a tecnologia para tornar visível o que seria invisível, aprimorando o feedback e a capacidade do usuário de manter o controle da tarefa
@@ -72,8 +78,13 @@ Abaixo temos a figura 4 que mostra que o serviço existe dentro da página mas n
 
 </center>
 
-### Equilíbrio entre Controle e Liberdade do Usuário
+#### Correção
+Implementar no site na aba de serviços e na busca o redirecionamento para a página da ouvidoria para que o usuário não precise realizar uma pesquisa externa para encontrar a funcionalidade
 
+
+
+### Equilíbrio entre Controle e Liberdade do Usuário
+#### Definição
 De acordo com Tognazzini (2014), o computador, a interface e o ambiente de trabalho “pertencem” ao usuário. Isto é dizer que o usuário deve ter o maior controle e decisões de como alcançar seu objetivo sem se sentir "forçado" a uma sequência de ações fixa ou não possuir poder de decisão sobre as ações que está realizando. Isso implica que muitas vezes é vantajoso que o usuário seja capaz de realizar uma mesma tarefa de modos diferentes, ou até cancelar uma ação sem que o sistema o impeça ou penalize-o por isso. 
 
 #### Violação
@@ -89,8 +100,12 @@ Na figura 05, podemos visualizar uma violação contra a liberdade do usuário, 
 
 </center>
 
-### Consistência e Padronização
+#### Correção
+Permitir que o usuário possa ver todos os registros na busca sem selecionar um tipo de filtro.
 
+
+### Consistência e Padronização
+#### Definição
 Para facilitar o aprendizado e uso de um sistema, recomenda-se assegurar a consistência da interface com o modelo conceitual embutido no sistema[3], sendo a mais importante consistência a de expectativas dos usuários e quando essa correspondência não for possível é preciso padronizar [3][4].
 
 #### Violação
@@ -106,8 +121,12 @@ Mesmo que o site em sua maior parte siga uma certa consistência e padronizaçã
 
 </center>
 
+#### Correção
+Padronizar o menu hambúrguer em que os subtópicos estejam alinhados e do mesmo tamanho como mostrado em "Serviços" e "Serviços Online" que estão desalinhados dificultando e muito a compreensão do usuário.
+
 
 ### Promovendo a Eficiência do Usuário
+#### Definição
 A eficiência do usuário vem sempre em primeiro lugar, e não a do computador. [4] O usuário deve ser mantido ocupado, logo , processamentos demorados não devem prender a interação, mas sim permitir que os usuários continuem seu trabalho com outras partes do sistema, suprimindo a ociosidade e economizando tempo e esforço do usuário.
 
 #### Violação
@@ -133,9 +152,12 @@ Há algumas funcionalidades no site em que redireciona o usuário para outros li
 
 </center>
 
+#### Correção
+Implementação de um botão de retorno dentro dos sites que o usuário é redirecionado para que caso ocorra um clique errado ou o usuário decida voltar por quaisquer outro motivo não tenha que abrir outra página e acessar tudo novamente ou usar o botão retroceder do navegador.
 
 
 ### Antecipação
+#### Definição
 Deve ser fornecido todas as informações e ferramentas necessárias ao usuário para cada passo realizado, fazendo com que não seja necessário o usuário buscar ou coletar informações.
 
 #### Violação
@@ -151,28 +173,97 @@ Mesmo já estando cadastrado e logado no site da Prefeitura, ao tentar realizar 
 
 </center>
 
+#### Correção
+O site deveria puxar os dados do usuário que já estiver logado para evitar que seja necessário ele buscar/coletar informações que já estão disponibilizadas, deixando o campo editavel caso o usuário queira trocar o mesmo.
+
+
+
 ### Visibilidade e Reconhecimento
+#### Definição
 Antes de executar uma ação, o usuário deve ter uma visão prévia das diferentes maneiras de realizá-la e das instruções para sua execução. Além disso, a interface deve fornecer informações lógicas e acessíveis ao usuário no momento necessário.[3]
 
-TERMINAR
-
-
-
-### Conteúdo Relevante e Expressão Adequada - REVISAR
-
-Reeves e Nass (1996) estabelecem que uma interação bem polida seguem 4 máximas: qualidade (não apresentar informações que não se sabe se são reais), quantidade (não exibir mais informações que o necessário para o objetivo), relação (os itens devem estar relacionados de forma clara e não confusa) e modo (evitar ambiguidades). Isto também quer dizer que o sistema deve ser reconhecível aos usuários e que eles não estarão confusos quanto às informações que devem preencher na página. 
-É possível notar, porém, conforme apresentado na figura 7 que segue este texto, há locais no site avaliado que não respeitam essas máximas e podem com certa facilidade desmotivar o usuário a completar seu objetivo. No caso apresentado, o usuário está na página primária para visualização geral dos eventos que irão ocorrer no município, e, apesar de possuir um breve texto introdutório como "agenda", ele não é explicado sobre o calendário ao lado e nem as informações disponíveis ao posicionar o mouse sobre uma data específica, assim como as informações apresentadas quando feita, não são devidamente expostas ou claras (período dos eventos).
+#### Violação
+Ao clicar no botão de troca de contraste do site e colocar em baixo contraste a visibilidade dos botões fica muito difícil e pouco intuitivo para os usuários reconhecerem, o menu hambúrguer mesmo aparece apenas como um quadrado vazio, como mostrado na figura 10 a seguir.
 
 <center>
-<img src="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/blob/main/docs/assets/images/sitePrefeitura/menu_eventos.png?raw=true">
-Figura 7 - Área de eventos registrados. Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 11/05/2024
+
+**Figura 09** - Página de solicitação de troca de lâmpadas
+
+![Transparência](../assets/images/principios_gerais/home_dark.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 08/07/2024*
+
 </center>
 
+#### Correção
+Corrgir a opção de baixo contraste para que as o botões e imagens fiquem de facil reconhecimento e a visibilidade não seja prejudicada atendendo a descrição do usuário ter uma visão prévia de realizar as ações.
 
-### Projeto para Erros - REVISAR
 
-Por fim, tratamos também de projeções para um erro, isto é, levar em consideração que, de alguma forma, um erro poderá acontecer e como é possível evitar esse erro ou ainda evitar que seja uma falha que possa levar a uma consequência severa ao usuário. Em um exemplo, isso significa salvar informações de um formulário em caso de uma mudança indesejada de página, em caso de perda de conexão, ou ainda evitar que um clique errado do usuário, como é possível ocorrer no site da Prefeitura aqui trabalhado, resulte na perda de quaisquer informações e/ou pesquisas já realizadas na página.
 
+### Conteúdo Relevante e Expressão Adequada 
+#### Definição
+A interação polida segue quatro máximas[8] que serão adotadas no projeto sendo elas:
+- qualidade - não dizer nada que não tenha um embasamento, sem mentiras ou especulações
+- quantidade - busca pela simplicidade, a fala deve ser tão informativa quanto necessária para os objetivos
+- relação (ou relevância) - tudo que for dito tem que ser explicítamente relacionado aos tópicos da conversa
+- modo ( ou clareza) - evitar ao máximo ambiguidade e prolixidade
+
+#### Violação
+Ao abrir o menu hambúrguer o usuário fica confuso com relação aos tópicos "Serviços" e "Serviços Online", gerando uma ambíguidade, como mostra a figura 11 a seguir. 
+
+<center>
+
+**Figura 11** - Menu Hambúrguer
+
+![Menu Hamburguer](../assets/images/principios_gerais/menu_hamburguer.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 08/07/2024*
+
+</center>
+
+#### Correção
+Essa violação poderia ser facilmente resolvida trocando o subtópico "Serviços Online" para "Solicitação de Serviços", o que acabaria com a ambiguidade.
+
+### Projeto para Erros 
+#### Definição
+Para Norman(1998)[3], deve-se projetar para o erro, assumindo que qualquer erro em potencial será cometido. Sendo assim, o sistema deve ajudar o usuário a se recuperar de um erro, informando o que ocorreu, as consequências do erro e como reverter.
+
+#### Violação
+Ao tentar alterar o estado e outros campos no perfil do site da Prefeitura, o usuário recebe o erro de campo de CPF vazio mesmo o campo sendo preenchido automaticamente pois no cadastro é informado o CPF e não é possível mudar o mesmo. Ou seja foi informado um erro que não existe logo o sistema não ajuda o usuário a se recuperar do erro, informa erronemanete o que aconteceu, aparece uma imagem de X informado que o cadastro não foi alterado mas para pessoas leigas não é o suficiente para o entedimento e essa consequência deve estar escrita.
+Logo abaixo segue as figuras 12 que mostra o cadastro como estava, a figura 13 que mostra alterando o estado, e a figura 14 mostrando a mensagem de erro informada pelo sistema. (o campo CPF está borrado para proteção de dados do integrante do grupo que fez a inspeção).
+
+<center>
+
+**Figura 12** - Perfil do site da Prefeitura
+
+![Perfil do site da Prefeitura](../assets/images/principios_gerais/mudar_estado1.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 08/07/2024*
+
+</center>
+
+<center>
+
+**Figura 13** - Perfil do site da Prefeitura alterado
+
+![Perfil do site da Prefeitura alterado](../assets/images/principios_gerais/mudar_estado2.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 08/07/2024*
+
+</center>
+
+<center>
+
+**Figura 14** - Erro CPF em branco
+
+![Erro CPF em branco](../assets/images/principios_gerais/mudar_estado3.png)
+
+*Fonte: Prefeitura Municipal de Lagoa da Prata. 2024. Disponível em <https://www.lagoadaprata.mg.gov.br/portal/>. Acesso em 08/07/2024*
+
+</center>
+
+#### Correção
+Retirar o erro uma vez que todos os campos obrigatórios estão preenchidos inclusive o de CPF, e caso haja um campo obrigatório não preenchido a mensagem de erro deve conter corretamente o campo que está vazio, que a ação de alteração do cadastro do perfil do usuário não foi realizado (além da imagem de "X"), informar como proceder para reverter o erro (Por favor preencha o campo "nome do campo" vazio).
 
 ## Referenciais Bibliográficos
 
@@ -188,10 +279,13 @@ Por fim, tratamos também de projeções para um erro, isto é, levar em conside
 
 > [6] Shneiderman, Ben (1998). Designing the User Interface: Strategies for Effective Human Computer Interaction. Addison-Wesley
 
+> [7] Grice, H. Paul (1975). Logic and Conversation. In Syntax and Semantics, volume 3 - Speech Acts, pages 41–58. Academic Press, edited by peter cole and jerry l. morgan edition
+
 ## Historico de Versões
 
-|    Data    | Versão |                         Descrição                         |                                     Autor(es) | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :-------------------------------------------------------: | --------------------------------------------: | :-------------: | :------------------------------------------: |
-| 11/05/2024 | `1.0`  |                   Criação do documento                    | [Joyce Dionizio](https://github.com/joycejdm) |   13/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
-| 11/05/2024 | `1.1`  |                  Elaboração do documento                  |  [Lucas Meireles](https://github.com/Katuner) |   13/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
-| 07/07/2024 | `2.0`  | Reestruturação completa do documento, TUDO foi refatorado |   [Pedro Lucas](https://github.com/lucasdray) | 07/07/2024 | [Pedro Lucas](https://github.com/lucasdray)  |
+|    Data    | Versão |                                                                    Descrição                                                                     |                                     Autor(es) | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------: | :-------------: | :------------------------------------------: |
+| 11/05/2024 | `1.0`  |                                                               Criação do documento                                                               | [Joyce Dionizio](https://github.com/joycejdm) |   13/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
+| 11/05/2024 | `1.1`  |                                                             Elaboração do documento                                                              |  [Lucas Meireles](https://github.com/Katuner) |   13/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
+| 07/07/2024 | `2.0`  |                                            Reestruturação completa do documento, TUDO foi refatorado                                             |   [Pedro Lucas](https://github.com/lucasdray) |   07/07/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 08/07/2024 | `2.1`  | Adição Visibilidade e Reconhecimento, Conteúdo Relevante e Expressão Adequada, Projeto para Erros e subtópico de correção em todos os príncipios |   [Pedro Lucas](https://github.com/lucasdray) |                 |                                              |
