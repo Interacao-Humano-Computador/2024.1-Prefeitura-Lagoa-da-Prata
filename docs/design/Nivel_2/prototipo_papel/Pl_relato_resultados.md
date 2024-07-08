@@ -137,20 +137,13 @@ No planejamento do relato da avalição do protótipo de papel, é crucial forne
 
 **Tabela 2**: Sumário de dados da entrevista
 
-| Ordem das perguntas |                                                                       Pergunta                                                                       | Tipo de pergunta |  Respostas possíveis   |
-| :-----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :--------------------: |
-|         1°          |                                            Os usuários envolvidos no protótipo de papel condizem com a realidade?                                            |     Fechada      |       Sim / Não        |
-|         2°          |                                           O cenário que o protótipo de papel está inserido condiz com a realidade?                                           |     Fechada      |       Sim / Não        |
-|         3°          |                                       As ações realizadas pelo usuário no protótipo de papel condizem com o esperado?                                        |     Fechada      |       Sim / Não        |
-|         4°          |                                         Você compreendeu o protótipo de papel aqui passado e as pessoas envolvidas?                                          |     Fechada      |       Sim / Não        |
-|         5°          |                                           Foi possível compreender os passos realizados? Se não, por que?                                            | Fechada / Aberta | Sim / Não e Discursiva |
-|         6°          |                                       Foi possível identificar a vantagem e a satisfação final do protótipo de papel?                                        |     Fechada      |       Sim / Não        |
-|         7°          |                                  O protótipo de papel mostra como o produto resolve o problema ou a necessidade do usuário?                                  |     Fechada      |       Sim / Não        |
-|         8°          |                                          O protótipo de papel demonstra os benefícios e as vantagens da ferramenta?                                          |     Fechada      |       Sim / Não        |
-|         9°          |                               Dados os aspectos apresentados, você vê a possibilidade desse cenário ocorrer na cidade?                               |     Fechada      |       Sim / Não        |
-|         10°         |               Dados os aspectos apresentados, você vê a população criando uma cultura para utilizar a proposta aqui descrita? Explique               |      Aberta      |       Discursiva       |
-|         11°         | Dados os aspectos apresentados, você acha que é viável a utilização da ferramenta e que isso trará benefícios para as partes interessadas? Explique. |      Aberta      |       Discursiva       |
-|         12°         |              Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?              | Fechada / Aberta | Sim e Discursiva / Não |
+| Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                | Objetivo                                        |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- | ---------------------------------------------- |
+| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Sim e justificativa/Não                 | (3) identificar problemas na interação e interface |
+| 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Sim e justificativa/Não                 | (3) identificar problemas na interação e interface |
+| 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim/Não e justificativa                 | (1) analisar a apropriação da tecnologia        |
+| 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim e justificativa/Não e justificativa | (1) analisar a apropriação da tecnologia      |
+| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Sim e justificativa/Não                 | (2) comparar ideias e alternativas de design      |
 
  *Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 </center>
@@ -215,3 +208,4 @@ Com base nos resultados da avaliação do protótipo de papel, é importante pla
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 03/06/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
 | 08/07/2024 | `1.1`  |  Re-elaboração do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 08/07/2024 | `1.2`  |  Corrige tabela   |      [Cainã Freitas](https://github.com/freitasc) |      |  |

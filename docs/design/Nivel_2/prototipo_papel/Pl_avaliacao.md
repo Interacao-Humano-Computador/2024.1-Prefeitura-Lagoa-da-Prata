@@ -5,45 +5,61 @@
 Conforme apontam Simone Barbosa e Bruno Diniz <a id=anchor_1 href="#REF1"><sup>1</sup></a>, a avaliação de IHC (Interação Humano-Computador) é essencial nos processos de desenvolvimento que almejam criar sistemas interativos com elevada qualidade de uso. Esta avaliação orienta o avaliador a realizar um julgamento sobre a qualidade da interação, identificando problemas na interface e na interação que possam comprometer a experiência do usuário. Os métodos de observação são particularmente valiosos, pois permitem ao avaliador coletar dados reais sobre as situações em que os usuários executam suas tarefas, com ou sem a utilização de tecnologias computacionais. O registro e a análise desses dados possibilitam a identificação de problemas concretos enfrentados pelos usuários, ao contrário das avaliações por inspeção, que tendem a prever apenas problemas potenciais.
 
 ## Metodologia
-O protótipo em papel foi escolhido como método de avaliação por ser uma técnica de baixo custo e de fácil aplicação, que permite a avaliação de interfaces de forma rápida e eficaz. O protótipo de papel é uma representação visual da interface do sistema, que pode ser utilizada para simular a interação com o usuário. A avaliação do protótipo de papel é uma técnica de avaliação de usabilidade que permite identificar problemas de interação e de interface, antes que o sistema seja implementado.
+Para realizar esse planejamento foi utilizado o framework DECIDE proposto para orientar o planejamento, execução e análise de uma avaliação de Interação Humano Computador<a id=anchor_2 href="#REF2"><sup>2</sup></a>. A tabela 1 a seguir apresenta o siginificado de cada letra do framework assim como o objetivo de cada tópico. 
+Os métodos utilizados na avaliação serão destrinchados na parte de [Escolher os métodos de avaliação](#c---escolher-os-métodos-de-avaliação)
 
-## Participantes
-A tabela 1 apresenta as tarefas que serão avaliadas pelo uso da técnica de prototipagem em papel e o responsável de conduzir a avaliação de cada tarefa.
+<center>
 
-| Número | Tarefa                                                              | Responsável                                  |
-| ------ | ------------------------------------------------------------------- | -------------------------------------------- |
-| 1     | Cadastrar e acompanhar uma reclamação na ouvidoria                  | [Cainã Valença](https://github.com/freitasc) |
-| 2      | Acessar o módulo de Contra Cheque e consultar processos do servidor | [Augusto Duarte](https://github.com/Augcamp) |
-| 3      | Registrar e verificar o panorama de saúde da cidade                 | [Lucas Meireles](https://github.com/Katuner) |
-| 4      | Solicitar vistoria de local com água parada                         | [Pedro Lucas](https://github.com/lucasdray)  |
-| 5      | Cadastro Antecipado de Aluno                       | [Joyce Dionizio](https://github.com/joycejdm)  |
+**Tabela 1** - Letras e significados DECIDE
 
-<center>Tabela 1: Tarefas a serem avaliadas no protótipo de papel (Fonte: FREITAS, Cainã. 2024). </center>
+| Letra | Significado                                          |
+| ----- | ---------------------------------------------------- |
+| D     | Determinar os objetivos gerais da avaliação          |
+| E     | Explorar perguntas a serem feitas na avaliação       |
+| C     | Escolher os métodos de avaliação                     |
+| I     | Identificar e administrar as questões práticas       |
+| D     | Decidir como lidar com as questões éticas            |
+| E     | Avaliar, interpretar e apresentar os dados           |
 
-# Planejamento
+*Fonte: Página: 280,Capítulo 11. Processos de Design de IHC. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.*
 
-O framework DECIDE de Sharp, Rogers e Preece <a id=anchor_2 href="#REF2"><sup>2</sup></a> foi utilizado para planejar,executar e analisar a avaliação do protótipo de papel. O framework DECIDE é um guia para a avaliação de usabilidade de sistemas interativos, que propõe um conjunto de atividades a serem realizadas durante o processo de avaliação.
+</center>
 
 ## D - Determinar os objetivos
 
-O objetivo dessa avaliação é adquirir informação dos usuários sobre suas interações com as tarefas e indentificar problemas na interface e na interação que possam comprometer a experiência do usuário. Critérios diversos serão avaliados, como expectativas dos usuários, quantidade de ações até alcançar cada objetivo, quantidade de erros cometidos e usabilidade, dificuldade encontradas pelo usuário. 
+O objetivo desta avaliação é identificar possíveis problemas de usabilidade nas interfaces utilizando o método de prototipação em papel, além de comparar ideias e alternativas de design e verificar a conformidade com os padrões estabelecidos através de tarefas elaboradas. Este documento visa planejar a realização dessa avaliação, detalhando a metodologia, o cronograma, as telas a serem criadas e o processo de avaliação com os usuários.
 
 ## E - Explorar perguntas
 
-Para uma prototipação em papel, há dois avaliadores, um que simula o comportamento do sistema e outro que observa as experiência do usuário.
+Com base no objetivo da avaliação foram preparadas perguntas baseadas nos seguintes tópicos:
 
-Ao final da simulação, faremos perguntas aos usuários sobre a experiência de uso do protótipo de papel. A tabela 2 apresenta as perguntas que serão feitas aos usuários.
-Também será registrado, pelos avaliadores, alguns aspectos referentes à atividade desenvolvida pelo entrevistado, demonstrados na tabela 3.
+- (1) analisar a apropriação da tecnologia
+- (2) comparar ideias e alternativas de design;
+- (3) identificar problemas na interação e interface.
 
-| Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
-| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Sim e justificativa/Não                 |
-| 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Sim e justificativa/Não                 |
-| 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim/Não e justificativa                 |
-| 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim e justificativa/Não e justificativa |
-| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Sim e justificativa/Não                 |
+As perguntas selecionadas tem o intuito de serem respondidas com essa avaliação e foram feitas com base no Captítulo 11 da literatura de Barbosa e Silva (2011, p.266) [1] as perguntas selecionadas foram as seguintes:
 
-<center>Tabela 2: Ficha modelo para documentação das perguntas (Fonte: FREITAS, Cainã. 2024).</center>
+<center>
+
+
+**Tabela 2** - Perguntas para a avaliação do protótipo de papel
+
+| Ordem das perguntas | Pergunta                                                                                                                                                                                  | Tipo de pergunta    | Resposta                                | Objetivo                                        |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------- | ---------------------------------------------- |
+| 1                   | Você encontrou alguma tela que lhe criou confusão de como prosseguir? Se sim, como foi seu pensamento?                                                                                    | Objetiva/Discursiva | Sim e justificativa/Não                 | (3) identificar problemas na interação e interface |
+| 2                   | Você acha que houve excesso ou falta de algum passo durante a realização da tarefa? Se sim, comente sobre.                                                                                | Objetiva/Discursiva | Sim e justificativa/Não                 | (3) identificar problemas na interação e interface |
+| 3                   | Você imagina que o fluxo de ações aqui realizadas podem ser compreendidas rapidamente por outras pessoas? Se não, o que lhe preocupa?                                                     | Objetiva/Discursiva | Sim/Não e justificativa                 | (1) analisar a apropriação da tecnologia        |
+| 4                   | Você consegue se lembrar de como realizou as ações para alcançar o objetivo? Se sim, explique-os brevemente, se não, tem alguma sugestão de como as suas ações podem ser mais memoráveis? | Discursiva          | Sim e justificativa/Não e justificativa | (1) analisar a apropriação da tecnologia      |
+| 5                   | Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?                                                                | Objetiva/Discursiva | Sim e justificativa/Não                 | (2) comparar ideias e alternativas de design      |
+
+
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+
+</center>
+
+<center>
+
+**Tabela 3** - Ficha modelo para documentação dos avaliadores sobre a atividade do usuário
 
 | Elementos a serem registrados | Tipo de informação a ser registrada | Registro da atividade |
 | :---------------------------: | :---------------------------------: | :-------------------: |
@@ -52,12 +68,16 @@ Também será registrado, pelos avaliadores, alguns aspectos referentes à ativi
 | Ações inesperadas             | Anotações das ações do usuário      |                       |
 | Comentários do usuário durante a atividade | Anotações gerais       |                       |
 
-<center> Tabela 3: Ficha modelo para documentação dos avaliadores sobre a atividade do usuário (Fonte: MEIRELES, Lucas. 2024). </center>
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+
+</center>
 
 
 ## C - Escolher os métodos
 
-O método escolhido para avaliar o protótipo de papel é a avaliação por meio de uma simulação de uso por um possível usuário do site. Simular o uso em papel é uma técnica de avaliação de usabilidade que permite identificar problemas de interação e de interface e serve para comparar alternativas de design. Permite também avaliar soluções parciais e soluções de baixa e média fidelidade.
+Para a realização da avaliação em si será utilizado o método de investigação fazendo uso de **entrevistas** e **observação** com pessoas que se enquadrem no nosso [Perfil do Usuário](../../../requisitos1/perfil-do-usuario.md) já que com esse método o avaliador terá acesso a interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1] relacionados com as tárefas analisadas pelos integrantes do grupo.
+
+A escolha se dá pelo fato de ser um método investigativo que permite coletar muitas informações, além de ser flexível permite fazer perguntas que aprofundam ainda mais os objetivos a serem alcançados pelos usuários. Ademais, tal entrevista deve ser estritamente gravada e documentada.
 
 ## I - Identificar as questões práticas
 
@@ -69,11 +89,17 @@ Para preparar a avaliação, os avaliadores devem utilizar papel, canetas e outr
 
 A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
 
+<center>
+
+**Tabela 4:** Ficha modelo para documentação das entrevistas
+
 | Ordem | Data | Horário | Entrevistadores | Entrevistado | Tarefas |
 |-------|------|---------|-----------------|--------------|---------|
 | Ordem da entrevista | Data da entrevista | Horário da entrevista | Nome dos entrevistadores | Nome do entrevistado | Tarefas realizadas pelo entrevistado |
 
-Tabela 4: Ficha modelo para documentação das entrevistas (Fonte: FREITAS, Cainã. 2024).
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
+
+</center>
 
 ## D - Decidir questões éticas
 
@@ -86,7 +112,7 @@ A coleta de dados será realizada por meio de observação e entrevistas. Os ava
 
 Os resultados da avaliação serão analisados e interpretados pelos avaliadores. As anotações dos avaliadores sobre a experiência, a entrevista pós-teste e o vídeo gravados devem ser analisados a fim de identificar problemas de usabilidade no protótipo de interface avaliado. 
 
-### Referências
+## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J., & Diniz, B. (2010). Interação Humano-Computador. Elsevier Brasil.
 
@@ -104,3 +130,4 @@ Os resultados da avaliação serão analisados e interpretados pelos avaliadores
 | :--------: | :----: | :----------------------------------: | :------------------------------------------: | :-------------: | :------------------------------------------: |
 | 03/06/2024 | `1.0`  |     Cria termo de consentimento      | [Cainã Freitas](https://github.com/freitasc) |   03/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
 | 03/06/2024 | `1.1`  | Ajusta perguntas para pós-entrevista | [Lucas Meireles](https://github.com/Katuner) |   16/06/2024    |  [Pedro Lucas](https://github.com/lucasdray)                                            |
+| 08/07/2024 | `2.0`  | Reestrutura documento | [Cainã Freitas](https://github.com/freitasc)  |   | |
