@@ -475,8 +475,6 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-
-
 </details>
 
 <details>
@@ -495,7 +493,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 
 Fonte: DOURADO, Pedro Lucas. 2024.
 
-
+</details>
 
 
 ## Historico de Versões
