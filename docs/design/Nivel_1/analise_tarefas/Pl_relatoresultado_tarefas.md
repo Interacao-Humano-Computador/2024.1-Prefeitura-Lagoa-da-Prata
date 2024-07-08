@@ -62,6 +62,10 @@ A Tabela 1 apresenta um cronograma de entrevista que foi seguido para criar as t
 
 </center>
 
+### Tarefa
+
+Nesse tópico o representante da equipe de avaliação irá descrever a tarefa que foi analisada, como por exemplo, "Cadastrar e acompanhar reclamação na ouvidoria". A descrição da tarefa deve ser clara, objetiva e detalhada, para que os avaliadores possam entender o contexto, os objetivos e as etapas envolvidas na execução da tarefa.
+
 ### Seleção dos Participantes
 
 Para conduzir a avaliação do protótipo de papel, por causa de questões de tempo e espaço, usaremos apenas um entrevistador e um entrevistado.
@@ -174,4 +178,5 @@ Com base nos resultados da avaliação da análise de tarefas, é importante pla
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
 | 22/05/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |  19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
-| 08/07/2024 | `1.1`  |  Re-Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |  19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
+| 08/07/2024 | `1.1`  |  Re-Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 08/07/2024 | `1.2`  |  Adiciona tópico   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
