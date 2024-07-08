@@ -97,44 +97,42 @@ w*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024.*
 
 
 ### Análise da Tarefa HTA 2: Cadastro Antecipado de Aluno - Joyce
-Abaixo se encontra a tabela 3 e figura 3 referentes a tarefa de Cadastro Antecipado de Aluno, ambas feitas pelo integrante do grupo [Joyze Dionizio](https://github.com/joycejdm):
+
+Abaixo se encontra a tabela 3 e figura 3 referentes a tarefa de Cadastro Antecipado de Aluno, ambas feitas pelo integrante do grupo [Joyce Dionizio](https://github.com/joycejdm):
 
 <center>
 
 **Tabela 3** - HTA da Tarefa: Cadastro Antecipado de Aluno
 
+### Tabela 3 - HTA da Tarefa: Cadastro Antecipado de Aluno
+
 | Objetivos / Operações                                | Relações      | Problemas / Recomendações                                                                                                      |
 |------------------------------------------------------|---------------|----------------------------------------------------------|
-| 0. Realizar cadastro antecipado de aluno para matrícula escolar |1 > 2 > 3 > 4 > 5 > 6 > 7 > 8|      Input: Acesso ao site da Prefeitura de Goiânia, Dados do candidato, Dados do responsável, Dados sócio-econômicos. <br> Plano: Navegar até a seção de serviços, selecionar "Matrículas Web", acessar "Cadastro Antecipado", preencher dados, gravar dados, confirmar gravação. <br> Feedback: Confirmação de cadastro bem-sucedido.|
-|   1. Encontrar a seção de serviços   | 1.1 > 1.2 > 1.3 > 1.4|    Plano: Abrir o navegador, acessar o site da prefeitura, navegar até o menu "SERVIÇOS", selecionar "MATRÍCULAS WEB". <br> Feedback: Acesso à página de matrículas web. |
-|     1.1 Abrir o navegador | | Recomenda-se usar um navegador compatível com o site.         |
-|     1.2 Acessar o site da Prefeitura de Goiânia   | | Pode ser necessário garantir uma conexão estável com a internet. |
-|   1.3 Navegar até o menu "SERVIÇOS" ||   A identificação do menu "SERVIÇOS" deve ser clara.  |
-|     1.4 Navegar até a opção "MATRÍCULAS WEB" |  |A opção "MATRÍCULAS WEB" deve estar visível e acessível no menu.     |
-|   2. Navegar para a página de matrícula web   |2.1 > 2.2 | Plano: Visualizar a opção "Acessar Serviço", clicar para acessar. <br> Feedback: Página de cadastro antecipado aberta.|
-|   2.1 Visualizar a opção "Acessar Serviço"   | | A opção deve ser funcional e responsiva.|
-|   2.2 Clicar na opção "Acessar Serviço" | |   	A opção deve ser funcional e responsiva. |
-|     3. Selecionar "Cadastro Antecipado" | 3.1 > 3.2| Plano: Visualizar e selecionar "Cadastro Antecipado". <br> Feedback: Página de inserção de dados aberta.   |
-|     3.1 Visualizar a opção "Cadastro Antecipado"                       | | A opção deve ser destacada e facilmente localizável. |
-|   3.2 Clicar na opção "Cadastro Antecipado"                   | |       A opção deve redirecionar corretamente.  |
-|     4. Inserir dados do candidato | 4.1| Plano: Preencher campos obrigatórios em "Dados do Candidato". <br> Feedback: Campos preenchidos corretamente. |
-|   4.1 Preencher os campos obrigatórios em "Dados do Candidato" | |    Plano: Navegar até a seção de movimentação, fazer download da movimentação|
-|     5. Inserir dados do responsável | 5.1| Plano: Preencher campos obrigatórios em "Dados do Responsável". <br> Feedback: Campos preenchidos corretamente.                        |
-|     5.1 Preencher os campos obrigatórios em "Dados do Responsável" | |Campos devem ser claros e permitir a inserção de informações sem erros.      
-|     6. Inserir dados sócio-econômicos | 6.1| Plano: Preencher campos obrigatórios em "Dados Sócio-Econômicos". <br> Feedback: Campos preenchidos corretamente.    
-|     6.1 Preencher os campos obrigatórios em "Dados Sócio-Econômicos" | | Campos devem ser claros e permitir a inserção de informações sem erros. 
-|     7. Gravar os dados do candidato |7.1 > 7.2 | Plano: Verificar todas as informações e clicar em "Gravar Candidato". <br> Feedback: Dados salvos no sistema.    
-|     7.1 Verificar todas as informações inseridas | |  Revisão de dados para evitar erros.   
-|     7.2 Clicar no botão "Gravar Candidato" | | Botão deve ser claramente identificável e funcional.    
-|    8. Confirmar gravação dos dados | 8.1 > 8.2|  Plano: Verificar balão de confirmação e clicar em "OK". <br> Feedback: Confirmação de dados gravados.   
-|     8.1 Verificar o balão de confirmação de dados | |Mensagem de confirmação deve ser clara e compreensível.     
-|     8.2 Clicar em "OK" no balão de confirmação de dados | | Botão "OK" deve ser funcional.      
+| 0. Realizar cadastro antecipado de aluno para matrícula escolar | 1 > 2 | Input: Acesso ao site da Prefeitura de Lagoa da Prata, Dados do aluno, Dados do responsável, Dados sócio-econômicos. <br> Plano: Navegar até a seção de serviços do cidadão, selecionar "Cadastro Antecipado de Aluno", preencher dados do aluno, preencher dados do responsável, preencher dados sócio-econômicos, gravar dados, confirmar gravação. <br> Feedback: Confirmação de cadastro bem-sucedido. |
+| 1. Acessar o site da prefeitura de Lagoa da Prata   | 1 > 2 | Plano: Abrir o navegador e acessar o site da prefeitura. <br> Feedback: Site da prefeitura carregado. |
+| 1.1 Abrir o navegador e acessar o site da Prefeitura de Lagoa da Prata |  | Recomenda-se usar um navegador compatível com o site e garantir uma conexão estável com a internet. |
+| 2. Navegar para a seção de "Serviços do Cidadão" e selecionar "Cadastro Antecipado de Aluno" |1 > 2 | Plano: Encontrar e clicar na opção "Cadastro Antecipado de Aluno" no menu "Serviços do Cidadão". <br> Feedback: Página de Cadastro Antecipado de Aluno aberta. |
+| 2.1 Encontrar o menu "Serviços do Cidadão" |  | O menu "Serviços do Cidadão" deve ser claramente identificado. |
+| 2.2 Clicar na opção "Cadastro Antecipado de Aluno" |  | A opção deve ser funcional e redirecionar corretamente. |
+| 3. Preencher formulário com dados do aluno | 1 > 2 | Plano: Inserir os dados obrigatórios no formulário do aluno. <br> Feedback: Formulário do aluno preenchido corretamente. |
+| 3.1 Inserir dados obrigatórios no formulário do aluno |  | Campos devem ser claros e permitir a inserção de informações sem erros. |
+| 3.2 Conferir os dados inseridos |  | Verificação dos dados antes de prosseguir. |
+| 4. Preencher formulário com dados do responsável | 1 > 2 | Plano: Inserir os dados obrigatórios no formulário do responsável. <br> Feedback: Formulário do responsável preenchido corretamente. |
+| 4.1 Inserir dados obrigatórios no formulário do responsável |  | Campos devem ser claros e permitir a inserção de informações sem erros. |
+| 4.2 Conferir os dados inseridos |  | Verificação dos dados antes de prosseguir. |
+| 5. Preencher formulário com dados sócio-econômicos | 1 > 2 | Plano: Inserir os dados obrigatórios no formulário sócio-econômico. <br> Feedback: Formulário sócio-econômico preenchido corretamente. |
+| 5.1 Inserir dados obrigatórios no formulário sócio-econômico |  | Campos devem ser claros e permitir a inserção de informações sem erros. |
+| 5.2 Conferir os dados inseridos |  | Verificação dos dados antes de prosseguir. |
+| 6. Gravar os dados do cadastro e confirmar gravação | 1 + 2 | Plano: Verificar todas as informações, clicar em "Finalizar Cadastro" e confirmar. <br> Feedback: Dados salvos no sistema e confirmação exibida. |
+| 6.1 Verificar todas as informações inseridas |  | Revisão de dados para evitar erros. |
+| 6.2 Clicar no botão "Finalizar Cadastro" e confirmar |  | Botão deve ser claramente identificável e funcional. |
 
-*Fonte: [DIONIZIO,Joyce](https://github.com/joycejdm). 2024.*
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
+
 
 **Figura 3** - Diagrama HTA da Tarefa: Cadastro Antecipado de Aluno
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/hta_matricula.jpg" width="100%">
-*Fonte: [DIONIZIO,Joyce](https://github.com/joycejdm). 2024.*
+*Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
 </center>
 
 ### Análise da Tarefa HTA 3: Acessar o módulo de Contra Cheque e consultar processos do servidor  - Augusto
@@ -271,40 +269,48 @@ Abaixo segue a tabela 07 que contém a legenda do seignificado de GOMS, contendo
 Abaixo estão listadas as análises de tarefas utilizando CNM-GOMS e o autor da análise:
 
 ### Análise da Tarefa CNM-GOMS 1: Cadastro Antecipado de Aluno - (Fonte: DIONIZIO, Joyce. 2024).
-```
 
+```
 Goal 0: Realizar cadastro antecipado de aluno para matrícula escolar
-  Goal 1: Encontrar a seção de serviços
-    METHOD 1.A: Encontrar através do menu "Serviços"
+  Goal 1: Acessar o site da Prefeitura de Lagoa da Prata
+    METHOD 1.A: Acessar o site diretamente
     (SEL.RULE: preferência do usuário)
-        OP: Levar cursor até menu "SERVIÇOS"
-        OP: Levar cursor até opção "MATRÍCULAS WEB"
-        OP: Clicar com o botão esquerdo do mouse
-    METHOD 1.B: Encontrar através da aba de pesquisa
+        OP: Abrir o navegador
+        OP: Digitar o URL do site da Prefeitura de Lagoa da Prata
+        OP: Pressionar Enter
+  Goal 2: Navegar para a seção de "Serviços do Cidadão" e selecionar "Cadastro Antecipado de Aluno"
+    METHOD 2.A: Navegar através do menu
     (SEL.RULE: preferência do usuário)
-        OP: Levar cursor até barra de pesquisa
+        OP: Levar cursor até menu "Serviços do Cidadão"
         OP: Clicar com o botão esquerdo do mouse
-        OP: Digitar "matrículas web"
-        OP: Levar cursor até botão de pesquisa
+        OP: Levar cursor até a opção "Cadastro Antecipado de Aluno"
         OP: Clicar com o botão esquerdo do mouse
-        OP: Levar cursor até opção "MATRÍCULAS WEB"
-  Goal 2: Navegar para a página de matrícula web
-    OP: Na nova página, visualizar e clicar na opção "Acessar Serviço"
-  Goal 3: Selecionar "Cadastro Antecipado"
-    OP: Selecionar a opção "Cadastro Antecipado"
-  Goal 4: Inserir dados do candidato
-    OP: Preencher os campos obrigatórios em "Dados do Candidato"
-  Goal 5: Inserir dados do responsável
-    OP: Preencher os campos obrigatórios em "Dados do Responsável"
-  Goal 6: Inserir dados sócio-econômicos
-    OP: Preencher os campos obrigatórios em "Dados Sócio-Econômicos"
-  Goal 7: Gravar os dados do candidato
-    OP: Clicar no botão "Gravar Candidato"
-  Goal 8: Confirmar gravação dos dados
-    OP: Clicar em "OK" no balão de confirmação de dados
-
-
+  Goal 3: Preencher formulário com dados do aluno
+    METHOD 3.A: Inserir dados obrigatórios no formulário do aluno
+        OP: Digitar nome do aluno
+        OP: Digitar data de nascimento do aluno
+        OP: Digitar endereço do aluno
+        OP: Digitar outros dados obrigatórios
+  Goal 4: Preencher formulário com dados do responsável
+    METHOD 4.A: Inserir dados obrigatórios no formulário do responsável
+        OP: Digitar nome do responsável
+        OP: Digitar CPF do responsável
+        OP: Digitar endereço do responsável
+        OP: Digitar outros dados obrigatórios
+  Goal 5: Preencher formulário com dados sócio-econômicos
+    METHOD 5.A: Inserir dados obrigatórios no formulário sócio-econômico
+        OP: Digitar renda familiar
+        OP: Digitar outros dados sócio-econômicos
+  Goal 6: Gravar os dados do cadastro
+    METHOD 6.A: Salvar os dados inseridos
+        OP: Verificar todas as informações inseridas
+        OP: Clicar no botão "Finalizar Cadastro"
+  Goal 7: Confirmar gravação dos dados
+    METHOD 7.A: Confirmar a finalização do cadastro
+        OP: Verificar balão de confirmação
+        OP: Clicar em "Voltar para a Página Inicial" no balão de confirmação
 ```
+
 
 ### Análise da Tarefa CNM-GOMS 2: Registrar e verificar o panorama de saúde da cidade - (Fonte: MEIRELES, Lucas. 2024).
 ```
@@ -807,4 +813,5 @@ Goal 0: Informar luminária queimada no Município
 | 06/06/2024  | `2.0`  |                               Adição de HTA 6                                |  [Pedro Lucas](https://github.com/lucasdray)  |       11/06/2024       |                       [Augusto Duarte](https://github.com/Augcamp)                        |
 | 07/06/2024  | `2.1`  |                              Adição CNM-GOMS 8                               |  [Pedro Lucas](https://github.com/lucasdray)  | 11/06/2024, 17/06/2024 | [Augusto Duarte](https://github.com/Augcamp), [Pedro Lucas](https://github.com/lucasdray) |
 | 07/07/2024 | `3.0`  | Adição fonte GOMS e motivo de escolha, bibliografia, citações bibliograficas | [Pedro Lucas](https://github.com/lucasdray) |           07/07/2024             |              [Cainã Freitas](https://github.com/freitasc)                                                                             |
-| 07/07/2024 | `3.1`  | Melhora e revisa meu HTA e Gomms, corrige uns typos no texto | [Cainã Freitas](https://github.com/freitasc) |                        |                                                                                           |
+| 07/07/2024 | `3.1`  | Melhora e revisa meu HTA e Gomms, corrige uns typos no texto | [Cainã Freitas](https://github.com/freitasc) |    08/07/2024                    |  [Joyce Dionizio](https://github.com/joycejdm)                                                                                         |
+| 08/07/2024 | `3.2`  | Revisao HTA e Gomms | [Joyce Dionizio](https://github.com/joycejdm) |               |                                                                                       |
