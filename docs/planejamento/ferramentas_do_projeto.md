@@ -68,5 +68,5 @@ A seguir na Tabela 1 pode-se encontrar todas as ferramentas que estão planejada
 | :--------: | :----: | :-----------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 05/04/2024 | `1.0`  |      Criação do documento       | [Lucas Meireles](https://github.com/Katuner) |   05/04/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 07/04/2024 | `1.1`  |      Adição de ferramenta       |   [Joyce Dionizio](https://github.com/jdm)   |   07/04/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 09/04/2024 | `1.2`  | Adição de possiveis ferramentas | [Pedro Lucas](https://github.com/lucasdray)  |         08/07/2024        |      [Joyce Dionizio](https://github.com/jdm)                                        |
-| 08/07/2024 | `1.3`  | Adição das ferramentas finais   | [Augusto Duarte](https://github.com/Augcamp)  |               |                                              |
+| 09/04/2024 | `1.2`  | Adição de possiveis ferramentas | [Pedro Lucas](https://github.com/lucasdray)  |   08/07/2024    |  [Joyce Dionizio](https://github.com/jdm)   |
+| 08/07/2024 | `1.3`  |  Adição das ferramentas finais  | [Augusto Duarte](https://github.com/Augcamp) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray) |
