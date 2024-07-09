@@ -24,10 +24,8 @@ Na fase de Verificação, o grupo pôde identificar áreas que precisavam de mel
 
 ## Bibliografia
 
-> MACIEL, Geovanna. Entrega Final. Repositório do Grupo Biblioteca Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/entrega-final/resultados-execucao/>>. Acesso em: 02 de julho 2023.
-
 
 ## Histórico de Versões
 |    Data    | Versão |                 Descrição                 |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :---------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
-| 03/07/2024 | `1.0`  |      Criação do Documento e Adição dos Resultados    | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
+| 03/07/2024 | `1.0`  |      Criação do Documento e Adição dos Resultados    | [Joyce Dionizio](https://github.com/joycejdm) |  08/07/2024     | [Lucas Meireles](https://github.com/Katuner) |

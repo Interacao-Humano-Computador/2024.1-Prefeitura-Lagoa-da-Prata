@@ -34,4 +34,4 @@ Ao longo do projeto, as avaliações desempenharam um papel crucial na identific
 
 | Versão | Data       | Descrição            | Autor(es)                                                                                           | Revisor(es)                                    |
 | ------ | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 08/07/2024 | sintese das avaliações | [Augusto Duarte](https://github.com/Augcamp) | [Lucas Meireles](https://github.com/Katuner) |
+| `1.0`  | 08/07/2024 | Síntese das avaliações | [Augusto Duarte](https://github.com/Augcamp) | [Lucas Meireles](https://github.com/Katuner) |
