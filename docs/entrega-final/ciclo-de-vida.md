@@ -4,7 +4,7 @@ O Modelo de Ciclo de Vida de Mayhew é uma abordagem que visa aprimorar a qualid
 
 ## Motivo da Escolha
 
-O Modelo de Ciclo de Vida de Mayhew foi escolhido por ser uma abordagem que auxilia a falta de experiência do grupo em IHC, por ser um modelo robusto e detalhado, que abrange todas as etapas do desenvolvimento de um produto de software. Além disso, o modelo é bem estruturado e possui uma abordagem iterativa, o que permite a realização de avaliações contínuas e a identificação de problemas em diferentes níveis de fidelidade dos protótipos. Assim, o [cronoograma do projeto](../planejamento/cronograma_planejado.md) foi elaborado de acordo com as fases do ciclo de vida de Mayhew, o que facilitou a organização e distribuição das atividades entre os integrantes do grupo.
+O Modelo de Ciclo de Vida de Mayhew foi escolhido por ser uma abordagem que auxilia a falta de experiência do grupo em IHC, por ser um modelo robusto e detalhado, que abrange todas as etapas do desenvolvimento de um produto de software. Além disso, o modelo é bem estruturado e possui uma abordagem iterativa, o que permite a realização de avaliações contínuas e a identificação de problemas em diferentes níveis de fidelidade dos protótipos. Assim, o [cronograma do projeto](../planejamento/cronograma_planejado.md) foi elaborado de acordo com as fases do ciclo de vida de Mayhew, o que facilitou a organização e distribuição das atividades entre os integrantes do grupo.
 
 ## Ciclo de Vida de Mayhew
 
@@ -24,6 +24,6 @@ O Modelo de Ciclo de Vida de Mayhew foi escolhido por ser uma abordagem que auxi
 
 ## Historico de Versões
 
-|    Data    | Versão |                                                                    Descrição                                                                     |                                     Autor(es) | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------: | :-------------: | :------------------------------------------: |
-| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |  08/07/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
+|    Data    | Versão |      Descrição       |                                    Autor(es) | Data de revisão |                                         Revisor(es)                                         |
+| :--------: | :----: | :------------------: | -------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------: |
+| 08/07/2024 | `1.0`  | Criação do documento | [Cainã Freitas](https://github.com/freitasc) |   08/07/2024    | [Joyce Dionizio](https://github.com/joycejdm) e [Pedro Lucas](https://github.com/lucasdray) |
