@@ -153,6 +153,12 @@
 
 </details>
 
+
+## Bibliografia
+
+> LUCAS, Pedro. Apresentações. Repositório do Grupo Prefeitura da Lagoa da Prata da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <<https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/apresentacoes/apresentacao1/>>. Acesso em: 08 de julho 2024.
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                    | Autor(es)                                   | Revisor(es) |
