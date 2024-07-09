@@ -14,6 +14,12 @@ Apesar do ritmo de entregas ser desafiador, a comunicação com o grupo não ter
 
 ### Augusto Campos
 
+Durante o projeto, acredido que para mim, gestão do tempo, especialmente diante de um cronograma de entregas rigoroso foram umas das dificuldades e também a importância da padronização durante a execução do trabalho.
+
+Acredito que os ensinamentos vão me ajudar profissionalmente e academicamente, além de que os 
+desafios enfrentados e as lições foram fundamentais para o meu desenvolvimento. 
+
+
 ### Joyce Dionizio
 
 Durante o projeto, acredito que o grupo conseguiu evoluir e superar as dificuldades durante o projeto, como a dificuldade em definir alguns encontros e uma comunicação mais clara.
