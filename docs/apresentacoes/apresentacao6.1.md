@@ -3,6 +3,22 @@
 ## Introdução
 Este documento contém o vídeo de apresentação do ponto de controle 6.1 da matéria de Interação Humano Computador e a tabela que valida a entrega.
 
+## Integrantes Presentes
+
+- Augusto Campos
+- Cainã Freitas
+- Joyce Dionizio
+- Lucas Meireles
+- Pedro Lucas Dourado
+
+## Integrantes Presentes
+
+- Augusto Campos
+- Cainã Freitas
+- Joyce Dionizio
+- Lucas Meireles
+- Pedro Lucas Dourado
+
 ## Vídeo da apresentação
 Abaixo se encontra o vídeo 1 da apresentação da Etapa 6.1 do projeto:
 
@@ -20,6 +36,6 @@ Como especificado o link da apresentação se encontra no youtube e na categoria
 
 ## Histórico de revisão
 
-|    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 12/06/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |  08/07/2024     | [Lucas Meireles](https://github.com/Katuner)            |
+|    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão |                                        Revisor(es)                                         |
+| :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :----------------------------------------------------------------------------------------: |
+| 12/06/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray) |   08/07/2024    | [Lucas Meireles](https://github.com/Katuner) e [Pedro Lucas](https://github.com/lucasdray) |

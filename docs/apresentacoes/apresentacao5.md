@@ -3,6 +3,15 @@
 ## Introdução
 Este documento contém o vídeo de apresentação do ponto de controle 5 da matéria de Interação Humano Computador e a tabela que valida a entrega.
 
+## Integrantes Presentes
+
+- Augusto Campos
+- Cainã Freitas
+- Joyce Dionizio
+- Lucas Meireles
+- Pedro Lucas Dourado
+
+
 ## Vídeo da apresentação
 Abaixo se encontra o vídeo 1 da apresentação da Etapa 5 do projeto:
 
@@ -20,6 +29,6 @@ Como especificado o link da apresentação se encontra no youtube e na categoria
 
 ## Histórico de revisão
 
-|    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão | Revisor(es) |
-| :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :---------: |
-| 03/06/2024 | `1.0`  | Criação do documento | [Lucas Meireles](https://github.com/Katuner) |   12/06/2024    |  [Pedro Lucas](https://github.com/lucasdray) |
+|    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 03/06/2024 | `1.0`  | Criação do documento | [Lucas Meireles](https://github.com/Katuner) |   12/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
