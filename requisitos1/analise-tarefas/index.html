@@ -1,0 +1,5315 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../cenarios/">
+      
+      
+        <link rel="next" href="../../requisitos2/principios_gerais/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.28">
+    
+    
+      
+        <title>Análise de Tarefas - Prefeitura Municipal de Lagoa da Prata</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6543a935.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="teal">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#analise-de-tarefas" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Prefeitura Municipal de Lagoa da Prata" class="md-header__button md-logo" aria-label="Prefeitura Municipal de Lagoa da Prata" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Prefeitura Municipal de Lagoa da Prata
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Análise de Tarefas
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="teal"  aria-label="Trocar pro modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Trocar pro modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="teal" data-md-color-accent="teal"  aria-label="Trocar pro modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Trocar pro modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Prefeitura de Lagoa da Prata
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Início
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../planejamento/heatmap/" class="md-tabs__link">
+          
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../reunioes/reuniao_1/" class="md-tabs__link">
+          
+  
+  Reuniões
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../apresentacoes/apresentacao1/" class="md-tabs__link">
+          
+  
+  Apresentações
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../aspectos-eticos/" class="md-tabs__link">
+          
+  
+  Análise de requisitos I
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../requisitos2/principios_gerais/" class="md-tabs__link">
+          
+  
+  Análise de requisitos II
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../design/Nivel_1/analise_tarefas/Pl_avaliacao_tarefas/" class="md-tabs__link">
+          
+  
+  Design Nível 1
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../design/Nivel_2/prototipo_papel/Pl_avaliacao/" class="md-tabs__link">
+          
+  
+  Design Nível 2
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../design/Nivel_3/pl_avaliacao_prototipo/" class="md-tabs__link">
+          
+  
+  Design Nível 3
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../verificacao/grupo06/introducao/" class="md-tabs__link">
+          
+  
+  Verificação
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../entrega-final/site-selecionado/" class="md-tabs__link">
+          
+  
+  Entrega Final
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Prefeitura Municipal de Lagoa da Prata" class="md-nav__button md-logo" aria-label="Prefeitura Municipal de Lagoa da Prata" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Prefeitura Municipal de Lagoa da Prata
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Prefeitura de Lagoa da Prata
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Início
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heatmap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma_planejado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma Planejado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma_executado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma Executado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/processos_de_design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Processos de Design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas_do_projeto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas do Projeto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/metodologia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metodologia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/sites_avaliados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sites Avaliados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/site_escolhido/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Site Escolhido
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Reuniões
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Reuniões
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/reuniao_1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/reuniao_2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/reuniao_3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/reuniao_4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Apresentações
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentações
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 5
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao6.1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 6.1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao6.2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 6.2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao7/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 7
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao8/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 8
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao_final/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação Final
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Análise de requisitos I
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Análise de requisitos I
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../aspectos-eticos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aspectos Éticos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionario
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrevista
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../perfil-do-usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil do Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Análise de Tarefas
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Tarefas
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hta-analise-hierarquica-de-tarefas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HTA - Análise Hierárquica de Tarefas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA - Análise Hierárquica de Tarefas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-hta-1-cadastrar-e-acompanhar-uma-reclamacao-na-ouvidoria-caina" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa HTA 1: Cadastrar e acompanhar uma reclamação na ouvidoria - Cainã
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-hta-2-cadastro-antecipado-de-aluno-joyce" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa HTA 2: Cadastro Antecipado de Aluno - Joyce
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-3-hta-da-tarefa-cadastro-antecipado-de-aluno" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 3 - HTA da Tarefa: Cadastro Antecipado de Aluno
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-hta-3-acessar-o-modulo-de-contra-cheque-e-consultar-processos-do-servidor-augusto" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa HTA 3: Acessar o módulo de Contra Cheque e consultar processos do servidor - Augusto
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-hta-4-registrar-e-verificar-o-panorama-de-saude-da-cidade-lucas-meireles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa HTA 4: Registrar e verificar o panorama de saúde da cidade - Lucas Meireles
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-hta-5-solicitar-vistoria-de-local-com-agua-parada" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa HTA 5: Solicitar vistoria de local com água parada
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cnm-goms" class="md-nav__link">
+    <span class="md-ellipsis">
+      CNM-GOMS
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CNM-GOMS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#motivo-da-escolha" class="md-nav__link">
+    <span class="md-ellipsis">
+      Motivo da escolha
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#legenda" class="md-nav__link">
+    <span class="md-ellipsis">
+      Legenda
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-cnm-goms-1-cadastro-antecipado-de-aluno-fonte-dionizio-joyce-2024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa CNM-GOMS 1: Cadastro Antecipado de Aluno - (Fonte: DIONIZIO, Joyce. 2024).
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-cnm-goms-2-registrar-e-verificar-o-panorama-de-saude-da-cidade-fonte-meireles-lucas-2024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa CNM-GOMS 2: Registrar e verificar o panorama de saúde da cidade - (Fonte: MEIRELES, Lucas. 2024).
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-cnm-goms-3-cadastrar-e-acompanhar-status-de-uma-reclamacao-na-ouvidoria-fonte-freitas-caina-2024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa CNM-GOMS 3: Cadastrar e acompanhar status de uma reclamação na ouvidoria - (Fonte: FREITAS, Cainã. 2024).
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-cnm-goms-4-acessar-o-modulo-de-contra-cheque-e-consultar-processos-do-servidor-fonte-duarte-augusto-2024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa CNM-GOMS 4: Acessar o modulo de contra cheque e consultar processos do servidor (Fonte: DUARTE, Augusto. 2024).
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-cnm-goms-5-informar-luminaria-queimada-no-municipio-fonte-heler-lucas-2024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa CNM-GOMS 5: Informar luminária queimada no Município (Fonte: HELER, Lucas. 2024).
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analise-da-tarefa-cnm-goms-6-solicitar-vistoria-de-agua-parada-fonte-dourado-pedro-lucas-2024" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise da Tarefa CNM-GOMS 6: Solicitar vistoria de água parada (Fonte: DOURADO, Pedro Lucas. 2024).
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Historico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Análise de requisitos II
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Análise de requisitos II
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos2/principios_gerais/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Principios Gerais
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos2/metas-usabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metas de Usabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos2/guia-de-estilo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Guias de Estilo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos2/caracteristicas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Caracteristicas da Plataforma Para o Projeto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Design Nível 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Design Nível 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_1" id="__nav_7_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Analise de Tarefas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_1">
+            <span class="md-nav__icon md-icon"></span>
+            Analise de Tarefas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_1/analise_tarefas/Pl_avaliacao_tarefas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Avaliação da Analise de Tarefas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_1/analise_tarefas/Pl_relatoresultado_tarefas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento do Relato dos Resultados da Analise de Tarefas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_1/analise_tarefas/relatoresultado_tarefas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relato de Resultados da Analise de Tarefas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Storyboard
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2">
+            <span class="md-nav__icon md-icon"></span>
+            Storyboard
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_1/storyboard/storyboards/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storyboards Feitos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_1/storyboard/Pl_avaliacao_storyboard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Avaliação do Storyboard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_1/storyboard/Pl_relato_storyboard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento do Relato dos Resultados do Storyboard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_1/storyboard/relato_resultados_storyboard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relato de Resultados para Storyboards
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Design Nível 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Design Nível 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_2/prototipo_papel/Pl_avaliacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Avaliação de Prototipação de Papel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_2/prototipo_papel/Pl_relato_resultados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento do Relato de Resultados da Prototipação de Papel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_2/prototipo_papel/relato_resultados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relato dos resultados do Protótipo de Papel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Design Nível 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Design Nível 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_3/pl_avaliacao_prototipo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Avaliação de Prototipação de Alta Fidelidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_3/pl_relato_resultados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento do Relato de Resultados da Prototipação de Alta Fidelidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_3/relato_resultados_dourado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relato de Resultados Solicitação de vistoria de local com água parada
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_3/relato_resultados_joyce/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relato de Resultados Cadastro Antecipado de Aluno
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_3/relato_resultados_caina/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relato de Resultados Cadastrar e acompanhar uma reclamação na ouvidoria
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_3/relato_resultados_augusto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relato de Resultados Acessar o módulo de Contra Cheque e consultar processos do servidor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/Nivel_3/relato_resultados_meireles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relato de Resultados Registrar e verificar o estado de saúde da cidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1" id="__nav_10_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação Grupo 06
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação Grupo 06
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo06/introducao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introdução
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1_2" id="__nav_10_1_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo06/etapa2/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo06/etapa2/verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1_3" id="__nav_10_1_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo06/etapa3/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo06/etapa3/verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1_4" id="__nav_10_1_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo06/etapa4/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo06/etapa4/verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1_5" id="__nav_10_1_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 5
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_1_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 5
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo06/etapa5/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo06/etapa5/verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2" id="__nav_10_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificacão do Grupo 05
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2">
+            <span class="md-nav__icon md-icon"></span>
+            Verificacão do Grupo 05
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/introducao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introdução
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_2" id="__nav_10_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa2/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa2/aspectos_eticos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Aspectos Éticos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa2/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa2/entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Entrevista
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa2/perfil_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Perfil do Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa2/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa2/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa2/analise_tarefas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Análise de Tarefas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_3" id="__nav_10_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa3/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa3/metas-de-usabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Metas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa3/caracteristicas-gerais/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Caracteristicas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa3/principios-gerais/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Principios
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa3/guia_estilo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Guia de Estilo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_4" id="__nav_10_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa4/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa4/planejamento_avali_analise_tarefas%20copy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Planejamento da Avaliação da Análise de Tarefas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa4/planejamento_relato_analise_tarefas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Planejamento do Relato de resultados da Análise de Tarefas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa4/resultado_analise_tarefas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Relato de resultados da Análise de Tarefas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa4/planejamento_avali_storyboard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Planejamento da Avaliação do StoryBoard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa4/resultado_storyboard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Relato de resultados do StoryBoard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_5" id="__nav_10_2_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 5
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 5
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa5/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa5/planejamento_avali_prot_papel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Planejamento da avaliação do Protótipo de Papel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa5/planejamento_relato_prototipo_papel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Planejamento do Relato de resultados do Protótipo de Papel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_6" id="__nav_10_2_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 7
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 7
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa7/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa7/planejamento_avali_prot_alta/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Planejamento da avaliação do Prototipação de Alta Fidelidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa7/planejamento_relato_prototipo_alta/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Planejamento do Relato de Resultados da Prototipação de Alta Fidelidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_7" id="__nav_10_2_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 8
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 8
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa8/planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/etapa8/relato_resultados_prototipos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação Relato de Resultados da Prototipação de Alta Fidelidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega Final
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega Final
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/site-selecionado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Site Selecionado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/ciclo-de-vida/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ciclo de Vida
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/cronogramas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejameto de Entregas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/execucao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Execução do Projeto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/resultados-execucao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resultados Alcançados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/sintese-ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas Utilizadas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/sintese-tecnicas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Técnicas Utilizadas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/sintese-artefatos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artefatos Criados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/sintese-avaliacoes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Síntese das Avaliações
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/sintese-verificacoes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Síntese das Verificações
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/sintese-apresentacoes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Síntese das Apresentações
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/conclusao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Considerações Finais
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="analise-de-tarefas">Análise de Tarefas</h1>
+<h2 id="introducao">Introdução</h2>
+<p>Segundo Bruno Silva e Simone Barbosa [1], uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir.</p>
+<p>No contexto da análise de tarefas, uma abordagem valiosa é a identificação da situação atual, seja ela suportada ou não por um sistema computacional. Essa análise pode ser empregada tanto para o (re)design de sistemas quanto para avaliar os resultados de intervenções que incluam a introdução de novos sistemas computacionais. Um dos passos iniciais cruciais nesse processo é a coleta dos objetivos das pessoas ao interagirem com o sistema em análise.</p>
+<p>O site da <a href="https://www.lagoadaprata.mg.gov.br/">Prefeitura da Lagoa da Prata</a> é majoritariamente informativo, disponibilizando de uma gama de informações. O usuário pode acessar informações como: Fila de espera de creches munipais; lista de medicamentos disponíveis; calendário de eventos relacionados ao municipio; entre outros tipos de informação.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>A metodologia para o desenvolvimento das análises de tarefas foi estabelecida com o objetivo de explorar diversas técnicas, selecionando aquela mais adequada para cada tarefa em questão. As técnicas escolhidas foram a AHT (Análise Hierárquica de Tarefas) [2] e o CMN-GOMS (Card, Moran e Newell GOMS) [3]. Essa análise é fundamental para identificar o fluxo de passos das tarefas, permitindo a identificação de áreas que necessitam de melhorias.</p>
+<p>Para este projeto, serão utilizadas ambas as técnicas mencionadas anteriormente, realizando uma ligação direta com os <a href="../cenarios/">Cénarios</a> estabelecidos e utilizando tarefas que podem ser associadas às personas declaradas. A forma da AHT será utilizada principalmente em tarefas complexas que não são repetitivas e podem assumir diversas dependências. Já o CMN-GOMS será utilizado como base geral para os cenários e análise das etapas para se alcançar o objetivo primário.</p>
+<h2 id="hta-analise-hierarquica-de-tarefas">HTA - Análise Hierárquica de Tarefas</h2>
+<p>Desenvolvida na década de 1960, a Análise Hierárquica de Tarefas (HTA) é uma ferramenta empregada para compreender as competências e habilidades necessárias para realizar tarefas complexas e não repetitivas. Além disso, é valiosa para identificar problemas de desempenho. A HTA facilita a compreensão das relações entre as ações das pessoas, os motivos que as impulsionam e as consequências caso essas ações não sejam executadas corretamente.</p>
+<p>A Tabela 1 abaixo apresenta os elementos de uma análise hierárquica de tarefas.</p>
+<p><center></p>
+<p><strong>Tabela 1</strong> - Elementos de uma HTA</p>
+<table>
+<thead>
+<tr>
+<th>Elemento</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tarefa:</td>
+<td>Uma parte do trabalho que requer realização, frequentemente definida em termos de objetivos e subobjetivos.</td>
+</tr>
+<tr>
+<td>Objetivo:</td>
+<td>Um estado específico, um estado final, determinado por eventos ou por valores observáveis de variáveis, que servem como critério para alcançar o objetivo.</td>
+</tr>
+<tr>
+<td>Subobjetivo:</td>
+<td>Uma subdivisão de objetivos complexos, usada para identificar quais subobjetivos são mais difíceis de alcançar, já que limitam ou até mesmo impedem o alcance do objetivo principal.</td>
+</tr>
+<tr>
+<td>Plano:</td>
+<td>Define os subobjetivos necessários para alcançar um objetivo maior e a ordem em que esses subobjetivos devem ser alcançados.</td>
+</tr>
+<tr>
+<td>Operação:</td>
+<td>As circunstâncias em que o objetivo é ativado (entrada), as atividades ou ações que contribuem para alcançá-lo e as condições que indicam o seu alcance (feedback).</td>
+</tr>
+</tbody>
+</table>
+<p><em>Fonte: <a href="https://github.com/freitasc">FREITAS, Cainã</a>. 2024.</em></p>
+<p></center></p>
+<p>Os planos podem possuir relações entre os subobjetivos, como: sequência fixa (um objetivo deve ser atingido antes do próximo); regra de seleção ou decisão (quais objetivos que deverão ser atin-gidos dependem das circunstâncias); ou em paralelo (mais de um objetivo deve ser atingido ao mesmo tempo). A Figura 1 apresenta a forma gráfica de representação dessas relações.</p>
+<p><center></p>
+<p><strong>Figura 1</strong> - Elementos de um diagrama HTA
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/elementosHTA.png" width="100%"></p>
+<p><em>Fonte: <a href="https://github.com/freitasc">FREITAS, Cainã</a>. 2024.</em></p>
+<p></center></p>
+<h3 id="analise-da-tarefa-hta-1-cadastrar-e-acompanhar-uma-reclamacao-na-ouvidoria-caina">Análise da Tarefa HTA 1: Cadastrar e acompanhar uma reclamação na ouvidoria - Cainã</h3>
+<p>Abaixo se encontra a tabela 2 e figura 2 referentes a tarefa de Cadastrar e acompanhar uma reclamação na ouvidoria, ambas feitas pelo integrante do grupo <a href="https://github.com/freitasc">Cainã Freitas</a>:</p>
+<p><center></p>
+<p><strong>Tabela 2</strong> - HTA da Tarefa: Cadastrar e uma reclamação na ouvidoria</p>
+<table>
+<thead>
+<tr>
+<th>Objetivos / Operações</th>
+<th>Relações</th>
+<th>Problemas / Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>0. Cadastrar e consultar uma reclamação cadastrada</strong></td>
+<td>1 &gt; 2</td>
+<td><strong>Input:</strong> Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> <strong>Plano:</strong> Realizar login no site, Navegar até a Ouvidoria, Cadastrar reclamação desejada, Acessar a reclamação na lista, Acompanhar status. <br> <strong>Feedback:</strong> Status da reclamação cadastrada emitido.</td>
+</tr>
+<tr>
+<td><strong>1. Acessar a página de cadastrar manifestação na ouvidoria</strong></td>
+<td>1 / 2</td>
+<td><strong>Plano:</strong> Navegar até o menu de transparência, escolher a opção "Ouvidoria" e acessar a página de cadastrar manifestação <br><strong>Feedback:</strong> Tela da ouvidoria que mostra opção de cadastrar manifestação</td>
+</tr>
+<tr>
+<td>1.1 Acessar o menu de transparência ao clicar em "Serviços para a Transparência"</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1.2 Selecionar o cadastro de manifestação</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>2. Cadastrar Reclamação</strong></td>
+<td>1 &gt; 2</td>
+<td><strong>Plano:</strong> Cadastrar uma reclamação através do formulário  <br><strong>Feedback:</strong> Caixa de aviso avisando que a reclamação foi cadastrada</td>
+</tr>
+<tr>
+<td>2.1. Selecionar tipo, secretaria e assunto</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2.2. Preencher texto de reclamação</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2.3. Preencher campos opcionais</td>
+<td>1 / 2</td>
+<td><strong>Plano:</strong> Cadastrar (ou não) campos adicionais do formulário  <br><strong>Feedback:</strong> Campo adicional presente na pagina de acompanhamento</td>
+</tr>
+<tr>
+<td><em>2.3.1 Preencher endereço</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>2.3.2 Solicitar Sigilo</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2.4. Resolver Captcha</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>3. Fazer login</strong></td>
+<td>1 / 2</td>
+<td><strong>plano:</strong> Login pelo GOV.BR informar CPF e senha ou login pela Prefeitura Munincipal de Lagoa da Prata informar cpf/cnpj/email e senha <br> <strong>Feedback:</strong>: mensagem com status de usuário logado</td>
+</tr>
+<tr>
+<td>3.1 Fazer login pela Prefeitura Munincipal de Lagoa da Prata</td>
+<td>1 / 2</td>
+<td><strong>plano:</strong> Realizar cadastro informando: email, senha, nome completo, CPF, confirmar a declaração da veracidade dos dados; ou realizar login informando CPF ou email e senha</td>
+</tr>
+<tr>
+<td><em>3.1.1 Fazer login pelo Prefeitura Munincipal de Lagoa da Prata com cadastro feito anteriormente</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>3.1.2 Fazer cadastro pela Prefeitura Munincipal de Lagoa da Pratacaso não possuir conta e realizar login</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3.2 Fazer login pelo GOV.BR</td>
+<td>1 / 2</td>
+<td><strong>plano:</strong> Realizar cadastro informando CPF, realizando HCaptcha, escolher um banco para realizar login; ou Realizar login informando CPF e senha.</td>
+</tr>
+<tr>
+<td><em>3.2.1 Fazer cadastro no GOV.BR caso não possuir conta e realizar login</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>3.2.2 Fazer login pelo GOV.BR com cadastro feito anteriormente</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4. Consultar status da reclamação</td>
+<td>1 &gt; 2</td>
+<td>Plano: Acompanhar status da reclamação recem registrada  <br>Feedback: Campo de status presente na pagina de acompanhamento</td>
+</tr>
+<tr>
+<td>4.1. Selecionar "meus protocolos"</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4.2. Selecionar reclamação cadastrada</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4.3. Conferir status</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>Fonte: <a href="https://github.com/freitasc">FREITAS, Cainã</a>. 2024.</em></p>
+<p><strong>Figura 2</strong> - Diagrama HTA da Tarefa: Cadastrar e acompanhar uma reclamação na ouvidoria
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_ouvidoria.png" width="100%"></p>
+<p>w<em>Fonte: <a href="https://github.com/freitasc">FREITAS, Cainã</a>. 2024.</em></p>
+<p></center></p>
+<h3 id="analise-da-tarefa-hta-2-cadastro-antecipado-de-aluno-joyce">Análise da Tarefa HTA 2: Cadastro Antecipado de Aluno - Joyce</h3>
+<p>Abaixo se encontra a tabela 3 e figura 3 referentes a tarefa de Cadastro Antecipado de Aluno, ambas feitas pelo integrante do grupo <a href="https://github.com/joycejdm">Joyce Dionizio</a>:</p>
+<p><center></p>
+<p><strong>Tabela 3</strong> - HTA da Tarefa: Cadastro Antecipado de Aluno</p>
+<h3 id="tabela-3-hta-da-tarefa-cadastro-antecipado-de-aluno">Tabela 3 - HTA da Tarefa: Cadastro Antecipado de Aluno</h3>
+<table>
+<thead>
+<tr>
+<th>Objetivos / Operações</th>
+<th>Relações</th>
+<th>Problemas / Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. Realizar cadastro antecipado de aluno para matrícula escolar</td>
+<td>1 &gt; 2</td>
+<td>Input: Acesso ao site da Prefeitura de Lagoa da Prata, Dados do aluno, Dados do responsável, Dados sócio-econômicos. <br> Plano: Navegar até a seção de serviços do cidadão, selecionar "Cadastro Antecipado de Aluno", preencher dados do aluno, preencher dados do responsável, preencher dados sócio-econômicos, gravar dados, confirmar gravação. <br> Feedback: Confirmação de cadastro bem-sucedido.</td>
+</tr>
+<tr>
+<td>1. Acessar o site da prefeitura de Lagoa da Prata</td>
+<td>1 &gt; 2</td>
+<td>Plano: Abrir o navegador e acessar o site da prefeitura. <br> Feedback: Site da prefeitura carregado.</td>
+</tr>
+<tr>
+<td>1.1 Abrir o navegador e acessar o site da Prefeitura de Lagoa da Prata</td>
+<td></td>
+<td>Recomenda-se usar um navegador compatível com o site e garantir uma conexão estável com a internet.</td>
+</tr>
+<tr>
+<td>2. Navegar para a seção de "Serviços do Cidadão" e selecionar "Cadastro Antecipado de Aluno"</td>
+<td>1 &gt; 2</td>
+<td>Plano: Encontrar e clicar na opção "Cadastro Antecipado de Aluno" no menu "Serviços do Cidadão". <br> Feedback: Página de Cadastro Antecipado de Aluno aberta.</td>
+</tr>
+<tr>
+<td>2.1 Encontrar o menu "Serviços do Cidadão"</td>
+<td></td>
+<td>O menu "Serviços do Cidadão" deve ser claramente identificado.</td>
+</tr>
+<tr>
+<td>2.2 Clicar na opção "Cadastro Antecipado de Aluno"</td>
+<td></td>
+<td>A opção deve ser funcional e redirecionar corretamente.</td>
+</tr>
+<tr>
+<td>3. Preencher formulário com dados do aluno</td>
+<td>1 &gt; 2</td>
+<td>Plano: Inserir os dados obrigatórios no formulário do aluno. <br> Feedback: Formulário do aluno preenchido corretamente.</td>
+</tr>
+<tr>
+<td>3.1 Inserir dados obrigatórios no formulário do aluno</td>
+<td></td>
+<td>Campos devem ser claros e permitir a inserção de informações sem erros.</td>
+</tr>
+<tr>
+<td>3.2 Conferir os dados inseridos</td>
+<td></td>
+<td>Verificação dos dados antes de prosseguir.</td>
+</tr>
+<tr>
+<td>4. Preencher formulário com dados do responsável</td>
+<td>1 &gt; 2</td>
+<td>Plano: Inserir os dados obrigatórios no formulário do responsável. <br> Feedback: Formulário do responsável preenchido corretamente.</td>
+</tr>
+<tr>
+<td>4.1 Inserir dados obrigatórios no formulário do responsável</td>
+<td></td>
+<td>Campos devem ser claros e permitir a inserção de informações sem erros.</td>
+</tr>
+<tr>
+<td>4.2 Conferir os dados inseridos</td>
+<td></td>
+<td>Verificação dos dados antes de prosseguir.</td>
+</tr>
+<tr>
+<td>5. Preencher formulário com dados sócio-econômicos</td>
+<td>1 &gt; 2</td>
+<td>Plano: Inserir os dados obrigatórios no formulário sócio-econômico. <br> Feedback: Formulário sócio-econômico preenchido corretamente.</td>
+</tr>
+<tr>
+<td>5.1 Inserir dados obrigatórios no formulário sócio-econômico</td>
+<td></td>
+<td>Campos devem ser claros e permitir a inserção de informações sem erros.</td>
+</tr>
+<tr>
+<td>5.2 Conferir os dados inseridos</td>
+<td></td>
+<td>Verificação dos dados antes de prosseguir.</td>
+</tr>
+<tr>
+<td>6. Gravar os dados do cadastro e confirmar gravação</td>
+<td>1 + 2</td>
+<td>Plano: Verificar todas as informações, clicar em "Finalizar Cadastro" e confirmar. <br> Feedback: Dados salvos no sistema e confirmação exibida.</td>
+</tr>
+<tr>
+<td>6.1 Verificar todas as informações inseridas</td>
+<td></td>
+<td>Revisão de dados para evitar erros.</td>
+</tr>
+<tr>
+<td>6.2 Clicar no botão "Finalizar Cadastro" e confirmar</td>
+<td></td>
+<td>Botão deve ser claramente identificável e funcional.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Fonte: <a href="https://github.com/joycejdm">DIONIZIO, Joyce</a>. 2024.</em></p>
+<p><strong>Figura 3</strong> - Diagrama HTA da Tarefa: Cadastro Antecipado de Aluno
+<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/hta_matricula.jpg" width="100%">
+<em>Fonte: <a href="https://github.com/joycejdm">DIONIZIO, Joyce</a>. 2024.</em>
+</center></p>
+<h3 id="analise-da-tarefa-hta-3-acessar-o-modulo-de-contra-cheque-e-consultar-processos-do-servidor-augusto">Análise da Tarefa HTA 3: Acessar o módulo de Contra Cheque e consultar processos do servidor  - Augusto</h3>
+<p>Abaixo se encontra a tabela 4 e figura 4 referentes a tarefa de Acessar o módulo de Contra Cheque e consultar processos do servidor , ambas feitas pelo integrante do grupo <a href="https://github.com/Augcamp">Augusto Duarte</a>:</p>
+<p><center></p>
+<p><strong>Tabela 4</strong> - HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Objetivos/Operações</th>
+<th>Relações</th>
+<th>Problemas e recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">0. Acessar o módulo de Contra Cheque e consultar processos do servidor</td>
+<td></td>
+<td><strong>input:</strong> Localização e acesso ao modulo.</td>
+</tr>
+<tr>
+<td style="text-align: center;">1. Selecionar a opção "Contra Cheque"</td>
+<td>1&gt;2</td>
+<td><strong>input:</strong> Escolha da opção para iniciar o processo de consulta.</td>
+</tr>
+<tr>
+<td style="text-align: center;">2. Preencher os campos requeridos de login</td>
+<td>2&gt;3</td>
+<td><strong>input:</strong> Inserção de dados pessoais.</td>
+</tr>
+<tr>
+<td style="text-align: center;">3. Selecionar a opção "Processo Digital"</td>
+<td>3&gt;4</td>
+<td><strong>input:</strong> Escolha da opção para iniciar o acompanhamento dos processos.</td>
+</tr>
+<tr>
+<td style="text-align: center;">4. Escolher o processo</td>
+<td>4&gt;5</td>
+<td><strong>input:</strong> Seleção do processo desejado.</td>
+</tr>
+<tr>
+<td style="text-align: center;">5. Acompanhar o status do processo</td>
+<td></td>
+<td><strong>feedback:</strong> Informação sobre o processo e resultados.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Fonte: <a href="https://github.com/Augcamp">DUARTE, Augusto</a>. 2024.</em></p>
+<p><strong>Figura 4</strong> - Diagrama HTA da Tarefa: Acessar o módulo de Contra Cheque e consultar processos do servidor
+<img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA2.png" width="100%"></p>
+<p><em>Fonte: <a href="https://github.com/Augcamp">DUARTE, Augusto</a>. 2024.</em></p>
+<p></center></p>
+<h3 id="analise-da-tarefa-hta-4-registrar-e-verificar-o-panorama-de-saude-da-cidade-lucas-meireles">Análise da Tarefa HTA 4: Registrar e verificar o panorama de saúde da cidade - <a href="https://github.com/Katuner">Lucas Meireles</a></h3>
+<p>Abaixo se encontra a tabela 5 e figura 5 referentes a tarefa de Registrar e verificar o panorama de saúde da cidade, ambas feitas pelo integrante do grupo <a href="https://github.com/Katuner">Lucas Meireles</a>:</p>
+<p><center>
+<strong>Tabela 5</strong> - HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade</p>
+<table>
+<thead>
+<tr>
+<th>Objetivos / Operações</th>
+<th>Relações</th>
+<th>Problemas / Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. Registrar e verificar o panorama de saúde da cidade</td>
+<td>1 &gt; 2</td>
+<td>Input: Acesso ao site de Lagoa da Prata, Credenciais de login (usuário e senha). <br> Plano: Realizar login no site, Navegar para a página de estado de saúde, Registrar estado de saúde, Verificar panorama de saúde da cidade. <br> Feedback: Status do estado de saúde emitido.</td>
+</tr>
+<tr>
+<td>1. Realizar login no site</td>
+<td>1 &gt; 2</td>
+<td>Plano: informar o cpf e depois a senha do gov.br.</td>
+</tr>
+<tr>
+<td>1.1 Informar CPF</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1.2 Informar senha do gov.br</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2. Navegar para a página de estado de saúde</td>
+<td>1 / 2</td>
+<td>Plano: selecionar uma das opções, entre ir até pagina através do menu hamburguer e ir até a pagina pela aba de pesquisa</td>
+</tr>
+<tr>
+<td>2.1 Ir através do menu hamburguer</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2.2 Ir através da aba de pesquisa</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3. Registrar estado de saúde</td>
+<td>1 &gt; 2</td>
+<td>Plano: Selecionar se está bem ou não, em caso negativo, realizar os registros</td>
+</tr>
+<tr>
+<td>3.1. Registrar que não se sente mal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3.2. Registrar que se sente mal</td>
+<td>1 &gt; 2</td>
+<td>Plano: registrar os dados de sintomas e locais</td>
+</tr>
+<tr>
+<td>3.2.1 Confirmar endereço</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3.2.2 Registrar os sintomas</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3.2.3 Registrar se deseja marcar uma consulta</td>
+<td>1 / 2</td>
+<td></td>
+</tr>
+<tr>
+<td>3.2.3.1 Não marcar consulta</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3.2.3.2 Marcar consulta</td>
+<td>1 &gt; 2</td>
+<td></td>
+</tr>
+<tr>
+<td>3.2.3.2.1 Selecionar horário da consulta</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3.2.4 Registrar locais que esteve presente</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4. Verificar panorama de saúde da cidade</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4.1. Navegar pelo mapa interativo</td>
+<td>1 / 2</td>
+<td></td>
+</tr>
+<tr>
+<td>4.1.1 Visualizar as informações resumidas pelo mapa</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4.1.2 Selecionar uma área do mapa e verificar dados detalhados</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>Fonte: <a href="https://github.com/Katuner">MEIRELES, Lucas</a>. 2024.</em></p>
+<p><strong>Figura 5</strong> - Diagrama HTA da Tarefa: Registrar e verificar o panorama de saúde da cidade</p>
+<p><img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_Saude.png" width="100%">
+<em>Fonte: <a href="https://github.com/Katuner">MEIRELES, Lucas</a>. 2024.</em></p>
+<p></center></p>
+<h3 id="analise-da-tarefa-hta-5-solicitar-vistoria-de-local-com-agua-parada">Análise da Tarefa HTA 5: Solicitar vistoria de local com água parada</h3>
+<p>Abaixo se encontra tanto a tabela 6 e imagem 6 representando o diagrama HTA relacionado a tarefa Solicitar vistoria de local com água parada, ambos foram elaborados levando em consideração a <a href="/requisitos1/personas/#maria-arlete">persona Maria Arlete</a> e o <a href="/requisitos1/cenarios/#c03-solicitar-vistoria-de-local-com-agua-parada">cenario C03</a>.
+<center>
+<strong>Tabela 6</strong> - HTA da Tarefa: Solicitar vistoria de local com água parada</p>
+<table>
+<thead>
+<tr>
+<th>Objetivos / Operações</th>
+<th>Relações</th>
+<th>Problemas / Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>0. Solicitar vistoria de local com água parada</strong></td>
+<td>1 &gt; 2</td>
+<td><strong>input:</strong> formulário de solicitação de vistoria <br> <strong>plano:</strong> acessar a página; ler as informações de uma solicitação; escolher forma de login; enviar a solicitação; baixar a solicitação <br> <strong>feedback:</strong> Nova solicitação aparece aparece para a Secretária de Saúde na lista de solicitações de vistoria de água parada como pendente <br> <strong>recomendação:</strong> status da vistoria ser disponbilizada para pessoa que realizou login e em uma pagina mostrando todas as vistorias realizadas.</td>
+</tr>
+<tr>
+<td><strong>1. Acessar a página de Solicitar vistoria de local com água parada</strong></td>
+<td>1 / 2</td>
+<td><strong>ação:</strong> Acessar o menu "hamburguer" ou acessar o menu "serviços para o Cidadão" ou pesquisar na aba de pesquisas</td>
+</tr>
+<tr>
+<td>1.1 Encontrar pelo menu "hamburguer" na aba Serviços</td>
+<td>1 / 2</td>
+<td><strong>ação:</strong> Passar o dispositivo apontador por cima do botão para abrir o menu suspenso; ou Clicar no botão para ele abrir</td>
+</tr>
+<tr>
+<td>1.1.1 Acessar o menu passando o dispositivo apontador em cima</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1.1.2 Acessar o menu clicando no botão "hamburguer"</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1.2 Encontrar na página inicial ao clicar em "Serviços para o Cidadão"</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1.3 Encontrar pela aba de pesquisa</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>2. Fazer leitura das informações da solicitação</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>3. Fazer login</strong></td>
+<td>1 / 2</td>
+<td><strong>plano:</strong> Login pelo GOV.BR informar CPF e senha ou login pela Prefeitura Munincipal de Lagoa da Prata informar cpf/cnpj/email e senha</td>
+</tr>
+<tr>
+<td>3.1 Fazer login pela Prefeitura Munincipal de Lagoa da Prata</td>
+<td>1 / 2</td>
+<td><strong>plano:</strong> Realizar cadastro informando: email, senha, nome completo, CPF, confirmar a declaração da veracidade dos dados; ou realizar login informando CPF ou email e senha</td>
+</tr>
+<tr>
+<td><em>3.1.1 Fazer login pelo Prefeitura Munincipal de Lagoa da Prata com cadastro feito anteriormente</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>3.1.2 Fazer cadastro pela Prefeitura Munincipal de Lagoa da Pratacaso não possuir conta e realizar login</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3.2 Fazer login pelo GOV.BR</td>
+<td>1 / 2</td>
+<td><strong>plano:</strong> Realizar cadastro informando CPF, realizando HCaptcha, escolher um banco para realizar login; ou Realizar login informando CPF e senha.</td>
+</tr>
+<tr>
+<td><em>3.2.1 Fazer cadastro no GOV.BR caso não possuir conta e realizar login</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>3.2.2 Fazer login pelo GOV.BR com cadastro feito anteriormente</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3.3 Solicitar anonimamente</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>4. Enviar Solicitação de vistoria de local com água parada</strong></td>
+<td>1 &gt; 2</td>
+<td><strong>input:</strong> Preencher os campos: logradouro, número, complemento, CEP, descrição; Selecionar qual tipo de ímovel: residencial, abandonado, desocupado, público, terreno baldio murado, terreo baldio não murado, ferro velho, borracharia, desmanche, recicladoras, cemitérios, obras, parques ou praças, outros; Clicar no botão enviar</td>
+</tr>
+<tr>
+<td>4.1. Preencher o formulário nos campos com informações</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4.2. Responder o reCaptcha</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4.3 Clicar no botão Enviar</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>5. Baixar os dados da solicitação</strong></td>
+<td>1 / 2</td>
+<td><strong>plano:</strong> Visualizar a solicitação, logo depois baixar a solicitação</td>
+</tr>
+<tr>
+<td>5.1 Visualizar a confirmação da solicitação</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5.2 Clicar no botão para baixar a solicitação</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>Fonte: <a href="https://github.com/lucasdray">DOURAOD, Pedro Lucas</a>. 2024.</em></p>
+<p><strong>Figura 6</strong> - Diagrama HTA da Tarefa: Solicitar vistoria de local com água parada
+<img   src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/analiseTarefas/HTA_solicitacao.png" >
+<em>Fonte: <a href="https://github.com/lucasdray">DOURAOD, Pedro Lucas</a>. 2024.</em>
+</center></p>
+<h2 id="cnm-goms">CNM-GOMS</h2>
+<p>O GOMS (Goals, Operators, Methods, and Selection Rules - Objetivos, Operadores, Métodos e Regras de Seleção) é um conjunto de modelos utilizados para análise de tarefas [1]. O CMN-GOMS (Card, Moran e Newell GOMS) é um desses modelos e consiste em uma hierarquia bem definida de objetivos representados em forma de programa, permitindo assim uma análise executável. (Barbosa e Silva, 2010) [1]</p>
+<h3 id="motivo-da-escolha">Motivo da escolha</h3>
+<p>Com base na fala do entrevistado encontrada na <a href="../entrevista/">entrevista</a> com relação a utilizar apenas serviços específicos do site da Prefeitura, foi decidido utilizar o CNM-GOMS pois, essa análise se aplica principalmente a situações em que os usuários realizam tarefas que já dominam [1].
+Além disso como a maioria das tárefas análisadas são propostas de implementações para o site com esse método de análise podemos identificar pontos específicos em que os usuários podem se confundir ou cometer erros, erros esses que podem passar despercebidos na criação de uma funcionalidade nova para o site.</p>
+<h3 id="legenda">Legenda</h3>
+<p>Abaixo segue a tabela 07 que contém a legenda do seignificado de GOMS, contendo o termo, tradução e descrição de cada todos sendo retirados do livro Interação Humano Computador de Bruno Silva e Simone Barbosa [1]:</p>
+<p><center></p>
+<p><strong>Tabela 07</strong> - Legenda GOMS</p>
+<table>
+<thead>
+<tr>
+<th>Termo</th>
+<th>Tradução</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Goal</td>
+<td>Objetivo</td>
+<td>O que o usuário quer realizar utilizando o sistema</td>
+</tr>
+<tr>
+<td>OP</td>
+<td>Operador</td>
+<td>Ações concretas que o site permite que o usuário faça</td>
+</tr>
+<tr>
+<td>METHOD</td>
+<td>Método</td>
+<td>Sequência de subobjetivos e operadores para atingir um objetivo maior</td>
+</tr>
+<tr>
+<td>SEL.RULE</td>
+<td>Regra de seleção</td>
+<td>Tomada de decisão sobre qual método utilizar</td>
+</tr>
+</tbody>
+</table>
+<p>*Fonte: <a href="https://github.com/lucasdray">DOURADO, Pedro Lucas</a></p>
+<p></center></p>
+<p>Abaixo estão listadas as análises de tarefas utilizando CNM-GOMS e o autor da análise:</p>
+<h3 id="analise-da-tarefa-cnm-goms-1-cadastro-antecipado-de-aluno-fonte-dionizio-joyce-2024">Análise da Tarefa CNM-GOMS 1: Cadastro Antecipado de Aluno - (Fonte: DIONIZIO, Joyce. 2024).</h3>
+<div class="highlight"><pre><span></span><code>Goal 0: Realizar cadastro antecipado de aluno para matrícula escolar
+  Goal 1: Acessar o site da Prefeitura de Lagoa da Prata
+    METHOD 1.A: Acessar o site diretamente
+    (SEL.RULE: preferência do usuário)
+        OP: Abrir o navegador
+        OP: Digitar o URL do site da Prefeitura de Lagoa da Prata
+        OP: Pressionar Enter
+  Goal 2: Navegar para a seção de &quot;Serviços do Cidadão&quot; e selecionar &quot;Cadastro Antecipado de Aluno&quot;
+    METHOD 2.A: Navegar através do menu
+    (SEL.RULE: preferência do usuário)
+        OP: Levar cursor até menu &quot;Serviços do Cidadão&quot;
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Levar cursor até a opção &quot;Cadastro Antecipado de Aluno&quot;
+        OP: Clicar com o botão esquerdo do mouse
+  Goal 3: Preencher formulário com dados do aluno
+    METHOD 3.A: Inserir dados obrigatórios no formulário do aluno
+        OP: Digitar nome do aluno
+        OP: Digitar data de nascimento do aluno
+        OP: Digitar endereço do aluno
+        OP: Digitar outros dados obrigatórios
+  Goal 4: Preencher formulário com dados do responsável
+    METHOD 4.A: Inserir dados obrigatórios no formulário do responsável
+        OP: Digitar nome do responsável
+        OP: Digitar CPF do responsável
+        OP: Digitar endereço do responsável
+        OP: Digitar outros dados obrigatórios
+  Goal 5: Preencher formulário com dados sócio-econômicos
+    METHOD 5.A: Inserir dados obrigatórios no formulário sócio-econômico
+        OP: Digitar renda familiar
+        OP: Digitar outros dados sócio-econômicos
+  Goal 6: Gravar os dados do cadastro
+    METHOD 6.A: Salvar os dados inseridos
+        OP: Verificar todas as informações inseridas
+        OP: Clicar no botão &quot;Finalizar Cadastro&quot;
+  Goal 7: Confirmar gravação dos dados
+    METHOD 7.A: Confirmar a finalização do cadastro
+        OP: Verificar balão de confirmação
+        OP: Clicar em &quot;Voltar para a Página Inicial&quot; no balão de confirmação
+</code></pre></div>
+<h3 id="analise-da-tarefa-cnm-goms-2-registrar-e-verificar-o-panorama-de-saude-da-cidade-fonte-meireles-lucas-2024">Análise da Tarefa CNM-GOMS 2: Registrar e verificar o panorama de saúde da cidade - (Fonte: MEIRELES, Lucas. 2024).</h3>
+<div class="highlight"><pre><span></span><code>Goal 0: Registrar e verificar o panorama de saúde da cidade
+  Goal 1: Encontrar Registro de Estado de Saúde
+    METHOD 1.A: Encontrar através do menu &quot;hamburguer&quot;
+    (SEL.RULE: peferência do usuário)
+        OP: Levar cursor até menu &quot;hamburguer&quot;
+        OP: Levar cursor até botão &quot;Registro de Estado de Saúde&quot;
+        OP: Clicar com o botão esquerdo do mouse
+    METHOD 1.B: Encontrar através da aba de pesquisa
+    (SEL.RULE: peferência do usuário)
+        OP: Levar cursor até barra de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Digitar &quot;Saúde&quot;
+        OP: Levar cursor até botão de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Levar cursor até &quot;Registro de Estado de Saúde&quot;
+        OP: Clicar com o botão esquerdo do mouse
+
+    Goal 2: Registrar Estado de Saúde:
+      OP: Levar cursor até botão &quot;Registrar estado de saúde&quot;
+        METHOD 2.A: Usuário não possui sintomas de doença
+        (SEL.RULE: estado de saúde atual do usuário)
+      OP: Levar cursor até caixa &quot;Me sinto bem&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Verificar o endereço do morador
+      OP: Levar cursor até o botão &quot;Endereço correto&quot;
+      OP: Clicar com o botão esquerdo do mouse
+        METHOD 2.B: Usuário possui sintomas de doença
+        (SEL.RULE: estado de saúde atual do usuário)
+      OP: Levar cursor até caixa &quot;Não me sinto bem&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Verificar o endereço do morador
+      OP: Levar cursor até o botão &quot;Endereço correto&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar o cursor até a caixa seletora de sintomas
+      OP: Clicar com o botão esquerdo nas caixas de sintomas que condizem com o que o usuário sente
+      OP: Levar o cursor até a caixa de seleção de &quot;Desejo marcar uma consulta&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar o cursor até o mapa da cidade encontrado na área &quot;Locais que estive recentemente&quot;
+      OP: Levar o cursor até as áreas que foram frequentadas pelo usuário nos últimos dias
+      OP: Clicar com o botão esquerdo do mouse em cada área que o usuário esteve
+      OP: Levar cursor até a caixa &quot;Prosseguir&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar o cursor até a tabela de horários
+      OP: Clicar com o botão esquerdo do mouse nos horários disponíveis para o usuário
+      OP: Levar o cursor até a caixa &quot;Prosseguir&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar cursor até caixa &quot;OK&quot;
+      OP: Clicar com o botão esquerdo do mouse
+
+    Goal 3: Verificar o panorama de saúde da cidade
+      OP: Levar o cursor até o mapa interativo no centro da página
+      OP: Clicar e arrastar com o botão esquerdo do mouse para movimentar o mapa
+      OP: Posicionar o cursor sobre o círculo no mapa interativo
+      OP: Realizar a leitura dos sintomas frequentes na área do círculo
+      OP: Clicar com o botão esquerdo do mouse no círculo
+      OP: Realizar a leitura dos dados de números de pessoas que registraram cada tipo de sintoma
+</code></pre></div>
+<h3 id="analise-da-tarefa-cnm-goms-3-cadastrar-e-acompanhar-status-de-uma-reclamacao-na-ouvidoria-fonte-freitas-caina-2024">Análise da Tarefa CNM-GOMS 3: Cadastrar e acompanhar status de uma reclamação na ouvidoria - (Fonte: FREITAS, Cainã. 2024).</h3>
+<div class="highlight"><pre><span></span><code>Goal 0: Cadastrar e acompanhar status de uma reclamação
+  Goal 1: Encontrar cadastro de reclamação na Ouvidoria
+      OP: Levar cursor até botão &quot;Serviços para a Transparência&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar cursor até botão &quot;Ouvidoria&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Levar cursor até botão &quot;Cadastre sua Manifestação&quot;
+      OP: Clicar com o botão esquerdo do mouse
+
+  Goal 2: Cadastrar Reclamação na ouvioria:
+    METHOD 2.A: Preencher formulario de cadastro de reclamação
+      OP: Levar cursor até botão &quot;Cadastrar Manifestação&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Ele navega até o formulário de &quot;Solicitação&quot;
+      OP: Levar cursor até caixa &quot;Tipo&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Clicar com o botão esquerdo do mouse em &quot;Reclamação&quot;
+      OP: Levar cursor até caixa &quot;Secretaria/Departamento&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Clicar com o botão esquerdo do mouse em &quot;Conselho Municipal de Educação&quot;
+      OP: Levar cursor até caixa &quot;Assunto&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Clicar com o botão esquerdo do mouse em &quot;OUVIDORIA GERAL - RECLAMAÇÃO&quot;
+      OP: Levar cursor até caixa &quot;Forma de Resposta&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Clicar com o botão esquerdo do mouse em &quot;Consulta no Site&quot;
+      OP: Levar cursor até caixa &quot;Solicitação&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Escrever toda a reclamação necessária para relatar o ocorrido
+
+    METHOD 2.B: Preencher cambos opcionais com local do ocorrido
+    (SEL.RULE: campos opcionais para o usuário)
+      OP: Levar cursor até caixa &quot;Anexar Arquivos&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Escolhe um arquivo para ser anexado
+      OP: Navegar até a aba de &quot;Local da Ocorrência&quot;
+      OP: Levar cursor até caixa &quot;Bairro&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Clicar com botão esquerdo do mouse no bairro da escola
+      OP: Levar cursor até caixa &quot;Logradouro&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Escrever o Logradouro da escola
+      OP: Levar cursor até caixa &quot;Número&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Escrever o Número da escola
+
+    METHOD 2.C: Enviar Reclamação
+      OP: Levar cursor até caixa de captcha
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Resolver captcha simples
+      OP: Levar cursor até botão &quot;Cadastrar&quot;
+      OP: Clicar com o botão esquerdo do mouse
+
+  Goal 3: Fazer login
+    Method 3.A: Fazer login pela Prefeitura Munincipal de Lagoa da Prata
+    (SEL. RULE: usuário tem preferencia por usar esse login e/ou já possui conta )
+      Method 3.A.A: Fazer login pelo Prefeitura Munincipal de Lagoa da Prata com cadastro feito anteriormente
+      (SEL. RULE: usuário já possui conta )
+        Method 3.A.A.A: Fazer login em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.A.A.1: desloca o cursor até o botão &quot;Entrar com login Munincipal&quot;
+          OP. 3.A.A.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.3: desloca o cursor até o aba &quot;CPF/CNPJ/email&quot;
+          OP. 3.A.A.A.4: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.5: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.A.6: desloca o cursor até o aba &quot;Senha&quot;
+          OP. 3.A.A.A.7: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.8: preenche o campo senha
+          OP. 3.A.A.A.9: desloca o cursor até o aba &quot;Senha&quot;
+          OP. 3.A.A.A.10: desloca o cursor até o botão &quot;Entrar&quot;
+          OP. 3.A.A.A.10: clica com o botão esquerdo do dispositivo apontador
+
+        Method 3.A.A.B: Fazer login em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: clicar no botão &quot;Entrar com login Munincipal&quot;
+          OP. 3.A.A.A.2: clica na aba &quot;CPF/CNPJ/email&quot;
+          OP. 3.A.A.A.3: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.B.4: clicar na aba &quot;Senha&quot;
+          OP. 3.A.A.A.5: preenche o campo usuário com senha
+          OP. 3.A.A.B.6: clicar no botão &quot;Entrar&quot;
+
+      Method 3.A.B: Fazer cadastro pela Prefeitura Munincipal de Lagoa da Pratacaso não possuir conta e realizar login
+      (SEL. RULE: usuário não possui conta )
+        Method 3.A.A.A: Fazer cadastro em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.A.A.1: desloca o cursor até o botão &quot;Entrar com login Munincipal&quot;
+          OP. 3.A.A.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.3: desloca o cursor até a opção &quot;Cadastrar-se&quot;
+          OP. 3.A.A.A.4: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.5: preenche os campos e realiza o cadastro no site da Prefeitura
+          OP. 3.A.A.A.6: desloca o cursor até o botão &quot;Entrar com login Munincipal&quot;
+          OP. 3.A.A.A.7: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.8: desloca o cursor até o aba &quot;CPF/CNPJ/email&quot;
+          OP. 3.A.A.A.9: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.10: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.A.11: desloca o cursor até o aba &quot;Senha&quot;
+          OP. 3.A.A.A.12: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.13: preenche o campo senha
+          OP. 3.A.A.A.14: desloca o cursor até o aba &quot;Senha&quot;
+          OP. 3.A.A.A.15: desloca o cursor até o botão &quot;Entrar&quot;
+          OP. 3.A.A.A.16: clica com o botão esquerdo do dispositivo apontador
+
+    Method 3.B: Fazer login pelo GOV.BR
+    (SEL. RULE: usuário tem preferencia por usar esse login e/ou já possui conta )
+      Method 3.B.A: Realizar login
+      (SEL. RULE: usuário já possui conta )
+       Method 3.A.B.A: Fazer login em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.B.A.1: desloca o cursor até o botão &quot;Entrar com GOV.BR&quot;
+          OP. 3.A.B.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.B.A.4: desloca o cursor até o botão &quot;Entrar como {NOME DO USUÁRIO}&quot;
+          OP. 3.A.B.A.5: clica com o botão esquerdo do dispositivo apontador
+
+        Method 3.A.A.B: Fazer login em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: desce a página até a aba de login
+          OP. 3.A.B.A.2: clica no botão &quot;Entrar com GOV.BR&quot;
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.A.B.4: desce a página até a aba de login
+          OP. 3.A.B.A.5: clica no botão &quot;Entrar como {NOME DO USÁRIO}&quot;
+
+      Method 3.B.B: Cadastrar e realizar login
+      (SEL. RULE: usuário não possui conta )
+       Method 3.A.B.A: Fazer cadastro em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.B.A.1: desloca o cursor até o botão &quot;Entrar com GOV.BR&quot;
+          OP. 3.A.B.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.B.A.3: realiza cadastro no site do GOV.BR
+          OP. 3.A.B.A.4: realiza login no site do GOV.BR
+          OP. 3.A.B.A.5: desloca o cursor até o botão &quot;Entrar como {NOME DO USUÁRIO}&quot;
+          OP. 3.A.B.A.6: clica com o botão esquerdo do dispositivo apontador
+
+        Method 3.A.A.B: Fazer cadastro em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: desce a página até a aba de login
+          OP. 3.A.B.A.2: clica no botão &quot;Entrar com GOV.BR&quot;
+          OP. 3.A.B.A.3: realiza cadastro no site do GOV.BR
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.A.B.4: desce a página até a aba de login
+          OP. 3.A.B.A.5: clica no botão &quot;Entrar como {NOME DO USÁRIO}&quot;
+
+  Goal 4: Acompanhar status de reclamação cadastrada
+    OP: Levar cursor até botão &quot;Meus Protocolos&quot;
+    OP: Levar cursor até protocolo cadastrado anteriormente
+    OP: Clicar com o botão esquerdo do mouse
+    OP: Navegar até status da reclamação
+    OP: Acompanhar status
+</code></pre></div>
+<h3 id="analise-da-tarefa-cnm-goms-4-acessar-o-modulo-de-contra-cheque-e-consultar-processos-do-servidor-fonte-duarte-augusto-2024">Análise da Tarefa CNM-GOMS 4: Acessar o modulo de contra cheque e consultar processos do servidor (Fonte: DUARTE, Augusto. 2024).</h3>
+<div class="highlight"><pre><span></span><code>Goal 0: Acessar o modulo de contra cheque e consultar processos do servidor
+  Goal 1: Acessar página do Contra Cheque
+    METHOD 1.A: Acessar utilizando CPF
+    (SEL.RULE: preferência do usuário)
+      OP: Levar cursor até o menu &quot;Contra Cheque&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Inserir informações pessoas utilizando CPF
+      OP: Levar o cursor até “Validar”
+      OP: Clicar com o botão esquerdo do mouse
+    METHOD 1.B: Acessar utilizando matrícula 
+    (SEL.RULE: preferência do usuário)
+      OP: Levar cursor até o menu &quot;Contra Cheque&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Inserir informações pessoas utilizando matrícula
+      OP: Levar o cursor até “Validar”
+      OP: Clicar com o botão esquerdo do mouse
+  Goal 2: Consultar processos do servidor
+    OP: Levar o cursor do mouse até &quot;Processo Digital&quot;
+    OP: Clicar com botão esquerdo do mouse
+      OP: Levar o cursor do mouse até “Nº do processo”
+      OP: Clicar com o botão esquerdo do mouse 
+</code></pre></div>
+<h3 id="analise-da-tarefa-cnm-goms-5-informar-luminaria-queimada-no-municipio-fonte-heler-lucas-2024">Análise da Tarefa CNM-GOMS 5: Informar luminária queimada no Município (Fonte: HELER, Lucas. 2024).</h3>
+<div class="highlight"><pre><span></span><code>Goal 0: Informar luminária queimada no Município
+  Goal 1: Acessar a página sobre iluminação pública
+    METHOD 1.A: Encontrar pelo MENU &quot;hamburguer&quot;
+    (SEL.RULE: preferência do usuário)
+      METHOD 1.A.1: Encontrar pelo MENU &quot;hamburguer&quot; sem necessidade de clicar
+      (SEL.RULE: Largura da página maior que 1000px)
+        OP: Mover cursor ao MENU &quot;hamburguer&quot;
+        OP: Mover cursor a &quot;Iluminação Pública&quot;
+        OP: Clicar com botão esquerdo
+      METHOD 1.A.2: Encontrar pelo MENU &quot;hamburguer&quot; com necessidade de clicar
+      (SEL.RULE: Largura da página igual ou menor que 1000px)
+          OP: Mover cursor ao MENU &quot;hamburguer&quot;
+          OP: Clicar com o botão esquerdo
+          OP: Mover cursor ao indicador de menu suspenso de &quot;Serviços Online&quot;
+          OP: Clicar com o botão esquerdo para abrir as opções
+          OP: Morver cursor a &quot;Iluminação Pública&quot;
+          OP: Clicar com o botão esquerdo
+
+    METHOD 1.B: Encontrar pela aba de pesquisa
+    (SEL.RULE: preferência do usuário)
+      METHOD 1.B.1: Realizar a pesquisa clicando sem clicar no botão de pesquisa
+      (SEL.RULE: Obrigatoriamente quando a largura da página é igual ou menor que 1000px; preferência do usuário)
+        OP: Mover cursor à barra de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Digitar &quot;iluminação pública&quot;
+        OP: Apertar enter no teclado
+        OP: Mover cursor a opção &quot;Serviços&quot; em registros encontrados
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Mover cursor ao resultado &quot;Iluminação Pública&quot;
+        OP: Clicar com o botão esquerdo do mouse
+      METHOD 1.B.2: Realizar a pesquisa clicando no botão de pesquisa
+      (SEL.RULE: Disponível quando a largura da página é maior que 1000px; preferência do usuário)
+        OP: Mover cursor à barra de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Digitar &quot;iluminação pública&quot;
+        OP: Mover cursor ao botão de pesquisa
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Mover cursor a opção &quot;Serviços&quot; em registros encontrados
+        OP: Clicar com o botão esquerdo do mouse
+        OP: Mover cursor ao resultado &quot;Iluminação Pública&quot;
+        OP: Clicar com o botão esquerdo do mouse
+
+    METHOD 1.C: Encontrar pelo acesso rápido disponível na página inicial
+    (SEL.RULE: preferência do usuário)
+      OP: Mover cursor até &quot;Iluminação Pública A LÂMPADA QUEIMOU?!&quot;
+      OP: Clicar com o botão esquerdo
+
+  Goal 2: Preencher formulário &quot;Iluminação Pública - Troca de Lâmpadas&quot;
+      OP: Mover cursor até espaços disponíveis para preenchimento escrito
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Digitar informações requeridas
+      OP: Mover cursor do mouse até opção de tipo de defeito identificado
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Mover cursor até a &quot;box&quot; do reCAPTCHA
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Mover cursor ate botão &quot;ENVIAR&quot;
+      OP: Clicar com o botão esquerdo do mouse
+
+  Goal 3: Ver protocolo de solicitação
+      OP: Visualizar o protocolo apresentado pelo site
+      OP: Mover cursor até botão &quot;OK&quot;
+      OP: Clicar com o botão esquerdo do mouse
+
+  Goal 4: Acompanhar protocolo de solicitação em &quot;Acompanhe sua solicitação&quot;
+      OP: Mover cursor até espaço disponível para preenchimento escrito
+      OP: Clicar com botão esquerdo do mouse
+      OP: Digitar informação requerida
+      OP: Mover cursor até botão &quot;CONSULTAR&quot;
+      OP: Clicar com o botão esquerdo do mouse
+      OP: Visualizar a situação e atualizações do protocolo
+</code></pre></div>
+<h3 id="analise-da-tarefa-cnm-goms-6-solicitar-vistoria-de-agua-parada-fonte-dourado-pedro-lucas-2024">Análise da Tarefa CNM-GOMS 6: Solicitar vistoria de água parada (Fonte: DOURADO, Pedro Lucas. 2024).</h3>
+<div class="highlight"><pre><span></span><code>  Goal 0: Solicitar vistoria de água parada
+
+  Goal 1: Acessar a página de Solicitar vistoria de local com água parada
+    Method 1.A: Encontrar pelo menu &quot;hamburguer&quot; na aba Serviços a qualquer momento
+    (SEL. RULE: usuário está em qualquer página e quer um acesso rapido a parte de serviços)
+      Method 1.A.A: Acessar o menu passando o dispositivo apontador em cima
+      (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador (ex: computadores (PCs e Notebooks)))
+        OP. 1.A.A.1: deslocar o cursor até o menu &quot;hamburguer&quot;
+        OP. 1.A.A.2: ao abrir o menu localizar a aba &quot;Serviços&quot;
+        OP. 1.A.A.3: deslocar o cursor até a opção &quot;Solicitar vistoria de local com água parada&quot;
+        OP. 1.A.A.4: clicar com o botão esquerdo do dispositvo apontador na opção &quot;Solicitar vistoria de local com água parada&quot;
+
+      Method 1.A.B: Acessar o menu clicando no botão &quot;hamburguer&quot;
+      (SEL. RULE: usuário está usando dispositivos moveis (ex: Smartphones e Tablets))
+        OP. 1.A.B.1: clicar no menu &quot;hamburguer&quot;
+        OP. 1.A.B.2: ao abrir o menu localizar a aba &quot;Serviços&quot;
+        OP. 1.A.B.3: clicar na opção &quot;Solicitar vistoria de local com água parada&quot;
+
+    Method 1.B: Encontrar na página inicial ao clicar em &quot;Serviços para o Cidadão&quot;
+    (SEL. RULE: usuário está na página inicial )
+      Method 1.B.A: Acessar &quot;serviços para o cidadão&quot; com dispositivo apontador
+      (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador (ex: computadores (PCs e Notebooks)))
+        OP. 1.B.A.1: girar a roda do mouse para baixo
+        OP. 1.B.A.2: deslocar o cursor até o botão &quot;Serviços para o Cidadão&quot;
+        OP. 1.B.A.3: clicar com o botão esquerdo do dispostivo apontador
+        OP. 1.B.A.4: deslocar o cursor até o opção &quot;Solicitar vistoria de local com água parada&quot;
+        OP. 1.B.A.5: clicar com o botão esquerdo do dispostivo apontador
+
+      Method 1.B.A: Acessar &quot;serviços para o cidadão&quot; em telas touchscreen
+      (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+        OP. 1.B.A.1: arrastar a tela para baixo
+        OP. 1.B.A.2: clicar no botão &quot;Serviços para o Cidadão&quot;
+        OP. 1.B.A.3: clicar na opção &quot;Solicitar vistoria de local com água parada&quot;
+
+
+    Method 1.C: Encontrar pela aba de pesquisa
+    (SEL. RULE: usuário não sabe onde localizar o serviço e deseja fazer a busca )
+      Method 1.C.A: Fazer busca com computadores (PCs e Notebooks)
+      (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador e teclado ( mecânico ou virtual))
+        OP. 1.C.A.1: deslocar cursor até a aba de pesquisa
+        OP. 1.C.A.2: clicar com o botão esquerdo do dispositivo apontador
+        OP. 1.C.A.3: usar teclado e digitar &quot;Solicitar vistoria de local com água parada&quot; ou algo parecido
+        OP. 1.C.A.4: apertar tecla &quot;Enter&quot;
+
+      Method 1.C.B: Fazer busca em telas touchscreen
+      (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+        OP. 1.C.B.1: rolar a tela para cima
+        OP. 1.C.B.1: clicar na aba de pesquisa
+        OP. 1.C.B.1: digitar &quot;Solicitar vistoria de local com água parada&quot; ou algo parecido
+        OP. 1.C.B.1: clicar no botão de lupa
+
+  Goal 2: Fazer leitura das informações da solicitação
+
+  Goal 3: Fazer login
+    Method 3.A: Fazer login pela Prefeitura Munincipal de Lagoa da Prata
+    (SEL. RULE: usuário tem preferencia por usar esse login e/ou já possui conta )
+      Method 3.A.A: Fazer login pelo Prefeitura Munincipal de Lagoa da Prata com cadastro feito anteriormente
+      (SEL. RULE: usuário já possui conta )
+        Method 3.A.A.A: Fazer login em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.A.A.1: desloca o cursor até o botão &quot;Entrar com login Munincipal&quot;
+          OP. 3.A.A.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.3: desloca o cursor até o aba &quot;CPF/CNPJ/email&quot;
+          OP. 3.A.A.A.4: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.5: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.A.6: desloca o cursor até o aba &quot;Senha&quot;
+          OP. 3.A.A.A.7: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.8: preenche o campo senha
+          OP. 3.A.A.A.9: desloca o cursor até o aba &quot;Senha&quot;
+          OP. 3.A.A.A.10: desloca o cursor até o botão &quot;Entrar&quot;
+          OP. 3.A.A.A.10: clica com o botão esquerdo do dispositivo apontador
+
+        Method 3.A.A.B: Fazer login em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: clicar no botão &quot;Entrar com login Munincipal&quot;
+          OP. 3.A.A.A.2: clica na aba &quot;CPF/CNPJ/email&quot;
+          OP. 3.A.A.A.3: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.B.4: clicar na aba &quot;Senha&quot;
+          OP. 3.A.A.A.5: preenche o campo usuário com senha
+          OP. 3.A.A.B.6: clicar no botão &quot;Entrar&quot;
+
+      Method 3.A.B: Fazer cadastro pela Prefeitura Munincipal de Lagoa da Pratacaso não possuir conta e realizar login
+      (SEL. RULE: usuário não possui conta )
+        Method 3.A.A.A: Fazer cadastro em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.A.A.1: desloca o cursor até o botão &quot;Entrar com login Munincipal&quot;
+          OP. 3.A.A.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.3: desloca o cursor até a opção &quot;Cadastrar-se&quot;
+          OP. 3.A.A.A.4: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.5: preenche os campos e realiza o cadastro no site da Prefeitura
+          OP. 3.A.A.A.6: desloca o cursor até o botão &quot;Entrar com login Munincipal&quot;
+          OP. 3.A.A.A.7: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.8: desloca o cursor até o aba &quot;CPF/CNPJ/email&quot;
+          OP. 3.A.A.A.9: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.10: preenche o campo usuário com CPF ou email
+          OP. 3.A.A.A.11: desloca o cursor até o aba &quot;Senha&quot;
+          OP. 3.A.A.A.12: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.A.A.13: preenche o campo senha
+          OP. 3.A.A.A.14: desloca o cursor até o aba &quot;Senha&quot;
+          OP. 3.A.A.A.15: desloca o cursor até o botão &quot;Entrar&quot;
+          OP. 3.A.A.A.16: clica com o botão esquerdo do dispositivo apontador
+
+    Method 3.B: Fazer login pelo GOV.BR
+    (SEL. RULE: usuário tem preferencia por usar esse login e/ou já possui conta )
+      Method 3.B.A: Realizar login
+      (SEL. RULE: usuário já possui conta )
+       Method 3.A.B.A: Fazer login em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.B.A.1: desloca o cursor até o botão &quot;Entrar com GOV.BR&quot;
+          OP. 3.A.B.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.B.A.4: desloca o cursor até o botão &quot;Entrar como {NOME DO USUÁRIO}&quot;
+          OP. 3.A.B.A.5: clica com o botão esquerdo do dispositivo apontador
+
+        Method 3.A.A.B: Fazer login em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: desce a página até a aba de login
+          OP. 3.A.B.A.2: clica no botão &quot;Entrar com GOV.BR&quot;
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.A.B.4: desce a página até a aba de login
+          OP. 3.A.B.A.5: clica no botão &quot;Entrar como {NOME DO USÁRIO}&quot;
+
+      Method 3.B.B: Cadastrar e realizar login
+      (SEL. RULE: usuário não possui conta )
+       Method 3.A.B.A: Fazer cadastro em computadores (PCs e Notebooks)
+        (SEL. RULE: usuário está usando aparelhos que possuem dispositivo apontador  e teclado ( mecânico ou virtual))
+          OP. 3.A.B.A.1: desloca o cursor até o botão &quot;Entrar com GOV.BR&quot;
+          OP. 3.A.B.A.2: clica com o botão esquerdo do dispositivo apontador
+          OP. 3.A.B.A.3: realiza cadastro no site do GOV.BR
+          OP. 3.A.B.A.4: realiza login no site do GOV.BR
+          OP. 3.A.B.A.5: desloca o cursor até o botão &quot;Entrar como {NOME DO USUÁRIO}&quot;
+          OP. 3.A.B.A.6: clica com o botão esquerdo do dispositivo apontador
+
+        Method 3.A.A.B: Fazer cadastro em telas touchscreen
+        (SEL. RULE: usuário está usando dispositivos com tela touchscreen (ex: Smartphones, Tablets, Notebooks) )
+          OP. 3.A.A.B.1: desce a página até a aba de login
+          OP. 3.A.B.A.2: clica no botão &quot;Entrar com GOV.BR&quot;
+          OP. 3.A.B.A.3: realiza cadastro no site do GOV.BR
+          OP. 3.A.B.A.3: realiza login no site do GOV.BR
+          OP. 3.A.A.B.4: desce a página até a aba de login
+          OP. 3.A.B.A.5: clica no botão &quot;Entrar como {NOME DO USÁRIO}&quot;
+
+
+    Method 3.C: Solicitar anonimamente
+    (SEL. RULE: usuário não quer se identificar )
+    OP 3.C.1: desloca cursor até botão &quot;Solicitar Anonimamente&quot;
+    OP 3.C.2: clica com o botão esquerdo do dispositivo apontador
+
+  Goal 4: Enviar Solicitação de vistoria de local com água parada
+    OP. 4.1: preenche o formulário nos campos solicitados
+    OP. 4.2: responde o reCaptcha
+    OP. 4.3: clica no botão &quot;Enviar&quot;
+
+  Goal 5: Baixar os dados da solicitação
+    OP. 5.1: move o cursor até o botão &quot;Baixar dados da solicitação&quot;
+    OP. 5.2: clica com o botão esquerdo do dispositivo apontador
+</code></pre></div>
+<h2 id="bibliografia">Bibliografia</h2>
+<blockquote>
+<p>[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.</p>
+<p>[2] Annett, John (2003). Hierarchical Task Analysis. In The Handbook of Task Analysis for Human-Computer Interaction, pages 67–82. Lawrence Erlbaum.</p>
+<p>[3] Card, Stuart K., Newell, Allen, e Moran, Thomas P. (1983). The Psychology of Human-Computer Interaction. L. Erlbaum Associates Inc., USA.</p>
+</blockquote>
+<h2 id="historico-de-versoes">Historico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor(es)</th>
+<th style="text-align: center;">Data de revisão</th>
+<th style="text-align: center;">Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">06/05/2024</td>
+<td style="text-align: center;"><code>1.0</code></td>
+<td style="text-align: center;">Criação do documento</td>
+<td style="text-align: center;"><a href="https://github.com/freitasc">Cainã Freitas</a></td>
+<td style="text-align: center;">07/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/Katuner">Lucas Meireles</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">06/05/2024</td>
+<td style="text-align: center;"><code>1.1</code></td>
+<td style="text-align: center;">Adição de Análise de Tarefas</td>
+<td style="text-align: center;"><a href="https://github.com/joycejdm">Joyce Dionizio</a></td>
+<td style="text-align: center;">07/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">06/05/2024</td>
+<td style="text-align: center;"><code>1.2</code></td>
+<td style="text-align: center;">Adição de Análise de Tarefas 3</td>
+<td style="text-align: center;"><a href="https://github.com/Augcamp">Augusto Duarte</a></td>
+<td style="text-align: center;">07/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">06/05/2024</td>
+<td style="text-align: center;"><code>1.3</code></td>
+<td style="text-align: center;">Adição de Análise de Tarefas 4</td>
+<td style="text-align: center;"><a href="https://github.com/Katuner">Lucas Meireles</a></td>
+<td style="text-align: center;">07/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">07/05/2024</td>
+<td style="text-align: center;"><code>1.4</code></td>
+<td style="text-align: center;">Adição de Análise de Tarefas 5</td>
+<td style="text-align: center;"><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+<td style="text-align: center;">07/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/akaeboshi">Lucas Heler</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">07/05/2024</td>
+<td style="text-align: center;"><code>1.5</code></td>
+<td style="text-align: center;">Adição de Análise de Tarefas HTA 1</td>
+<td style="text-align: center;"><a href="https://github.com/akaeboshi">Lucas Heler</a></td>
+<td style="text-align: center;">07/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">10/05/2024</td>
+<td style="text-align: center;"><code>1.6</code></td>
+<td style="text-align: center;">Edição de Análise de Tarefa e correção pós entrega ponto de controle 2</td>
+<td style="text-align: center;"><a href="https://github.com/Katuner">Lucas Meireles</a></td>
+<td style="text-align: center;">13/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">22/05/2024</td>
+<td style="text-align: center;"><code>1.7</code></td>
+<td style="text-align: center;">Adição de Análise de Tarefas 6 e HTA</td>
+<td style="text-align: center;"><a href="https://github.com/Akaeboshi">Lucas Heler</a></td>
+<td style="text-align: center;">22/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/freitasc">Cainã Freitas</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">22/05/2024</td>
+<td style="text-align: center;"><code>1.8</code></td>
+<td style="text-align: center;">Adição de tarefa</td>
+<td style="text-align: center;"><a href="https://github.com/joycejdm">Joyce Dionizio</a></td>
+<td style="text-align: center;">22/05/2024</td>
+<td style="text-align: center;"><a href="https://github.com/freitasc">Cainã Freitas</a>, <a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">06/06/2024</td>
+<td style="text-align: center;"><code>2.0</code></td>
+<td style="text-align: center;">Adição de HTA 6</td>
+<td style="text-align: center;"><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+<td style="text-align: center;">11/06/2024</td>
+<td style="text-align: center;"><a href="https://github.com/Augcamp">Augusto Duarte</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">07/06/2024</td>
+<td style="text-align: center;"><code>2.1</code></td>
+<td style="text-align: center;">Adição CNM-GOMS 8</td>
+<td style="text-align: center;"><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+<td style="text-align: center;">11/06/2024, 17/06/2024</td>
+<td style="text-align: center;"><a href="https://github.com/Augcamp">Augusto Duarte</a>, <a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">07/07/2024</td>
+<td style="text-align: center;"><code>3.0</code></td>
+<td style="text-align: center;">Adição fonte GOMS e motivo de escolha, bibliografia, citações bibliograficas</td>
+<td style="text-align: center;"><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+<td style="text-align: center;">07/07/2024</td>
+<td style="text-align: center;"><a href="https://github.com/freitasc">Cainã Freitas</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">07/07/2024</td>
+<td style="text-align: center;"><code>3.1</code></td>
+<td style="text-align: center;">Melhora e revisa meu HTA e Gomms, corrige uns typos no texto</td>
+<td style="text-align: center;"><a href="https://github.com/freitasc">Cainã Freitas</a></td>
+<td style="text-align: center;">08/07/2024</td>
+<td style="text-align: center;"><a href="https://github.com/joycejdm">Joyce Dionizio</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">08/07/2024</td>
+<td style="text-align: center;"><code>3.2</code></td>
+<td style="text-align: center;">Revisao HTA e Gomms</td>
+<td style="text-align: center;"><a href="https://github.com/joycejdm">Joyce Dionizio</a></td>
+<td style="text-align: center;">08/07/2024</td>
+<td style="text-align: center;"><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.sections", "toc.integrate", "navigation.top", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+        <script src="../../js/open_in_new_tab.js"></script>
+      
+    
+  </body>
+</html>
