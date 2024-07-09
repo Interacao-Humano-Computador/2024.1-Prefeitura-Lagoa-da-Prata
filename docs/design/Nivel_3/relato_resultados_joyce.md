@@ -91,13 +91,13 @@ A Tabela 3 apresenta a ordem de realização das entrevistas, com data, horário
 
 **Tabela 3** - Cronograma da Execução das Entrevistas 
 
-| Ordem | Data       | Horário de início e fim | Local                  | Entrevistadores                 | Entrevistado      | Tarefas                                                              |
-| ----- | ---------- | ----------------------- | ---------------------- | ------------------------------- | ----------------- | -------------------------------------------------------------------- |
-| 1°    | 03/07/2024 | 16:00 - 16:15           | FGA - LDTEA, sala 313  |   [Joyce Dionizio](https://github.com/joycejdm)     | Laura              | Cadastro Antecipado de Aluno.                        |
-| 2°    | 03/07/2024 | 16:30 - 16:45           | FGA - LDTEA, sala 313  |  [Joyce Dionizio](https://github.com/joycejdm)    | Artur              | Cadastro Antecipado de Aluno.                          |
-| 3°    | 03/07/2024 | 17:00 - 17:15           | FGA - LDTEA, sala 313  |  [Joyce Dionizio](https://github.com/joycejdm)   | Eric              | Cadastro Antecipado de Aluno.                     |
-| 4°    | 03/07/2024 | 17:30 - 17:45           | FGA - LDTEA, sala 313  |  [Joyce Dionizio](https://github.com/joycejdm)   | Maria Eduarda              | Cadastro Antecipado de Aluno.                  |
-| 3°    | 03/07/2024 | 18:00 - 18:15           | FGA - LDTEA, sala 313  |  [Joyce Dionizio](https://github.com/joycejdm)   | Gustavo              |Cadastro Antecipado de Aluno.                        |
+| Ordem | Data       | Horário de início e fim | Local                 | Entrevistadores                               | Entrevistado  | Tarefas                       |
+| ----- | ---------- | ----------------------- | --------------------- | --------------------------------------------- | ------------- | ----------------------------- |
+| 1°    | 03/07/2024 | 16:00 - 16:15           | FGA - LDTEA, sala 313 | [Joyce Dionizio](https://github.com/joycejdm) | Laura         | Cadastro Antecipado de Aluno. |
+| 2°    | 03/07/2024 | 16:30 - 16:45           | FGA - LDTEA, sala 313 | [Joyce Dionizio](https://github.com/joycejdm) | Artur         | Cadastro Antecipado de Aluno. |
+| 3°    | 03/07/2024 | 17:00 - 17:15           | FGA - LDTEA, sala 313 | [Joyce Dionizio](https://github.com/joycejdm) | Eric          | Cadastro Antecipado de Aluno. |
+| 4°    | 03/07/2024 | 17:30 - 17:45           | FGA - LDTEA, sala 313 | [Joyce Dionizio](https://github.com/joycejdm) | Maria Eduarda | Cadastro Antecipado de Aluno. |
+| 3°    | 03/07/2024 | 18:00 - 18:15           | FGA - LDTEA, sala 313 | [Joyce Dionizio](https://github.com/joycejdm) | Gustavo       | Cadastro Antecipado de Aluno. |
 
 *Fonte: [DIONIZIO, Joyce](https://github.com/joycejdm). 2024.*
 
@@ -383,9 +383,9 @@ Com base nos resultados obtidos, não foram identificadas necessidades urgentes 
 
 
 ## Histórico de Versões
-|    Data    | Versão |                 Descrição                 |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
-| :--------: | :----: | :---------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
-| 03/07/2024 | `1.0`  |      Criação do Documento     | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
-| 03/07/2024 | `1.2`  |      Adição das Entrevistas    | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
-| 03/07/2024 | `1.3`  |      Adição Protótipo    | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
-| 08/07/2024 | `2.0`  |      Analise dos Dados    | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
+|    Data    | Versão |       Descrição        |                   Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :--------------------: | :-------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 03/07/2024 | `1.0`  |  Criação do Documento  | [Joyce Dionizio](https://github.com/joycejdm) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 03/07/2024 | `1.2`  | Adição das Entrevistas | [Joyce Dionizio](https://github.com/joycejdm) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 03/07/2024 | `1.3`  |    Adição Protótipo    | [Joyce Dionizio](https://github.com/joycejdm) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 08/07/2024 | `2.0`  |   Analise dos Dados    | [Joyce Dionizio](https://github.com/joycejdm) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray) |
