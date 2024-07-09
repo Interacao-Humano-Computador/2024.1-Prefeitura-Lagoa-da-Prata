@@ -26,8 +26,13 @@ Para realizar esse planejamento foi utilizado o framework DECIDE proposto para o
 ### D - Determinar os objetivos
 O objetivo da avaliação é testar a usabilidade, funcionalidade e interface do protótipo de alta fidelidade obtendo um feedback de usuários reais para que seja possível melhorar o protótipo e assemelhando de forma mais precisa à versão final do produto.
 
+Os objetivos da avaliação são baseados nos seguintes topicos:
+(1) analisar a apropriação da tecnologia
+(2) comparar ideias e alternativas de design;
+(3) identificar problemas na interação e interface.
+
 ### E - Explorar perguntas
-Para alcançar o objetivo foram preparadas perguntas que serão respondidas na avaliação, sendo elas baseadas no Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)<a id="anchor_1" href="#REF1">1</a> e podem ser vistos na tabela 02 abaixo:
+Para alcançar os objetivos foram preparadas perguntas que serão respondidas na avaliação, sendo elas baseadas no Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)<a id="anchor_1" href="#REF1">1</a> e podem ser vistos na tabela 02 abaixo:
 
 <center>
 
