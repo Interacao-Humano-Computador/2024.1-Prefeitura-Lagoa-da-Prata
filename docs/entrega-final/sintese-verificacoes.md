@@ -222,5 +222,5 @@ As Tabelas 1 a 9 detalham os responsáveis pela criação das checklists para ca
 
 |    Data    | Versão |                                       Descrição                                       |                  Autor(es)                  | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :-----------------------------------------: | :-------------: | :-----------------------------------------: |
-| 06/07/2024 | `1.0`  |          Criação do documento e adição das sintesis das verificações grupo 5          | [Augusto Duarte](https://github.com/Augcamp)  |            |         |
-| 06/07/2024 | `1.1`  |          Adição das sintesis das verificações grupo 6          | [Augusto Duarte](https://github.com/Augcamp)  |            |         |
+| 06/07/2024 | `1.0`  |          Criação do documento e adição das sintesis das verificações grupo 5          | [Augusto Duarte](https://github.com/Augcamp)  |   08/07/2024          |  [Joyce Dionizio](https://github.com/joycejdm)       |
+| 06/07/2024 | `1.1`  |          Adição das sintesis das verificações grupo 6          | [Augusto Duarte](https://github.com/Augcamp)  |  08/07/2024          |   [Joyce Dionizio](https://github.com/joycejdm)      |

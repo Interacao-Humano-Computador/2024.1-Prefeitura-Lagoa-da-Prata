@@ -19,7 +19,7 @@ Segue abaixo a Tabela 01 contendo todas as atividades que serão realizadas, a d
 
 | <center>Atividade </center>                | <center>Período de desenvolvimento</center> |                            <center>Responsável</center>                            | <center>Revisão </center> |          <center>Revisores</center>          |
 | ------------------------------------------ | :-----------------------------------------: | :--------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
-| Planejamento do Projeto - Cronograma       |        02/04/2024 - 04/04/2024/2024         |                    [Pedro Lucas](https://github.com/lucasdray)                     |        04/04/2024         | [Lucas Meireles](https://github.com/Katuner) |
+| Planejamento do Projeto - Cronograma       |           02/04/2024 - 04/04/2024           |                    [Pedro Lucas](https://github.com/lucasdray)                     |        04/04/2024         | [Lucas Meireles](https://github.com/Katuner) |
 | Heatmap de disponibilidade dos integrantes |                 20/03/2024                  |                    [Pedro Lucas](https://github.com/lucasdray)                     |        02/04/2024         |     [Joyce](https://github.com/joycejdm)     |
 | Sites Avaliados                            |           21/03/2024 - 29/03/2024           |    [Augusto](https://github.com/Augcamp) , [Cainã](https://github.com/freitasc)    |        29/03/2024         | [Pedro Lucas](https://github.com/lucasdray)  |
 | Criação do Git Pages                       |                 27/03/2024                  |                    [Pedro Lucas](https://github.com/lucasdray)                     |        30/03/2024         |    [Augusto](https://github.com/Augcamp)     |
@@ -240,9 +240,9 @@ Segue abaixo a Tabela 10 contendo as Atividades que serão realizadas, a data da
 
 ## Historico de revisão
 
-|    Data    | Versão |                              Descrição                              |                  Autor(es)                  | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :-----------------------------------------------------------------: | :-----------------------------------------: | :-------------: | :------------------------------------------: |
-| 04/04/2024 | `1.0`  |                        Criação do documento                         | [Pedro Lucas](https://github.com/lucasdray) | 04/04/2024/2024 | [Lucas Meireles](https://github.com/Katuner) |
-| 09/04/2024 | `1.1`  |            Padronização nome das tabelas e texto citando            | [Pedro Lucas](https://github.com/lucasdray) |  08/07/2024               |  [Joyce Dionizio](https://github.com/joycejdm)                                            |
-| 15/04/2024 | `2.0`  |                Correção períodos de desenvolvimento                 | [Pedro Lucas](https://github.com/lucasdray) |  08/07/2024                |        [Joyce Dionizio](https://github.com/joycejdm)                                      |
-| 12/05/2024 | `3.0`  | Alteração nos cronogramas devido alteração cronograma da disciplina | [Pedro Lucas](https://github.com/lucasdray) |   08/07/2024               |   [Joyce Dionizio](https://github.com/joycejdm)                                           |
+|    Data    | Versão |                              Descrição                              |                  Autor(es)                  | Data de revisão |                  Revisor(es)                  |
+| :--------: | :----: | :-----------------------------------------------------------------: | :-----------------------------------------: | :-------------: | :-------------------------------------------: |
+| 04/04/2024 | `1.0`  |                        Criação do documento                         | [Pedro Lucas](https://github.com/lucasdray) | 04/04/2024/2024 | [Lucas Meireles](https://github.com/Katuner)  |
+| 09/04/2024 | `1.1`  |            Padronização nome das tabelas e texto citando            | [Pedro Lucas](https://github.com/lucasdray) |   08/07/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
+| 15/04/2024 | `2.0`  |                Correção períodos de desenvolvimento                 | [Pedro Lucas](https://github.com/lucasdray) |   08/07/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
+| 12/05/2024 | `3.0`  | Alteração nos cronogramas devido alteração cronograma da disciplina | [Pedro Lucas](https://github.com/lucasdray) |   08/07/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
