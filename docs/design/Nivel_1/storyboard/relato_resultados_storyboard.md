@@ -195,6 +195,64 @@ Abaixo na tabela 5 se encontra as respostas às perguntas coletadas na entrevist
  *Fonte: [DUARTE, Augusto.](https://github.com/Augcamp) 2024.*   
 </center>
 
+## Quarta Entrevista - Solicitar vistoria de local com água parada
+Dados gerais da entrevista:
+
+- Entrevistador: [Pedro Lucas](https://github.com/lucasdray)
+- Nome do(a) entrevistado(a): Renato Cesar Oliveira
+- Faixa etária do(a) entrevistado(a): menor que 21 anos
+- Profissão do(a) entrevistado(a): estudante
+- Data da entrevista: 08/07/2024
+- Horário da entrevista: 20:17
+- Local da entrevista: Casa do entrevistador
+
+Abaixo se encontra a Figura 4 referente ao Storyboard da tarefa Solicitar vistoria de local com água parada.
+
+<center>
+
+**Figura 4** - O storyboard da funcionalidade de Solicitar vistoria de local com água parada.
+
+![Solicitar vistoria de local com água parada](../../../assets/images/StoryBoards/storyboard_dourado.jpg)
+
+*Fonte: [DOURADO, Pedro Lucas.](https://github.com/lucasdray) 2024.*
+
+</center>
+
+A seguir se encontra o vídeo 2 com a entrevista referente ao Storyboard 2
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lBlT67JbN7Y?si=htYCvK1kOIx8psTq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Disponível em : <https://youtu.be/lBlT67JbN7Y>
+</center>
+
+Abaixo na tabela 4 se encontra as respostas às perguntas coletadas na entrevista no Vídeo 4 e referentes ao Storyboard da Figura 4:
+
+<center>
+ **Tabela 4** - Respostas da entrevista para o Storyboard 4
+
+ | Enumeração de perguntas |                                                                       Pergunta                                                                       |                                                     Resposta                                                      |
+ | :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+ |            1            |                                            Os usuários envolvidos no storyboard condizem com a realidade?                                            |                                                        Sim                                                        |
+ |            2            |                                           O cenário que o storyboard está inserido condiz com a realidade?                                           |                                                 Sim, meio urbano                                                  |
+ |            3            |                                       As ações realizadas pelo usuário no storyboard condizem com o esperado?                                        |                                                        Sim                                                        |
+ |            4            |                                         Você compreendeu o storyboard aqui passado e as pessoas envolvidas?                                          | Sim, confundi no começo as pessoas envolvidas achando que era a mesma mas depois vi que o cabelo estava diferente |
+ |            5            |                                           Foi possível compreender os passos realizados? Se não, por que?                                            |                                                        Sim                                                        |
+ |            6            |                                       Foi possível identificar a vantagem e a satisfação final do storyboard?                                        |                                                        Sim                                                        |
+ |            7            |                                  O storyboard mostra como o produto resolve o problema ou a necessidade do usuário?                                  |                                       Sim, mostra que atingiu a finalidade                                        |
+ |            8            |                                          O storyboard demonstra os benefícios e as vantagens da ferramenta?                                          |                 Sim, demonstra a praticidade de não ter que abrir um requerimento presencialmente                 |
+ |            9            |                               Dados os aspectos apresentados, você vê a possibilidade desse cenário ocorrer na cidade?                               |                                                        Sim                                                        |
+ |           10            |               Dados os aspectos apresentados, você vê a população criando uma cultura para utilizar a proposta aqui descrita? Explique               |               Sim, se for aplicado um projeto de divulgação que a solicitação pode ser feita online               |
+ |           11            | Dados os aspectos apresentados, você acha que é viável a utilização da ferramenta e que isso trará benefícios para as partes interessadas? Explique. |                                   Sim, vai agilizar o trabalho das duas partes                                    |
+ |           12            |              Há alguma alteração ou consideração que queira realizar para melhor trabalharmos o que foi proposto aqui? Se sim, por que?              |                                                Deixar mais bonito                                                 |
+
+*Fonte: [DOURADO, Pedro Lucas.](https://github.com/lucasdray) 2024.*
+</center>
+
+
+
+
+
+
 ## Histórico de Versões
 
 |    Data    | Versão |                Descrição                |                  Autor(es)                   | Data de revisão |                 Revisor(es)                  |
@@ -204,3 +262,4 @@ Abaixo na tabela 5 se encontra as respostas às perguntas coletadas na entrevist
 | 13/06/2024 | `1.3`  | Adição StoryBoard e dados da Entrevista | [Augusto Duarte](https://github.com/Augcamp) |   16/06/2024    | [Pedro Lucas](https://github.com/llucasdray) |
 | 13/06/2024 | `1.4`  |               Entrevista                | [Augusto Duarte](https://github.com/Augcamp) |   16/06/2024    | [Pedro Lucas](https://github.com/llucasdray) |
 | 13/06/2024 | `1.5`  |    Tabela de respostas da Entrevista    | [Augusto Duarte](https://github.com/Augcamp) |   16/06/2024    | [Pedro Lucas](https://github.com/llucasdray) |
+| 08/07/2024 | `1.7`  |           Adição Storyboard 3           | [Pedro Lucas](https://github.com/llucasdray) |   08/07/2024    | [Augusto Duarte](https://github.com/Augcamp) |

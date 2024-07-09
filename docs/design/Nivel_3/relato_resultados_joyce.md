@@ -15,7 +15,7 @@ uso dos seus usuários-alvo" (Rubin, 1994; Rubin e Chisnell, 2008). Com isso foi
 
 - **Observação direta**: Consiste na observação sistemática dos usuários durante a execução das tarefas. Isso pode incluir a coleta de dados qualitativos, como comportamentais, e quantitativos, como métricas de desempenho.
 
-- **Teste de Usabildiade**: Os usuários-avlo testam a usabilidade de um sistema interativo baseando-se em experiências anteriores de uso.
+- **Teste de Usabilidade**: Os usuários-avlo testam a usabilidade de um sistema interativo baseando-se em experiências anteriores de uso.
 
 - **Entrevista**: Realizadas com os usuários após a simulação de uso, com o objetivo de coletar informações sobre a experiência de uso do protótipo de papel.
 
@@ -362,13 +362,15 @@ A seguir se encontra a tabela 15 com as perguntas feitas para o entrevistador e 
 
 ## Considerações finais
 
-Com base na análise dos relatos dos entrevistados o protótipo conseguiu atender todas as espectativas de usabilidade.
+Com base na análise detalhada dos relatos dos entrevistados, o protótipo de alta fidelidade conseguiu atender às expectativas de usabilidade. Os entrevistados, de maneira geral, conseguiram navegar pelo sistema de forma eficiente e atingir seus objetivos sem grandes dificuldades. Contudo, alguns pontos de melhoria foram identificados, como a disposição de elementos na tela e erros ocasionais durante o uso do sistema. Estes dados são cruciais para ajustar o design e garantir uma experiência ainda mais fluida para o usuário final.
+
+A análise dos dados coletados nas entrevistas revelou padrões consistentes de interação e feedback dos usuários. A metodologia utilizada, embasada na literatura de usabilidade e interação humano-computador, proporcionou uma visão clara das áreas que funcionam bem e aquelas que necessitam de melhorias.
 
 ## Reprojeto
 
-Não vai ser necessário corrigir ou alterar nada no reprojeto.
+Com base nos resultados obtidos, não foram identificadas necessidades urgentes de correções ou alterações no protótipo. No entanto, recomenda-se realizar ajustes finos na disposição dos elementos na tela para otimizar a experiência do usuário e minimizar os erros durante a utilização do sistema. Essas melhorias garantirão que o protótipo atenda plenamente às expectativas de usabilidade e funcionalidade dos usuários.
 
-Bibliografia
+## Bibliografia
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 [2] Dumas, J. S., & Redish, J. C. (1999). A practical guide to usability testing. Intellect Books.
@@ -386,3 +388,4 @@ Bibliografia
 | 03/07/2024 | `1.0`  |      Criação do Documento     | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
 | 03/07/2024 | `1.2`  |      Adição das Entrevistas    | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
 | 03/07/2024 | `1.3`  |      Adição Protótipo    | [Joyce Dionizio](https://github.com/joycejdm) |       |  |
+| 08/07/2024 | `2.0`  |      Analise dos Dados    | [Joyce Dionizio](https://github.com/joycejdm) |       |  |

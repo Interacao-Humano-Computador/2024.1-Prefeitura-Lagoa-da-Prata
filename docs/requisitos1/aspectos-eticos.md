@@ -21,7 +21,7 @@ O TCLE é um documento vital à pesquisa que envolva pessoas pois o mesmo possui
 
 A assinatura do Termo de Consentimento Livre e Esclarecido (TCLE) é fundamental porque permite que os participantes decidam de forma consciente e voluntária se desejam fazer parte da pesquisa. Além disso, em situações que envolvam gravações, o pesquisador obtém autorização específica para utilizar tais registros, incluindo voz e/ou imagem das pessoas envolvidas. Neste contexto de pesquisas com participantes, adotamos o seguinte termo de consentimento, conforme mostrado na Figura 1.
  
-### TCLE de pesquisa
+### TCLE de pesquisa e avaliação em imagem
 Abaixo se encontram as figuras 1,2 e 3 que compõem as 3 páginas do TCLE que será usado em pesquisas feitas pela equipe a fim de coletar dados para o projeto.
 <center>
 
@@ -51,7 +51,7 @@ Abaixo se encontram as figuras 1,2 e 3 que compõem as 3 páginas do TCLE que se
 </center>
 
 
-### TCLE de avaliação
+### TCLE de pesquisa e avaliação em texto
 Abaixo se encontra o TCLE que será usado nas avaliações e que os usuários entrevistado terão que ler e dar seu consetimento para poder participar, seja esse consentimento de forma escrita ou verbal.
 
 Pesquisador Responsável: [NOME DO PESQUISADOR]
@@ -130,5 +130,5 @@ pesquisa.
 | 20/04/2024 | `1.0`  |           Criação do documento            |                       [Joyce Dionizio](https://github.com/joycejdm)                        |   06/05/2024    | [Cainã Freitas](https://github.com/freitasc) |
 | 06/05/2024 | `1.1`  |       Atualização e reestruturação        | [Lucas Heler](https://github.com/Akaeboshi) e [Lucas Meireles](https://github.com/Katuner) |   07/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
 | 10/05/2024 | `1.2`  | Correção pós-entrega ponto de controle 2  |                        [Lucas Meireles](https://github.com/Katuner)                        |   13/05/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
-| 11/05/2024 | `2.0`  | Adição termo de consetimento de avaliação | [Cainã Freitas](https://github.com/freitasc) e [Pedro Lucas](https://github.com/lucasdray) |                 |                                              |
-| 07/07/2024 | `3.0`  | Correção para entrega final | [Lucas Meireles](https://github.com/Katuner) |        |   
+| 11/05/2024 | `2.0`  | Adição termo de consetimento de avaliação | [Cainã Freitas](https://github.com/freitasc) e [Pedro Lucas](https://github.com/lucasdray) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 07/07/2024 | `3.0`  |        Correção para entrega final        |                        [Lucas Meireles](https://github.com/Katuner)                        |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray)  |

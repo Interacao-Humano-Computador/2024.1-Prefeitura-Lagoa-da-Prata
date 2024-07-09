@@ -101,8 +101,8 @@ Abaixo temos um vídeo que apresenta a entrevista completa com as respostas do u
 
 ## Histórico de Versões
 
-|    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :------------------------------------------: |
-| 06/05/2024 | `1.0`  | Criação do documento | [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
-| 10/05/2024 | `1.1`  | Correção pós-entrega | [Lucas Meireles](https://github.com/Katuner) | 08/07/2024 | [Joyce Dionzio](https://github.com/joycejdm) |
-| 08/07/2024 | `1.2`  | Correção da estrutura do documento | [Joyce Dionizio](https://github.com/Katuner) |  |  |
+|    Data    | Versão |             Descrição              |                  Autor(es)                   | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :--------------------------------: | :------------------------------------------: | :-------------: | :------------------------------------------: |
+| 06/05/2024 | `1.0`  |        Criação do documento        | [Pedro Lucas](https://github.com/lucasdray)  |   07/05/2024    | [Augusto Duarte](https://github.com/Augcamp) |
+| 10/05/2024 | `1.1`  |        Correção pós-entrega        | [Lucas Meireles](https://github.com/Katuner) |   08/07/2024    | [Joyce Dionzio](https://github.com/joycejdm) |
+| 08/07/2024 | `1.2`  | Correção da estrutura do documento | [Joyce Dionizio](https://github.com/Katuner) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
