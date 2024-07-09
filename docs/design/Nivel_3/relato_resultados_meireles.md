@@ -561,4 +561,4 @@ Através da inspeção, foi possível identificar 2 problemas potenciais relacio
 ## Histórico de Versões
 |    Data    | Versão |               Descrição                |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 08/07/2024 | `1.0`  |  Criação do documento e preenchimento completo do mesmo   | [Lucas Meireles](https://github.com/Katuner) |                 |             |
+| 08/07/2024 | `1.0`  |  Criação do documento e preenchimento completo do mesmo   | [Lucas Meireles](https://github.com/Katuner) | 08/07/2024                |   [Joyce Dionizio](https://github.com/joycejdm)          |
