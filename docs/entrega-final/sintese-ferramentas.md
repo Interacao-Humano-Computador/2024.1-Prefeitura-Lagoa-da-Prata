@@ -74,4 +74,4 @@ As ferramentas foram essenciais no desenvolvimento do projeto, investir tempo e 
 
 |    Data    | Versão |            Descrição            |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :-----------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
-| 04/07/2024 | `1.0`  |      Criação do documento       | [Augusto Duarte](https://github.com/Augcamp) |                 |                                             |
+| 04/07/2024 | `1.0`  |      Criação do documento       | [Augusto Duarte](https://github.com/Augcamp) |   04/07/2024               |   [Joyce Dionizio](https://github.com/joycejdm)                                          |
