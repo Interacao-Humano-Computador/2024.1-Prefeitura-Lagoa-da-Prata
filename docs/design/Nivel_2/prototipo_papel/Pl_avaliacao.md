@@ -129,5 +129,5 @@ Os resultados da avaliação serão analisados e interpretados pelos avaliadores
 |    Data    | Versão |              Descrição               |                  Autor(es)                   | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :----------------------------------: | :------------------------------------------: | :-------------: | :------------------------------------------: |
 | 03/06/2024 | `1.0`  |     Cria termo de consentimento      | [Cainã Freitas](https://github.com/freitasc) |   03/06/2024    | [Lucas Meireles](https://github.com/Katuner) |
-| 03/06/2024 | `1.1`  | Ajusta perguntas para pós-entrevista | [Lucas Meireles](https://github.com/Katuner) |   16/06/2024    |  [Pedro Lucas](https://github.com/lucasdray)                                            |
-| 08/07/2024 | `2.0`  | Reestrutura documento | [Cainã Freitas](https://github.com/freitasc)  |   | |
+| 03/06/2024 | `1.1`  | Ajusta perguntas para pós-entrevista | [Lucas Meireles](https://github.com/Katuner) |   16/06/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
+| 08/07/2024 | `2.0`  |        Reestrutura documento         | [Cainã Freitas](https://github.com/freitasc) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
