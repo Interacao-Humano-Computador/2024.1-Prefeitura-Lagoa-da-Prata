@@ -14,6 +14,12 @@ Mesmo tendo um ritmo frénetico de entregas a cada semana, o grupo ter falhado n
 
 ### Lucas Meireles
 
+Inicialmente, apesar de que, por meio de uma consciência ingênua, como demarcado por Vieira Pinto (2005), seja fácil identificar a importância de se pensar e projetar sob aspectos de interações entre um humano e sistemas de software, é apenas ao decorrer do estudo promovido pela disciplina que se começa a compreender os diversos estudos e posicionamentos que existem nesse âmbito.
+
+Desde o começo do projeto, os indivíduos são apresentados a diversos desafios e dificuldades, desde itens que deveriam ser simples, como a comunicação interpessoal e o comprometimento ao projeto, até itens mais complexos, como a experiência com diferentes ferramentas e a leitura necessária. A apresentação e estudo por meio de diversos pesquisadores e, consequentemente, um aglomerado farto de bibliografias proporcionam uma visão abrangente e técnica dos conceitos, métodos, práticas e desafios daqueles que trilham o caminho da pesquisa e projeção de sistemas pensados de fato em seu usuário. Após obter um raso conhecimento de processos, ciclos de vida e expectativas do projeto, novos desafios são apresentados, como a escolha do objeto de estudo, os métodos a serem adotados para recolher informações de tal objeto e as consequências de cada uma das escolhas feitas, não somente por cada integrante do grupo de pesquisa, mas pela entidade do próprio grupo. Conforme era dado prosseguimento ao projeto, novas dificuldades e desafios eram elencados, inclusive desafios que promoviam a comunicação de cada integrante com pessoas de fora de seu círculo ou ainda com pessoas com as quais nunca se imaginou conversando, justamente com o objetivo de compreender e ter uma nova perspectiva de outros possíveis usuários do sistema.
+
+Diversas habilidades foram desenvolvidas ao decorrer do projeto, mas também é necessário dizer que essas mesmas habilidades sempre precisam estar em desenvolvimento. Porém, a existência de experiências prévias e a superação de desafios são fundamentais para a composição de cada indivíduo, não apenas como um futuro engenheiro ou similar, mas como uma pessoa em si. Apesar da finalização do projeto estar presente, deve-se reconhecer que melhorias sempre poderão ser realizadas, e é importante aceitar esse fato e trabalhar para que uma compreensão concreta seja alcançada, permitindo assim o surgimento de uma nova consciência crítica em relação aos tópicos abordados ao longo dos estudos e, consequentemente, a adição de novas ferramentas e conhecimentos que podem ser utilizados não apenas para impactar novas tecnologias, mas para impactar vidas e pessoas de modo positivo.
+
 ### Augusto Campos
 
 Durante o projeto, acredido que para mim, gestão do tempo, especialmente diante de um cronograma de entregas rigoroso foram umas das dificuldades e também a importância da padronização durante a execução do trabalho.
@@ -31,6 +37,10 @@ Quanto às dificuldades, a principal foi a minha gestão da carga horária duran
 ## Conclusão
 
 O trabalho foi complexo e trabalhoso, mas com organização, esforço dos membros e atenção ao feedback do professor, monitor e outros grupos, conseguimos realizar as entregas e apresentar o melhor trabalho possível.
+
+## Bibliografia
+
+> VIEIRA PINTO, A. O conceito de tecnologia. 2 v. São Paulo: Contraponto, 2005.
 
 
 ## Historico de Versões
