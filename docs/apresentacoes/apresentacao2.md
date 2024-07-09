@@ -3,6 +3,16 @@
 ## Introdução
 Este documento contém o vídeo de apresentação do ponto de controle 2 da matéria de Interação Humano Computador e a tabela que valida a entrega.
 
+## Integrantes Presentes
+
+- Augusto Campos
+- Cainã Freitas
+- Joyce Dionizio
+- Lucas Heler
+- Lucas Meireles
+- Pedro Lucas Dourado
+
+
 ## Vídeo da apresentação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zwZ8xwmLKfg?si=6GUlNGR3oTklG7Ix" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

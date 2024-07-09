@@ -3,6 +3,14 @@
 ## Introdução
 Este documento contém o vídeo de apresentação do ponto de controle 7 da matéria de Interação Humano Computador e gravação referente à mesma.
 
+## Integrantes Presentes
+
+- Augusto Campos
+- Cainã Freitas
+- Joyce Dionizio
+- Lucas Meireles
+- Pedro Lucas Dourado
+
 ## Vídeo da apresentação
 Abaixo se encontra o vídeo 1 da apresentação da Etapa 7 do projeto:
 
@@ -20,6 +28,6 @@ Como especificado o link da apresentação se encontra no youtube e na categoria
 
 ## Histórico de revisão
 
-|    Data    | Versão |      Descrição       |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | :------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 03/07/2024 | `1.0`  | Criação do documento | [Lucas Meireles](https://github.com/Katuner) |                 |             |
+|    Data    | Versão |      Descrição       |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 03/07/2024 | `1.0`  | Criação do documento | [Lucas Meireles](https://github.com/Katuner) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray) |
