@@ -93,15 +93,7 @@ Utilizaremos o [Termo de Consentimento de Avaliação](../../../requisitos1/aspe
 
 Para o recolhimento de dados da entrevista, o avaliador responsável deverá, inicialmente, registrar os dados do entrevistado de nome, idade, profissão. Em seguida, irá recolher as respostas do usuário a respeito da prototipação apresentada e seus comentários. Caberá ao entrevistador e ao revisor da equipe a interpretação do dado para estabelecer o feedback subjetivo em um conceito geral que possa ser verificado por outros stakeholders e, possivelmente, os desenvolvedores do site. Os dados deverão ser registrados conforme níveis de relevância no contexto de IHC e do usuário, com o site avaliado em pequena, mediana e alta, tendo como critério inicial de distinção, o quanto o feedback do usuário lhe promove um bom incentivo à utilização do site e da funcionalidade apresentada, além de sua recomendação a outras pessoas para a utilização da mesma funcionalidade.
 
-Já para os dados provenientes da avaliação heurística, será seguido o modelo proposto por Barbosa (2021) quando se refere ao registro dos métodos de Nielsen (1994). O modelo é composto pelos itens: objetivos da avaliação, escopo da avaliação, descrição do método de heurística, conjunto de diretrizes, número e perfil dos avaliadores e  listagem de problemas encontrados (sendo que cada problema deve conter, por sua vez, local, descrição, diretriz violada, severidade e sugestões de solução). Os resultados individuais de cada avaliador serão levados ao grupo como um todo e analisados novamente, realizando uma revisão dos problemas encontrados e conformidade com o planejamento, assim como se as soluções propostas estão de acordo com a realidade.
-
-## Histórico de Revisão
-
-|    Data    | Versão |                  Descrição                   |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
-| :--------: | :----: | :------------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
-| 22/05/2024 | `1.0`  |       Elaboração inicial do documento        | [Lucas Meireles](https://github.com/Katuner) |   22/05/2024    | [Lucas Heler](https://github.com/akaeboshi) |
-| 03/06/2024 | `1.1`  | Adiciona tabela de perguntas para entrevista | [Cainã Freitas](https://github.com/freitasc) |   11/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
-| 11/06/2024 | `2.0`  |         Reestruturação no documento          | [Pedro Lucas](https://github.com/lucasdray) |    19/06/2024              |   [Joyce Dionizio](https://github.com/joycejdm)                                          |
+Já para os dados provenientes da avaliação heurística, será seguido o modelo proposto por Barbosa (2021) quando se refere ao registro dos métodos de Nielsen (1994). O modelo é composto pelos itens: objetivos da avaliação, escopo da avaliação, descrição do método de heurística, conjunto de diretrizes, número e perfil dos avaliadores e  listagem de problemas encontrados (sendo que cada problema deve conter, por sua vez, local, descrição, diretriz violada, severidade e sugestões de solução). Os resultados individuais de cada avaliador serão levados ao grupo como um todo e analisados novamente, realizando uma revisão dos problemas encontrados e conformidade com o planejamento, assim como se as soluções propostas estão de acordo com a realidade.                                      |
 
 ## Referencial Bibliográfico
 
@@ -118,4 +110,12 @@ Já para os dados provenientes da avaliação heurística, será seguido o model
 > <a id="REF6" href="#anchor_6">6.</a> Dumas, Joseph S. e Redish, Janice C. (1999). A Practical Guide to Usability Testing. Intellect Books, GBR, 1st edition.
 
 > <a id="REF7" href="#anchor_7">7.</a> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Capítulo 11.3: DECIDE: um framework para orientar a avaliação. Página 368.
+
+## Histórico de Versões
+
+|    Data    | Versão |                  Descrição                   |                  Autor(es)                   | Data de revisão |                  Revisor(es)                  |
+| :--------: | :----: | :------------------------------------------: | :------------------------------------------: | :-------------: | :-------------------------------------------: |
+| 22/05/2024 | `1.0`  |       Elaboração inicial do documento        | [Lucas Meireles](https://github.com/Katuner) |   22/05/2024    |  [Lucas Heler](https://github.com/akaeboshi)  |
+| 03/06/2024 | `1.1`  | Adiciona tabela de perguntas para entrevista | [Cainã Freitas](https://github.com/freitasc) |   11/06/2024    |  [Pedro Lucas](https://github.com/lucasdray)  |
+| 11/06/2024 | `2.0`  |         Reestruturação no documento          | [Pedro Lucas](https://github.com/lucasdray)  |   19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
 
