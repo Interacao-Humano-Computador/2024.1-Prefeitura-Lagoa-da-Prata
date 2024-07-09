@@ -4,24 +4,25 @@ Esse artefato apresenta a versão final do cronograma trabalhado durante a disci
 
 ## Cronograma
 
-Para melhor leitura, utilizamos "details" para esconder as tabelas. O documento original pode ser acessado aqui:
+Os documentos originais de cada cronograma podem ser acessados abaixo:
 
-- Cronograma Planejado: [cronograma_planejado.md](../planejamento/cronograma_planejado.md)
+- Cronograma Planejado: [cronograma_Planejado.md](../planejamento/cronograma_Planejado.md)
 
-- Cronograma Executado: [cronograma_executado.md](../planejamento/cronograma_executado.md)
+- Cronograma Executado: [cronograma_Executado.md](../planejamento/cronograma_Executado.md)
 
-Segue abaixo as tabelas:
+Segue abaixo as tabelas 01 até 20, seguindo uma estrutura de Cronograma Planejado da etapa n e Cronograma Planejado da etapa n:
 
 ## Ponto de controle 1
 
+<center>
 
-### Tabela PLANEJADO 01 - Ponto de Controle 1 
+### Tabela Cronograma Planejado 01 - Ponto de Controle 1 
 
- 
+**Tabela 01** - Cronograma Planejado 01 - Ponto de Controle 1 
 
 | Atividade                 | Período de desenvolvimento |                            Responsável                            | Revisão  |          Revisores          |
 | ------------------------------------------ | :-----------------------------------------: | :--------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
-| Planejamento do Projeto - Cronograma       |        02/04/2024 - 04/04/2024/2024         |                    [Pedro Lucas](https://github.com/lucasdray)                     |        04/04/2024         | [Lucas Meireles](https://github.com/Katuner) |
+| Planejamento do Projeto - Cronograma       |        02/04/2024 - 04/04/2024        |                    [Pedro Lucas](https://github.com/lucasdray)                     |        04/04/2024         | [Lucas Meireles](https://github.com/Katuner) |
 | Heatmap de disponibilidade dos integrantes |                 20/03/2024                  |                    [Pedro Lucas](https://github.com/lucasdray)                     |        02/04/2024         |     [Joyce](https://github.com/joycejdm)     |
 | Sites Avaliados                            |           21/03/2024 - 29/03/2024           |    [Augusto](https://github.com/Augcamp) , [Cainã](https://github.com/freitasc)    |        29/03/2024         | [Pedro Lucas](https://github.com/lucasdray)  |
 | Criação do Git Pages                       |                 27/03/2024                  |                    [Pedro Lucas](https://github.com/lucasdray)                     |        30/03/2024         |    [Augusto](https://github.com/Augcamp)     |
@@ -33,16 +34,11 @@ Segue abaixo as tabelas:
 | Edição da Gravação                         |           06/04/2024 - 07/04/2024           |                        [Joyce](https://github.com/joycejdm)                        |  06/04/2024 - 07/04/2024  | [Lucas Meireles](https://github.com/Katuner) |
 | Cronograma Executado                       |                 06/04/2024                  |                    [Pedro Lucas](https://github.com/lucasdray)                     |        06/04/2024         | [Lucas Meireles](https://github.com/Katuner) |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
+### Tabela Cronograma Executado 01 - Ponto de Controle 1 
 
-
-
-
-
-### Tabela EXECUTADO 01 - Ponto de Controle 1 
-
-
+**Tabela 02** - Cronograma Executado 01 - Ponto de Controle 1
 
 | Atividade         | Período de desenvolvimento |                                                                                       Responsável                                                                                       | Revisão  |                                               Revisores                                               |
 | ------------------------------------------ | :--------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
@@ -58,17 +54,15 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Edição da Gravação                     |                      07/04/2024                      |                                                                 [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner)                                                                 |             08/04/2024             |                                            [Lucas Meireles](https://github.com/Katuner)                                            |
 | Cronograma Executado                       |               04/04/2024 - 07/04/2024               |                                                               [Pedro Lucas](https://github.com/lucasdray), [Cainã Valença](https://github.com/freitasc)                                                               |             07/04/2024             | [Augusto Duarte](https://github.com/Augcamp), [Joyce Dionizio](https://github.com/joycejdm), [Pedro Lucas](https://github.com/lucasdray) |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
-
-
-
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 ## Ponto de controle 2
 
 
-### Tabela PLANEJADO 02 - Ponto de Controle 2 
+### Tabela Cronograma Planejado 02 - Ponto de Controle 2
 
+**Tabela 03** - Cronograma Planejado 02 - Ponto de Controle 2
 
 
 | Atividade                      | Período de desenvolvimento |                                Responsável                                | Revisão  |          Revisores          |
@@ -83,16 +77,12 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Cronograma Executado                            |                 06/05/2024                  |                        [Pedro Lucas](https://github.com/lucasdray)                         |        06/05/2024         | [Lucas Heler](https://github.com/Akaeboshi)  |
 
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
+### Tabela Cronograma Executado 02 - Ponto de Controle 2 
 
-
-
-
-### Tabela EXECUTADO 02 - Ponto de Controle 2 
-
-
+**Tabela 04** - Cronograma Executado 02 - Ponto de Controle 2
 
 | Atividade              | Período de desenvolvimento |                                                                                                           Responsável                                                                                                           | Revisão  |                                                                                       Revisores                                                                                       |
 | ------------------------------------------------ | :--------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -106,18 +96,15 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Gravação da apresentação                     |                      06/05/2024                      | [Augusto](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/joycejdm), [Lucas Heler](https://github.com/Akaeboshi), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) |             06/05/2024             |                                         [Lucas Heler](https://github.com/Akaeboshi), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray)                                         |
 | Cronograma Executado                             |                      06/05/2024                      |                                                                                    [Pedro Lucas](https://github.com/lucasdray), [Lucas Meireles](https://github.com/Katuner)                                                                                    |             06/05/2024             |                                                                                    [Pedro Lucas](https://github.com/lucasdray)                                                                                    |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
-
-
-
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 ## Ponto de controle 3
 
 
-### Tabela PLANEJADO 03 - Ponto de Controle 3 
+### Tabela Cronograma Planejado 03 - Ponto de Controle 3 
 
-
+**Tabela 05** - Cronograma Planejado 03 - Ponto de Controle 3
 
 | Atividade                   | Período de desenvolvimento |                                                                                                  Responsável                                                                                                  | Revisão  |          Revisores          |
 | -------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
@@ -131,16 +118,16 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Edição da gravação                           |           11/05/2024 - 12/05/2024           |                                                                                              [Joyce](https://github.com/joycejdm)                                                                                              |        12/05/2024         | [Lucas Meireles](https://github.com/Katuner) |
 | Cronograma Executado                         |                 11/05/2024                  |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        11/05/2024         |     [Joyce](https://github.com/joycejdm)     |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
 
 
 
-### Tabela EXECUTADO 03 - Ponto de Controle 3 
+### Tabela Cronograma Executado 03 - Ponto de Controle 3 
 
-
+**Tabela 06** - Cronograma Executado 03 - Ponto de Controle 3
 
 | Atividade           | Período de desenvolvimento |                                                                                                           Responsável                                                                                                           | Revisão  |                                                                                                             Revisores                                                                                                             |
 | --------------------------------------------- | :--------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -153,40 +140,38 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Gravação da apresentação                  |                      13/05/2024                      |                       [Augusto](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Lucas Heler](https://github.com/Akaeboshi), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray)                       |             13/05/2024             |                       [Augusto](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Lucas Heler](https://github.com/Akaeboshi), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray)                       |
 | Cronograma Executado                          |               09/05/2024 - 13/05/2024               |                                                                                    [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray)                                                                                    |      12/05/2024 - 13/05/2024      |                                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                                          |
 
-Fonte: MEIRELES, Lucas Oliveira. 2024.
-
-
+*Fonte: [MEIRELES, Lucas O.](https://github.com/Katuner) 2024.*
 
 
 
 ## Ponto de controle 4
 
 
-### Tabela PLANEJADO 04 - Ponto de Controle 4 
+### Tabela Cronograma Planejado 04 - Ponto de Controle 4 
 
-
+**Tabela 07** - Cronograma Planejado 04 - Ponto de Controle 4 
 
 | Atividade                                              | Período de desenvolvimento |                                                                                                  Responsável                                                                                                  | Revisão  |          Revisores          |
 | ----------------------------------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
 | Correção dos artefatos Ponto de Controle 3                              |           14/05/2024 - 15/05/2024           |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        15/05/2024         |     [Cainã](https://github.com/freitasc)     |
 | Planejamento da Avaliação do Storyboard e Análise de tarefas            |          15/05/2024   - 20/05/2024          |                                                                   [Lucas Meireles](https://github.com/Katuner), [Lucas Heler](https://github.com/Akaeboshi)                                                                    |        20/05/2024         |     [Joyce](https://github.com/joycejdm)     |
 | Planejamento do relato dos resultados da avaliação do Storyboard        |          15/05/2024   - 20/05/2024          |                                                                          [Augusto](https://github.com/Augcamp), [Joyce](https://github.com/joycejdm)                                                                           |        20/05/2024         | [Pedro Lucas](https://github.com/lucasdray)  |
-| Planejamento do relato dos resultados da avaliação do Análise de tarefa |          15/05/2024   - 20/05/2024          |                                                                       [Pedro Lucas](https://github.com/lucasdray), [Cainã](https://github.com/freitasc)                                                                        |        20/05/2024         | [Lucas Heler](https://github.com/Akaeboshi)  |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas |          15/05/2024   - 20/05/2024          |                                                                       [Pedro Lucas](https://github.com/lucasdray), [Cainã](https://github.com/freitasc)                                                                        |        20/05/2024         | [Lucas Heler](https://github.com/Akaeboshi)  |
 | Atualização Gitpages                                                    |           14/05/2024 - 20/05/2024           | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Heler](https://github.com/Akaeboshi), [Pedro Lucas](https://github.com/lucasdray) |        20/05/2024         |     [Cainã](https://github.com/freitasc)     |
 | Gravação da apresentação                                                |          20/05/2024  - 21/05/2024           | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Heler](https://github.com/Akaeboshi), [Pedro Lucas](https://github.com/lucasdray) |        21/05/2024         |    [Augusto](https://github.com/Augcamp)     |
 | Edição da gravação                                                      |           20/05/2024 - 21/05/2024           |                                                                                              [Joyce](https://github.com/joycejdm)                                                                                              |        21/05/2024         | [Lucas Meireles](https://github.com/Katuner) |
 | Cronograma Executado                                                    |                 20/05/2024                  |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        20/05/2024         |    [Augusto](https://github.com/Augcamp)     |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
 
 
 
-### Tabela EXECUTADO 04 - Ponto de Controle 4 
+### Tabela Cronograma Executado 04 - Ponto de Controle 4 
 
-
+**Tabela 08** - Cronograma Executado 04 - Ponto de Controle 4
 
 | Atividade                                         | Período de desenvolvimento |                                                                  Responsável                                                                  | Revisão  |    Revisores    |
 | -------------------------------------------------------------------------- | :--------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :---------------------------------------: |
@@ -198,7 +183,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Edição da gravação                                                     |                      22/05/2024                      |                                                                    [Joyce](https://github.com/joycejdm)                                                                    |             22/05/2024             | [Lucas Meireles](https://github.com/Katuner) |
 | Cronograma Executado                                                       |                      22/05/2024                      |                                                                   [Cainã](https://github.com/freitasc)                                                                   |             22/05/2024             |    [Augusto](https://github.com/Augcamp)    |
 
-Fonte: FREITAS, Cainã. 2024.
+*Fonte: [FREITAS, Cainã](https://github.com/freitasc). 2024*.
 
 
 
@@ -207,9 +192,9 @@ Fonte: FREITAS, Cainã. 2024.
 ## Ponto de controle 5
 
 
-### Tabela PLANEJADO 05 - Ponto de Controle 5 
+### Tabela Cronograma Planejado 05 - Ponto de Controle 5 
 
-
+**Tabela 09** - Cronograma Planejado 05 - Ponto de Controle 5 
 
 | Atividade                                               | Período de desenvolvimento |                                                                                                  Responsável                                                                                                  | Revisão  |          Revisores          |
 | ------------------------------------------------------------------------ | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
@@ -222,16 +207,16 @@ Fonte: FREITAS, Cainã. 2024.
 | Edição da gravação                                                       |          01/06/2024  - 02/06/2024           |                                                                                              [Joyce](https://github.com/joycejdm)                                                                                              |        02/06/2024         | [Lucas Heler](https://github.com/Akaeboshi)  |
 | Cronograma Executado                                                     |                 01/06/2024                  |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        01/06/2024         |     [Cainã](https://github.com/freitasc)     |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
 
 
 
-### Tabela EXECUTADO 05 - Ponto de Controle 5 
+### Tabela Cronograma Executado 05 - Ponto de Controle 5 
 
-
+**Tabela 10** - Cronograma Executado 05 - Ponto de Controle 5
 
 | Atividade                           | Período de desenvolvimento |                                                                                      Responsável                                                                                      | Revisão  |    Revisores    |
 | ------------------------------------------------------------ | :--------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :---------------------------------------: |
@@ -244,7 +229,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Gravação da apresentação                                 |                      03/06/2024                      | [Augusto](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/joycejdm), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) |                                    |                                          |
 | Cronograma Executado                                         |                      03/06/2024                      |                                                              [Pedro Lucas](https://github.com/lucasdray) e   [Lucas Meireles](https://github.com/Katuner)                                                              |                                    |                                          |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
@@ -253,7 +238,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 ## Ponto de controle 6.1
 
 
-### Tabela PLANEJADO 06.1 - Ponto de Controle 6.1 
+### Tabela Cronograma Planejado 6.1 - Ponto de Controle 6.1
+
+**Tabela 11** - Cronograma Planejado 6.1 - Ponto de Controle 6.1
 
 
 
@@ -270,16 +257,16 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Edição da gravação                         |                 11/06/2024                  |                                                                                              [Joyce](https://github.com/joycejdm)                                                                                              |        11/06/2024         | [Lucas Heler](https://github.com/Akaeboshi)  |
 | Cronograma Executado                       |                 11/06/2024                  |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        11/06/2024         |     [Cainã](https://github.com/freitasc)     |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
 
 
 
-### Tabela EXECUTADO 06.1 - Ponto de Controle 6.1 
+### Tabela Cronograma Executado 6.1 - Ponto de Controle 6.1 
 
-
+**Tabela 12** - Cronograma Executado 6.1 - Ponto de Controle 6.1
 
 | Atividade           | Período de desenvolvimento |                                                                                        Responsável                                                                                        | Revisão  |                                                                                         Revisores                                                                                         |
 | -------------------------------------------- | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -292,7 +279,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Gravação da apresentação                 |                      12/06/2024                      | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner) e [Pedro Lucas](https://github.com/lucasdray) |             16/06/2024             |                                                                                      [Pedro Lucas](https://github.com/lucasdray)                                                                                      |
 | Cronograma Executado                         |                      12/06/2024                      |                                                               [Pedro Lucas](https://github.com/lucasdray)   e [Lucas Meireles](https://github.com/Katuner)                                                               |             12/06/2024             |                                                                                     [Cainã Valença](https://github.com/freitasc)                                                                                     |
 
-Fonte: DOURADO, Pedro Lucas. 2024. 
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.* 
 
 
 
@@ -301,7 +288,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 ## Ponto de controle 7
 
 
-### Tabela PLANEJADO 07 - Ponto de Controle 7 
+### Tabela Cronograma Planejado 7 - Ponto de Controle 7
+
+**Tabela 13** - Cronograma Planejado 7 - Ponto de Controle 7
 
 
 
@@ -316,16 +305,16 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Edição da apresentação                                                             |                 18/06/2024                  |                                                                                              [Joyce](https://github.com/joycejdm)                                                                                              |        18/06/2024         |    [Augusto](https://github.com/Augcamp)     |
 | Cronograma Executado                                                               |                 18/06/2024                  |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        18/06/2024         | [Lucas Meireles](https://github.com/Katuner) |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
 
 
 
-### Tabela EXECUTADO 07 - Ponto de Controle 7 
+### Tabela Cronograma Executado 7 - Ponto de Controle 7 
 
-
+**Tabela 14** - Cronograma Executado 7 - Ponto de Controle 7
 
 | Atividade                                                    | Período de desenvolvimento |                                                                                        Responsável                                                                                        | Revisão  |                                                                                         Revisores                                                                                         |
 | ------------------------------------------------------------------------------------- | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -336,7 +325,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Gravação da apresentação                                                          |                      19/06/2024                      | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner) e [Pedro Lucas](https://github.com/lucasdray) |                                    |                                                                                                                                                                                                                    |
 | Cronograma Executado                                                                  |                      19/06/2024                      |                                          [Pedro Lucas](https://github.com/lucasdray), [Lucas Meireles](https://github.com/Katuner) e [Cainã Valença](https://github.com/freitasc)                                          |                                    |                                                                                                                                                                                                                    |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
@@ -345,9 +334,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 ## Ponto de controle 6.2
 
 
-### Tabela PLANEJADO 06.2 - Ponto de Controle 6.2 
+### Tabela Cronograma Planejado 6.2 - Ponto de Controle 6.2 
 
-
+**Tabela 15** - Cronograma Planejado 6.2 - Ponto de Controle 6.2
 
 | Atividade                     | Período de desenvolvimento |                                                                                                  Responsável                                                                                                  | Revisão  |          Revisores          |
 | ---------------------------------------------- | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
@@ -364,25 +353,25 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Edição Apresentação                            |                 22/06/2024                  |                                                                                              [Joyce](https://github.com/joycejdm)                                                                                              |        22/06/2024         | [Lucas Meireles](https://github.com/Katuner) |
 | Cronograma Executado                           |                 22/06/2024                  |                                                                                          [Pedro Lucas](https://github.com/lucasdray)                                                                                           |        22/06/2024         |     [Joyce](https://github.com/joycejdm)     |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
 
 
 
-### Tabela EXECUTADO 06.2 - Ponto de Controle 6.2 
+### Tabela Cronograma Executado 6.2 - Ponto de Controle 6.2
 
-
+**Tabela 16** - Cronograma Executado 6.2 - Ponto de Controle 6.2
 
 | Atividade  | Período de desenvolvimento |                                                                                       Responsável                                                                                       | Revisão  |                         Revisores                         |
 | ----------------------------------- | :--------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :---------------------------------------------------------------------------------: |
 | Desenvolver lista da Etapa 2        |               19/06/2024 - 26/06/2024               |                      [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner)                      |      23/06/2024 - 26/06/2024      |                      [Pedro Lucas](https://github.com/lucasdray)                      |
-| Desenvolver lista da Etapa 3        |               19/06/2024 - 26/06/2024               |                                                                                    [Cainã Valença](https://github.com/freitasc)                                                                                    |      25/06/2024 - 26/06/2024      |                   [Lucas Meireles](https://github.com/Katuner), ???                   |
+| Desenvolver lista da Etapa 3        |               19/06/2024 - 26/06/2024               |                                                                                    [Cainã Valença](https://github.com/freitasc)                                                                                    |      25/06/2024 - 26/06/2024      |                   [Lucas Meireles](https://github.com/Katuner)                   |
 | Desenvolver lista da Etapa 4        |               19/06/2024 - 26/06/2024               |                                           [Augusto Duarte](https://github.com/Augcamp), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray)                                           |      23/06/2024 - 26/06/2024      | [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) |
 | Desenvolver lista da Etapa 5        |               19/06/2024 - 26/06/2024               |                                                               [Augusto Duarte](https://github.com/Augcamp), = [Pedro Lucas](https://github.com/lucasdray)                                                               |      23/06/2024 - 26/06/2024      | [Augusto Duarte](https://github.com/Augcamp), [Pedro Lucas](https://github.com/lucasdray) |
 | Desenvolver lista da Etapa 7        |               19/06/2024 - 26/06/2024               |                                           [Augusto Duarte](https://github.com/Augcamp), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray)                                           |      23/06/2024 - 26/06/2024      | [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) |
-| Desenvolver lista da Etapa 8        |               19/06/2024 - 26/06/2024               |                                                                                     [Lucas Meireles](https://github.com/Katuner)                                                                                     |             26/06/2024             |                                         ???                                         |
+| Desenvolver lista da Etapa 8        |               19/06/2024 - 26/06/2024               |                                                                                     [Lucas Meireles](https://github.com/Katuner)                                                                                     |             26/06/2024             |                                                                                  |
 | Verficação lista da Etapa 2       |                      26/06/2024                      | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) |                                    |                                                                                    |
 | Verficação lista da Etapa 3       |                      26/06/2024                      |                                                                [Augusto Duarte](https://github.com/Augcamp), [Lucas Meireles](https://github.com/Katuner)                                                                |                                    |                                                                                    |
 | Verficação lista da Etapa 4       |                      26/06/2024                      |                                           [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm),  [Pedro Lucas](https://github.com/lucasdray)                                           |                                    |                                                                                    |
@@ -392,7 +381,7 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Gravação da apresentação        |                      26/06/2024                      | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Lucas Meireles](https://github.com/Katuner), [Pedro Lucas](https://github.com/lucasdray) |                                    |                                                                                    |
 | Cronograma Executado                |                      26/06/2024                      |                                                                                      [Pedro Lucas](https://github.com/lucasdray)                                                                                      |                                    |                                                                                    |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
@@ -401,9 +390,9 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 ## Ponto de controle 8
 
 
-### Tabela PLANEJADO 08 - Ponto de Controle 8 
+### Tabela Cronograma Planejado 8 - Ponto de Controle 8 
 
-
+**Tabela 17** - Cronograma Planejado 8 - Ponto de Controle 8
 
 | Atividade                   | Período de desenvolvimento |                                                                                                               Responsável                                                                                                                | Revisão  |                                Revisores                                 |
 | -------------------------------------------- | :-----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :---------------------------------------------------------------------------------------: |
@@ -414,16 +403,16 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Edição da Apresentação                       |                 25/06/2024                  |                                                                                                           [Joyce](https://github.com/joycejdm)                                                                                                            |        25/06/2024         |                           [Augusto](https://github.com/Augcamp)                           |
 | Cronograma Executado                         |                 25/06/2024                  |                                                                                                                                                                                                                                                           |        25/06/2024         |                                                                                           |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
 
 
 
-### Tabela EXECUTADO 08 - Ponto de Controle 8 
+### Tabela Cronograma Executado 8 - Ponto de Controle 8 
 
-
+**Tabela 18** - Cronograma Executado 8 - Ponto de Controle 8
 
 | Atividade             | Período de desenvolvimento |                                                                  Responsável                                                                  | Revisão  |                                                                   Revisores                                                                   |
 | -------------------------------------- | :-----------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -433,18 +422,15 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Edição da Apresentação                 |                 03/07/2024                  |                                                          [Pedro Lucas](https://github.com/lucasdray)                                                           |        03/07/2024         |                                                              [Cainã](https://github.com/freitasc)                                                              |
 | Cronograma Executado                   |                 03/07/2024                  |                                                              [Cainã](https://github.com/freitasc)                                                              |        03/07/2024         |                                                          [Pedro Lucas](https://github.com/lucasdray)                                                           |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
-
-
-
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 ## Etapa Final
 
 
-### Tabela PLANEJADO FINAL - Etapa Final 
+### Tabela Cronograma Planejado Final - Etapa Final 
 
-
+**Tabela 19** - Cronograma Planejado Final - Etapa Final
 
 | Atividade                 | Período de desenvolvimento |                                                                                                               Responsável                                                                                                                | Revisão  |                            Revisores                             |
 | ------------------------------------------ | :-----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :-------------------------------------------------------------------------------: |
@@ -454,14 +440,14 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Edição da Apresentação                     |                 29/06/2024                  |                                                                                                           [Joyce](https://github.com/joycejdm)                                                                                                            |        29/06/2024         |                       [Augusto](https://github.com/Augcamp)                       |
 | Cronograma Executado                   |                 08/07/2024                  |                                                              [Cainã](https://github.com/freitasc)                                                              |                 |                                                                                                |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
 
 
 
-### Tabela EXECUTADO FINAL - Etapa Final 
+### Tabela Cronograma Executado Final - Etapa Final 
 
-
+**Tabela 20** - Cronograma Executado Final - Etapa Final
 
 | Atividade                 | Período de desenvolvimento |                                                                                                               Responsável                                                                                                                | Revisão  |                            Revisores                             |
 | ------------------------------------------ | :-----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :-------------------------------------------------------------------------------: |
@@ -469,15 +455,15 @@ Fonte: DOURADO, Pedro Lucas. 2024.
 | Atualização Git Pages                      |           04/07/2024 - 08/07/2024           |              [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Pedro Lucas](https://github.com/lucasdray)               |        29/06/2024         | [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Pedro Lucas](https://github.com/lucasdray) |
 | Gravação da Apresentação                   |                 08/07/2024                  |              [Augusto Duarte](https://github.com/Augcamp), [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/jdm), [Pedro Lucas](https://github.com/lucasdray)               |             |                                            |
 | Edição da Apresentação                     |                 08/07/2024                  |                                                                                                                                                                                                                       |                 |                        |
-| Cronograma Executado                   |                 08/07/2024                  |                                                              [Cainã](https://github.com/freitasc)                                                              |                 |                                                                                                |
+| Cronograma Executado                   |                 08/07/2024                  |                                                              [Cainã](https://github.com/freitasc)                                                              |  08/07/2024               |                           [Lucas Meireles](https://github.com/Katuner)                                                                     |
 
-Fonte: DOURADO, Pedro Lucas. 2024.
+*Fonte: [DOURADO, Pedro Lucas](https://github.com/lucasdray). 2024.*
 
-
+</center>
 
 
 ## Historico de Versões
 
 |    Data    | Versão |                                                                    Descrição                                                                     |                                     Autor(es) | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------: | :-------------: | :------------------------------------------: |
-| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |  08/07/2024    | [Lucas Meireles](https://github.com/Katuner) |
