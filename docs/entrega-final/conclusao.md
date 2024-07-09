@@ -16,6 +16,10 @@ Apesar do ritmo de entregas ser desafiador, a comunicação com o grupo não ter
 
 ### Joyce Dionizio
 
+Durante o projeto, acredito que o grupo conseguiu evoluir e superar as dificuldades durante o projeto, como a dificuldade em definir alguns encontros e uma comunicação mais clara.
+
+Quanto às dificuldades, a principal foi a minha gestão da carga horária durante o semestre. Além disso, no inicio do projeto, tive dificuldade em associar fielmente os artefatos com a bibliografia, o que resultou em artefatos iniciais que precisaram de correções. No entanto, ao longo do semestre, evoluí ao integrar mais a fundo as teorias, o que fez uma diferença na qualidade dos artefatos produzidos depois. 
+
 ## Conclusão
 
 O trabalho foi complexo e trabalhoso, mas com organização, esforço dos membros e atenção ao feedback do professor, monitor e outros grupos, conseguimos realizar as entregas e apresentar o melhor trabalho possível.
