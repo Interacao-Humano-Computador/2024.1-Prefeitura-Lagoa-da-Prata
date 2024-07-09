@@ -51,13 +51,13 @@ Na figura 3 abaixo, apresenta-se um storyboard em que o usuário deseja fazer o 
 </center>
 
 ### Registrar e verificar o panorama de saúde da cidade - Lucas Meireles
-Na figura 4 abaixo, ########DESCRIÇÃO DO STORYBOARD############
+Na figura 4 abaixo, apresenta-se o storyboard utilizado para a tarefa de Registrar e verificar o panorama de saúde da cidade
 
 <center>
 
-**Figura 04** - Storyboard de Acessar módulo de contra chque e consulta
+**Figura 04** - Storyboard de Registrar e verificar o panorama de saúde da cidade
 
-![Storyboard de Acessar módulo de contra chque e consulta](../../../assets/images/StoryBoards/Storyboard_Meireles.jpg)
+![Storyboard de Registrar e verificar o panorama de saúde da cidade](../../../assets/images/StoryBoards/Storyboard_Meireles.jpg)
 
 *Fonte: [MEIRELES, LUCAS.](https://github.com/Katuner) 2024.*
 
@@ -88,4 +88,4 @@ Na figura 5 abaixo, apresenta-se um storyboard em que o usuário após ver uma c
 
 |    Data    | Versão |                         Descrição                         |                                  Autor(es) | Data de revisão | Revisor(es) |
 | :--------: | :----: | :-------------------------------------------------------: | -----------------------------------------: | :-------------: | :---------: |
-| 08/07/2024 | `1.0`  | Criação do documento e estruturação completa do documento | [Pedro Lucas](https://github.com/joycejdm) |                 |             |
+| 08/07/2024 | `1.0`  | Criação do documento e estruturação completa do documento | [Pedro Lucas](https://github.com/lucasdray) | 08/07/2024     |  [Lucas Meireles](https://github.com/Katuner)           |
