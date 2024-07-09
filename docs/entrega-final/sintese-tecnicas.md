@@ -38,4 +38,4 @@ Portanto, todas as técnicas utilizadas para elaboração dos artefatos do proje
 
 |    Data    | Versão |                                                                    Descrição                                                                     |                                     Autor(es) | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------: | :-------------: | :------------------------------------------: |
-| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) | 08/07/2024     | [Lucas Meireles](https://github.com/Katuner) |
