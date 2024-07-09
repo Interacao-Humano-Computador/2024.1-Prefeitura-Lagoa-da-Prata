@@ -14,7 +14,7 @@ Mesmo tendo um ritmo frénetico de entregas a cada semana, o grupo ter falhado n
 
 ### Lucas Meireles
 
-Inicialmente, apesar de que, por meio de uma consciência ingênua, como demarcado por Vieira Pinto (2005), seja fácil identificar a importância de se pensar e projetar sob aspectos de interações entre um humano e sistemas de software, é apenas ao decorrer do estudo promovido pela disciplina que se começa a compreender os diversos estudos e posicionamentos que existem nesse âmbito.
+Inicialmente, apesar de que, por meio de uma consciência ingênua, como demarcado por Vieira Pinto (1960), seja fácil identificar a importância de se pensar e projetar sob aspectos de interações entre um humano e sistemas de software, é apenas ao decorrer do estudo promovido pela disciplina que se começa a compreender os diversos estudos e posicionamentos que existem nesse âmbito.
 
 Desde o começo do projeto, os indivíduos são apresentados a diversos desafios e dificuldades, desde itens que deveriam ser simples, como a comunicação interpessoal e o comprometimento ao projeto, até itens mais complexos, como a experiência com diferentes ferramentas e a leitura necessária. A apresentação e estudo por meio de diversos pesquisadores e, consequentemente, um aglomerado farto de bibliografias proporcionam uma visão abrangente e técnica dos conceitos, métodos, práticas e desafios daqueles que trilham o caminho da pesquisa e projeção de sistemas pensados de fato em seu usuário. Após obter um raso conhecimento de processos, ciclos de vida e expectativas do projeto, novos desafios são apresentados, como a escolha do objeto de estudo, os métodos a serem adotados para recolher informações de tal objeto e as consequências de cada uma das escolhas feitas, não somente por cada integrante do grupo de pesquisa, mas pela entidade do próprio grupo. Conforme era dado prosseguimento ao projeto, novas dificuldades e desafios eram elencados, inclusive desafios que promoviam a comunicação de cada integrante com pessoas de fora de seu círculo ou ainda com pessoas com as quais nunca se imaginou conversando, justamente com o objetivo de compreender e ter uma nova perspectiva de outros possíveis usuários do sistema.
 
@@ -40,7 +40,7 @@ O trabalho foi complexo e trabalhoso, mas com organização, esforço dos membro
 
 ## Bibliografia
 
-> VIEIRA PINTO, A. O conceito de tecnologia. 2 v. São Paulo: Contraponto, 2005.
+> VIEIRA PINTO, A. Consciência e realidade nacional. 2 v. Rio de Janeiro: ISEB, 1960.
 
 
 ## Historico de Versões
