@@ -26,10 +26,11 @@ A seguir na Tabela 1 pode-se encontrar todas as ferramentas que foram utilizadas
 |                                                                                                         <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-googlesheets.png" width="100" height="100"> </img>                                                                                                          |     Google Sheets     | Plataforma para registro e organização de dados das avaliações, Heatmap dos integrantes e elaboração de gráficos.| Etapa 1, etapa 6.1 e etapa 6.2 |
 |                                                                                                          <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-googleforms.png" width="100" height="100"> </img>                                                                                                          |     Google Forms      |                     Site para criação dos formulários para caracterizar o perfil de usuário.                     |          Etapa 2            |
 |                                                                                                          <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-googlemeet.png" width="100" height="100"> </img>                                                                                                           |      Google Meet      |                       Plataforma secundária de reuniões à distância e gravação de reuniões.                      |          Todas              |
-|                                                                                                       <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-adobeaftereffects.png" width="100" height="100"> </img>                                                                                                       |  Adobe After Effects  |  Aplicativo principal utilizado para fazer as edições dos vídeos de apresentações ao longo da matéria.           |          Todas              |
 |                                                                                                      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-thispersonnotexist.png" width="100" height="100"> </img>                                                                                                       | This Person Not Exist |                          Site utilizado para gerar imagens das personas por IA                                   |          Etapa 2            |
 |                                                                                                      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-storyboardthat.png" width="100" height="100"> </img>                                                                                                           | StoryBoard That       |                             Site utilizado para a criação de imagens para os StoryBoards                         |          Etapa 4            |
 |                                                                                                      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-mkdocs.png" width="100" height="100"> </img>                                                                                                                   | MKDocs                |                             Utilizados para a criação das páginas de documentação.                               |          Todas              |
+|                                                                                                      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/clipchamp-icon.png" width="100" height="100"> </img>                                                                                                                   | Microsft Clipchamp    |                             Utilizado para a edição de vídeos                             |         Todas              |
+
 
 *Fonte: [DUARTE, Augusto](https://github.com/Augcamp). 2024.*
 
@@ -61,13 +62,14 @@ As ferramentas foram essenciais no desenvolvimento do projeto, investir tempo e 
 
 > [10] GOOGLE MEET. Disponivel em: https://meet.google.com/?pli=1 Acesso em: 09 de Abril de 2024.
 
-> [11] ADOBE AFTER EFFECTS. Disponivel em: https://www.adobe.com/br/products/aftereffects.html Acesso em: 09 de Abril de 2024. 
-
 > [12] THIS PERSON NOT EXIST. Disponivel em: https://thispersonnotexist.org/ Acesso em: 09 de Abril de 2024. 
 
 > [13] MKDOCS. Disponivel em: https://www.markdownguide.org/ Acesso em: 04 de julho de 2024.
 
 > [14] STORYBOARDTHAT. Disponivel em: https://www.storyboardthat.com/pt Acesso em: 04 de julho de 2024.
+
+> [14] MICROSOFT CLIPCHAMP. Disponivel em: https://clipchamp.com/pt-br/windows-video-editor/ Acesso em: 08 de julho de 2024.
+
 
 
 ## Histórico de Versões
@@ -75,3 +77,4 @@ As ferramentas foram essenciais no desenvolvimento do projeto, investir tempo e 
 |    Data    | Versão |            Descrição            |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
 | :--------: | :----: | :-----------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
 | 04/07/2024 | `1.0`  |      Criação do documento       | [Augusto Duarte](https://github.com/Augcamp) |   04/07/2024               |   [Joyce Dionizio](https://github.com/joycejdm)                                          |
+| 08/07/2024 | `1.1`  |      Adicao das ultimas ferramentas       | [Augusto Duarte](https://github.com/Augcamp) |   08/07/2024               |   [Pedro Lucas](https://github.com/lucasdray)                                        |
