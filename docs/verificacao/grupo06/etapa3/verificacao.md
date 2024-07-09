@@ -206,12 +206,12 @@ O vídeo tambem pode ser acessado clicando [aqui](https://www.youtube.com/watch?
 ## Historico de Versões
 |    Data    | Versão |                  Descrição                   |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 11/06/2024 | `1.0`  |          Verificação Itens Gerais            | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
-| 11/06/2024 | `1.1`  |          Verificação Principios Gerais       | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
-| 11/06/2024 | `1.2`  |          Verificação Caracteristicas Gerais  | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
-| 12/06/2024 | `1.3`  |          Gravação da Verificação             | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
-| 12/06/2024 | `1.4`  |          Verificação Guia de Estilo          | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
-| 12/06/2024 | `1.5`  |          Verificação Metas de Usabilidade    | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
-| 12/06/2024 | `1.6`  |          Gravação da Verificação Guia de Estilo   | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
-| 12/06/2024 | `1.7`  |          Adição Avaliador do Artefato        | [Augusto Duarte](https://github.com/Augcamp)|                 |             |
-| 12/06/2024 | `1.8`  |          Adição Acompanhamento        | [Joyce Dionizio](https://github.com/joycejdm)|                 |             |
+| 11/06/2024 | `1.0`  |          Verificação Itens Gerais            | [Augusto Duarte](https://github.com/Augcamp)|      08/07/2024              | [Joyce Dionizio](https://github.com/joycejdm)            |
+| 11/06/2024 | `1.1`  |          Verificação Principios Gerais       | [Joyce Dionizio](https://github.com/joycejdm)|     08/07/2024               |     [Joyce Dionizio](https://github.com/joycejdm)        |
+| 11/06/2024 | `1.2`  |          Verificação Caracteristicas Gerais  | [Joyce Dionizio](https://github.com/joycejdm)|     08/07/2024               | [Joyce Dionizio](https://github.com/joycejdm)            |
+| 12/06/2024 | `1.3`  |          Gravação da Verificação             | [Joyce Dionizio](https://github.com/joycejdm)|     08/07/2024               |   [Joyce Dionizio](https://github.com/joycejdm)          |
+| 12/06/2024 | `1.4`  |          Verificação Guia de Estilo          | [Augusto Duarte](https://github.com/Augcamp)|      08/07/2024              |    [Joyce Dionizio](https://github.com/joycejdm)         |
+| 12/06/2024 | `1.5`  |          Verificação Metas de Usabilidade    | [Augusto Duarte](https://github.com/Augcamp)|      08/07/2024              |   [Joyce Dionizio](https://github.com/joycejdm)          |
+| 12/06/2024 | `1.6`  |          Gravação da Verificação Guia de Estilo   | [Augusto Duarte](https://github.com/Augcamp)|    08/07/2024                |    [Joyce Dionizio](https://github.com/joycejdm)         |
+| 12/06/2024 | `1.7`  |          Adição Avaliador do Artefato        | [Augusto Duarte](https://github.com/Augcamp)|    08/07/2024                |    [Joyce Dionizio](https://github.com/joycejdm)         |
+| 12/06/2024 | `1.8`  |          Adição Acompanhamento        | [Joyce Dionizio](https://github.com/joycejdm)| 08/07/2024                |  [Joyce Dionizio](https://github.com/joycejdm)           |
