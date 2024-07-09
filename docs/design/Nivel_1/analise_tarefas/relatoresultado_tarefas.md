@@ -178,7 +178,7 @@ As sugestões de melhorias devem ser consideradas na realização de um reprojet
 
 > [2] Nicolaci-da Costa, Ana M. (1994). A análise de discurso em questão. Psicologia: Teoria e Pesquisa, 10(2):317–331.
 
-## Histórico de Revisões
+## Histórico de Versões
 
 |    Data    | Versão |            Descrição            |                  Autor(es)                   | Data de revisão |                  Revisor(es)                  |
 | :--------: | :----: | :-----------------------------: | :------------------------------------------: | :-------------: | :-------------------------------------------: |
