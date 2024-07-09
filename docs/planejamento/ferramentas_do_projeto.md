@@ -23,7 +23,9 @@ A seguir na Tabela 1 pode-se encontrar todas as ferramentas que estão planejada
 |                                                                                                          <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-googlemeet.png" width="100" height="100"> </img>                                                                                                           |      Google Meet      |                       Plataforma secundária de reuniões à distância e gravação de reuniões                       |
 |                                                                                                       <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-adobeaftereffects.png" width="100" height="100"> </img>                                                                                                       |  Adobe After Effects  |  Aplicativo principal que será utilizado para fazer as edições dos vídeos de apresentações ao longo da matéria   |
 |                                                                                                      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-thispersonnotexist.png" width="100" height="100"> </img>                                                                                                       | This Person Not Exist |                          Site que será utilizado para gerar imagens das personas por IA                          |
- 
+|                                                                                                      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-storyboardthat.png" width="100" height="100"> </img>                                                                                                           | StoryBoard That       |                             Site que será utilizado para a criação de imagens para os StoryBoards                         |
+|                                                                                                      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/icon-mkdocs.png" width="100" height="100"> </img>                                                                                                                   | MKDocs                |                             Utilizado para a criação das páginas de documentação.                               |
+|                                                                                                      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-Prefeitura-Lagoa-da-Prata/main/docs/assets/images/icons/clipchamp-icon.png" width="100" height="100"> </img>                                                                                                                   | Microsft Clipchamp    |                             Será utilizado para edição de videos                               |
 
 
 
@@ -43,21 +45,21 @@ A seguir na Tabela 1 pode-se encontrar todas as ferramentas que estão planejada
 
 > [6] LUCIDCHART. Disponivel em: https://www.lucidchart.com/pages/ Acesso em: 09 de Abril de 2024.
 
-> [7] CANVA. Disponivel em: https://www.canva.com/ Acesso em: 05 de Abril de 2024.
+> [7] MICROSOFT TEAMS. Disponivel em: https://www.microsoft.com/pt-br/microsoft-teams/ Acesso em: 05 de Abril de 2024.
 
-> [8] MICROSOFT TEAMS. Disponivel em: https://www.microsoft.com/pt-br/microsoft-teams/ Acesso em: 05 de Abril de 2024.
+> [8] GOOGLE SHEETS. Disponivel em: https://www.google.com/sheets/about/ Acesso em: 05 de Abril de 2024.
 
-> [9] GOOGLE SHEETS. Disponivel em: https://www.google.com/sheets/about/ Acesso em: 05 de Abril de 2024.
+> [9] GOOGLE FORMS. Disponivel em: https://www.google.com/intl/pt-BR/forms/about/ Acesso em: 09 de Abril de 2024.
 
-> [10] GOOGLE FORMS. Disponivel em: https://www.google.com/intl/pt-BR/forms/about/ Acesso em: 09 de Abril de 2024.
+> [10] GOOGLE MEET. Disponivel em: https://meet.google.com/?pli=1 Acesso em: 09 de Abril de 2024.
 
-> [11] GOOGLE MEET. Disponivel em: https://meet.google.com/?pli=1 Acesso em: 09 de Abril de 2024.
+> [11] THIS PERSON NOT EXIST. Disponivel em: https://thispersonnotexist.org/ Acesso em: 09 de Abril de 2024. 
 
-> [12] ADOBE AFTER EFFECTS. Disponivel em: https://www.adobe.com/br/products/aftereffects.html Acesso em: 09 de Abril de 2024. 
+> [12] MKDOCS. Disponivel em: https://www.markdownguide.org/ Acesso em: 04 de julho de 2024.
 
-> [13] THIS PERSON NOT EXIST. Disponivel em: https://thispersonnotexist.org/ Acesso em: 09 de Abril de 2024. 
+> [13] STORYBOARDTHAT. Disponivel em: https://www.storyboardthat.com/pt Acesso em: 04 de julho de 2024.
 
-
+> [14] MICROSOFT CLIPCHAMP. Disponivel em: https://clipchamp.com/pt-br/windows-video-editor/ Acesso em: 08 de julho de 2024.
 
 
 ## Histórico de Revisão
@@ -67,3 +69,4 @@ A seguir na Tabela 1 pode-se encontrar todas as ferramentas que estão planejada
 | 05/04/2024 | `1.0`  |      Criação do documento       | [Lucas Meireles](https://github.com/Katuner) |   05/04/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 07/04/2024 | `1.1`  |      Adição de ferramenta       |   [Joyce Dionizio](https://github.com/jdm)   |   07/04/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 | 09/04/2024 | `1.2`  | Adição de possiveis ferramentas | [Pedro Lucas](https://github.com/lucasdray)  |         08/07/2024        |      [Joyce Dionizio](https://github.com/jdm)                                        |
+| 08/07/2024 | `1.3`  | Adição das ferramentas finais   | [Augusto Duarte](https://github.com/Augcamp)  |               |                                              |
