@@ -1,6 +1,7 @@
 ## Introdução
 
 O documento presente descreverá como será realizado o relato dos resultados da avaliação do protótipo de papel. Nele serão abordados os tópicos necessários para a construção de tal relato.
+
 ## Metodologia
 
 Tendo como base os tópicos relatados além da avaliação de intersujeito descrita por Barbosa e Silva (2011, p.279)[1] e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
@@ -206,6 +207,6 @@ Com base nos resultados da avaliação do protótipo de papel, é importante pla
 
 |    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
-| 03/06/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
-| 08/07/2024 | `1.1`  |  Re-elaboração do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
-| 08/07/2024 | `1.2`  |  Corrige tabela   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 03/06/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |  08/07/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
+| 08/07/2024 | `1.1`  |  Re-elaboração do documento   |      [Cainã Freitas](https://github.com/freitasc) |  08/07/2024    |  [Joyce Dionizio](https://github.com/joycejdm) |
+| 08/07/2024 | `1.2`  |  Corrige tabela   |      [Cainã Freitas](https://github.com/freitasc) |  08/07/2024    |   [Joyce Dionizio](https://github.com/joycejdm)|
