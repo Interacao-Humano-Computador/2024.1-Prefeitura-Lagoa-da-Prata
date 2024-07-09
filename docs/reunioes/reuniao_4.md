@@ -29,8 +29,8 @@
 
 
 ## 4. Histórico de Versões
-|    Data    | Versão |          Descrição          |                      Autor(es)                      | Data de revisão | Revisor(es) |
-| :--------: | :----: | :-------------------------: | :-------------------------------------------------: | :-------------: | :---------: |
-| 03/06/2024 | `1.0`  | Versão inicial de documento | [Lucas Meireles](https://github.com/Katuner)        |             |    |
+|    Data    | Versão |          Descrição          |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :-------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 03/06/2024 | `1.0`  | Versão inicial de documento | [Lucas Meireles](https://github.com/Katuner) |   08/06/2024    | [Pedro Lucas](https://github.com/lucasdray) |
 
 
