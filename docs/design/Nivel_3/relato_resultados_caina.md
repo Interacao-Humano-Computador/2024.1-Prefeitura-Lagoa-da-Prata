@@ -414,7 +414,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 
 ## Histórico de Versões
-|    Data    | Versão |                 Descrição                 |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
-| :--------: | :----: | :---------------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
-| 03/07/2024 | `1.0`  |      Introdução e adição da estrutura      | [Cainã Freitas](https://github.com/freitasc) |       |  |
-| 03/07/2024 | `1.1`  |      Preenche tabelas e videos      | [Cainã Freitas](https://github.com/freitasc) |       |  |
+|    Data    | Versão |            Descrição             |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :------------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 03/07/2024 | `1.0`  | Introdução e adição da estrutura | [Cainã Freitas](https://github.com/freitasc) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 03/07/2024 | `1.1`  |    Preenche tabelas e videos     | [Cainã Freitas](https://github.com/freitasc) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray) |
