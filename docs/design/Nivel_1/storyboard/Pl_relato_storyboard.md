@@ -184,7 +184,7 @@ Com base nos resultados da avaliação do storyboard, é importante planejar e e
 ## Histórico de Versões
 
 
-|    Data    | Versão |                Descrição                 |                                         Autor(es)                                          | Data de revisão |                 Revisor(es)                  |
-| :--------: | :----: | :--------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------: |
-| 08/07/2024 | `1.0`  |  Elaboração inicial do documento   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
-| 08/07/2024 | `1.1`  |  Melhora texto e corrige fontes   |      [Cainã Freitas](https://github.com/freitasc) |      |  |
+|    Data    | Versão |            Descrição            |                  Autor(es)                   | Data de revisão |                 Revisor(es)                 |
+| :--------: | :----: | :-----------------------------: | :------------------------------------------: | :-------------: | :-----------------------------------------: |
+| 08/07/2024 | `1.0`  | Elaboração inicial do documento | [Cainã Freitas](https://github.com/freitasc) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray) |
+| 08/07/2024 | `1.1`  | Melhora texto e corrige fontes  | [Cainã Freitas](https://github.com/freitasc) |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray) |
