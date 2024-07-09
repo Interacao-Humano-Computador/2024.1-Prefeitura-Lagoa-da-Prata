@@ -1,6 +1,6 @@
 ## Introdução
 
-Esse documento tem como objetivo apresentar as considerações finais de cada membro do projeto de Interação Humano-Computador (IHC) realizado sobre a Prefeitura de Lagoa da Prata. Essas considerações abordam os principais aprendizados, desafios e contribuições de cada integrante do grupo ao longo do desenvolvimento do projeto.
+Esse documento tem como objetivo apresentar as considerações finais de cada membro do projeto de Interação Humano-Computador (IHC) realizado sobre a Prefeitura Municipal de Lagoa da Prata. Essas considerações abordam os principais aprendizados, desafios e contribuições de cada integrante do grupo ao longo do desenvolvimento do projeto.
 
 ## Considerações individuais
 
@@ -24,8 +24,7 @@ Diversas habilidades foram desenvolvidas ao decorrer do projeto, mas também é 
 
 Durante o projeto, acredido que para mim, gestão do tempo, especialmente diante de um cronograma de entregas rigoroso foram umas das dificuldades e também a importância da padronização durante a execução do trabalho.
 
-Acredito que os ensinamentos vão me ajudar profissionalmente e academicamente, além de que os 
-desafios enfrentados e as lições foram fundamentais para o meu desenvolvimento. 
+Acredito que os ensinamentos vão me ajudar profissionalmente e academicamente, além de que os desafios enfrentados e as lições foram fundamentais para o meu desenvolvimento. 
 
 
 ### Joyce Dionizio
@@ -36,7 +35,7 @@ Quanto às dificuldades, a principal foi a minha gestão da carga horária duran
 
 ## Conclusão
 
-O trabalho foi complexo e trabalhoso, mas com organização, esforço dos membros e atenção ao feedback do professor, monitor e outros grupos, conseguimos realizar as entregas e apresentar o melhor trabalho possível.
+O trabalho foi complexo e exigiu bastante de todos os integrantes, mas com organização, esforço dos membros e atenção ao feedback do professor, monitor e outros grupos, conseguimos realizar as entregas e apresentar um trabalho que se originou do esforço e comprometimento de todos envolvidos.
 
 ## Bibliografia
 
@@ -47,4 +46,4 @@ O trabalho foi complexo e trabalhoso, mas com organização, esforço dos membro
 
 |    Data    | Versão |                                                                    Descrição                                                                     |                                     Autor(es) | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------: | :-------------: | :------------------------------------------: |
-| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |  08/07/2024    | [Lucas Meireles](https://github.com/Katuner) |
