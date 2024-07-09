@@ -729,8 +729,8 @@ Após uma análise dos dados coletados de todos os testes de usabilidades aprese
 ## Histórico de Versões
 |    Data    | Versão |               Descrição                |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | :------------------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 03/07/2024 | `1.0`  |  Criação do documento e Teste piloto   | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 03/07/2024 | `1.1`  | Adição de algumas imagens do protótipo | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 03/07/2024 | `1.2`  |            Adição Reprojeto            | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 03/07/2024 | `1.3`  |  Melhora na estruturação do documento  | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
-| 07/07/2024 | `1.4`  |    Adição dos testes pilotos 01- 05    | [Pedro Lucas](https://github.com/lucasdray) |                 |             |
+| 03/07/2024 | `1.0`  |  Criação do documento e Teste piloto   | [Pedro Lucas](https://github.com/lucasdray) |   07/07/2024              |     [Joyce Dionizio](https://github.com/joycejdm)         |
+| 03/07/2024 | `1.1`  | Adição de algumas imagens do protótipo | [Pedro Lucas](https://github.com/lucasdray) |   07/07/2024              |    [Joyce Dionizio](https://github.com/joycejdm)          |
+| 03/07/2024 | `1.2`  |            Adição Reprojeto            | [Pedro Lucas](https://github.com/lucasdray) |   07/07/2024              |     [Joyce Dionizio](https://github.com/joycejdm)         |
+| 03/07/2024 | `1.3`  |  Melhora na estruturação do documento  | [Pedro Lucas](https://github.com/lucasdray) |    07/07/2024             |  [Joyce Dionizio](https://github.com/joycejdm)            |
+| 07/07/2024 | `1.4`  |    Adição dos testes pilotos 01- 05    | [Pedro Lucas](https://github.com/lucasdray) |   07/07/2024              | [Joyce Dionizio](https://github.com/joycejdm)            |
