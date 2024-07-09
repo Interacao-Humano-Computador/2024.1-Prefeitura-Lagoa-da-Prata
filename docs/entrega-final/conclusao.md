@@ -10,6 +10,8 @@ Apesar do ritmo de entregas ser desafiador, a comunicação com o grupo não ter
 
 ### Pedro Lucas Dourado
 
+Mesmo tendo um ritmo frénetico de entregas a cada semana, o grupo ter falhado no compromisso de uma entrega de qualidade em algumas etapas, um membro saindo da equipe e eu tendo que me afastar por um mês por questões de saúde, acredito que eu evolui MUITO do começo da matéria para o final. Aprendi realmente sobre Interação Humano Computador, tanto o livro como as explicações do professor contribuiram e muito com esse aprendizado, aprendi também a desempenhar meio que um papel de liderança e tomar frente do projeto (mesmo nem tendo cogitado fazer isso no começo do semestre). Em suma acredito que a disicplina tenha sido bastante edificante para mim e os conhecimentos adquiridos serão levados ao longo da minha carreira profissional.
+
 ### Lucas Meireles
 
 ### Augusto Campos
