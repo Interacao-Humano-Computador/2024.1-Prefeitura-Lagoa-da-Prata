@@ -26,4 +26,4 @@ O Modelo de Ciclo de Vida de Mayhew foi escolhido por ser uma abordagem que auxi
 
 |    Data    | Versão |                                                                    Descrição                                                                     |                                     Autor(es) | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------: | :-------------: | :------------------------------------------: |
-| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |  08/07/2024    | [Joyce Dionizio](https://github.com/joycejdm) |

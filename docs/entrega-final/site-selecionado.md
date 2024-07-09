@@ -48,4 +48,4 @@ Ao escolhermos o site da Prefeitura de Lagoa da Prata, esperamos que a análise 
 
 |    Data    | Versão |                                                                    Descrição                                                                     |                                     Autor(es) | Data de revisão |                 Revisor(es)                  |
 | :--------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------: | :-------------: | :------------------------------------------: |
-| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |      |  |
+| 08/07/2024 | `1.0`  | Criação do documento  | [Cainã Freitas](https://github.com/freitasc) |   08/07/2024      | [Joyce Dionizio](https://github.com/joycejdm) |
