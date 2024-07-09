@@ -1,6 +1,6 @@
 ## Introdução
 
-Durante o desenvolvimento do projeto na disciplina de Interação Humano-Computador (IHC), o Grupo 2 focou na aplicação prática dos conceitos aprendidos, escolhendo um sistema web para exercer esses conhecimentos. Este documento sintetiza os resultados obtidos, destacando os pontos positivos e negativos, além de avaliar se os objetivos iniciais foram alcançados.
+Durante o desenvolvimento do projeto na disciplina de Interação Humano-Computador (IHC), o Grupo 5 focou na aplicação prática dos conceitos aprendidos, escolhendo um sistema web para exercer esses conhecimentos. Este documento sintetiza os resultados obtidos, destacando os pontos positivos e negativos, além de avaliar se os objetivos iniciais foram alcançados.
 
 ## Objetivo do Projeto
 

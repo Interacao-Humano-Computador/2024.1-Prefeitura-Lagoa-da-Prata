@@ -98,7 +98,7 @@ Para que a equipe possa realizar as avaliações e registros de modo seguro e ta
 
 ## Histórico de Versões 
 
-|         Data          | Versão |            Descrição            |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :-------------------: | :----: | :-----------------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 19/06/2024 | `1.0` | Elaboração inicial e descrição | [Lucas Meireles](https://github.com/Katuner)             |      19/06/2024          |    [Cainã Valença](https://github.com/freitasc)         |
-| 08/07/2024 | `1.2` | Atualiza estrutura do documento | [Joyce Dionizio](https://github.com/joyjdm)             |             |        |
+|    Data    | Versão |            Descrição            |                  Autor(es)                   | Data de revisão |                 Revisor(es)                  |
+| :--------: | :----: | :-----------------------------: | :------------------------------------------: | :-------------: | :------------------------------------------: |
+| 19/06/2024 | `1.0`  | Elaboração inicial e descrição  | [Lucas Meireles](https://github.com/Katuner) |   19/06/2024    | [Cainã Valença](https://github.com/freitasc) |
+| 08/07/2024 | `1.1`  | Atualiza estrutura do documento | [Joyce Dionizio](https://github.com/joyjdm)  |   08/07/2024    | [Pedro Lucas](https://github.com/lucasdray)  |
