@@ -213,5 +213,5 @@ Abaixo se encontra a tabela 7, contendo as informações da persona proposta pel
 | 22/05/2024 | `1.5`  |          Atualização de persona          |                                                                      [Lucas Meireles](https://github.com/Katuner)                                                                      |   11/06/2024    | [Augusto Duarte](https://github.com/Augcamp)|
 | 06/06/2024 | `2.0`  |          Atualização persona 5           |                                                                      [Pedro Lucas](https://github.com/lucasdray)                                                                       |   11/06/2024    | [Augusto Duarte](https://github.com/Augcamp)|
 | 07/07/2024 | `3.0` | Correção de estrutura e textos para entrega final | [Lucas Meireles](https://github.com/Katuner) |  08/07/2023   | [Joyce Dionizio](https://github.com/joycejdm)      |
-| 07/07/2024 | `3.1` | Atualização persona |  |     |       |
+| 08/07/2024 | `3.1` | Atualização persona |  [Joyce Dionizio](https://github.com/joycejdm) |     |       |
 | 08/07/2024 | `3.2`  |                           Reescrita da persona 01                            |  [Cainã Freitas](https://github.com/freitasc)  |                 |                                               |
