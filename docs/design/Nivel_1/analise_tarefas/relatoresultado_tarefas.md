@@ -34,7 +34,7 @@ A tabela 01 mais abaixo elucida melhor a tarefa realizada, os participantes em c
 | ID  | Entrevistador                                | Usuário      | Data  | Horário       | Local                 | Tarefa                                      |
 | --- | -------------------------------------------- | ------------ | ----- | ------------- | --------------------- | ------------------------------------------- |
 | 01  | [Pedro Lucas](https://github.com/lucasdray)  | Renato Cesar | 08/07 | 16:22 - 16:34 | Casa do Entrevistador | Solicitar Vistoria de local com água parada |
-| 02  | [Cainã Freitas](https://github.com/freitasc) |              |       |               |                       |                                             |
+| 02  | [Cainã Freitas](https://github.com/freitasc) |     Ana Vieira         |   03/06/2024    |       22:00        |          Online (Teams)             |             Cadastrar e acompanhar uma reclamação na ouvidoria                                |
 
 ## Análise de Tarefa 01 - Solicitar Vistoria de local com água parada
 ### Teste Piloto
@@ -104,6 +104,74 @@ Como a funcionalidade não existe a sugestão de melhoria apontada pelo usuáro 
 ### Planejamento de Reprojeto
 As sugestões de melhorias devem ser consideradas para a realização de um reprojeto, porém nesse caso por conta da falta de tempo e de custos as mudanças sugeridas serão levadas em conta na parte do protótipo de baixa fidelidade e na de alta fidelidade.
 
+## Análise de Tarefa 02 - Cadastrar e acompanhar uma reclamação na ouvidoria
+
+### Teste Piloto
+
+Por questões de tempo e planejamento, o teste piloto não foi feito para essa tarefa
+
+### Seleção de Participante
+
+O número de participantes para essa tarefa foram duas pessoas, sendo um entrevistado e um usuário. A escolha desse número se deu pela divisão de um usuário para cada tarefa, como planejado. A escolha do usuário leovu em conta o [Perfil do Usuário](../../../requisitos1/perfil-do-usuario.md), sendo ele tendo a faixa etária abaixo dos 21 anos; Ensino Médico Completo; e Alto grau de afinidade com tecnologia, logo se enquandrando no nosso [Perfil do Usuário 01](../../../requisitos1/perfil-do-usuario.md)
+
+### Equipamentos
+Foram utilizados um notebook com microfone e acesso a internet para acessar a plataforma Microsoft Teams aonde foi realizado a gravação
+
+### Apresentação dos dados coletados
+
+### Gravação
+Abaixo segue o vídeo 02, gravação da análise de tarefas com o usuário Renato cesar.
+
+<center>
+
+**Vídeo 03** - Análise de tarefa 02
+
+<iframe width="1280" height="684" src="https://www.youtube.com/embed/Zb_PMLXnS4U" title="relato tarefa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Fonte: [FREITAS, cainã](https://github.com/freitasc) 2024.*
+
+</center>
+
+### Sumário de Dados
+Abaixo se encontra a tabela 03 que foi confeccionada antes das revisões propostas pelas verificações de outro grupo e do próprio grupo. Por essa razão, a tabela 03 que foi respondida pelo usuário ao final da entrevista contem erros que foram corrigidos e que serão apresentados no [Planejamento de Reprojeto](#planejamento-de-reprojeto).
+
+<center>
+
+**Tabela 3** - Perguntas Respondidas Analise de tarefas 01
+
+| Ordem das perguntas | Pergunta           | Respostas possíveis |
+| :-----------------: | :-----------------:| :-----------------: |
+| 1°                  |Qual seu nome completo? | Ana Vieira Motta       |
+| 2°                  | Qual sua idade?         |  45       |
+| 3°                  |Qual sua ocupação?      |Servidora Pública       |
+| 4°                  | Qual seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Bom   |
+| 5°                  |Já utilizou o site da prefeitura da lagoa da prata? | Sim  |
+| 6°                  |Já utilizou outros sites de prefeitura similares a este? |Não          |
+| 7°                  |Como é sua navegação pelo site?         |Direto a ponto, uso a ferramenta que preciso e só  |
+| 8°                  |  Consegue encontrar as tarefas que procura facilmente?         | Sim         |
+| 9°                  |Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele?         |  Não          |
+| 10°                  | Ao utilizar uma funcionalidade, seus objetivos são completamente satisfeitos?         |  Sim         |
+| 11°                  |Acredita que a interface lhe causa alguma perda de tempo?         | Não          |
+| 12°                  | Alguma parte da interface e da interação o deixa insatisfeito? Se sim, por que?         | Não          |
+| 13°                  | Alguma parte da interface o desmotiva a explorar novas funcionalidades? Se sim, por que?         | Não          |
+| 14°                  | Consegue entender com clareza como utilizar o site para realizar seu objetivo? se não, por que?         |Sim        |
+| 15°                  | Você utiliza a acessibilidade disponível pelo site, como libras e alto contraste? Se sim, cumpre com seu objetivo?         | Não, pois não preciso.          |
+| 16°                  | Quais são os pontos fortes e fracos em sua opnião?         |  Ponto forte: Contato direto com a prefeitura por meio da ouvidoria, Ponto fraco: demora na resposta       |
+
+
+*Fonte: [FREITAS, cainã](https://github.com/freitasc) 2024.*
+
+</center>
+
+### Problemas e dificuldades encontradas
+Encontramos uma dificuldade em apresentar a análise de tarefas a usuários que nunca tiveram contato com esse tipo de conteúdo. Essa dificuldade foi percebida e relatada durante o teste piloto, além de identificarmos que a funcionalidade não está presente no site da Prefeitura Municipal de Lagoa da Prata. Apesar desses problemas, conseguimos superá-los ao informar o entrevistado de que ele poderia fazer perguntas a qualquer momento, o que o deixou mais à vontade para esclarecer dúvidas.
+
+### Sugestões de melhorias
+Dado que a funcionalidade existe mas não possúi um jeito de ser acessada a partir da homepage, a sugestão de melhoria é a de ter um destaque na homepage ou no menu suspenso dessa funcionalidade.
+
+### Planejamento de Reprojeto
+As sugestões de melhorias devem ser consideradas na realização de um reprojeto. No entanto, devido à falta de tempo e custos, essas mudanças serão incorporadas nos protótipos de baixa e alta fidelidade.
+
 ## Referências Bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
@@ -117,3 +185,4 @@ As sugestões de melhorias devem ser consideradas para a realização de um repr
 | 03/06/2024 | `1.0`  | Elaboração inicial do documento | [Cainã Freitas](https://github.com/freitasc) |   03/06/2024    | [Lucas Meireles](https://github.com/Katuner)  |
 | 03/06/2024 | `1.1`  |       Adiciona entrevista       | [Cainã Freitas](https://github.com/freitasc) |   19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
 | 08/07/2024 | `2.0 ` | Documento refeito inteiramente  | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                               |
+| 08/07/2024 | `2.1 ` | Entrevista 2 adequada ao novo formato  | [Cainã Freitas](https://github.com/freitasc)  |                 |                                               |
