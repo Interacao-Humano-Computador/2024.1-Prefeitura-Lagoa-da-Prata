@@ -153,14 +153,30 @@
 
 </details>
 
+<details>
+<summary size="20"><b> Apresentação Final </b></summary>
+
+<h3>Vídeo 10: Apresentação Final</h3>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gRNOe3474KE?si=OaCmlHftoyKHVeZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+<h3>Participantes:</h3>
+<p><a href="https://github.com/Augcamp">Augusto Duarte</a></p>
+<p><a href="https://github.com/lucasdray">Pedro Dourado</a></p>
+<p><a href="https://github.com/joycejdm">Joyce Dionizio</a></p>
+<p><a href="https://github.com/Katuner">Lucas Meireles</a></p>
+<p><a href="https://github.com/freitasc">Cainã Freitas</a></p>
+
+</details>
+
 
 ## Bibliografia
 
-> LUCAS, Pedro. Apresentações. Repositório do Grupo Prefeitura da Lagoa da Prata da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <<https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/apresentacoes/apresentacao1/>>. Acesso em: 08 de julho 2024.
+> DOURADO, Pedro Lucas. Apresentações. Repositório do Grupo Prefeitura da Lagoa da Prata da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <<https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/apresentacoes/apresentacao1/>>. Acesso em: 08 de julho 2024.
 
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                    | Autor(es)                                   | Revisor(es) |
 |--------|------------|----------------------------------------------|---------------------------------------------|-------------|
-| 1.0    | 08/07/2023 | Criação da página de síntese das apresentações | [Joyce Dionizio](https://github.com/joycejdm) |             |
+| 1.0    | 08/07/2023 | Criação da página de síntese das apresentações | [Joyce Dionizio](https://github.com/joycejdm) |  [Lucas Meireles](https://github.com/Katuner)           |
