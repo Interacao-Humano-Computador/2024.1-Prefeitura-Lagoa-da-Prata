@@ -184,5 +184,5 @@ As sugestões de melhorias devem ser consideradas na realização de um reprojet
 | :--------: | :----: | :-----------------------------: | :------------------------------------------: | :-------------: | :-------------------------------------------: |
 | 03/06/2024 | `1.0`  | Elaboração inicial do documento | [Cainã Freitas](https://github.com/freitasc) |   03/06/2024    | [Lucas Meireles](https://github.com/Katuner)  |
 | 03/06/2024 | `1.1`  |       Adiciona entrevista       | [Cainã Freitas](https://github.com/freitasc) |   19/06/2024    | [Joyce Dionizio](https://github.com/joycejdm) |
-| 08/07/2024 | `2.0 ` | Documento refeito inteiramente  | [Pedro Lucas](https://github.com/lucasdray)  |                 |                                               |
-| 08/07/2024 | `2.1 ` | Entrevista 2 adequada ao novo formato  | [Cainã Freitas](https://github.com/freitasc)  |                 |                                               |
+| 08/07/2024 | `2.0 ` | Documento refeito inteiramente  | [Pedro Lucas](https://github.com/lucasdray)  |        08/07/2024         |                   [Cainã Freitas](https://github.com/freitasc)                            |
+| 08/07/2024 | `2.1 ` | Entrevista 2 adequada ao novo formato  | [Cainã Freitas](https://github.com/freitasc)  |        08/07/2024         |                      [Cainã Freitas](https://github.com/freitasc)                         |
